@@ -1,0 +1,411 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Bras Pneumol</journal-id><journal-id journal-id-type="iso-abbrev">J Bras Pneumol</journal-id><journal-id journal-id-type="publisher-id">jbpneu</journal-id><journal-title-group><journal-title>Jornal Brasileiro de Pneumologia</journal-title></journal-title-group><issn pub-type="ppub">1806-3713</issn><issn pub-type="epub">1806-3756</issn><publisher><publisher-name>Sociedade Brasileira de Pneumologia e Tisiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35674522</article-id><article-id pub-id-type="pmc">PMC9262436</article-id><article-id pub-id-type="doi">10.36416/1806-3756/e20210329</article-id><article-id pub-id-type="other">00000</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>PET/CT and inflammatory mediators in systemic sclerosis-associated interstitial lung disease</article-title><trans-title-group xml:lang="pt"><trans-title>PET/TC e mediadores inflamat&#x000f3;rios na doen&#x000e7;a pulmonar intersticial associada &#x000e0; esclerose sist&#x000ea;mica</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3072-2763</contrib-id><name><surname>Bastos</surname><given-names>Andr&#x000e9;a L</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1352-7261</contrib-id><name><surname>Ferreira</surname><given-names>Gilda A</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5818-0954</contrib-id><name><surname>Mamede</surname><given-names>Marcelo</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3891-875X</contrib-id><name><surname>Mancuzo</surname><given-names>Eliane V</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6944-3008</contrib-id><name><surname>Teixeira</surname><given-names>Mauro M</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0631-3708</contrib-id><name><surname>Santos</surname><given-names>Fl&#x000e1;via P S T</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4294-7804</contrib-id><name><surname>Ferreira</surname><given-names>Cid S</given-names></name><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1779-0443</contrib-id><name><surname>Correa</surname><given-names>Ricardo A</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>. Departamento de Anatomia e Imagem, Faculdade de Medicina, Universidade Federal de Minas Gerais - UFMG - Belo Horizonte (MG) Brasil.</aff><aff id="aff2">
+<label>2</label>. Departamento do Aparelho Locomotor, Faculdade de Medicina, Universidade Federal de Minas Gerais - UFMG - Belo Horizonte (MG) Brasil.</aff><aff id="aff3">
+<label>3</label>. Departamento de Cl&#x000ed;nica M&#x000e9;dica, Faculdade de Medicina, Universidade Federal de Minas Gerais - UFMG - Belo Horizonte (MG) Brasil.</aff><aff id="aff4">
+<label>4</label>. Departamento de Bioqu&#x000ed;mica e Imunologia, Instituto de Ci&#x000ea;ncias Biol&#x000f3;gicas, Faculdade de Medicina, Universidade Federal de Minas Gerais - UFMG - Belo Horizonte (MG) Brasil.</aff><aff id="aff5">
+<label>5</label>. Servi&#x000e7;o de Reumatologia, Hospital das Cl&#x000ed;nicas, Faculdade de Medicina, Universidade Federal de Minas Gerais - UFMG - Belo Horizonte (MG) Brasil.</aff><aff id="aff6">
+<label>6</label>. Departamento de Radiologia, Hospital das Cl&#x000ed;nicas, Faculdade de Medicina, Universidade Federal de Minas Gerais - UFMG - Belo Horizonte (MG) Brasil.</aff><author-notes><corresp id="c1">
+<label>Correspondence to:</label> Andr&#x000e9;a Lima Bastos. Departamento de Anatomia e Imagem, Faculdade de Medicina, Universidade Federal de Minas Gerais, Avenida Prof. Alfredo Balena, 190, Sala 179, CEP 30130-100, Belo Horizonte, MG, Brasil. Tel.: 55 31 3409-9770. E-mail: <email>andblima@yahoo.com.br</email>
+</corresp><fn fn-type="con" id="fn01"><p><bold>AUTHOR CONTRIBUTIONS:</bold> ALB, RAC, and GAP: study concept and design. ALB, RAC, GAP, MM, EVM, MT, FPSTS, and CSF: data analysis and interpretation. ALB, RAC, GAP, EVM, and MM: drafting and review of the manuscript for important intellectual content. All of the authors approved the final version of the manuscript.</p></fn><fn fn-type="COI-statement" id="fn02"><p><bold>CONFLICT OF INTEREST:</bold> None declared. </p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>27</day><month>5</month><year>2022</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2022</year></pub-date><volume>48</volume><issue>4</issue><elocation-id>e20210329</elocation-id><history><date date-type="received"><day>07</day><month>10</month><year>2021</year></date><date date-type="accepted"><day>03</day><month>3</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; 2022 Sociedade Brasileira de Pneumologia e Tisiologia</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>Sociedade Brasileira de Pneumologia e Tisiologia</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License which permits unrestricted non-commercial use, distribution, and reproduction in any medium provided the original work is properly cited.</license-p></license></permissions><abstract><title>ABSTRACT</title><sec><title>Objective:</title><p>To investigate the correlation of HRCT findings with pulmonary metabolic activity in the corresponding regions using <sup>18</sup>F-FDG PET/CT and inflammatory markers in patients with systemic sclerosis (SSc)-associated interstitial lung disease (ILD). </p></sec><sec><title>Methods:</title><p>This was a cross-sectional study involving 23 adult patients with SSc-associated ILD without other connective tissue diseases. The study also involved <sup>18</sup>F-FDG PET/CT, HRCT, determination of serum chemokine levels, clinical data, and pulmonary function testing. </p></sec><sec><title>Results:</title><p>In this cohort of patients with long-term disease (disease duration, 11.8 &#x000b1; 8.7 years), a nonspecific interstitial pneumonia pattern was found in 19 (82.6%). Honeycombing areas had higher median standardized uptake values (1.95; p = 0.85). Serum levels of soluble tumor necrosis factor receptor 1, soluble tumor necrosis factor receptor 2, C-C motif chemokine ligand 2 (CCL2), and C-X-C motif chemokine ligand 10 were higher in SSc patients than in controls. Serum levels of CCL2-a marker of fibroblast activity-were correlated with pure ground-glass opacity (GGO) areas on HRCT scans (p = 0.007). <sup>18</sup>F-FDG PET/CT showed significant metabolic activity for all HRCT patterns. The correlation between serum CCL2 levels and GGO on HRCT scans suggests a central role of fibroblasts in these areas, adding new information towards the understanding of the mechanisms surrounding cellular and molecular elements and their expression on HRCT scans in patients with SSc-associated ILD. </p></sec><sec><title>Conclusions:</title><p>
+<sup>18</sup>F-FDG PET/CT appears to be unable to differentiate the intensity of metabolic activity across HRCT patterns in chronic SSc patients. The association between CCL2 and GGO might be related to fibroblast activity in these areas; however, upregulated CCL2 expression in the lung tissue of SSc patients should be investigated in order to gain a better understanding of this association. </p></sec></abstract><trans-abstract xml:lang="pt"><title>RESUMO</title><sec><title>Objetivo:</title><p>Investigar a correla&#x000e7;&#x000e3;o entre achados de TCAR e a atividade metab&#x000f3;lica pulmonar nas regi&#x000f5;es correspondentes por meio de PET/TC com <sup>18</sup>F-FDG e marcadores inflamat&#x000f3;rios em pacientes com doen&#x000e7;a pulmonar intersticial (DPI) associada &#x000e0; esclerose sist&#x000ea;mica (ES). </p></sec><sec><title>M&#x000e9;todos:</title><p>Estudo transversal envolvendo 23 pacientes adultos com DPI associada &#x000e0; ES sem outras doen&#x000e7;as do tecido conjuntivo. O estudo tamb&#x000e9;m envolveu PET/TC com <sup>18</sup>F-FDG, TCAR, dosagem s&#x000e9;rica de quimiocinas, dados cl&#x000ed;nicos e testes de fun&#x000e7;&#x000e3;o pulmonar. </p></sec><sec><title>Resultados:</title><p>Nessa coorte de pacientes com doen&#x000e7;a de longa dura&#x000e7;&#x000e3;o (11,8 &#x000b1; 8,7 anos), 19 (82,6%) apresentaram o padr&#x000e3;o de pneumonia intersticial n&#x000e3;o espec&#x000ed;fica. A mediana dos valores padronizados de capta&#x000e7;&#x000e3;o foi maior nas &#x000e1;reas de faveolamento (1,95; p = 0,85). Os n&#x000ed;veis s&#x000e9;ricos de soluble tumor necrosis factor receptor 1, soluble tumor necrosis factor receptor 2, C-C motif chemokine ligand 2 (CCL2) e C-X-C motif chemokine ligand 10 foram maiores nos pacientes com ES que nos controles. Os n&#x000ed;veis s&#x000e9;ricos de CCL2 - um marcador de atividade fibrobl&#x000e1;stica - correlacionaram-se com &#x000e1;reas de opacidade em vidro fosco (OVF) pura na TCAR (p = 0,007). A PET/TC com <sup>18</sup>F-FDG mostrou atividade metab&#x000f3;lica significativa para todos os padr&#x000f5;es de TCAR. A correla&#x000e7;&#x000e3;o entre n&#x000ed;veis s&#x000e9;ricos de CCL2 e OVF na TCAR sugere que os fibroblastos desempenham um papel fundamental nessas &#x000e1;reas, acrescentando novas informa&#x000e7;&#x000f5;es para a compreens&#x000e3;o dos mecanismos que envolvem elementos celulares e moleculares e sua express&#x000e3;o na TCAR em pacientes com DPI associada &#x000e0; ES. </p></sec><sec><title>Conclus&#x000f5;es:</title><p>A PET/TC com <sup>18</sup>F-FDG aparentemente n&#x000e3;o consegue diferenciar a intensidade da atividade metab&#x000f3;lica nos diferentes padr&#x000f5;es de TCAR em pacientes com ES cr&#x000f4;nica. A associa&#x000e7;&#x000e3;o entre CCL2 e OVF pode estar relacionada &#x000e0; atividade fibrobl&#x000e1;stica nessas &#x000e1;reas; entretanto, a express&#x000e3;o suprarregulada de CCL2 no tecido pulmonar de pacientes com ES deve ser investigada para que se compreenda melhor essa associa&#x000e7;&#x000e3;o. </p></sec></trans-abstract><kwd-group><title>Keywords:</title><kwd>Tomography</kwd><kwd>Lung diseases, interstitial</kwd><kwd>Scleroderma, systemic</kwd><kwd>Cytokines</kwd></kwd-group><kwd-group xml:lang="pt"><title>Descritores:</title><kwd>Tomografia</kwd><kwd>Doen&#x000e7;as pulmonares intersticiais</kwd><kwd>Escleroderma sist&#x000ea;mico</kwd><kwd>Citocinas</kwd></kwd-group><counts><fig-count count="8"/><table-count count="4"/><equation-count count="0"/><ref-count count="33"/></counts></article-meta></front><body><sec sec-type="intro"><title>INTRODUCTION</title><p>In patients with systemic sclerosis (SSc), interstitial lung disease (ILD) and pulmonary hypertension are the main causes of impaired quality of life and mortality. SSc-associated ILD involves autoantibody activity, inflammation, obstruction of small vessels, and tissue collagen deposition that further develops into fibrosis.<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref> It often occurs in diffuse cutaneous form and may take on varied expressions throughout its progression.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> A histological pattern of nonspecific interstitial pneumonia (NSIP) predominates, and usual interstitial pneumonia (UIP) and organizing pneumonia (OP) are seldom found.<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref> A newly described pattern of interstitial lung involvement is centrilobular fibrosis, which has been associated with chronic pulmonary aspiration through gastroesophageal reflux.<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref> Lung pathology is the gold standard method for an accurate classification of ILD. Open lung biopsy is an invasive procedure and is indicated in only a few cases because of its potential risks. Because of a strong correlation between a reticular pattern and fibrosis, HRCT has gained a central role in determining the nature of interstitial lung involvement, as well as in establishing referral criteria for biopsies and other procedures in selected cases.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref> However, HRCT is less accurate in cases of ground-glass opacity (GGO) because this pattern may be related to both inflammation and interstitial fibrosis.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>The literature reports on the usefulness of <sup>18</sup>F-FDG PET/CT in the evaluation of non-neoplastic and connective tissue diseases,<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref> as well as pulmonary inflammatory conditions<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref> and pulmonary fibrotic conditions.<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref> For the evaluation of pulmonary metabolism, <sup>18</sup>F-FDG PET/CT has the advantage of being a noninvasive technique and allowing quantitative assessment of the entire lung during image acquisition. However, radiation exposure should be taken into consideration. Although PET radiation exposure is mainly due to the incorporation of radiopharmaceuticals, the combined use of PET and HRCT may increase this exposure. However, in most cases the benefits (i.e., the information provided) outweigh the risks and justify the use of the method both in clinical practice and in research. In addition, radiation exposure should be optimized to a dose as low as reasonably achievable. </p><p>In SSc, the activation of macrophages and T cells in the bloodstream and tissues is responsible for the characteristic damage that occurs at the expense of the production of mediators that regulate inflammation and fibrosis. These mediators have been investigated as potential surrogates of inflammatory and fibrotic activity.<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref> Inflammatory mediators that originate from various sources, such as the alveolar epithelium, macrophages, activated T lymphocytes, and the endothelium, are related to interstitial damage.<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> Soluble tumor necrosis factor receptor 1 (sTNFR1), soluble tumor necrosis factor receptor 2 (sTNFR2), C-X-C motif chemokine ligand 8 (CXCL8), macrophage migration inhibitory factor (MIF), C-C motif chemokine ligand 2 (CCL2), C-X-C motif chemokine ligand 9 (CXCL9), and C-X-C motif chemokine ligand 10 (CXCL10) have been investigated.<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>The objective of this study was to investigate the correlation of HRCT findings with pulmonary metabolic activity in the corresponding regions using <sup>18</sup>F-FDG PET/CT and inflammatory markers in patients with SSc-associated ILD. </p></sec><sec sec-type="methods"><title>METHODS</title><p>This was a cross-sectional study conducted in the Pulmonology and Rheumatology Departments of the Federal University of Minas Gerais <italic>Hospital das Cl&#x000ed;nicas</italic>, located in the city of Belo Horizonte, Brazil. Adult SSc patients (&#x0003e; 18 years of age) with interstitial lung involvement on HRCT scans were recruited. The diagnosis of SSc-associated ILD was made in accordance with the 2013 American College of Rheumatology criteria.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> The study was approved by the local research ethics committee, and all participants gave written informed consent. The exclusion criteria were as follows: overlapping of SSc with other connective tissue diseases, current or prior smoking, a diagnosis of occupational lung disease, acute or chronic infectious pulmonary disease, known exposure to toxic environmental antigens or toxic drugs, previous use of antineoplastic chemotherapy, pulse therapy with cyclophosphamide and/or methylprednisolone within six months of inclusion in the study, and HRCT signs suggestive of pulmonary aspiration. Serum levels of inflammatory mediators, clinical data, and lung function data were collected concurrently with the imaging examinations. </p><p>
+<sup>18</sup>F-FDG PET-CT and HRCT were performed with a PET/CT scanner (Discovery 690; GE Healthcare, Milwaukee, WI, USA) coupled to a 64-channel CT scanner (LightSpeed VCT; GE Healthcare). The study participants fasted for at least 6 h and were checked for blood glucose levels prior to intravenous administration of 3.7 MBq/kg (0.1 mCi/kg) of the radiopharmaceutical <sup>18</sup>F-FDG.<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>Approximately 50 min after <sup>18</sup>F-FDG administration, HRCT was performed from the lung apex to the base in the supine position and for the duration of a maximal inspiratory apnea, the following parameters being used: slice thickness, 0.6 mm; voltage, 120 kV; and current, 200 mA. The data were reconstructed with specific algorithms for a lung and mediastinum study and evaluated with a window level of &#x02212;700 HU and a window width of 1,200 HU for the lung, and a window level of 40 HU and a window width of 400 HU for the mediastinum.<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>
+<sup>18</sup>F-FDG PET/CT images were acquired with a helical CT scanner from the skull to the thigh and with the use of a low-dose radiation protocol (voltage, 90 kV; and modulated current) to create an attenuation map and locate the anatomical regions of interest. This procedure was followed by the acquisition of molecular images in the corresponding regions; the images were acquired with the use of a 2-min acquisition time per bed position and were reconstructed in accordance with the manufacturer&#x02019;s iterative protocol, with 24 subgroups and 4 iterations.<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>Radiopharmaceutical uptake was defined as abnormal when it was higher than the mediastinal uptake.<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref> This procedure was performed and interpreted by a senior nuclear medicine physician who was blinded to patient clinical status and the radiological patterns, and who used the maximum standardized uptake value corrected for lean body mass (SULmax) in the axial plane. The maximum values for each lung segment were recorded. </p><p>The baseline metabolic activity of the lung parenchyma was also estimated in normal regions on HRCT scans, being used in order to determine the background lung uptake and calculate the target-to-background ratio (TBR) as described by Groves et al.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> To quantify the mean metabolic activity in each lung lobe, the volume of interest was visually assessed on the CT images by a thoracic radiologist, the mean standardized uptake value corrected for lean body mass (SULmean) being calculated using the PMOD software, version 3.609 (Bruker Corporation, Billerica, MA, USA). </p><p>The HRCT images were analyzed by two senior radiologists who have more than 20 years of experience in chest radiology and ILD diagnosis, and who were blinded to the results of <sup>18</sup>F-FDG PET/CT. All images were read on dedicated workstations. Differences in opinion were decided by consensus among radiologists. The HRCT patterns of chronic interstitial pneumonia evaluated in the present study were NSIP, UIP, and OP. In addition, the presence of pure GGO (i.e., without concurrent interstitial lung abnormalities), honeycombing, GGO with fibrosis (a reticular pattern, bronchiectasis, or honeycombing), and consolidation, as defined elsewhere,<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref> was also analyzed. Segments without lesions were classified as normal. The reticular patterns were considered together with the other variables suggesting fibrosing disease because the participants had advanced-stage lung disease. The SULmax and SULmean for each lung lobe were compared to the HRCT patterns identified. </p><p>Pulmonary function tests were performed by a senior pulmonologist. The six-minute walk test was performed in accordance with international standards.<xref rid="B18" ref-type="bibr">
+<sup>18</sup>
+</xref> Lung volumes and DL<sub>CO</sub> were obtained with the use of a Collins system (Ferraris Respiratory, Louisville, CO, USA), and the results were reported as absolute numbers and percentages in relation to the predicted values for the Brazilian population.<xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p><p>To determine the serum levels of inflammatory mediators, blood samples were collected from sex- and age-matched SSc patients and controls before performing PET/CT because reference values have yet to be established. Chemokines were quantified by sandwich ELISA in accordance with the manufacturer instructions (R&#x00026;D Systems, Minneapolis, MN, USA). Serum levels of sTNFR1, sTNFR2, and MIF were also measured.<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref> The inclusion criteria for controls were as follows: being over 18 years of age, having no chronic inflammatory disease, having no malignancy, having used no immunomodulators in the six weeks preceding blood sample collection, having undergone no surgery in the previous month, having suffered no extensive trauma in the previous month, having no history of kidney or liver failure, and reporting no current pregnancy. </p><p>The normality of data distribution was verified by the Kolmogorov-Smirnov test with Lilliefors correction, the Shapiro-Wilk test, and graphical analysis. The variables were presented as median (minimum and maximum). Associations between categorical variables were evaluated by the chi-square test or Fisher&#x02019;s exact test, as appropriate. Univariate comparison of means and medians was performed by the Mann-Whitney U test. Correlations between continuous variables were evaluated by Pearson&#x02019;s or Spearman&#x02019;s correlation coefficient, and the Kruskal-Wallis test was used for comparison of medians in more than two groups with nonparametric distribution. Interobserver agreement was measured by Cohen&#x02019;s kappa statistic. All tests were performed at a significance level (&#x003b1;) of 0.05, with the Predictive Analytics Software package, version 18.0 for Windows (SPSS Inc., Chicago, IL, USA). </p></sec><sec sec-type="results"><title>RESULTS</title><p>Of the 27 patients screened between November of 2013 and November of 2014, 2 were excluded because of an exclusive small airway pattern on HRCT scans, 1 was excluded because of the development of neoplastic disease, and 1 was excluded because of the withdrawal of his consent. Therefore, 23 patients were enrolled. Of those, 78% were female, and the mean age was 47 years. The main clinical and lung function data are presented in <xref rid="t1" ref-type="table">Table 1</xref>. At enrollment, 6 patients were receiving prednisone therapy (mean dose, 8.7 &#x000b1; 4.0 mg; range, 5.0-15.0 mg), another 6 were receiving treatment with azathioprine, and 5 were receiving treatment with methotrexate. The pulmonary function test results showed that 7 patients (30.4%) had normal TLC and 15 (65.1%) had abnormal lung function. Of those, 9 (39.1%) had restrictive lung disease, 5 (21.7%) had mixed restrictive and obstructive lung disease, and 1 (4.3%) had obstructive lung disease. One patient was unable to perform the maneuvers required to measure lung volumes. </p><p>
+<table-wrap position="float" id="t1"><label>Table 1</label><caption><title>Clinical and demographic characteristics of patients with systemic sclerosis (n = 23), as well as pulmonary function test results.<sup>a</sup>
+</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/></colgroup><thead><tr><th align="center" rowspan="1" colspan="1">Characteristic</th><th align="center" rowspan="1" colspan="1">Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Female sex</td><td align="center" rowspan="1" colspan="1">18 (78.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, years</td><td align="center" rowspan="1" colspan="1">47.6 &#x000b1; 12.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Duration of disease, years</td><td align="center" rowspan="1" colspan="1">11.8 &#x000b1; 8.7</td></tr><tr><td align="left" rowspan="1" colspan="1">Limited form</td><td align="center" rowspan="1" colspan="1">09 (39.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diffuse form</td><td align="center" rowspan="1" colspan="1">14 (60.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Raynaud&#x02019;s phenomenon<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">21 (91.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Digital ulcers<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">06 (28.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Digital pitting scar<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">05 (24.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Arthralgia/arthritis<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">14 (64.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pyrosis, dysphagia, diarrhea<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">11 (48.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Telangiectasia<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">04 (16.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Cough and dyspnea<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">15 (65.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">TLC, L</td><td align="center" rowspan="1" colspan="1">4.2 &#x000b1; 0.7</td></tr><tr><td align="left" rowspan="1" colspan="1">TLC, % predicted</td><td align="center" rowspan="1" colspan="1">87.4 &#x000b1; 14.5</td></tr><tr><td align="left" rowspan="1" colspan="1">FVC, % predicted</td><td align="center" rowspan="1" colspan="1">69.8 &#x000b1; 17.6</td></tr><tr><td align="left" rowspan="1" colspan="1">FEV<sub>1</sub>, L</td><td align="center" rowspan="1" colspan="1">2.0 &#x000b1; 0.5</td></tr><tr><td align="left" rowspan="1" colspan="1">FEV<sub>1</sub>, % predicted</td><td align="center" rowspan="1" colspan="1">69.5 &#x000b1; 17.5</td></tr><tr><td align="left" rowspan="1" colspan="1">FEV<sub>1</sub>/FVC</td><td align="center" rowspan="1" colspan="1">81.2 &#x000b1; 5.4</td></tr><tr><td align="left" rowspan="1" colspan="1">DL<sub>CO</sub>, %</td><td align="center" rowspan="1" colspan="1">64.7 &#x000b1; 14.4</td></tr><tr><td align="left" rowspan="1" colspan="1">6MWD, meters</td><td align="center" rowspan="1" colspan="1">470.3 &#x000b1; 72.5</td></tr><tr><td align="left" rowspan="1" colspan="1">SpO<sub>2</sub>, %</td><td align="center" rowspan="1" colspan="1">88.7 &#x000b1; 13.2</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p>6MWD: six-minute walk distance. <sup>a</sup>Values expressed as n (%) or mean &#x000b1; SD. <sup>b</sup>Clinical variables accumulated during disease progression.</p></fn></table-wrap-foot></table-wrap>
+</p><sec><title>
+HRCT analysis
+</title><p>HRCT scans revealed a greater involvement of the lower lobes, with a predominance of GGO with bronchiectasis (90.0%), followed by pure GGO (65.4%). In addition, NSIP, UIP, and OP patterns were found in 19 (82.7%), 3 (13.0%), and 1 (4.3%) of the patients, respectively. Interobserver agreement was 0.82. </p></sec><sec><title>
+<sup>
+<italic>18</italic>
+</sup>
+<bold>
+<italic>F-FDG PET/CT analysis</italic>
+</bold>
+</title><p>Metabolic activity was analyzed by determining the SULmax and SULmean in lung lobes, the background lung uptake in normal areas, and the TBR. A total of 414 lung segments were analyzed, 140 (33.8%) of which had sufficient metabolic activity to allow SULmax measurements (<xref rid="f1" ref-type="fig">Figure 1</xref>). </p><p>
+<fig position="float" id="f1"><label>Figure 1</label><caption><title>Low-dose CT and PET/CT scans of the chest showing honeycombing (in A), with scattered distribution of abnormal <sup>18</sup>F-FDG uptake (in B), as well as ground-glass opacity (in C), with uniform distribution of abnormal <sup>18</sup>F-FDG uptake (in D). </title></caption><graphic xlink:href="1806-3756-jbpneu-48-04-e20210329-gf1" position="float"/></fig>
+</p><p>Median SULmean, SULmax, and TBR were 0.81 (0.44-1.69), 2.7 (1.50-5.30), and 4.91 (3.71-11.52), respectively. The mean background lung uptake was 0.51 (0.083). Although <sup>18</sup>F-FDG uptake values were highest for honeycombing, there were no significant differences in <sup>18</sup>F-FDG uptake values between honeycombing and GGO. The correlations between HRCT patterns and <sup>18</sup>F-FDG uptake values are shown in <xref rid="t2" ref-type="table">Table 2</xref>. </p><p>
+<table-wrap position="float" id="t2"><label>Table 2</label><caption><title>Comparison of median maximum standardized uptake value corrected for lean body mass, mean standardized uptake value corrected for lean body mass, and target-to-background ratio values with HRCT patterns in lung lobes.<sup>a</sup>
+</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="7"/></colgroup><thead><tr><th align="center" colspan="7" rowspan="1">HRCT PATTERNS </th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+</td><td align="center" rowspan="1" colspan="1">Honeycombing<break/> (n = 16)</td><td align="center" rowspan="1" colspan="1">GGO<break/> (n = 28)</td><td align="center" rowspan="1" colspan="1">p</td><td align="center" rowspan="1" colspan="1">GGOF<break/> (n = 53)</td><td align="center" rowspan="1" colspan="1">GGO<break/> (n = 28)</td><td align="center" rowspan="1" colspan="1">p*</td></tr><tr><td align="left" rowspan="1" colspan="1">SULmax</td><td align="center" rowspan="1" colspan="1">1.95<break/> [0.0-3.8]</td><td align="center" rowspan="1" colspan="1">1.75<break/> [0.0-3.8]</td><td align="center" rowspan="1" colspan="1">0.589</td><td align="center" rowspan="1" colspan="1">1.79<break/> [0.0-5.3]</td><td align="center" rowspan="1" colspan="1">1.75<break/> [0.0-3.8]</td><td align="center" rowspan="1" colspan="1">0.850</td></tr><tr><td align="left" rowspan="1" colspan="1">SULmean</td><td align="center" rowspan="1" colspan="1">0.92<break/> [0.57 -2.06]</td><td align="center" rowspan="1" colspan="1">3.4<break/> [0.44-1.48]</td><td align="center" rowspan="1" colspan="1">0.179</td><td align="center" rowspan="1" colspan="1">0.77<break/> [0.35-1.67]</td><td align="center" rowspan="1" colspan="1">0.79<break/> [0.44-1.48]</td><td align="center" rowspan="1" colspan="1">0.980</td></tr><tr><td align="left" rowspan="1" colspan="1">TBR</td><td align="center" rowspan="1" colspan="1">4.0<break/> [0.0-7.17]</td><td align="center" rowspan="1" colspan="1">0.0<break/> [0.0-7.04]</td><td align="center" rowspan="1" colspan="1">0.880</td><td align="center" rowspan="1" colspan="1">3.6<break/> [0.0-11.52]</td><td align="center" rowspan="1" colspan="1">0.0<break/> [0.0-7.04]</td><td align="center" rowspan="1" colspan="1">0.195</td></tr><tr><td align="left" rowspan="1" colspan="1">
+</td><td align="center" rowspan="1" colspan="1">Normal<break/> (n = 13)</td><td align="center" rowspan="1" colspan="1">GGO<break/> (n = 28)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="center" rowspan="1" colspan="1">Normal<break/> (n = 13)</td><td align="center" rowspan="1" colspan="1">Honeycombing<break/> (n = 16)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1">SULmax</td><td align="center" rowspan="1" colspan="1">0.0<break/> [0.0-1.21]</td><td align="center" rowspan="1" colspan="1">1.75<break/> [0.0-3.8]</td><td align="center" rowspan="1" colspan="1">0.001</td><td align="center" rowspan="1" colspan="1">0.0<break/> [0.0-1.21]</td><td align="center" rowspan="1" colspan="1">1.95<break/> [0.0-3.8]</td><td align="center" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">SULmean</td><td align="center" rowspan="1" colspan="1">0.63<break/> [0.46-0.76]</td><td align="center" rowspan="1" colspan="1">0.79<break/> [0.44-1.48]</td><td align="center" rowspan="1" colspan="1">0.001</td><td align="center" rowspan="1" colspan="1">0.63<break/> [0.46-0.76]</td><td align="center" rowspan="1" colspan="1">0.92<break/> [0.57-2.06]</td><td align="center" rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">TBR</td><td align="center" rowspan="1" colspan="1">0.0<break/> [0.0-2.57]</td><td align="center" rowspan="1" colspan="1">0.0<break/> [0.0-7.04]</td><td align="center" rowspan="1" colspan="1">0.001</td><td align="center" rowspan="1" colspan="1">0.0<break/> [0.0-2.57]</td><td align="center" rowspan="1" colspan="1">4.0<break/> [0.0-7.17]</td><td align="center" rowspan="1" colspan="1">0.002</td></tr></tbody></table><table-wrap-foot><fn id="TFN2"><p>GGO: pure ground-glass opacity; GGOF: ground-glass opacity with fibrosis (a reticular pattern, bronchiectasis, or honeycombing); SULmax: maximum standardized uptake value corrected for lean body mass; SULmean: mean standardized uptake value corrected for lean body mass; and TBR: target-to-background ratio. <sup>a</sup>Values expressed as median (min-max). *Mann-Whitney U test. Note: SULmax and TBR values equal to zero are related to regions without any qualitatively outstanding metabolic activity for measurement. </p></fn></table-wrap-foot></table-wrap>
+</p><p>Of 13 lung lobes showing normal HRCT findings, 12 (92.3%) had no significant metabolic activity for the uptake measurement. In addition, the median SULmean (0.63) was similar to the baseline SULmax (0.51). There was no correlation between <sup>18</sup>F-FDG uptake values and clinical and functional variables or concurrent therapy (data not shown). Furthermore, there was no difference between SULmean and SULmax values in patients with or without dyspnea (data not shown). There were no correlations between clinical or functional variables and <sup>18</sup>F-FDG PET/CT findings, HRCT findings, or biomarker parameters. </p></sec><sec><title>
+Inflammatory mediators
+</title><p>
+<xref rid="f2" ref-type="fig">Figure 2</xref> shows a comparison of inflammatory mediators between the SSc-associated ILD group and the control group. Median serum concentrations of sTNFR1, sTNFR2, CCL2, and CXCL10 were significantly higher in the SSc-associated ILD group than in the control group. On the other hand, there were significant differences across HRCT patterns regarding serum levels of sTNFR2 (p = 0.017), CCL2 (p = 0.001), CXCL10 (p = 0.049), CXCL9 (p = 0.011), and MIF (p = 0.023; <xref rid="f3" ref-type="fig">Figure 3</xref>). </p><p>
+<fig position="float" id="f2"><label>Figure 2</label><caption><title>Comparative analysis of serum levels of inflammatory mediators in systemic sclerosis (SSc) patients (n = 23) and controls (n = 22). Mann-Whitney U test for determination of p values. sTNFR1: soluble tumor necrosis factor receptor 1; sTNFR2: soluble tumor necrosis factor receptor 2; CXCL8: C-X-C motif chemokine ligand 8; MIF: macrophage migration inhibitory factor; CCL2: C-C motif chemokine ligand 2; CXCL10: C-X-C motif chemokine ligand 10; and CXCL9: C-X-C motif chemokine ligand 9. </title></caption><graphic xlink:href="1806-3756-jbpneu-48-04-e20210329-gf2" position="float"/></fig>
+</p><p>
+<fig position="float" id="f3"><label>Figure 3</label><caption><title>Comparative analysis of median serum levels of inflammatory mediators and HRCT patterns. *Kruskal-Wallis test for determination of p values. sTNFR1: soluble tumor necrosis factor receptor 1; sTNFR2: soluble tumor necrosis factor receptor 2; CCL2: C-C motif chemokine ligand 2; CXCL10: C-X-C motif chemokine ligand 10; CXCL8: C-X-C motif chemokine ligand 8; CXCL9: C-X-C motif chemokine ligand 9; MIF: macrophage migration inhibitory factor; and GGO: ground-glass opacity.</title></caption><graphic xlink:href="1806-3756-jbpneu-48-04-e20210329-gf3" position="float"/></fig>
+</p><p>In the multiple comparisons of these inflammatory mediators, the Mann-Whitney U test with Bonferroni correction was applied to the level of significance, which was set at 0.01. As can be seen in <xref rid="f4" ref-type="fig">Figure 4</xref>, serum levels of CCL2 were significantly higher for GGO than for honeycombing (p = 0.007). Inflammatory markers and <sup>18</sup>F-FDG uptake values were not significantly correlated. Disease duration had a moderate negative correlation with inflammatory mediators (p &#x0003c; 0.05). </p><p>
+<fig position="float" id="f4"><label>Figure 4</label><caption><title>Differences between HRCT findings of ground-glass opacity (GGO) and honeycombing in terms of median serum levels of CCL2. p = 0.007 (Mann-Whitney U test). CCL2: C-C motif chemokine ligand 2; and GGO: ground-glass opacity.</title></caption><graphic xlink:href="1806-3756-jbpneu-48-04-e20210329-gf4" position="float"/></fig>
+</p></sec></sec><sec sec-type="discussion"><title>DISCUSSION</title><p>The number of studies employing <sup>18</sup>F-FDG PET/CT in the evaluation of ILD has recently increased.<xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref> The present study involved patients with SSc-associated ILD and the use of <sup>18</sup>F-FDG PET/CT. The results showed significant metabolic activity for all HRCT patterns. However, there was remarkable metabolic activity for honeycombing (an HRCT pattern that is frequently associated with fibrotic disease) and GGO.<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref> Furthermore, a correlation was found between GGO and serum CCL2 levels. </p><p>The GGO pattern is known as a marker of active or early-stage disease<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>; however, the association between GGO and fibrotic disease in SSc was previously suggested by Shah et al.,<xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref> in a cohort of 41 patients undergoing serial HRCT examinations over a five year-period. The authors found that fibrosis progression was more common than lesion regression after treatment with D-penicillamine, cyclophosphamide, a combination of cyclophosphamide and D-penicillamine, or prednisone in patients with GGO on HRCT scans.<xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</p><p>Chen et al.<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref> demonstrated the sensitivity of <sup>18</sup>F-FDG PET/CT in the assessment of acute pulmonary parenchymal inflammation.<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref> The authors evaluated the neutrophilic response induced by direct instillation of endotoxin into a lung segment in healthy individuals and showed that <sup>18</sup>F-FDG PET/CT allowed quantification of the inflammatory response.<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref> Groves et al.<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref> studied pulmonary parenchymal metabolic activity in 36 patients with fibrosis, including idiopathic fibrosis with typical HRCT findings (18 patients) and fibrosis related to other diffuse pulmonary diseases. They found a mean SULmax of 2.8 and a predominance of activity in areas of honeycombing. </p><p>In the present study, PET was not useful for monitoring ILD in SSc patients because it failed to demonstrate significant differences between inflammatory activity and fibrotic areas, as suggested by findings of similar uptake for GGO and honeycombing images. However, if we take into consideration that SSc is a disease characterized by diffuse parenchymal involvement, the absence of significant <sup>18</sup>F-FDG uptake in lung segments showing parenchymal lesions suggests that <sup>18</sup>F-FDG PET/CT is useful in demonstrating the stability of the disease. Recently, three retrospective studies evaluated PET/CT scans of SSc patients under investigation for neoplastic disease, reporting that patients with progressing SSc-associated ILD had significantly higher pulmonary <sup>18</sup>F-FDG uptake at baseline than did those with stable SSc-associated ILD.<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref> As demonstrated by Peelen at al., <sup>18</sup>F-FDG PET/CT scanning might distinguish SSc-associated ILD patients from SSc patients without ILD because in their study SSc-associated ILD had significantly higher pulmonary <sup>18</sup>F-FDG uptake than did SSc without ILD.<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref>
+</p><p>The quantification of <sup>18</sup>F-FDG-uptake in the lung parenchyma is challenging and highly dependent on breathing movements and signal from blood and water compartments. The ideal method for quantifying <sup>18</sup>F-FDG lung uptake should exclusively reflect the metabolic activity in the lung cells to determine its pathogenic role. Although some methods have been tested, none was able to provide this information. Thus, comparison with clinical data is required in order to interpret PET quantification parameters correctly.<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><p>Not many studies have assessed the role of air and blood fraction correction vs. noncorrected images in <sup>18</sup>F-FDG PET/CT examinations. Although we did not make these corrections, they have been reported to be important,<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref> and the fact that we did not make them could explain why we did not find a clear relationship between <sup>18</sup>F-FDG-PET signal and other measures. </p><p>Visual identification of small variations in <sup>18</sup>F-FDG uptake in the lung parenchyma is often difficult, especially when there are highly heterogeneous parenchymal lesions.<xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref> The TBR is a measure of the variation in <sup>18</sup>F-FDG lung uptake. When next to 1, the TBR can indicate uniform <sup>18</sup>F-FDG uptake, and a high TBR has recently been related to poor survival in idiopathic pulmonary fibrosis.<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref> In the present study, we found high TBRs in fibrosis and GGO patterns, especially in areas of honeycombing (TBR, 4.02). Therefore, we considered it appropriate to add the <sup>18</sup>F-FDG uptake value to that of the whole lung by determining the SULmean by volumetric segmentation of the lung lobes, in addition to measuring the SULmax qualitatively in the areas of interest.<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref> The SULmax values are included in this volumetric analysis (SULmean), which results in much lower values. </p><p>The role of biomarkers in connective tissue disease-associated ILD was reviewed by Bonnela et al.<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> Although the authors reported several correlations between increased levels of lung-derived proteins and chemokines and the presence or severity of ILD in these patients, they stated that they individually lack predictive value, and that disease prediction may depend mostly on combinatorial analysis of many of these mediators.<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>The inflammatory mediators whose serum levels were higher in the SSc-associated ILD patients than in the controls in the present study, i.e., sTNFR1, sTNFR2, CCL2, and CXCL10, are directly involved in the etiopathogenesis of SSc. Indeed, Hasegawa et al. reported that the levels of CXCL10, CXCL9, and CCL2 were higher in SSc patients than in controls, and that the variations in CCL2 over the three-year study period indicate skin and lung disease activity in SSc.<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p><p>Regarding the association between cytokines and HRCT patterns, higher levels of CCL2 were observed when GGO predominated (p = 0.007). This chemokine is known to stimulate inflammation and collagen production through fibroblast activation and inhibition of the production of prostaglandin E2 by alveolar epithelial cells, which in turn results in greater fibroblast proliferation, thus corroborating its important role in the genesis of fibrosis.<xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref> Thus, the correlation between CCL2 and GGO may indicate a predominance of fibrotic activity in these areas due to the presence of active fibroblasts probably present in early pulmonary involvement. The impact of fibroblastic activity on <sup>18</sup>F-FDG lung uptake is supported by a preclinical study by Bondue et al., who demonstrated <sup>18</sup>F-FDG lung uptake at a late fibrotic stage and an important reduction in labeled leukocyte recruitment in a mouse model of pulmonary fibrosis.<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>
+</p><p>The main limitations of the present study include the small sample size, which is due to the fact that this was a single-center study, and the high cost of <sup>18</sup>F-FDG PET scans, making it difficult to perform any further analyses; nevertheless, rigorous selection criteria were adopted to guarantee sample homogeneity. On the other hand, segmental analysis of the lung parenchyma improved the analysis of HRCT patterns and their correspondence to the <sup>18</sup>F-FDG PET/CT results. Another point to be considered is that the use of immunomodulators by some patients may have had some influence on cytokine levels and <sup>18</sup>F-FDG uptake on PET/CT scans; however, they could not be discontinued because of the potential risks of drug withdrawal. For the same reason, lung pathology was not used as a reference in the comparison of the methods studied. Correlations among HRCT patterns, metabolic activity, inflammatory mediators, and clinical/functional variables could not be demonstrated in this study, probably because of the small sample size. </p><p>It is well worth mentioning that cross-sectional studies preclude the establishment of causal relationships. As a corollary, the meaning of these effects cannot be intuited in patients at disease stages earlier than those investigated here. However, sample homogeneity, the simultaneous acquisition of HRCT images, the use of <sup>18</sup>F-FDG PET/CT, the contemporary collection of serum inflammatory mediators, and pulmonary function testing made the results suitable for the objectives of the study. </p></sec></body><back><fn-group><fn fn-type="other" id="fn1"><label>1</label><p>Study carried out under the auspices of the Programa de P&#x000f3;s-Gradua&#x000e7;&#x000e3;o em Ci&#x000ea;ncias Aplicadas &#x000e0; Sa&#x000fa;de do Adulto, Faculdade de Medicina, Universidade Federal de Minas Gerais - UFMG - Belo Horizonte (MG) Brasil.</p></fn><fn fn-type="supported-by" id="fn2"><p><bold>Financial support:</bold> None.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perelas</surname><given-names>A</given-names></name>
+<name><surname>Silver</surname><given-names>RM</given-names></name>
+<name><surname>Arrossi</surname><given-names>AV</given-names></name>
+<name><surname>Highland</surname><given-names>KB</given-names></name>
+</person-group><article-title>Systemic sclerosis-associated interstitial lung disease</article-title><source>Lancet Respir Med</source><year>2020</year><volume>8</volume><issue>3</issue><fpage>304</fpage><lpage>320</lpage><pub-id pub-id-type="doi">10.1016/S2213-2600(19)30480-1</pub-id><pub-id pub-id-type="pmid">32113575</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wells</surname><given-names>AU</given-names></name>
+<name><surname>Steen</surname><given-names>V</given-names></name>
+<name><surname>Valentini</surname><given-names>G</given-names></name>
+</person-group><article-title>Pulmonary complications one of the most challenging complications of systemic sclerosis</article-title><source>Rheumatology (Oxford)</source><year>2009</year><volume>48</volume><issue>3</issue><fpage>iii40</fpage><lpage>iii44</lpage><pub-id pub-id-type="doi">10.1093/rheumatology/kep109</pub-id><pub-id pub-id-type="pmid">19487223</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Taylor</surname><given-names>JG</given-names></name>
+<name><surname>Bolster</surname><given-names>MB</given-names></name>
+</person-group><article-title>Bronchiolitis obliterans with organizing pneumonia associated with scleroderma and scleroderma spectrum diseases</article-title><source>J Clin Rheumatol</source><year>2003</year><volume>9</volume><issue>4</issue><fpage>239</fpage><lpage>245</lpage><pub-id pub-id-type="doi">10.1097/01.rhu.0000083860.27509.f1</pub-id><pub-id pub-id-type="pmid">17041464</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de Souza</surname><given-names>RB</given-names></name>
+<name><surname>Borges</surname><given-names>CT</given-names></name>
+<name><surname>Capelozzi</surname><given-names>VL</given-names></name>
+<name><surname>Parra</surname><given-names>ER</given-names></name>
+<name><surname>Jatene</surname><given-names>FB</given-names></name>
+<name><surname>Kavakama</surname><given-names>J</given-names></name>
+</person-group><article-title>Centrilobular fibrosis an underrecognized pattern in systemic sclerosis</article-title><source>Respiration</source><year>2009</year><volume>77</volume><issue>4</issue><fpage>389</fpage><lpage>397</lpage><pub-id pub-id-type="doi">10.1159/000156958</pub-id><pub-id pub-id-type="pmid">18799868</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mathieson</surname><given-names>JR</given-names></name>
+<name><surname>Mayo</surname><given-names>JR</given-names></name>
+<name><surname>Staples</surname><given-names>CA</given-names></name>
+<name><surname>M&#x000fc;ller</surname><given-names>NL</given-names></name>
+</person-group><article-title>Chronic diffuse infiltrative lung disease comparison of diagnostic accuracy of CT and chest radiography</article-title><source>Radiology</source><year>1989</year><volume>171</volume><issue>1</issue><fpage>111</fpage><lpage>116</lpage><pub-id pub-id-type="doi">10.1148/radiology.171.1.2928513</pub-id><pub-id pub-id-type="pmid">2928513</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wells</surname><given-names>AU</given-names></name>
+<name><surname>Hansell</surname><given-names>DM</given-names></name>
+<name><surname>Corrin</surname><given-names>B</given-names></name>
+<name><surname>Harrison</surname><given-names>NK</given-names></name>
+<name><surname>Goldstraw</surname><given-names>P</given-names></name>
+<name><surname>Black</surname><given-names>CM</given-names></name>
+</person-group><article-title>High resolution computed tomography as a predictor of lung histology in systemic sclerosis</article-title><source>Thorax</source><year>1992</year><volume>47</volume><issue>9</issue><fpage>738</fpage><lpage>742</lpage><pub-id pub-id-type="doi">10.1136/thx.47.9.738</pub-id><pub-id pub-id-type="pmid">1440471</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wells</surname><given-names>AU</given-names></name>
+</person-group><article-title>High-resolution computed tomography and scleroderma lung disease</article-title><source>Rheumatology (Oxford)</source><year>2008</year><volume>47</volume><issue>5</issue><fpage>v59</fpage><lpage>v61</lpage><pub-id pub-id-type="doi">10.1093/rheumatology/ken271</pub-id><pub-id pub-id-type="pmid">18784149</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nishiyama</surname><given-names>Y</given-names></name>
+<name><surname>Yamamoto</surname><given-names>Y</given-names></name>
+<name><surname>Dobashi</surname><given-names>H</given-names></name>
+<name><surname>Kameda</surname><given-names>T</given-names></name>
+</person-group><article-title>Clinical value of 18F-fluorodeoxyglucose positron emission tomography in patients with connective tissue disease</article-title><source>Jpn J Radiol</source><year>2010</year><volume>28</volume><issue>6</issue><fpage>405</fpage><lpage>413</lpage><pub-id pub-id-type="doi">10.1007/s11604-010-0445-x</pub-id><pub-id pub-id-type="pmid">20661690</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Capitanio</surname><given-names>S</given-names></name>
+<name><surname>Nordin</surname><given-names>AJ</given-names></name>
+<name><surname>Noraini</surname><given-names>AR</given-names></name>
+<name><surname>Rossetti</surname><given-names>C</given-names></name>
+</person-group><article-title>PET/CT in nononcological lung diseases current applications and future perspectives</article-title><source>Eur Respir Rev</source><year>2016</year><volume>25</volume><issue>141</issue><fpage>247</fpage><lpage>258</lpage><pub-id pub-id-type="doi">10.1183/16000617.0051-2016</pub-id><pub-id pub-id-type="pmid">27581824</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>DL</given-names></name>
+<name><surname>Bedient</surname><given-names>TJ</given-names></name>
+<name><surname>Kozlowski</surname><given-names>J</given-names></name>
+<name><surname>Rosenbluth</surname><given-names>DB</given-names></name>
+<name><surname>Isakow</surname><given-names>W</given-names></name>
+<name><surname>Ferkol</surname><given-names>TW</given-names></name>
+<etal/>
+</person-group><article-title>[18F]fluorodeoxyglucose positron emission tomography for lung antiinflammatory response evaluation</article-title><source>Am J Respir Crit Care Med</source><year>2009</year><volume>180</volume><issue>6</issue><fpage>533</fpage><lpage>539</lpage><pub-id pub-id-type="doi">10.1164/rccm.200904-0501OC</pub-id><pub-id pub-id-type="pmid">19574441</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Groves</surname><given-names>AM</given-names></name>
+<name><surname>Win</surname><given-names>T</given-names></name>
+<name><surname>Screaton</surname><given-names>NJ</given-names></name>
+<name><surname>Berovic</surname><given-names>M</given-names></name>
+<name><surname>Endozo</surname><given-names>R</given-names></name>
+<name><surname>Booth</surname><given-names>H</given-names></name>
+</person-group><article-title>Idiopathic pulmonary fibrosis and diffuse parenchymal lung disease implications from initial experience with 18F-FDG PET/CT</article-title><source>J Nucl Med</source><year>2009</year><volume>50</volume><issue>4</issue><fpage>538</fpage><lpage>545</lpage><pub-id pub-id-type="doi">10.2967/jnumed.108.057901</pub-id><pub-id pub-id-type="pmid">19289428</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>DL</given-names></name>
+<name><surname>Rosenbluth</surname><given-names>DB</given-names></name>
+<name><surname>Mintun</surname><given-names>MA</given-names></name>
+<name><surname>Schuster</surname><given-names>DP</given-names></name>
+</person-group><article-title>FDG-PET imaging of pulmonary inflammation in healthy volunteers after airway instillation of endotoxin</article-title><source>J Appl Physiol (1985)</source><year>2006</year><volume>100</volume><issue>5</issue><fpage>1602</fpage><lpage>1609</lpage><pub-id pub-id-type="doi">10.1152/japplphysiol.01429.2005</pub-id><pub-id pub-id-type="pmid">16424067</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Win</surname><given-names>T</given-names></name>
+<name><surname>Lambrou</surname><given-names>T</given-names></name>
+<name><surname>Hutton</surname><given-names>BF</given-names></name>
+<name><surname>Kayani</surname><given-names>I</given-names></name>
+<name><surname>Screaton</surname><given-names>NJ</given-names></name>
+<name><surname>Porter</surname><given-names>JC</given-names></name>
+</person-group><article-title>18F-Fluorodeoxyglucose positron emission tomography pulmonary imaging in idiopathic pulmonary fibrosis is reproducible implications for future clinical trials</article-title><source>Eur J Nucl Med Mol Imaging</source><year>2012</year><volume>39</volume><issue>3</issue><fpage>521</fpage><lpage>528</lpage><pub-id pub-id-type="doi">10.1007/s00259-011-1986-7</pub-id><pub-id pub-id-type="pmid">22258710</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lota</surname><given-names>HK</given-names></name>
+<name><surname>Renzoni</surname><given-names>EA</given-names></name>
+</person-group><article-title>Circulating biomarkers of interstitial lung disease in systemic sclerosis</article-title><source>Int J Rheumatol</source><year>2012</year><volume>2012</volume><fpage>121439</fpage><lpage>121439</lpage><pub-id pub-id-type="doi">10.1155/2012/121439</pub-id><pub-id pub-id-type="pmid">22988462</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bonella</surname><given-names>F</given-names></name>
+<name><surname>Costabel</surname><given-names>U</given-names></name>
+</person-group><article-title>Biomarkers in connective tissue disease-associated interstitial lung disease</article-title><source>Semin Respir Crit Care Med</source><year>2014</year><volume>35</volume><issue>2</issue><fpage>181</fpage><lpage>200</lpage><pub-id pub-id-type="doi">10.1055/s-0034-1371527</pub-id><pub-id pub-id-type="pmid">24668534</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van den Hoogen</surname><given-names>F</given-names></name>
+<name><surname>Khanna</surname><given-names>D</given-names></name>
+<name><surname>Fransen</surname><given-names>J</given-names></name>
+<name><surname>Johnson</surname><given-names>SR</given-names></name>
+<name><surname>Baron</surname><given-names>M</given-names></name>
+<name><surname>Tyndall</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>2013 classification criteria for systemic sclerosis: an American College of Rheumatology/European League against Rheumatism collaborative initiative</article-title><source>Arthritis Rheum</source><year>2013</year><volume>65</volume><issue>11</issue><fpage>2737</fpage><lpage>2747</lpage><pub-id pub-id-type="doi">10.1002/art.38098</pub-id><pub-id pub-id-type="pmid">24122180</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hansell</surname><given-names>DM</given-names></name>
+<name><surname>Bankier</surname><given-names>AA</given-names></name>
+<name><surname>MacMahon</surname><given-names>H</given-names></name>
+<name><surname>McLoud</surname><given-names>TC</given-names></name>
+<name><surname>M&#x000fc;ller</surname><given-names>NL</given-names></name>
+<name><surname>Remy</surname><given-names>J</given-names></name>
+</person-group><article-title>Fleischner Society glossary of terms for thoracic imaging</article-title><source>Radiology</source><year>2008</year><volume>246</volume><issue>3</issue><fpage>697</fpage><lpage>722</lpage><pub-id pub-id-type="doi">10.1148/radiol.2462070712</pub-id><pub-id pub-id-type="pmid">18195376</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pellegrino</surname><given-names>R</given-names></name>
+<name><surname>Viegi</surname><given-names>G</given-names></name>
+<name><surname>Brusasco</surname><given-names>V</given-names></name>
+<name><surname>Crapo</surname><given-names>RO</given-names></name>
+<name><surname>Burgos</surname><given-names>F</given-names></name>
+<name><surname>Casaburi</surname><given-names>R</given-names></name>
+</person-group><article-title>Interpretative strategies for lung function tests</article-title><source>Eur Respir J</source><year>2005</year><volume>26</volume><issue>5</issue><fpage>948</fpage><lpage>968</lpage><pub-id pub-id-type="doi">10.1183/09031936.05.00035205</pub-id><pub-id pub-id-type="pmid">16264058</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Souza</surname><given-names>RB</given-names></name>
+<name><surname>Pereira</surname><given-names>CA</given-names></name>
+</person-group><article-title>Diretrizes para testes de fun&#x000e7;&#x000e3;o pulmonar</article-title><source>J Pneumol</source><year>2002</year><volume>28</volume><issue>3</issue><fpage>155</fpage><lpage>165</lpage></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shah</surname><given-names>RM</given-names></name>
+<name><surname>Jimenez</surname><given-names>S</given-names></name>
+<name><surname>Wechsler</surname><given-names>R</given-names></name>
+</person-group><article-title>Significance of ground-glass opacity on HRCT in long-term follow-up of patients with systemic sclerosis</article-title><source>J Thorac Imaging</source><year>2007</year><volume>22</volume><issue>2</issue><fpage>120</fpage><lpage>124</lpage><pub-id pub-id-type="doi">10.1097/01.rti.0000213572.16904.40</pub-id><pub-id pub-id-type="pmid">17527113</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Peelen</surname><given-names>DM</given-names></name>
+<name><surname>Zwezerijnen</surname><given-names>BGJC</given-names></name>
+<name><surname>Nossent</surname><given-names>EJ</given-names></name>
+<name><surname>Meijboom</surname><given-names>LJ</given-names></name>
+<name><surname>Hoekstra</surname><given-names>OS</given-names></name>
+<name><surname>Van der Laken</surname><given-names>CJ</given-names></name>
+<etal/>
+</person-group><article-title>The quantitative assessment of interstitial lung disease with positron emission tomography scanning in systemic sclerosis patients</article-title><source>Rheumatology (Oxford)</source><year>2020</year><volume>59</volume><issue>6</issue><fpage>1407</fpage><lpage>1415</lpage><pub-id pub-id-type="doi">10.1093/rheumatology/kez483</pub-id><pub-id pub-id-type="pmid">31642912</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ledoult</surname><given-names>E</given-names></name>
+<name><surname>Morelle</surname><given-names>M</given-names></name>
+<name><surname>Soussan</surname><given-names>M</given-names></name>
+<name><surname>M&#x000e9;kinian</surname><given-names>A</given-names></name>
+<name><surname>B&#x000e9;hal</surname><given-names>H</given-names></name>
+<name><surname>Sobanski</surname><given-names>V</given-names></name>
+</person-group><article-title>18F-FDG positron emission tomography scanning in systemic sclerosis-associated interstitial lung disease a pilot study</article-title><source>Arthritis Res Ther</source><year>2021</year><volume>23</volume><issue>1</issue><fpage>76</fpage><lpage>76</lpage><pub-id pub-id-type="doi">10.1186/s13075-021-02460-8</pub-id><pub-id pub-id-type="pmid">33673861</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bellando-Randone</surname><given-names>S</given-names></name>
+<name><surname>Tartarelli</surname><given-names>L</given-names></name>
+<name><surname>Cavigli</surname><given-names>E</given-names></name>
+<name><surname>Tofani</surname><given-names>L</given-names></name>
+<name><surname>Bruni</surname><given-names>C</given-names></name>
+<name><surname>Lepri</surname><given-names>G</given-names></name>
+</person-group><article-title>18F-fluorodeoxyglucose positron-emission tomography/CT and lung involvement in systemic sclerosis</article-title><source>Ann Rheum Dis</source><year>2019</year><volume>78</volume><issue>4</issue><fpage>577</fpage><lpage>578</lpage><pub-id pub-id-type="doi">10.1136/annrheumdis-2018-213376</pub-id><pub-id pub-id-type="pmid">30337426</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>DL</given-names></name>
+<name><surname>Rosenbluth</surname><given-names>DB</given-names></name>
+<name><surname>Mintun</surname><given-names>MA</given-names></name>
+<name><surname>Schuster</surname><given-names>DP</given-names></name>
+</person-group><article-title>FDG-PET imaging of pulmonary inflammation in healthy volunteers after airway instillation of endotoxin</article-title><source>J Appl Physiol (1985)</source><year>2006</year><volume>100</volume><issue>5</issue><fpage>1602</fpage><lpage>1609</lpage><pub-id pub-id-type="doi">10.1152/japplphysiol.01429.2005</pub-id><pub-id pub-id-type="pmid">16424067</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>DL</given-names></name>
+<name><surname>Cheriyan</surname><given-names>J</given-names></name>
+<name><surname>Chilvers</surname><given-names>ER</given-names></name>
+<name><surname>Choudhury</surname><given-names>G</given-names></name>
+<name><surname>Coello</surname><given-names>C</given-names></name>
+<name><surname>Connell</surname><given-names>M</given-names></name>
+</person-group><article-title>Quantification of Lung PET Images Challenges and Opportunities</article-title><source>J Nucl Med</source><year>2017</year><volume>58</volume><issue>2</issue><fpage>201</fpage><lpage>207</lpage><pub-id pub-id-type="doi">10.2967/jnumed.116.184796</pub-id><pub-id pub-id-type="pmid">28082432</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lambrou</surname><given-names>T</given-names></name>
+<name><surname>Groves</surname><given-names>AM</given-names></name>
+<name><surname>Erlandsson</surname><given-names>K</given-names></name>
+<name><surname>Screaton</surname><given-names>N</given-names></name>
+<name><surname>Endozo</surname><given-names>R</given-names></name>
+<name><surname>Win</surname><given-names>T</given-names></name>
+</person-group><article-title>The importance of correction for tissue fraction effects in lung PET preliminary findings</article-title><source>Eur J Nucl Med Mol Imaging</source><year>2011</year><volume>38</volume><issue>12</issue><fpage>2238</fpage><lpage>2246</lpage><pub-id pub-id-type="doi">10.1007/s00259-011-1906-x</pub-id><pub-id pub-id-type="pmid">21874321</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schroeder</surname><given-names>T</given-names></name>
+<name><surname>Melo</surname><given-names>MF</given-names></name>
+<name><surname>Venegas</surname><given-names>JG</given-names></name>
+</person-group><article-title>Analysis of 2-[Fluorine-18]-Fluoro-2-deoxy-D-glucose uptake kinetics in PET studies of pulmonary inflammation</article-title><source>Acad Radiol</source><year>2011</year><volume>18</volume><issue>4</issue><fpage>418</fpage><lpage>423</lpage><pub-id pub-id-type="doi">10.1016/j.acra.2010.11.019</pub-id><pub-id pub-id-type="pmid">21292507</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>DL</given-names></name>
+<name><surname>Mintun</surname><given-names>MA</given-names></name>
+<name><surname>Schuster</surname><given-names>DP</given-names></name>
+</person-group><article-title>Comparison of methods to quantitate 18F-FDG uptake with PET during experimental acute lung injury</article-title><source>J Nucl Med</source><year>2004</year><volume>45</volume><issue>9</issue><fpage>1583</fpage><lpage>1590</lpage><pub-id pub-id-type="pmid">15347728</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Win</surname><given-names>T</given-names></name>
+<name><surname>Screaton</surname><given-names>NJ</given-names></name>
+<name><surname>Porter</surname><given-names>JC</given-names></name>
+<name><surname>Ganeshan</surname><given-names>B</given-names></name>
+<name><surname>Maher</surname><given-names>TM</given-names></name>
+<name><surname>Fraioli</surname><given-names>F</given-names></name>
+</person-group><article-title>Pulmonary 18F-FDG uptake helps refine current risk stratification in idiopathic pulmonary fibrosis (IPF)</article-title><source>Eur J Nucl Med Mol Imaging</source><year>2018</year><volume>45</volume><issue>5</issue><fpage>806</fpage><lpage>815</lpage><pub-id pub-id-type="doi">10.1007/s00259-017-3917-8</pub-id><pub-id pub-id-type="pmid">29335764</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hasegawa</surname><given-names>M</given-names></name>
+<name><surname>Fujimoto</surname><given-names>M</given-names></name>
+<name><surname>Matsushita</surname><given-names>T</given-names></name>
+<name><surname>Hamaguchi</surname><given-names>Y</given-names></name>
+<name><surname>Takehara</surname><given-names>K</given-names></name>
+<name><surname>Sato</surname><given-names>S</given-names></name>
+</person-group><article-title>Serum chemokine and cytokine levels as indicators of disease activity in patients with systemic sclerosis</article-title><source>Clin Rheumatol</source><year>2011</year><volume>30</volume><issue>2</issue><fpage>231</fpage><lpage>237</lpage><pub-id pub-id-type="doi">10.1007/s10067-010-1610-4</pub-id><pub-id pub-id-type="pmid">21049277</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bandinelli</surname><given-names>F</given-names></name>
+<name><surname>Del Rosso</surname><given-names>A</given-names></name>
+<name><surname>Gabrielli</surname><given-names>A</given-names></name>
+</person-group><article-title>CCL2, CCL3 and CCL5 chemokines in systemic sclerosis the correlation with SSc clinical features and the effect of prostaglandin E1 treatment</article-title><source>Clin Exp Rheumatol</source><year>2012</year><volume>30</volume><issue>2 Suppl 71</issue><fpage>S44</fpage><lpage>S49</lpage></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lindahl</surname><given-names>GE</given-names></name>
+<name><surname>Stock</surname><given-names>CJ</given-names></name>
+<name><surname>Shi-Wen</surname><given-names>X</given-names></name>
+<name><surname>Leoni</surname><given-names>P</given-names></name>
+<name><surname>Sestini</surname><given-names>P</given-names></name>
+<name><surname>Howat</surname><given-names>SL</given-names></name>
+</person-group><article-title>Microarray profiling reveals suppressed interferon stimulated gene program in fibroblasts from scleroderma-associated interstitial lung disease</article-title><source>Respir Res</source><year>2013</year><volume>14</volume><issue>1</issue><fpage>80</fpage><lpage>80</lpage><pub-id pub-id-type="doi">10.1186/1465-9921-14-80</pub-id><pub-id pub-id-type="pmid">23915349</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bondue</surname><given-names>B</given-names></name>
+<name><surname>Sherer</surname><given-names>F</given-names></name>
+<name><surname>Van Simaeys</surname><given-names>G</given-names></name>
+<name><surname>Doumont</surname><given-names>G</given-names></name>
+<name><surname>Egrise</surname><given-names>D</given-names></name>
+<name><surname>Yakoub</surname><given-names>Y</given-names></name>
+</person-group><article-title>PET/CT with 18F-FDG- and 18F-FBEM-labeled leukocytes for metabolic activity and leukocyte recruitment monitoring in a mouse model of pulmonary fibrosis</article-title><source>J Nucl Med</source><year>2015</year><volume>56</volume><issue>1</issue><fpage>127</fpage><lpage>132</lpage><pub-id pub-id-type="doi">10.2967/jnumed.114.147421</pub-id><pub-id pub-id-type="pmid">25537989</pub-id></element-citation></ref></ref-list></back></article>

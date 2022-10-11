@@ -1,0 +1,326 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Bras Pneumol</journal-id><journal-id journal-id-type="iso-abbrev">J Bras Pneumol</journal-id><journal-id journal-id-type="publisher-id">jbpneu</journal-id><journal-title-group><journal-title>Jornal Brasileiro de Pneumologia</journal-title></journal-title-group><issn pub-type="ppub">1806-3713</issn><issn pub-type="epub">1806-3756</issn><publisher><publisher-name>Sociedade Brasileira de Pneumologia e Tisiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35674545</article-id><article-id pub-id-type="pmc">PMC9262437</article-id><article-id pub-id-type="doi">10.36416/1806-3756/e20210237</article-id><article-id pub-id-type="other">00000</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Routine spirometry in cystic fibrosis patients: impact on pulmonary exacerbation diagnosis and FEV<sub>1</sub> decline</article-title><trans-title-group xml:lang="pt"><trans-title>Espirometria de rotina em pacientes com fibrose c&#x000ed;stica: impacto no diagn&#x000f3;stico de exacerba&#x000e7;&#x000e3;o pulmonar e no decl&#x000ed;nio do VEF<sub>1</sub>
+</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0124-9636</contrib-id><name><surname>de Aquino</surname><given-names>Carolina Silva Barboza</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0928-3380</contrib-id><name><surname>Rodrigues</surname><given-names>Joaquim Carlos</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8431-1997</contrib-id><name><surname>da Silva-Filho</surname><given-names>Luiz Vicente Ribeiro Ferreira</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>. Instituto da Crian&#x000e7;a, Hospital das Cl&#x000ed;nicas, Faculdade de Medicina, Universidade de S&#x000e3;o Paulo, S&#x000e3;o Paulo (SP) Brasil.</aff><aff id="aff2">
+<label>2</label>. Centro de Pesquisa Experimental, Instituto de Ensino e Pesquisa, Hospital Israelita Albert Einstein, S&#x000e3;o Paulo (SP) Brasil.</aff><author-notes><corresp id="c1">
+<label>Correspondence to:</label> Carolina Silva Barboza de Aquino. Servi&#x000e7;o de Pneumologia Pedi&#x000e1;trica, Instituto da Crian&#x000e7;a, Hospital das Cl&#x000ed;nicas, Faculdade de Medicina, Universidade de S&#x000e3;o Paulo, Avenida Dr. En&#x000e9;as de Carvalho Aguiar, 647, CEP 05403-000, S&#x000e3;o Paulo, SP, Brasil. Tel.: 55 11 2661-8500 or 55 71 99978-2681. E-mail: <email>aquinocarolina04@yahoo.com.br</email>
+</corresp><fn fn-type="con" id="fn01"><p><bold>AUTHOR CONTRIBUTIONS:</bold> CSBA, JCR, and LVRFSF: conception and planning of the study. CSBA and LVRFSF: drafting and revision of the manuscript. LVRFSF: approval of the final version. </p></fn><fn fn-type="COI-statement" id="fn02"><p><bold>CONFLICT OF INTEREST:</bold> None declared. </p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>27</day><month>5</month><year>2022</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2022</year></pub-date><volume>48</volume><issue>3</issue><elocation-id>e20210237</elocation-id><history><date date-type="received"><day>11</day><month>6</month><year>2021</year></date><date date-type="accepted"><day>26</day><month>2</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; 2022 Sociedade Brasileira de Pneumologia e Tisiologia</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>Sociedade Brasileira de Pneumologia e Tisiologia</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License which permits unrestricted non-commercial use, distribution, and reproduction in any medium provided the original work is properly cited.</license-p></license></permissions><abstract><title>ABSTRACT</title><sec><title>Objective:</title><p>Pulmonary disease in cystic fibrosis (CF) is characterised by recurrent episodes of pulmonary exacerbations (PExs), with acute and long-term declines in lung function (FEV<sub>1</sub>). The study sought to determine whether routine spirometry increases the frequency of PEx diagnosis, resulting in benefits to long-term pulmonary function. </p></sec><sec><title>Methods:</title><p>CF patients in the 5- to 18-year age bracket were followed for 1 year, during which they underwent spirometry before every medical visit. The main variables were the frequency of PEx diagnosis and use of antibiotics; the use of spirometry as a criterion for PEx diagnosis (a decline &#x02265; 10% in baseline FEV<sub>1</sub>); and median percent predicted FEV<sub>1</sub> over time. The data were compared with those for the previous 24-month period, when spirometry was performed electively every 6 months. </p></sec><sec><title>Results:</title><p>The study included 80 CF patients. PExs were diagnosed in 27.5% of the visits, with a mean frequency of 1.44 PExs per patient/year in 2014 vs. 0.88 PExs per patient/year in 2012 (p = 0.0001) and 1.15 PExs per patient/year in 2013 (p = 0.05). FEV<sub>1</sub> was used as a diagnostic feature in 83.5% of PExs. In 21.9% of PExs, the decision to initiate antibiotics was solely based on an acute decline in FEV<sub>1</sub>. The median percent predicted FEV<sub>1</sub> during the follow-up year was 85.7%, being 78.5% in 2013 and 76.8% in 2012 (p &#x0003e; 0.05). The median percent predicted FEV<sub>1</sub> remained above 80% during the two years after the study. </p></sec><sec><title>Conclusions:</title><p>Routine spirometry is associated with higher rates of diagnosis and treatment of PExs, possibly impacting long-term pulmonary function. </p></sec></abstract><trans-abstract xml:lang="pt"><title>RESUMO</title><sec><title>Objetivo:</title><p>A doen&#x000e7;a pulmonar na fibrose c&#x000ed;stica (FC) &#x000e9; caracterizada por epis&#x000f3;dios recorrentes de exacerba&#x000e7;&#x000f5;es pulmonares (EP), com decl&#x000ed;nio agudo e em longo prazo da fun&#x000e7;&#x000e3;o pulmonar (VEF<sub>1</sub>). O objetivo deste estudo foi determinar se a espirometria de rotina aumenta a frequ&#x000ea;ncia de diagn&#x000f3;stico de EP, beneficiando a fun&#x000e7;&#x000e3;o pulmonar em longo prazo. </p></sec><sec><title>M&#x000e9;todos:</title><p>Pacientes com FC na faixa et&#x000e1;ria de 5 a 18 anos foram acompanhados durante 1 ano, ao longo do qual foram submetidos a espirometria antes de cada consulta m&#x000e9;dica. As principais vari&#x000e1;veis foram a frequ&#x000ea;ncia de diagn&#x000f3;stico de EP e uso de antibi&#x000f3;ticos; o uso da espirometria como crit&#x000e9;rio de diagn&#x000f3;stico de EP (decl&#x000ed;nio do VEF<sub>1</sub> basal &#x02265; 10%); e a mediana do VEF<sub>1</sub> em porcentagem do previsto ao longo do tempo. Os dados foram comparados &#x000e0;queles referentes aos 24 meses anteriores, per&#x000ed;odo durante o qual a espirometria era realizada eletivamente a cada 6 meses. </p></sec><sec><title>Resultados:</title><p>O estudo incluiu 80 pacientes com FC. EP foram diagnosticadas em 27,5% das consultas, com m&#x000e9;dia de frequ&#x000ea;ncia de 1,44 EP por paciente/ano em 2014 vs. 0,88 EP por paciente/ano em 2012 (p = 0,0001) e 1,15 EP por paciente/ano em 2013 (p = 0,05). O VEF<sub>1</sub> foi usado como recurso diagn&#x000f3;stico em 83,5% das EP. Em 21,9% das EP, a decis&#x000e3;o de iniciar a antibioticoterapia baseou-se exclusivamente no decl&#x000ed;nio agudo do VEF<sub>1</sub>. A mediana do VEF<sub>1</sub> em porcentagem do previsto foi de 85,7% durante o ano de acompanhamento, de 78,5% em 2013 e de 76,8% em 2012 (p &#x0003e; 0,05). A mediana do VEF<sub>1</sub> em porcentagem do previsto permaneceu acima de 80% durante os dois anos ap&#x000f3;s o estudo. </p></sec><sec><title>Conclus&#x000f5;es:</title><p>A espirometria de rotina est&#x000e1; associada a taxas mais elevadas de diagn&#x000f3;stico e tratamento de EP e possivelmente tem impacto na fun&#x000e7;&#x000e3;o pulmonar em longo prazo. </p></sec></trans-abstract><kwd-group><title>Keywords:</title><kwd>Cystic fibrosis</kwd><kwd>Respiratory function tests</kwd><kwd>Respiratory tract infections</kwd><kwd>Spirometry</kwd></kwd-group><kwd-group xml:lang="pt"><title>Descritores:</title><kwd>Fibrose c&#x000ed;stica</kwd><kwd>Testes de fun&#x000e7;&#x000e3;o respirat&#x000f3;ria</kwd><kwd>Infec&#x000e7;&#x000f5;es respirat&#x000f3;rias</kwd><kwd>Espirometria</kwd></kwd-group><counts><fig-count count="8"/><table-count count="2"/><equation-count count="0"/><ref-count count="28"/></counts></article-meta></front><body><sec sec-type="intro"><title>INTRODUCTION</title><p>Pulmonary disease is the main cause of morbidity and mortality for patients with cystic fibrosis (CF), which is characterised by recurrent episodes of acute worsening of pulmonary symptoms, known as pulmonary exacerbations (PExs).<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref> The severity of lung disease is assessed by FEV<sub>1</sub>, which is a well-documented predictor of mortality<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref> and which is used as an outcome in clinical trials<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref> and as a parameter to indicate and monitor therapeutic responses,<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref> as well as to refer patients for lung transplantation.<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref> The annual rate of decline in FEV<sub>1</sub> has been used as a predictor of survival and is a robust outcome measure in clinical trials, although it is still underused because of the individual variability of FEV<sub>1</sub> over time.<xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>FEV<sub>1</sub> is also routinely used as one of the parameters for diagnosing PExs, which are established by a combination of clinical features and spirometry results.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref> PExs have a major impact on long-term survival, quality of life, and deterioration of lung function.<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref> Roughly a quarter of patients do not recover their baseline lung function after intravenous or oral antibiotic treatment.<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> Despite their significant role in the progression of lung disease, PExs are still not fully understood, and a clear definition and well-established criteria for their diagnosis are lacking. This results in discrepancies in the treatment approach to PExs between many CF centres, increasing the risk of significant pulmonary function decline for the patients.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> In recent years, some authors have recommended antibiotic therapy for an acute decline in FEV<sub>1</sub> (a decline &#x02265; 10% in percent predicted FEV<sub>1</sub> at baseline), even in the absence of clinical signs and symptoms.<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B18" ref-type="bibr">
+<sup>18</sup>
+</xref> They argue that this approach is associated with a greater likelihood of recovering lung function and has long-term benefits.<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B18" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</p><p>Several international CF guidelines recommend routine FEV<sub>1</sub> measurements at all medical encounters,<xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref> but this practice is not universally adopted for several reasons. In developing countries such as Brazil, there are centres with limited technical and financial resources, which limit the availability of pulmonary function tests. In our CF centre, patients usually undergo medical consultations every 2 months, and spirometry used to be performed every 6 months. The objective of the present study was to evaluate the impact that performing spirometry at every encounter has on the frequency of diagnosis of PExs, as well as on long-term pulmonary function. </p></sec><sec sec-type="methods"><title>METHODS</title><p>This was a prospective study including CF patients in the 5- to 18-year age bracket followed at the outpatient clinic of our institution. The diagnosis of CF was based on newborn screening or clinical manifestations, in combination with two positive sweat chloride tests (&#x0003e; 60 mmol/L) and/or identification of two pathogenic variants in the <italic>CFTR</italic> gene. The study was approved by the local research ethics committee (CAAE: 28176614.7.0000.0068), and parents or caregivers gave written informed consent. A modified written informed consent was obtained from all of the patients over 7 years of age. </p><p>Beginning in January of 2014, all of the CF patients visiting our outpatient clinic underwent spirometry, with the results being immediately available to the attending physician during the consultation. Spirometry was performed with a previously calibrated Koko<sup>&#x000ae;</sup> spirometer (nSpire Health, Inc., Longmont, CO, USA), in accordance with the recommendations of the American Thoracic Society and the European Respiratory Society. Percent predicted FEV<sub>1</sub> values were calculated with the Global Lung Initiative equation.<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref> All included patients were followed for 12 consecutive months from the date of entry, and encounters were usually scheduled 2-3 months apart, with unscheduled, urgent visits when necessary. At the end of each encounter, the attending physician completed a questionnaire about whether or not a PEx was diagnosed at the time, whether or not antibiotic therapy was prescribed, and whether or not the pre-consultation spirometry had contributed to the treatment decision. Only the PExs diagnosed during patient encounters were considered for the analyses of frequency, but many patients were seen at unscheduled encounters. The choice of antibiotics was guided by culture, in accordance with the Brazilian guidelines for the diagnosis and treatment of CF.<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref>
+</p><p>Data collected during the 12-month follow-up period were compared with data for the 24 months prior to the study, during which spirometry was performed at 6-month intervals. To facilitate the description of the outcomes, the 24 months prior to the study were referred to as the years 2012 and 2013, and the follow-up year was referred to as 2014. The data for the 24 months prior to the study were collected from patient medical records. Additionally, FEV<sub>1</sub> values for the years 2015 and 2016 were obtained from the Brazilian CF Patient Registry. The registry contains the best FEV<sub>1</sub> (in L) in a given year and the anthropometric data collected on the same day, allowing the calculation of percent predicted FEV<sub>1</sub> values.</p><p>The primary outcome analysed was a diagnosis of PEx, defined as a new prescription of antibiotic therapy for a clinical worsening of respiratory symptoms. A secondary outcome was the utility of the spirometry results for the diagnosis of PEx, established by the attending physician using as a criterion an FEV<sub>1</sub> decline &#x02265; 10% with or without worsening pulmonary symptoms indicative of PEx. A tertiary outcome was percent predicted FEV<sub>1</sub> at baseline, defined as the best percent predicted FEV<sub>1</sub> in a given year. Qualitative data are described as absolute and relative frequencies (proportions), whereas quantitative data are summarised as means and standard deviations or medians and interquartile ranges, depending on the pattern of distribution of each variable. A paired t-test and the Wilcoxon signed-rank test were performed to evaluate the contribution of spirometry to the clinical decisions, as well as to compare mean FEV<sub>1</sub> values before and after the intervention. For the comparative analysis of data in the three periods, only patients with historical data were included. Analysis of the three periods was performed in pairs, 95% CIs being included. The probability of making a type I error was set at p &#x0003c; 0.05. All analyses were performed with the IBM SPSS statistics software package, version 19.0 (IBM Corporation, Armonk, NY, USA). </p></sec><sec sec-type="results"><title>RESULTS</title><p>The study included a total of 80 patients. The mean age was 12.1 years (<xref rid="f1" ref-type="fig">Figure 1</xref>). The characteristics of the patients are displayed in <xref rid="t1" ref-type="table">Table 1</xref>. During the follow-up, there were 418 encounters and an average of 5.2 consultations per patient/year. PExs were diagnosed in 27.5% of the encounters (115 occasions), at an average frequency of 1.44 PExs per patient/year (<xref rid="f2" ref-type="fig">Figure 2</xref>). This was a significantly higher frequency than that observed in the year 2012 (0.88 PExs/patient/year), but there was a marginal difference in the year 2013 (1.15 PExs/patient/year). </p><p>
+<table-wrap position="float" id="t1"><label>Table 1</label><caption><title>Baseline characteristics of the study population (N = 80).<sup>a</sup>
+</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/></colgroup><thead><tr><th align="center" rowspan="1" colspan="1">Characteristic</th><th align="center" rowspan="1" colspan="1">Result</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex<break/> Female<break/> Male</td><td align="center" rowspan="1" colspan="1">
+<break/> 31 (38.7)<break/> 49 (61.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, years</td><td align="center" rowspan="1" colspan="1">12.13 &#x000b1; 3.43</td></tr><tr><td align="left" rowspan="1" colspan="1">Age at diagnosis, years</td><td align="center" rowspan="1" colspan="1">2.60 &#x000b1; 3.71</td></tr><tr><td align="left" rowspan="1" colspan="1">Genotype<break/> F508del heterozygote<break/> F508del homozygote<break/> Other</td><td align="center" rowspan="1" colspan="1">
+<break/> 30 (40.5)<break/> 32 (43.3)<break/> 12 (16.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pancreatic insufficiency</td><td align="center" rowspan="1" colspan="1">80 (100)</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI, kg/m<sup>2</sup>
+</td><td align="center" rowspan="1" colspan="1">17.38 &#x000b1; 3.64</td></tr><tr><td align="left" rowspan="1" colspan="1">Shwachman-Kulczycki score</td><td align="center" rowspan="1" colspan="1">73.4 &#x000b1; 14.7</td></tr><tr><td align="left" rowspan="1" colspan="1">Microbiology<break/>
+<italic>Staphylococcus aure</italic>us<break/> MRSA<break/>
+<italic>Pseudomonas aeruginosa</italic>
+</td><td align="center" rowspan="1" colspan="1">
+<break/> 67 (84.8)<break/> 16 (20.2)<break/> 37 (46.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Chronic medication use<break/> Dornase alfa<break/> Inhaled tobramycin<break/> Hypertonic saline<break/> Azithromycin<break/> CFTR modulators</td><td align="center" rowspan="1" colspan="1">
+<break/> 71 (89.9)<break/> 33 (41.8)<break/> 29 (36.7)<break/> 30 (39.2)<break/> 0</td></tr><tr><td align="left" rowspan="1" colspan="1">FEV<sub>1</sub>, % predicted<break/> &#x02265; 90 (normal)<break/> 70-89 (normal/mild)<break/> 40-69 (moderate)<break/> &#x0003c; 40 (severe) </td><td align="center" rowspan="1" colspan="1">
+<break/> 32 (40)<break/> 21 (26.3)<break/> 18 (22.5)<break/> 9 (11.2)</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p>MRSA: methicillin-resistant <italic>Staphylococcus aureus</italic>; and CFTR: cystic fibrosis transmembrane conductance regulator. <sup>a</sup>Values expressed as n (%) or mean &#x000b1; SD. </p></fn></table-wrap-foot></table-wrap>
+</p><p>
+<fig position="float" id="f1"><label>Figure 1</label><caption><title>Study design. The study was completed in October of 2015, at which time the last patient to be included in the analysis completed 12 months of follow-up. CF: cystic fibrosis. </title></caption><graphic xlink:href="1806-3756-jbpneu-48-03-e20210237-gf1" position="float"/></fig>
+</p><p>
+<fig position="float" id="f2"><label>Figure 2</label><caption><title>Frequency of pulmonary exacerbations in the study population (N = 80), expressed as the mean &#x000b1; SD of pulmonary exacerbations per patient/year during the follow-up period and the two previous years. *Wilcoxon signed-rank test.</title></caption><graphic xlink:href="1806-3756-jbpneu-48-03-e20210237-gf2" position="float"/></fig>
+</p><p>The vast majority of PExs were treated on an outpatient basis with oral antibiotics in 85% of the occasions and inhaled antibiotics in 5% of the cases (with or without oral antibiotics). Hospitalisation for intravenous antibiotics was indicated in 10.4% of the cases. Pulmonary function (FEV<sub>1</sub>) was cited by the attending physician as a criterion for the diagnosis of PEx in 83.5% of the cases. In 21.9% of the cases diagnosed with a PEx, the decision to initiate antibiotic therapy was exclusively defined by the acute decline in FEV<sub>1</sub> (<xref rid="f3" ref-type="fig">Figure 3</xref>). Furthermore, in approximately 9% of the occasions, physicians reported that spirometry contributed to excluding an episode of PEx. </p><p>
+<fig position="float" id="f3"><label>Figure 3</label><caption><title>Absolute frequency of pulmonary exacerbation diagnosis in the study population (N = 80) in the years 2012, 2013, and 2014. The year 2014 displays the criteria used in order to diagnose pulmonary exacerbations. </title></caption><graphic xlink:href="1806-3756-jbpneu-48-03-e20210237-gf3" position="float"/></fig>
+</p><p>The median percent predicted FEV<sub>1</sub> was 85.7% (IQR: 54.7-102.7) during the follow-up period. The value was considerably higher than that for the 24 months prior to the study (76.9% [IQR: 57.6-95.2] for 2012 and 78.5% [IQR: 54.0-101.2] for 2013), but the difference was not statistically significant (<xref rid="f4" ref-type="fig">Figure 4</xref>). When the data from the years 2015 and 2016 were included in the analysis, we observed a steady linear decline of approximately 2% per year in median percent predicted FEV<sub>1</sub> values during the follow-up period. However, they remained above 80% in the years following the study (<xref rid="f4" ref-type="fig">Figure 4</xref>). </p><p>
+<fig position="float" id="f4"><label>Figure 4</label><caption><title>Median percent predicted FEV<sub>1</sub> values (IQR) during the study period. Data for the years 2015 and 2016 were obtained from the Brazilian Cystic Fibrosis Patient Registry. *Wilcoxon signed-rank test. </title></caption><graphic xlink:href="1806-3756-jbpneu-48-03-e20210237-gf4" position="float"/></fig>
+</p></sec><sec sec-type="discussion"><title>DISCUSSION</title><p>This study shows that performing spirometry at each encounter has a significant impact on the diagnosis of PExs during the outpatient management of CF patients. Spirometry was also associated with a meaningful increase in lung function. These findings reinforce the recommendations of several guidelines that spirometry be performed at each patient encounter and also indicate that recognising and treating PExs more often results in better lung function for CF patients. </p><p>An FEV<sub>1</sub> decline &#x02265; 10% was identified in 83.5% of PExs, and this finding was frequently used for the clinical decision to start antibiotics. Hence, a tendency was observed to diagnose more PExs and thus to prescribe more courses of antibiotics in comparison with the years prior to the study. Although there is still no clear definition of a PEx, the most used criterion<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref> requires that a decline &#x02265; 10% in baseline FEV<sub>1</sub> be associated with another 3 out of 11 clinical features to establish a PEx diagnosis.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref> Currently, there is still much controversy regarding the definition of PEx.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> Most definitions usually involve a medical decision to start a new course of antibiotics guided by worsening of the respiratory disease, as evidenced by intensification or new pulmonary signs and symptoms. Nevertheless, it is clear that FEV<sub>1</sub> measurements are very important.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><p>Frequent measurement of FEV<sub>1</sub> is vital to monitor its variations and to assess the severity of pulmonary disease in CF. Morgan et al.<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref> showed that baseline FEV<sub>1</sub> variability is a predictor of subsequent declines in lung function at all stages of the disease. They concluded that quantification of FEV<sub>1</sub> changes is important for identifying patients with a greater risk of decline in lung function.<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref> Additionally, there are data suggesting that patients with higher baseline FEV<sub>1</sub> have a higher risk of FEV<sub>1</sub> decline over time,<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref> which may be due to the fact that they receive fewer therapeutic interventions when facing a decline in their FEV<sub>1</sub> (such as antibiotics and hospitalisations).<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref> The current study showed that 21.9% of PEx diagnoses were recognised exclusively by the acute decline in FEV<sub>1</sub> in the absence of other signs and symptoms of worsening pulmonary disease. </p><p>A significant increase in the diagnosis of PEx was observed in the current study as a result of frequent FEV<sub>1</sub> measurements. However, other studies have shown that doctors do not treat all episodes of FEV<sub>1</sub> decline, even when they occur at a rate &#x02265; 10%.<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref> In a retrospective analysis of data from an epidemiologic study of CF,<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref> Wagener et al.<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref> showed that 29.3% of patients with an acute decline in FEV<sub>1</sub> &#x02265; 10% were not treated with antibiotics, particularly if they had not been admitted for intravenous treatment for PEx in the previous year. This may result in a significant decline in lung function over time because half of the functional declines seen in CF patients are associated with the occurrence of PExs.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> A higher frequency of PExs and a shorter interval between them are associated with a greater decline in FEV<sub>1</sub>, especially if the interval between PExs is less than 6 months.<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</p><p>Most of the PExs identified in the present study had a mild to moderate presentation characterised by a higher proportion of oral antibiotic use (85%), with only 10% of patients requiring hospitalisation for intravenous antibiotics. Although these events appeared to have a minor impact, most of the orally treated patients with PExs exhibited a decline in FEV<sub>1</sub>. This could indicate a slow or long-term decline and a lack of perception. Recent data indicate that even orally treated PExs may have a significant impact on lung function decline, even in patients without a significant decline in FEV<sub>1</sub> at the time of the PEx diagnosis.<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> There are still controversies in establishing a patient&#x02019;s baseline FEV<sub>1</sub> and defining how much recovery is expected following the treatment of a PEx. Nevertheless, it is reasonable to suggest that it is more detrimental to fail to diagnose and treat a PEx than to overtreat patients for an incorrect diagnosis.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>This study has several limitations. The study was not randomised, and we did not assess FEV<sub>1</sub> variations over time as an outcome measure or other aspects that could impact lung function decline, such as microbiological colonisation and adherence to treatment. Patients who had more advanced lung disease and who experienced frequent and prolonged hospitalisations were not included, because they had few outpatient consultations. The FEV<sub>1</sub> data for the years 2015 and 2016 were not obtained during regular consultations, being instead obtained from the Brazilian CF Patient Registry. In addition, a longer follow-up would be necessary to determine the annual rate of decline in FEV<sub>1</sub> and to identify additional risk factors. A possible bias is a change in behaviour of attending physicians facing more frequent lung function data. On the other hand, this was a real-life study, and the results were so impressive for our practice that spirometry was definitely incorporated into the routine of CF outpatient consultations, providing data for future studies. </p><p>The hypothesis that earlier diagnosis and more frequent treatment of PExs are associated with improved lung function in CF patients seems to be very likely. The median percent predicted FEV<sub>1</sub> increased from 78.5% to 85.7% during the follow-up period. Although this difference was not statistically significant, the improvement was sustained in the following years in which the pre-consultation spirometry protocol was maintained, with a median percent predicted FEV<sub>1</sub> above 80%. </p><p>New data stemming from the use of technological resources such as electronic home monitoring suggest that serial measurements of FEV<sub>1</sub> can improve the ability to detect a PEx at home, with high sensitivity and specificity.<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref> Furthermore, in a recent study, Schechter et al. reported the promising results of a standardised approach to recognising and treating PExs as early as possible.<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref> The approach emphasised frequent measurements of FEV<sub>1</sub>, being very sensitive and consistent with regard to intervention, which is triggered by changes as small as 5% in percent predicted FEV<sub>1</sub>. They reported a significant and marked improvement in lung function, with mean percent predicted FEV<sub>1</sub> values increasing from 87% to 98% in 5 years.<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p><p>In conclusion, the present study demonstrated that performing spirometry in CF patients during routine visits resulted in a significant increase in the frequency of PEx diagnosis and treatment. The impact of such a simple initiative can be substantial and even more relevant in countries such as Brazil, with reduced treatment resources and financial constraints. Further studies could be of value to identify other aspects that impact lung function in CF patients in Brazil. </p></sec></body><back><ack><title>ACKNOWLEDGEMENTS</title><p>The authors gratefully acknowledge the patients, parents, and clinicians for their contributions to this study. </p></ack><fn-group><fn fn-type="other" id="fn1"><label>1</label><p>Study carried out at the Instituto da Crian&#x000e7;a, Hospital das Cl&#x000ed;nicas, Faculdade de Medicina, Universidade de S&#x000e3;o Paulo, S&#x000e3;o Paulo (SP) Brasil.</p></fn><fn fn-type="supported-by" id="fn2"><p><bold>Financial support:</bold> None.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Elborn</surname><given-names>JS</given-names></name>
+</person-group><article-title>Cystic fibrosis</article-title><source>Lancet</source><year>2016</year><volume>388</volume><issue>10059</issue><fpage>2519</fpage><lpage>2531</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(16)00576-6</pub-id><pub-id pub-id-type="pmid">27140670</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Simmonds</surname><given-names>NJ</given-names></name>
+</person-group><article-title>Ageing in cystic fibrosis and long-term survival</article-title><source>Paediatr Respir Rev</source><year>2013</year><volume>14</volume><fpage>6</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.prrv.2013.01.007</pub-id><pub-id pub-id-type="pmid">23497942</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bhatt</surname><given-names>JM</given-names></name>
+</person-group><article-title>Treatment of pulmonary exacerbations in cystic fibrosis</article-title><source>Eur Respir Rev</source><year>2013</year><volume>22</volume><issue>129</issue><fpage>205</fpage><lpage>216</lpage><pub-id pub-id-type="doi">10.1183/09059180.00006512</pub-id><pub-id pub-id-type="pmid">23997047</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Quon</surname><given-names>BS</given-names></name>
+<name><surname>Aitken</surname><given-names>ML</given-names></name>
+</person-group><article-title>Cystic fibrosis: what to expect now in the early adult years</article-title><source>Paediatr Respir Rev</source><year>2012</year><volume>13</volume><issue>4</issue><fpage>206</fpage><lpage>214</lpage><pub-id pub-id-type="doi">10.1016/j.prrv.2012.03.005</pub-id><pub-id pub-id-type="pmid">23069117</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schluchter</surname><given-names>MD</given-names></name>
+<name><surname>Konstan</surname><given-names>MW</given-names></name>
+<name><surname>Drumm</surname><given-names>ML</given-names></name>
+<name><surname>Yankaskas</surname><given-names>JR</given-names></name>
+<name><surname>Knowles</surname><given-names>MR</given-names></name>
+</person-group><article-title>Classifying severity of cystic fibrosis lung disease using longitudinal pulmonary function data</article-title><source>Am J Respir Crit Care Med</source><year>2006</year><volume>174</volume><issue>7</issue><fpage>780</fpage><lpage>786</lpage><pub-id pub-id-type="doi">10.1164/rccm.200512-1919OC</pub-id><pub-id pub-id-type="pmid">16858011</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fuchs</surname><given-names>HJ</given-names></name>
+<name><surname>Borowitz</surname><given-names>DS</given-names></name>
+<name><surname>Christiansen</surname><given-names>DH</given-names></name>
+<name><surname>Morris</surname><given-names>EM</given-names></name>
+<name><surname>Nash</surname><given-names>ML</given-names></name>
+<name><surname>Ramsey</surname><given-names>BW</given-names></name>
+<etal/>
+</person-group><article-title>Effect of aerosolized recombinant human DNase on exacerbations of respiratory symptoms and on pulmonary function in patients with cystic fibrosis. The Pulmozyme Study Group</article-title><source>N Engl J Med</source><year>1994</year><volume>331</volume><issue>10</issue><fpage>637</fpage><lpage>642</lpage><pub-id pub-id-type="doi">10.1056/NEJM199409083311003</pub-id><pub-id pub-id-type="pmid">7503821</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Saiman</surname><given-names>L</given-names></name>
+<name><surname>Marshall</surname><given-names>BC</given-names></name>
+<name><surname>Mayer-Hamblett</surname><given-names>N</given-names></name>
+<name><surname>Burns</surname><given-names>JL</given-names></name>
+<name><surname>Quittner</surname><given-names>AL</given-names></name>
+<name><surname>Cibene</surname><given-names>DA</given-names></name>
+<etal/>
+</person-group><article-title>Azithromycin in patients with cystic fibrosis chronically infected with Pseudomonas aeruginosa: a randomized controlled trial</article-title><source>JAMA</source><year>2003</year><volume>290</volume><issue>13</issue><fpage>1749</fpage><lpage>1756</lpage><pub-id pub-id-type="doi">10.1001/jama.290.13.1749</pub-id><pub-id pub-id-type="pmid">14519709</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mogayzel</surname><given-names>PJ</given-names><suffix>Jr</suffix></name>
+<name><surname>Naureckas</surname><given-names>ET</given-names></name>
+<name><surname>Robinson</surname><given-names>KA</given-names></name>
+<name><surname>Mueller</surname><given-names>G</given-names></name>
+<name><surname>Hadjiliadis</surname><given-names>D</given-names></name>
+<name><surname>Hoag</surname><given-names>JB</given-names></name>
+<etal/>
+</person-group><article-title>Cystic fibrosis pulmonary guidelines. Chronic medications for maintenance of lung health</article-title><source>Am J Respir Crit Care Med</source><year>2013</year><volume>187</volume><issue>7</issue><fpage>680</fpage><lpage>689</lpage><pub-id pub-id-type="doi">10.1164/rccm.201207-1160OE</pub-id><pub-id pub-id-type="pmid">23540878</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yankaskas</surname><given-names>JR</given-names></name>
+<name><surname>Mallory</surname><given-names>GB</given-names><suffix>Jr</suffix></name>
+</person-group><article-title>Lung transplantation in cystic fibrosis: consensus conference statement</article-title><source>Chest</source><year>1998</year><volume>113</volume><issue>1</issue><fpage>217</fpage><lpage>226</lpage><pub-id pub-id-type="doi">10.1378/chest.113.1.217</pub-id><pub-id pub-id-type="pmid">9440593</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Que</surname><given-names>C</given-names></name>
+<name><surname>Cullinan</surname><given-names>P</given-names></name>
+<name><surname>Geddes</surname><given-names>D</given-names></name>
+</person-group><article-title>Improving rate of decline of FEV1 in young adults with cystic fibrosis</article-title><source>Thorax</source><year>2006</year><volume>61</volume><issue>2</issue><fpage>155</fpage><lpage>157</lpage><pub-id pub-id-type="doi">10.1136/thx.2005.043372</pub-id><pub-id pub-id-type="pmid">16384880</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Konstan</surname><given-names>MW</given-names></name>
+<name><surname>Wagener</surname><given-names>JS</given-names></name>
+<name><surname>Pasta</surname><given-names>DJ</given-names></name>
+<name><surname>Millar</surname><given-names>SJ</given-names></name>
+<name><surname>Jacobs</surname><given-names>JR</given-names></name>
+<name><surname>Yegin</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Clinical use of dornase alpha is associated with a slower rate of FEV1 decline in cystic fibrosis</article-title><source>Pediatr Pulmonol</source><year>2011</year><volume>46</volume><issue>6</issue><fpage>545</fpage><lpage>553</lpage><pub-id pub-id-type="doi">10.1002/ppul.21388</pub-id><pub-id pub-id-type="pmid">21438174</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Konstan</surname><given-names>MW</given-names></name>
+<name><surname>Wagener</surname><given-names>JS</given-names></name>
+<name><surname>Yegin</surname><given-names>A</given-names></name>
+<name><surname>Millar</surname><given-names>SJ</given-names></name>
+<name><surname>Pasta</surname><given-names>DJ</given-names></name>
+<name><surname>VanDevanter</surname><given-names>DR</given-names></name>
+</person-group><article-title>Design and powering of cystic fibrosis clinical trials using rate of FEV(1) decline as an efficacy endpoint</article-title><source>J Cyst Fibros</source><year>2010</year><volume>9</volume><issue>5</issue><fpage>332</fpage><lpage>338</lpage><pub-id pub-id-type="doi">10.1016/j.jcf.2010.05.004</pub-id><pub-id pub-id-type="pmid">20646968</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Waters</surname><given-names>V</given-names></name>
+<name><surname>Stanojevic</surname><given-names>S</given-names></name>
+<name><surname>Atenafu</surname><given-names>EG</given-names></name>
+<name><surname>Lu</surname><given-names>A</given-names></name>
+<name><surname>Yau</surname><given-names>Y</given-names></name>
+<name><surname>Tullis</surname><given-names>E</given-names></name>
+<etal/>
+</person-group><article-title>Effect of pulmonary exacerbations on long-term lung function decline in cystic fibrosis</article-title><source>Eur Respir J</source><year>2012</year><volume>40</volume><issue>1</issue><fpage>61</fpage><lpage>66</lpage><pub-id pub-id-type="doi">10.1183/09031936.00159111</pub-id><pub-id pub-id-type="pmid">22135280</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sanders</surname><given-names>DB</given-names></name>
+<name><surname>Bittner</surname><given-names>RC</given-names></name>
+<name><surname>Rosenfeld</surname><given-names>M</given-names></name>
+<name><surname>Hoffman</surname><given-names>LR</given-names></name>
+<name><surname>Redding</surname><given-names>GJ</given-names></name>
+<name><surname>Goss</surname><given-names>CH</given-names></name>
+</person-group><article-title>Failure to recover to baseline pulmonary function after cystic fibrosis pulmonary exacerbation</article-title><source>Am J Respir Crit Care Med</source><year>2010</year><volume>182</volume><issue>5</issue><fpage>627</fpage><lpage>632</lpage><pub-id pub-id-type="doi">10.1164/rccm.200909-1421OC</pub-id><pub-id pub-id-type="pmid">20463179</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stanojevic</surname><given-names>S</given-names></name>
+<name><surname>McDonald</surname><given-names>A</given-names></name>
+<name><surname>Waters</surname><given-names>V</given-names></name>
+<name><surname>MacDonald</surname><given-names>S</given-names></name>
+<name><surname>Horton</surname><given-names>E</given-names></name>
+<name><surname>Tullis</surname><given-names>E</given-names></name>
+<etal/>
+</person-group><article-title>Effect of pulmonary exacerbations treated with oral antibiotics on clinical outcomes in cystic fibrosis</article-title><source>Thorax</source><year>2017</year><volume>72</volume><issue>4</issue><fpage>327</fpage><lpage>332</lpage><pub-id pub-id-type="doi">10.1136/thoraxjnl-2016-208450</pub-id><pub-id pub-id-type="pmid">27539619</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schechter</surname><given-names>MS</given-names></name>
+</person-group><article-title>Reevaluating approaches to cystic fibrosis pulmonary exacerbations</article-title><source>Pediatr Pulmonol</source><year>2018</year><volume>53</volume><issue>S3</issue><fpage>S51</fpage><lpage>S63</lpage><pub-id pub-id-type="doi">10.1002/ppul.24125</pub-id><pub-id pub-id-type="pmid">29979495</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Morgan</surname><given-names>WJ</given-names></name>
+<name><surname>Wagener</surname><given-names>JS</given-names></name>
+<name><surname>Pasta</surname><given-names>DJ</given-names></name>
+<name><surname>Millar</surname><given-names>SJ</given-names></name>
+<name><surname>VanDevanter</surname><given-names>DR</given-names></name>
+<name><surname>Konstan</surname><given-names>MW</given-names></name>
+<etal/>
+</person-group><article-title>Relationship of Antibiotic Treatment to Recovery after Acute FEV1 Decline in Children with Cystic Fibrosis</article-title><source>Ann Am Thorac Soc</source><year>2017</year><volume>14</volume><issue>6</issue><fpage>937</fpage><lpage>942</lpage><pub-id pub-id-type="doi">10.1513/AnnalsATS.201608-615OC</pub-id><pub-id pub-id-type="pmid">28324670</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Konstan</surname><given-names>MW</given-names></name>
+<name><surname>Morgan</surname><given-names>WJ</given-names></name>
+<name><surname>Butler</surname><given-names>SM</given-names></name>
+<name><surname>Pasta</surname><given-names>DJ</given-names></name>
+<name><surname>Craib</surname><given-names>ML</given-names></name>
+<name><surname>Silva</surname><given-names>SJ</given-names></name>
+<etal/>
+</person-group><article-title>Risk factors for rate of decline in forced expiratory volume in one second in children and adolescents with cystic fibrosis</article-title><source>J Pediatr</source><year>2007</year><volume>151</volume><issue>2</issue><fpage>134</fpage><lpage>139.e1</lpage><pub-id pub-id-type="doi">10.1016/j.jpeds.2007.03.006</pub-id><pub-id pub-id-type="pmid">17643762</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Castellani</surname><given-names>C</given-names></name>
+<name><surname>Duff</surname><given-names>AJA</given-names></name>
+<name><surname>Bell</surname><given-names>SC</given-names></name>
+<name><surname>Heijerman</surname><given-names>HGM</given-names></name>
+<name><surname>Munck</surname><given-names>A</given-names></name>
+<name><surname>Ratjen</surname><given-names>F</given-names></name>
+<etal/>
+</person-group><article-title>ECFS best practice guidelines: the 2018 revision</article-title><source>J Cyst Fibros</source><year>2018</year><volume>17</volume><issue>2</issue><fpage>153</fpage><lpage>178</lpage><pub-id pub-id-type="doi">10.1016/j.jcf.2018.02.006</pub-id><pub-id pub-id-type="pmid">29506920</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>Cystic Fibrosis Foundation</collab>
+</person-group><person-group person-group-type="author">
+<name><surname>Borowitz</surname><given-names>D</given-names></name>
+<name><surname>Robinson</surname><given-names>KA</given-names></name>
+<name><surname>Rosenfeld</surname><given-names>M</given-names></name>
+<name><surname>Davis</surname><given-names>SD</given-names></name>
+<name><surname>Sabadosa</surname><given-names>KA</given-names></name>
+<etal/>
+</person-group><article-title>Cystic Fibrosis Foundation evidence-based guidelines for management of infants with cystic fibrosis</article-title><source>J Pediatr</source><year>2009</year><volume>155</volume><issue>6 Suppl</issue><fpage>S73</fpage><lpage>S93</lpage><pub-id pub-id-type="doi">10.1016/j.jpeds.2009.09.001</pub-id><pub-id pub-id-type="pmid">19914445</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Athanazio</surname><given-names>RA</given-names></name>
+<name><surname>Silva</surname><given-names>LVRF</given-names><suffix>Filho</suffix></name>
+<name><surname>Vergara</surname><given-names>AA</given-names></name>
+<name><surname>Ribeiro</surname><given-names>AF</given-names></name>
+<name><surname>Riedi</surname><given-names>CA</given-names></name>
+<name><surname>Procianoy</surname><given-names>EDFA</given-names></name>
+<etal/>
+</person-group><article-title>Brazilian guidelines for the diagnosis and treatment of cystic fibrosis</article-title><source>J Bras Pneumol</source><year>2017</year><volume>43</volume><issue>3</issue><fpage>219</fpage><lpage>245</lpage><pub-id pub-id-type="doi">10.1590/s1806-37562017000000065</pub-id><pub-id pub-id-type="pmid">28746534</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stanojevic</surname><given-names>S</given-names></name>
+<name><surname>Wade</surname><given-names>A</given-names></name>
+<name><surname>Cole</surname><given-names>TJ</given-names></name>
+<name><surname>Lum</surname><given-names>S</given-names></name>
+<name><surname>Custovic</surname><given-names>A</given-names></name>
+<name><surname>Silverman</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Spirometry centile charts for young Caucasian children: the Asthma UK Collaborative Initiative</article-title><source>Am J Respir Crit Care Med</source><year>2009</year><volume>180</volume><issue>6</issue><fpage>547</fpage><lpage>552</lpage><pub-id pub-id-type="doi">10.1164/rccm.200903-0323OC</pub-id><pub-id pub-id-type="pmid">19574442</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wagener</surname><given-names>JS</given-names></name>
+<name><surname>Williams</surname><given-names>MJ</given-names></name>
+<name><surname>Millar</surname><given-names>SJ</given-names></name>
+<name><surname>Morgan</surname><given-names>WJ</given-names></name>
+<name><surname>Pasta</surname><given-names>DJ</given-names></name>
+<name><surname>Konstan</surname><given-names>MW</given-names></name>
+</person-group><article-title>Pulmonary exacerbations and acute declines in lung function in patients with cystic fibrosis</article-title><source>J Cyst Fibros</source><year>2018</year><volume>17</volume><issue>4</issue><fpage>496</fpage><lpage>502</lpage><pub-id pub-id-type="doi">10.1016/j.jcf.2018.02.003</pub-id><pub-id pub-id-type="pmid">29685810</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Morgan</surname><given-names>WJ</given-names></name>
+<name><surname>VanDevanter</surname><given-names>DR</given-names></name>
+<name><surname>Pasta</surname><given-names>DJ</given-names></name>
+<name><surname>Foreman</surname><given-names>AJ</given-names></name>
+<name><surname>Wagener</surname><given-names>JS</given-names></name>
+<name><surname>Konstan</surname><given-names>MW</given-names></name>
+<etal/>
+</person-group><article-title>Forced Expiratory Volume in 1 Second Variability Helps Identify Patients with Cystic Fibrosis at Risk of Greater Loss of Lung Function [published correction appears in J Pediatr. 2018 Jun;197:322]</article-title><source>J Pediatr</source><year>2016</year><volume>169</volume><fpage>116</fpage><lpage>21.e2</lpage><pub-id pub-id-type="doi">10.1016/j.jpeds.2015.08.042</pub-id><pub-id pub-id-type="pmid">26388208</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Morgan</surname><given-names>WJ</given-names></name>
+<name><surname>Wagener</surname><given-names>JS</given-names></name>
+<name><surname>Yegin</surname><given-names>A</given-names></name>
+<name><surname>Pasta</surname><given-names>DJ</given-names></name>
+<name><surname>Millar</surname><given-names>SJ</given-names></name>
+<name><surname>Konstan</surname><given-names>MW</given-names></name>
+<etal/>
+</person-group><article-title>Probability of treatment following acute decline in lung function in children with cystic fibrosis is related to baseline pulmonary function</article-title><source>J Pediatr</source><year>2013</year><volume>163</volume><issue>4</issue><fpage>1152</fpage><lpage>7.e2</lpage><pub-id pub-id-type="doi">10.1016/j.jpeds.2013.05.013</pub-id><pub-id pub-id-type="pmid">23810128</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Morgan</surname><given-names>WJ</given-names></name>
+<name><surname>Butler</surname><given-names>SM</given-names></name>
+<name><surname>Johnson</surname><given-names>CA</given-names></name>
+<name><surname>Colin</surname><given-names>AA</given-names></name>
+<name><surname>FitzSimmons</surname><given-names>SC</given-names></name>
+<name><surname>Geller</surname><given-names>DE</given-names></name>
+<etal/>
+</person-group><article-title>Epidemiologic study of cystic fibrosis: design and implementation of a prospective, multicenter, observational study of patients with cystic fibrosis in the U.S. and Canada</article-title><source>Pediatr Pulmonol</source><year>1999</year><volume>28</volume><issue>4</issue><fpage>231</fpage><lpage>241</lpage><pub-id pub-id-type="doi">10.1002/(SICI)1099-0496(199910)28:4&#x0003c;231::AID-PPUL1&#x0003e;3.0.CO;2-2</pub-id><pub-id pub-id-type="pmid">10497371</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van Horck</surname><given-names>M</given-names></name>
+<name><surname>Winkens</surname><given-names>B</given-names></name>
+<name><surname>Wesseling</surname><given-names>G</given-names></name>
+<name><surname>van Vliet</surname><given-names>D</given-names></name>
+<name><surname>van de Kant</surname><given-names>K</given-names></name>
+<name><surname>Vaassen</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>Early detection of pulmonary exacerbations in children with Cystic Fibrosis by electronic home monitoring of symptoms and lung function [published correction appears in Sci Rep. 2018 Dec 13;8(1):17946]</article-title><source>Sci Rep</source><year>2017</year><volume>7</volume><issue>1</issue><fpage>12350</fpage><lpage>12350</lpage><pub-id pub-id-type="doi">10.1038/s41598-017-10945-3</pub-id><pub-id pub-id-type="pmid">28955051</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schechter</surname><given-names>MS</given-names></name>
+<name><surname>Schmidt</surname><given-names>HJ</given-names></name>
+<name><surname>Williams</surname><given-names>R</given-names></name>
+<name><surname>Norton</surname><given-names>R</given-names></name>
+<name><surname>Taylor</surname><given-names>D</given-names></name>
+<name><surname>Molzhon</surname><given-names>A</given-names></name>
+</person-group><article-title>Impact of a program ensuring consistent response to acute drops in lung function in children with cystic fibrosis</article-title><source>J Cyst Fibros</source><year>2018</year><volume>17</volume><issue>6</issue><fpage>769</fpage><lpage>778</lpage><pub-id pub-id-type="doi">10.1016/j.jcf.2018.06.003</pub-id><pub-id pub-id-type="pmid">30017327</pub-id></element-citation></ref></ref-list></back></article>

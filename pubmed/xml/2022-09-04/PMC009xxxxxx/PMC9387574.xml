@@ -1,0 +1,386 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Med Pharm Rep</journal-id><journal-id journal-id-type="iso-abbrev">Med Pharm Rep</journal-id><journal-id journal-id-type="publisher-id">Med Pharm Rep</journal-id><journal-title-group><journal-title>Medicine and Pharmacy Reports</journal-title></journal-title-group><issn pub-type="ppub">2602-0807</issn><issn pub-type="epub">2668-0572</issn><publisher><publisher-name>Iuliu Hatieganu University of Medicine and Pharmacy</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmc">PMC9387574</article-id><article-id pub-id-type="doi">10.15386/mpr-2195</article-id><article-id pub-id-type="publisher-id">cm-95-236</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject><subj-group><subject>Infectious Diseases</subject></subj-group></subj-group></article-categories><title-group><article-title>Hypercoagulability in COVID-19: from an unknown beginning to future therapies</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Duca</surname><given-names>&#x0015e;tefania-Teodora</given-names></name><xref rid="af1-cm-95-236" ref-type="aff">1</xref><xref rid="af2-cm-95-236" ref-type="aff">2</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Costache</surname><given-names>Alexandru-Dan</given-names></name><xref rid="af1-cm-95-236" ref-type="aff">1</xref><xref rid="af2-cm-95-236" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Miftode</surname><given-names>Radu-&#x0015e;tefan</given-names></name><xref rid="af1-cm-95-236" ref-type="aff">1</xref><xref rid="af2-cm-95-236" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Mitu</surname><given-names>Ovidiu</given-names></name><xref rid="af1-cm-95-236" ref-type="aff">1</xref><xref rid="af2-cm-95-236" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Petri&#x0015e;</surname><given-names>Antoniu-Octavian</given-names></name><xref rid="af1-cm-95-236" ref-type="aff">1</xref><xref rid="af2-cm-95-236" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Costache</surname><given-names>Irina-Iuliana</given-names></name><xref rid="af1-cm-95-236" ref-type="aff">1</xref><xref rid="af2-cm-95-236" ref-type="aff">2</xref></contrib></contrib-group><aff id="af1-cm-95-236">
+<label>1</label>Department of Medical Specialties I, Faculty of Medicine, &#x0201c;Grigore T. Popa&#x0201d; University of Medicine and Pharmacy Iasi, Romania</aff><aff id="af2-cm-95-236">
+<label>2</label>&#x0201c;Sf. Spiridon&#x0201d; County Clinical Emergency Hospital, Iasi, Romania</aff><author-notes><corresp id="c1-cm-95-236">Address for correspondence: <email>adcostache@yahoo.com</email></corresp></author-notes><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>26</day><month>7</month><year>2022</year></pub-date><volume>95</volume><issue>3</issue><fpage>236</fpage><lpage>242</lpage><history><date date-type="received"><day>05</day><month>5</month><year>2021</year></date><date date-type="rev-recd"><day>17</day><month>5</month><year>2022</year></date><date date-type="accepted"><day>31</day><month>5</month><year>2022</year></date></history><permissions><copyright-year>2022</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</license-p></license></permissions><abstract><p>Coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is a global public health concern and is characterized by an exaggerated inflammatory response that can lead to a large variety of clinical manifestations such as respiratory distress, sepsis, coagulopathy, and death. While it was initially considered primarily a respiratory illness, different data suggests that COVID-19 can lead to a pro-inflammatory milieu and a hypercoagulable state. Several mechanisms attempt to explain the pro-coagulant state seen in COVID-19 patients, including increased fibrinogen concentration, different receptor binding, exhausted fibrinolysis, cytokine storm, and endothelial dysfunction. Some hematological parameters, such as elevated D-dimers and other fibrinolytic products, indicate that the essence of coagulopathy is massive fibrin formation. Moreover, elevated D-dimer levels have emerged as an independent risk factor for a worse outcome, including death, indicating a potential risk for deep vein thrombosis and pulmonary thromboembolism. Prophylactic anticoagulation is recommended in all in-patients with COVID-19 to reduce the incidence of thrombosis. Those with elevated D-dimer values or with a higher risk of developing thromboembolic events should be treated with higher doses of anticoagulant. Anticoagulation may not be enough in some circumstances, highlighting the need for alternative therapies. An understanding of the complex cross-talk between inflammation and coagulopathy is necessary for developing direct appropriate interventional strategies.</p></abstract><kwd-group><kwd>COVID-19</kwd><kwd>coagulopathy</kwd><kwd>anticoagulant therapy</kwd></kwd-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Coronavirus disease-19 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, China, in the last days of 2019 [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b2-cm-95-236" ref-type="bibr">2</xref>]. The recent coronavirus outbreak had rapidly spread throughout the world, reaching the pandemic denomination by the World Health Organization (WHO) in March 2020 [<xref rid="b3-cm-95-236" ref-type="bibr">3</xref>&#x02013;<xref rid="b5-cm-95-236" ref-type="bibr">5</xref>]. The main mode of transmission of COVID-19 is human to human via droplets, the clinical syndrome being characterized by fever, cough and progression to the acute respiratory distress syndrome (ARDS), especially in the elderly and in patients with comorbidities [<xref rid="b2-cm-95-236" ref-type="bibr">2</xref>,<xref rid="b6-cm-95-236" ref-type="bibr">6</xref>&#x02013;<xref rid="b8-cm-95-236" ref-type="bibr">8</xref>]. Patients infected with SARS-CoV-2 are susceptible to a wide range of complications, coagulopathy being one of the most severe complications of the disease [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b2-cm-95-236" ref-type="bibr">2</xref>,<xref rid="b6-cm-95-236" ref-type="bibr">6</xref>,<xref rid="b9-cm-95-236" ref-type="bibr">9</xref>,<xref rid="b10-cm-95-236" ref-type="bibr">10</xref>]. The risk for various thrombotic events is markedly increased with case series studies reporting a prevalence between 25% to 43%, significantly higher than the incidence in patients without COVID [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b11-cm-95-236" ref-type="bibr">11</xref>,<xref rid="b12-cm-95-236" ref-type="bibr">12</xref>]. Several studies suggest that pulmonary embolism (PE) prevalence is 8.3% to 21% of the patients [<xref rid="b13-cm-95-236" ref-type="bibr">13</xref>&#x02013;<xref rid="b16-cm-95-236" ref-type="bibr">16</xref>]. It has been suggested that this hypercoagulability may be associated with older age, male gender, obesity, Caucasian and African-American ethnicities [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b4-cm-95-236" ref-type="bibr">4</xref>,<xref rid="b12-cm-95-236" ref-type="bibr">12</xref>]. In comparison to venous thrombosis, there have been a few cases of arterial events such as acute coronary syndromes, ischemic strokes and acute limb ischemia [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b4-cm-95-236" ref-type="bibr">4</xref>,<xref rid="b17-cm-95-236" ref-type="bibr">17</xref>,<xref rid="b18-cm-95-236" ref-type="bibr">18</xref>]. Thus, Lodigiani et al., reported an incidence of acute coronary syndromes of 1.1% in a group of 388 COVID-19 patients [<xref rid="b19-cm-95-236" ref-type="bibr">19</xref>]. Moreover, microvascular thrombosis are also mentioned in the literature and several clinical reports have shown evidence of thrombotic microangiopathy, especially in lung autopsies [<xref rid="b20-cm-95-236" ref-type="bibr">20</xref>].</p><p>In this review, we discuss the current understanding of potential mechanisms, hematological parameters, management and future therapies of the COVID-19-associated coagulopathy, summarizing the existing literature data until now.</p></sec><sec><title>Brief main headings</title><sec><title>Pathophysiology of COVID-19 coagulopathy</title><p>Critical illness is known to cause a hypercoagulable state due to mechanical ventilation, immobilization, central venous access devices, and nutritional deficiencies. However, COVID-19 appears to cause a hypercoagulable state through mechanisms unique to SARS-CoV-2 and centers around a complex cross-talk between inflammation and thrombosis [<xref rid="b21-cm-95-236" ref-type="bibr">21</xref>&#x02013;<xref rid="b23-cm-95-236" ref-type="bibr">23</xref>]. COVID-19 causes a severe proinflammatory state, as evident from multiple reports of high C-reactive protein, lactate dehydrogenase, ferritin or interleukin-6 [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b15-cm-95-236" ref-type="bibr">15</xref>,<xref rid="b24-cm-95-236" ref-type="bibr">24</xref>,<xref rid="b25-cm-95-236" ref-type="bibr">25</xref>]. Researchers presently believe that the central event that triggers the cycle of inflammation and thrombosis originates in the pulmonary alveoli, where SARS-CoV-2 binds to host cells through the angiotensin converting-enzyme (ACE) 2 receptor [<xref rid="b7-cm-95-236" ref-type="bibr">7</xref>,<xref rid="b26-cm-95-236" ref-type="bibr">26</xref>,<xref rid="b27-cm-95-236" ref-type="bibr">27</xref>].</p><p>SARS-CoV-2 infects host cells via the ACE2 receptor, component of the renin angiotensin aldosterone system (RAAS). RAAS has a central role in regulating blood pressure, mainly through its final effector, Angiotensin II (Ang II), a vasoactive hormone whose effects are mediated by its interaction with specific receptors &#x02013; Angiotensin II type 1 (AT1) and AT2 (AT3 and AT4 receptors do not have a fully elucidated role). ACE2 is an exopeptidase that catalyzes the conversion of Angiotensin 1 to the nonapeptide Angiotensins - (1&#x02013;12) and the conversion of Angiotensin II to Angiotensins 1&#x02013;7 (<xref rid="f1-cm-95-236" ref-type="fig">Figure 1</xref>). ACE2 is expressed especially in vascular endothelial cells, but also in the heart, kidney, nasal and pulmonary cells. Thus, by inactivating Angiotensin II, ACE2 diminishes its adverse effects.</p><p>SarsCov2 binds to the ACE2 receptors via a spike protein (S protein) which allows it to enter the host cell. This complex undergoes an endocytosis process that leads to the downregulation of ACE2 phenomena, resulting in the local accumulation of Angiotensin II, which is responsible for severe pulmonary injury (<xref rid="f2-cm-95-236" ref-type="fig">Figure 2</xref>).</p><p>On the other hand, the blockade of ACE interrupts the chain of events leading to the formation of Angiotensin 1&#x02013;7 with beneficial effects.</p><p>Upon infection, ACE expression is decreased, leading to Angiotensin II synthesis, that may cause susceptibility to SARS-CoV-2 entry into the tissue [<xref rid="b5-cm-95-236" ref-type="bibr">5</xref>,<xref rid="b7-cm-95-236" ref-type="bibr">7</xref>]. Thus, COVID-19 appears to generate worse outcomes in patients with hypertension, cardiovascular disease and diabetes, all of which are associated with reduced baseline levels of ACE2 expression, suggesting an imbalance in ACE1/ACE2 levels [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>].</p><p>The interleukin (IL)-6 and fibrinogen levels are correlated with each other in COVID-19 patients, supporting the idea of inflammatory thrombosis.</p><p>Thus, the trigger event that causes the cycle of inflammation and thrombosis has its origin in the pulmonary alveoli, where SarsCov2 enters through the ACE2 receptor in the alveolar epithelium. Consequently, a severe inflammatory response that outlines the thrombosis scene by multiple mechanisms is initiated [<xref rid="b14-cm-95-236" ref-type="bibr">14</xref>&#x02013;<xref rid="b22-cm-95-236" ref-type="bibr">22</xref>,<xref rid="b28-cm-95-236" ref-type="bibr">28</xref>&#x02013;<xref rid="b31-cm-95-236" ref-type="bibr">31</xref>] (<xref rid="f2-cm-95-236" ref-type="fig">Figure 2</xref>).</p></sec><sec><title>Cytokine storm action</title><p>The overproduction of pro-inflammatory cytokines and the overactivation of immune cells during SARS-CoV-2 infection is known as a cytokine storm [<xref rid="b5-cm-95-236" ref-type="bibr">5</xref>,<xref rid="b32-cm-95-236" ref-type="bibr">32</xref>]. Higher serum levels of proinflammatory cytokines, such as IL-6, IL-7, IL-1, tumor necrosis factor, interferon- &#x003b3; have been associated with severe illness and death in multiple studies. The &#x0201c;cytokine storm&#x0201d; contributes to thrombosis through multiple mechanisms, including the activation of neutrophils, monocytes and the endothelium, which generate a prothrombotic state [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b7-cm-95-236" ref-type="bibr">7</xref>,<xref rid="b33-cm-95-236" ref-type="bibr">33</xref>].</p></sec><sec><title>Endothelial activation and dysfunction</title><p>SARS-CoV-2 infection of the endothelial cell and the subsequent endothelial damage leads to endothelial activation and reduced endothelium-dependent vasodilation, resulting in a proinflammatory and procoagulant state [<xref rid="b34-cm-95-236" ref-type="bibr">34</xref>,<xref rid="b35-cm-95-236" ref-type="bibr">35</xref>]. The mechanisms of endothelial activation or dysfunction include the inflammatory cytokines, the activation of the complement components in the blood, or are a direct result of the SARS-CoV-2 infection of endothelial cells through the ACE2 receptor [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b20-cm-95-236" ref-type="bibr">20</xref>,<xref rid="b35-cm-95-236" ref-type="bibr">35</xref>].</p></sec><sec><title>Neutrophil extracellular traps</title><p>Neutrophils, which migrate alongside platelets to the site of endothelial damage, contribute significantly to thrombosis. This is due to an important defence mechanism, in which neutrophil release extracellular traps (NETs), a process known as NETosis [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b26-cm-95-236" ref-type="bibr">26</xref>]. NETs are described as extracellular DNA fibers released due to chromatin decondensation and spreading, comprised of histone and cytoplasmic granule proteins. In different conditions, NETs are recognized as linking inflammation, coagulation and thrombosis both on local and systemic levels.</p><p>There are several mechanisms which show that NET-driven thrombosis is platelet-dependent [<xref rid="b26-cm-95-236" ref-type="bibr">26</xref>]. First of all, histone proteins in the DNA fragments of NETs, serve as potent damage-associated molecular patterns which can further attract platelets and thereby initiate a positive feedback loop, inducing platelet aggregation through toll-like receptors on platelets. Secondly, NETs can interact with the von Willebrand factor, released by endothelial cells and platelets, which leads to platelet adhesion and fibrin formation. Additionally, during NETosis, neutrophil elastase, a serine protease, is released, which has previously been shown to inhibit anticoagulation by degrading the tissue factor pathway inhibitor and thrombomodulin. Degradation of these endogenous anticoagulants allows the unprohibited action of the tissue factor, leading to coagulation and thrombosis [<xref rid="b26-cm-95-236" ref-type="bibr">26</xref>,<xref rid="b34-cm-95-236" ref-type="bibr">34</xref>].</p></sec><sec><title>Complement-mediated microangiopathy</title><p>The complement system involves a cascade of processes, culminating in the formation of the terminal C5b-9 membrane attack complex, also observed in COVID-19. Complement activation regulates a proinflammatory response through the actions of C5a which activates both mannan binding lectin serine protease 4 (MASP)-1 and MASP-2. Afterwards, MASP-1 cleaves fibrinogen and factor XIII and therefore activates coagulation and MASP-2 amplifies the complement activity [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b7-cm-95-236" ref-type="bibr">7</xref>].</p></sec><sec><title>Abnormalities in the fibrinolysis system</title><p>Reduced fibrinolysis has been described in severe COVID-19 and increased thromboembolic events occur in patients with severe abnormalities of clot dissolution [<xref rid="b34-cm-95-236" ref-type="bibr">34</xref>,<xref rid="b36-cm-95-236" ref-type="bibr">36</xref>]. In severe COVID-19 infections, hypofibrinolysis has been well documented and has been linked to hypercoagulability, increased morbidity and mortality [<xref rid="b7-cm-95-236" ref-type="bibr">7</xref>,<xref rid="b37-cm-95-236" ref-type="bibr">37</xref>]. Even though the mechanism of hypofibrinolysis is still poorly understood, a few hypotheses exist. The fibrinolytic inhibitor plasminogen activator inhibitor 1 (PAI-1), which is considered the main responsible factor for the hypofibrinolysis, is increased in the COVID-19 infection through several mechanisms. Prior studies have shown that Ang II stimulates the expression and release of PAI-1 from the endothelial cells. Ang II perturbates endothelial functions in multiple ways, stimulating the expression of PAI-1 messenger RNA and PAI-1 production in endothelial cells via the AT1 receptor and further increasing plasma PAI-1 levels in a dose-dependent manner. As the binding of SARS-CoV-2 to ACE2 prevents the degradation of Ang II, the excess of Ang II further increases the level of PAI-1 [<xref rid="b38-cm-95-236" ref-type="bibr">38</xref>,<xref rid="b39-cm-95-236" ref-type="bibr">39</xref>]. Moreover, inflammation promotes PAI-1 release from endothelial cells, which suppresses urokinase-plasminogen activator and tissue-type plasminogen activator (tPA) from converting plasminogen to plasmin, which ultimately leads to reduced fibrin degradation [<xref rid="b34-cm-95-236" ref-type="bibr">34</xref>,<xref rid="b40-cm-95-236" ref-type="bibr">40</xref>]. Finally, PAI-1 expression is enhanced by complement activation, specifically by C5a [<xref rid="b7-cm-95-236" ref-type="bibr">7</xref>]. All of the mechanisms described above lead to the inhibition of fibrinolysis, causing a hypercoagulable state.</p></sec><sec><title>Additional prothrombotic risk factors</title><p>Additional mechanisms have been associated with thrombosis in COVID-19. Increased levels of ferritin and elevated antiphospholipid antibody titers in COVID-19 could contribute to inflammation and reflect cellular damage [<xref rid="b6-cm-95-236" ref-type="bibr">6</xref>,<xref rid="b34-cm-95-236" ref-type="bibr">34</xref>]. Obesity is a subacute inflammatory condition that is a risk factor for COVID-19 associated coagulopathy [<xref rid="b34-cm-95-236" ref-type="bibr">34</xref>]. Patients with ARDS resulting in hypoxia have an increased risk of hypoxia-induced endothelial damage [<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>].</p></sec><sec sec-type="results"><title>Hematologic laboratory findings in COVID-19</title><p>COVID-19 is associated with important findings in both hematology tests and coagulation parameters [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>]. The main purpose of these findings is to obtain prognostic information that may be used to assess the level of care, therefore being an indirect indicator of disease severity [<xref rid="b12-cm-95-236" ref-type="bibr">12</xref>,<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>]. The International Society on Thrombosis and Hemostasis (ISTH) has proposed the evaluation of different parameters for the prompt recognition of coagulopathy in patients with COVID-19, such as D-dimer levels, prothrombin time, platelet count, and fibrinogen values. Hematologic laboratory findings include thrombocytopenia, lymphopenia, leukopenia and an increased neutrophil to lymphocyte ratio (NLR) [<xref rid="b42-cm-95-236" ref-type="bibr">42</xref>&#x02013;<xref rid="b45-cm-95-236" ref-type="bibr">45</xref>]. Although initial studies from Wuhan reported leukopenia in hospitalized COVID-19 patients, subsequent reports showed that patients who required ICU admission had a higher neutrophil count [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>]. Since the lymphocyte count has gained much attention in COVID-19 patients, different studies report the presence of lymphopenia in this setting. An increasing neutrophil count in the setting of lymphopenia (NLR) appears to be a sensitive marker of early inflammation [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b45-cm-95-236" ref-type="bibr">45</xref>]. Although thrombocytopenia is considered the most sensitive indicator of sepsis-induced coagulopathy, its incidence is relatively low in COVID-19 and is more pronounced in severe infection [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b19-cm-95-236" ref-type="bibr">19</xref>,<xref rid="b35-cm-95-236" ref-type="bibr">35</xref>]. D-dimers are a marker of fibrin turnover and are an important monitoring test in COVID-19 patients, being also considered an independent predictor of poor outcome, including death [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b15-cm-95-236" ref-type="bibr">15</xref>,<xref rid="b25-cm-95-236" ref-type="bibr">25</xref>].</p></sec><sec><title>Management of COVID-19 associated coagulopathy</title><p>Treatments that target the hypercoagulable state may reduce the adverse microvascular and macrovascular effects of COVID-19 and these include anticoagulants, antiplatelet therapy, fibrinolytics and immune modulators, but numerous studies are ongoing [<xref rid="b34-cm-95-236" ref-type="bibr">34</xref>].</p></sec><sec><title>Prophylactic versus therapeutic anticoagulant dosage</title><p>For COVID-19, prophylactic anticoagulation with low-molecular-weight heparin (LMWH) as early as possible in order to prevent thrombotic events and organ damage is required [<xref rid="b11-cm-95-236" ref-type="bibr">11</xref>]. The majority of scientific societies recommend antithrombotic prophylaxis with LMWH or unfractionated heparin (UFH) for all admitted patients unless contraindicated [<xref rid="b11-cm-95-236" ref-type="bibr">11</xref>,<xref rid="b12-cm-95-236" ref-type="bibr">12</xref>,<xref rid="b26-cm-95-236" ref-type="bibr">26</xref>,<xref rid="b40-cm-95-236" ref-type="bibr">40</xref>,<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>]. For patients who develop venous thromboembolism, these guidelines suggest initial LMWH or UFH followed by the continuation of the same treatment schedule or shifting to warfarin or dabigatran analogues. Thrombolytic therapy is recommended only for acute patients with confirmed PE who show clinical deterioration [<xref rid="b21-cm-95-236" ref-type="bibr">21</xref>]. In addition, the use of heparin is not only helpful for the anticoagulant effect, but also for its anti-inflammatory properties in patients with COVID-19 [<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>]. If pharmacological prophylaxis is contraindicated, mechanical prophylaxis (e.g., limb compression) should be considered in immobilized patients [<xref rid="b40-cm-95-236" ref-type="bibr">40</xref>,<xref rid="b46-cm-95-236" ref-type="bibr">46</xref>]. It should be noted that dosing recommendations are dynamic, and in the early phases of the pandemic, higher doses of anticoagulation likely helped save the lives of many individuals with severe COVID-19 [<xref rid="b12-cm-95-236" ref-type="bibr">12</xref>]. It has been recommended to start therapeutic anticoagulation in patients with COVID-19 who have experienced a thromboembolic event or have a strong suspicion of venous thromboembolism [<xref rid="b12-cm-95-236" ref-type="bibr">12</xref>,<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>].</p></sec><sec><title>Antiplatelet therapy</title><p>Aspirin would seem to be a logical drug administered in COVID-19 because of its beneficial effects in patients with cardiovascular disease and irreversible antiplatelet effects. Il lowers both platelet aggregates in the lung and IL-6 production, which may reduce the cytokine storm [<xref rid="b22-cm-95-236" ref-type="bibr">22</xref>]. Patients who take low-dose aspirin should continue the therapy. In patients requiring a P2Y12 inhibitor, the drug of choice depends on the COVID-19 specific treatment [<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>].</p></sec><sec><title>Oral anticoagulation therapy</title><p>The patients who can have oral medication administrated should be transitioned to an oral anticoagulation therapy, such as a vitamin K antagonist. If there is an option for switching to direct oral anticoagulants (DOACs), it should be taken into consideration, because during isolation for COVID-19, regular international normalized ratio monitoring would likely be difficult [<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>,<xref rid="b47-cm-95-236" ref-type="bibr">47</xref>]. Some studies suggested to stop DOAC and shift to heparins due to the DOACs&#x02019; interaction with antivirals or immunosuppressive therapy [<xref rid="b21-cm-95-236" ref-type="bibr">21</xref>].</p></sec><sec><title>Fibrinolytic therapy</title><p>Fibrin deposition in the alveolar spaces, a known observation in ARDS, is leading to worse respiratory outcomes. Heparin agents are not effective against pre-existing fibrin deposits, although they prevent further fibrin deposition [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>]. Thus, other therapeutic options are needed. Few clinical reports have suggested that fibrinolytic therapy may be useful in improving survival in patients with COVID-19. The use of recombinant tissue plasminogen activator (t-PA) to treat ARDS in COVID-19 has been proposed, being associated with temporary improvement in respiratory failure, bleeding complications remaining a major concern of this therapy [<xref rid="b11-cm-95-236" ref-type="bibr">11</xref>]. A safer approach that may confer benefit in COVID-19 induced ARDS is the use of nebulized plasminogen, leading to improvements in lung function and oxygenation, at least temporary. Therefore, by avoiding the need of using a direct fibrinolytic agent (ie. t-PA), the bleeding risks commonly associated with thrombolysis would be reduced [<xref rid="b11-cm-95-236" ref-type="bibr">11</xref>,<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>].</p></sec><sec><title>Interactions between antiviral treatment, anticoagulant and antiplatelet therapy</title><p>Anticoagulant therapies have several drug-drug interactions, and most include vitamin K antagonists (VKA) and DOACs interactions with antiviral agents (lopinavir/ritonavir) and monoclonal antibodies (tocilizumab and sarilumab) [<xref rid="b40-cm-95-236" ref-type="bibr">40</xref>]. Thus, antiviral drugs interact with DOACs and may cause significantly increase their blood levels, thus enhancing the risk of bleeding [<xref rid="b48-cm-95-236" ref-type="bibr">48</xref>]. The effect of DOACs appears to be potentiated by atazanavir, lopinavir/ritonavir, hydroxychloroquine, and decreased by tocilizumab [<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>]. Atazanavir and lopinavir/ritonavir may also decrease the active metabolite of clopidogrel and prasugrel and increase ticagrelor&#x02019;s efficacy [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b40-cm-95-236" ref-type="bibr">40</xref>]. A list of drug interactions can be found at <ext-link xlink:href="http://covid19-druginteractions.org" ext-link-type="uri">http://covid19-druginteractions.org</ext-link>[<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>].</p></sec><sec><title>Duration of anticoagulation</title><p>The American Society of Hematology recommends that any decision to use extended post-discharge thromboprophylaxis with anticoagulation or aspirin should consider the individual patient&#x02019;s VTE risk factors, such as reduced mobility, coagulopathy, and bleeding risk. For patients who have been given empirical therapeutic anticoagulation for suspected PE, it is recommended that they should remain anticoagulated for at least 3 months, regardless of the results of future investigation studies. Moreover, cases of confirmed VTE should be considered as &#x0201c;provoked&#x0201d; and treated for a duration of 3&#x02013;6 months [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>].</p></sec><sec><title>Future therapeutic targets and areas of research</title><p>As previously highlighted, a unique mechanisms of inducing coagulopathy has been observed in COVID-19 [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>]. Several other potential therapies targeting endothelial dysfunction or fibrinolysis in COVID-19 patients have been proposed or are currently underway [<xref rid="b6-cm-95-236" ref-type="bibr">6</xref>]. The experimental use of immunosuppressive agents can potentially halt the bidirectional cross-talk between inflammation and the thrombosis process in COVID-19 patients [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>]. Different data showed that treatment with humanized anti-C5a antibody significantly ameliorated lung injury and inflammation. Thereby, complement inhibition with agents such as eculizumab, may also be a promising treatment for severe COVID-19 forms [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>]. Different studies propose several mechanisms of either directly targeting the molecules that form NETs, such as IL1&#x003b2;, or the processes that leads to their formation, since NETs have the potential to initiate and propagate both inflammation and thrombosis [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b49-cm-95-236" ref-type="bibr">49</xref>]. As the cytokine storm has an important role in thrombosis, anti-IL drugs may prove their role as a treatment option in affected patients. Studies are required to see the effect of tocilizumab (anti IL-6) and canakinumab (anti IL-1) for the treatment of COVID-19. Anti-Janus kinase and anti-human immunoglobulin G inhibitors may also be potential treatment options [<xref rid="b41-cm-95-236" ref-type="bibr">41</xref>]. Since the pathogenesis of inflammation and sepsis-induced coagulopathy involves the production of thrombin and the reduction of natural anticoagulant proteins, numerous studies have explored the benefit of using coagulation inhibitors such as antithrombin. In general, these data provide incentive for considering experimental therapies that address physiologic anticoagulant pathways that are most likely inhibited or inactivated in COVID-19 [<xref rid="b1-cm-95-236" ref-type="bibr">1</xref>,<xref rid="b10-cm-95-236" ref-type="bibr">10</xref>,<xref rid="b40-cm-95-236" ref-type="bibr">40</xref>]. There has been development in several research lines evaluating antithrombotic therapies, which are listed on <ext-link xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link>.</p></sec></sec><sec><title>Conclusion</title><p>In conclusion, the prothrombotic status in COVID-19 patients is a reality, being responsible for the occurrence of both arterial and venous thrombosis. Increased D-dimer levels are an independent risk factor for the adverse outcomes in patients with COVID-19.</p><p>The COVID-19 associated coagulopathy is emerging as a major pathological occurrence with multiple hypercoagulable events, including stroke, myocardial infarction and multisystemic organ failure. Accumulating evidence highlights that the hypercoagulability of SARS-CoV-2 involves a complex interplay of multiple pathways with unique mechanisms of thrombo-inflammation. A better understanding of this pathophysiology will allow to determine the optimal doses of anticoagulation therapies and to study other treatment modalities. Available evidence and guidelines recommend prophylactic anticoagulation with LMWH for all hospitalized patients.</p></sec></body><back><ref-list><title>References</title><ref id="b1-cm-95-236"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abou-Ismail</surname><given-names>MY</given-names></name><name><surname>Diamond</surname><given-names>A</given-names></name><name><surname>Kapoor</surname><given-names>S</given-names></name><name><surname>Arafah</surname><given-names>Y</given-names></name><name><surname>Nayak</surname><given-names>L</given-names></name></person-group>
+<article-title>The hypercoagulable state in COVID-19: Incidence, pathophysiology, and management</article-title>
+<source>Thromb Res</source>
+<year>2020</year>
+<volume>194</volume>
+<fpage>101</fpage>
+<lpage>115</lpage>
+<pub-id pub-id-type="pmid">32788101</pub-id></element-citation></ref><ref id="b2-cm-95-236"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Salabei</surname><given-names>JK</given-names></name><name><surname>Fishman</surname><given-names>TJ</given-names></name><name><surname>Asnake</surname><given-names>ZT</given-names></name><name><surname>Ali</surname><given-names>A</given-names></name><name><surname>Iyer</surname><given-names>UG</given-names></name></person-group>
+<article-title>COVID-19 Coagulopathy: Current knowledge and guidelines on anticoagulation</article-title>
+<source>Heart Lung</source>
+<year>2021</year>
+<volume>50</volume>
+<fpage>357</fpage>
+<lpage>360</lpage>
+<pub-id pub-id-type="pmid">33524866</pub-id></element-citation></ref><ref id="b3-cm-95-236"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scudiero</surname><given-names>F</given-names></name><name><surname>Silverio</surname><given-names>A</given-names></name><name><surname>Di Maio</surname><given-names>A</given-names></name><name><surname>Russo</surname><given-names>V</given-names></name><name><surname>Citro</surname><given-names>R</given-names></name><name><surname>Personeni</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Pulmonary embolism in COVID-19 patients: prevalence, predictors and clinical outcome</article-title>
+<source>Thromb Res</source>
+<year>2021</year>
+<volume>198</volume>
+<fpage>34</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="pmid">33271421</pub-id></element-citation></ref><ref id="b4-cm-95-236"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Singhania</surname><given-names>N</given-names></name><name><surname>Bansal</surname><given-names>S</given-names></name><name><surname>Nimmatoori</surname><given-names>DP</given-names></name><name><surname>Ejaz</surname><given-names>AA</given-names></name><name><surname>McCullough</surname><given-names>PA</given-names></name><name><surname>Singhania</surname><given-names>G</given-names></name></person-group>
+<article-title>Current Overview on Hypercoagulability in COVID-19</article-title>
+<source>Am J Cardiovasc Drugs</source>
+<year>2020</year>
+<volume>20</volume>
+<fpage>393</fpage>
+<lpage>403</lpage>
+<pub-id pub-id-type="pmid">32748336</pub-id></element-citation></ref><ref id="b5-cm-95-236"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sathler</surname><given-names>PC</given-names></name></person-group>
+<article-title>Hemostatic abnormalities in COVID-19: A guided review</article-title>
+<source>An Acad Bras Cienc</source>
+<year>2020</year>
+<volume>92</volume>
+<fpage>e20200834</fpage>
+<pub-id pub-id-type="pmid">32844987</pub-id></element-citation></ref><ref id="b6-cm-95-236"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meizoso</surname><given-names>JP</given-names></name><name><surname>Moore</surname><given-names>HB</given-names></name><name><surname>Moore</surname><given-names>EE</given-names></name></person-group>
+<article-title>Fibrinolysis Shutdown in COVID-19: Clinical Manifestations, Molecular Mechanisms, and Therapeutic Implications</article-title>
+<source>J Am Coll Surg</source>
+<year>2021</year>
+<volume>232</volume>
+<fpage>995</fpage>
+<lpage>1003</lpage>
+<pub-id pub-id-type="pmid">33766727</pub-id></element-citation></ref><ref id="b7-cm-95-236"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alam</surname><given-names>W</given-names></name></person-group>
+<article-title>Hypercoagulability in COVID-19: A review of the potential mechanisms underlying clotting disorders</article-title>
+<source>SAGE Open Med</source>
+<year>2021</year>
+<volume>9</volume>
+<comment>20503121211002996</comment>
+</element-citation></ref><ref id="b8-cm-95-236"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olson</surname><given-names>MC</given-names></name><name><surname>Lubner</surname><given-names>MG</given-names></name><name><surname>Menias</surname><given-names>CO</given-names></name><name><surname>Mellnick</surname><given-names>VM</given-names></name><name><surname>Gettle</surname><given-names>LM</given-names></name><name><surname>Kim</surname><given-names>DH</given-names></name><etal/></person-group>
+<article-title>RadioGraphics Update: Venous Thrombosis and Hypercoagulability in the Abdomen and Pelvis-Findings in COVID-19</article-title>
+<source>Radiographics</source>
+<year>2020</year>
+<volume>40</volume>
+<fpage>E24</fpage>
+<lpage>E28</lpage>
+<pub-id pub-id-type="pmid">32649264</pub-id></element-citation></ref><ref id="b9-cm-95-236"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frazer</surname><given-names>JS</given-names></name><name><surname>Everden</surname><given-names>AJT</given-names></name></person-group>
+<article-title>Emerging patterns of hypercoagulability associated with critical COVID-19: A review</article-title>
+<source>Trends in Anaesthesia &#x00026; Critical Care</source>
+<year>2020</year>
+<volume>34</volume>
+<fpage>4</fpage>
+<lpage>13</lpage>
+</element-citation></ref><ref id="b10-cm-95-236"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van de Bert</surname><given-names>TW</given-names></name><name><surname>Hulshof</surname><given-names>AM</given-names></name><name><surname>Nagy</surname><given-names>M</given-names></name><name><surname>van Oerle</surname><given-names>R</given-names></name><name><surname>Sels</surname><given-names>JW</given-names></name><name><surname>van Bussel</surname><given-names>B</given-names></name><etal/></person-group>
+<article-title>Suggestions for global coagulation assays for the assessment of COVID-19 associated hypercoagulability</article-title>
+<source>Thromb Res</source>
+<year>2021</year>
+<volume>201</volume>
+<fpage>84</fpage>
+<lpage>89</lpage>
+<pub-id pub-id-type="pmid">33662799</pub-id></element-citation></ref><ref id="b11-cm-95-236"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miesbach</surname><given-names>W</given-names></name><name><surname>Makris</surname><given-names>M</given-names></name></person-group>
+<article-title>COVID-19: Coagulopathy, Risk of Thrombosis, and the Rationale for Anticoagulation</article-title>
+<source>Clin Appl Thromb Hemost</source>
+<year>2020</year>
+<volume>26</volume>
+<fpage>1076029620938149</fpage>
+<pub-id pub-id-type="pmid">32677459</pub-id></element-citation></ref><ref id="b12-cm-95-236"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adam</surname><given-names>C</given-names></name><name><surname>Flora</surname><given-names>P</given-names></name></person-group>
+<article-title>COVID-19: Hypercoagulability</article-title>
+<source>Up to Date</source>
+<year>2021</year>
+</element-citation></ref><ref id="b13-cm-95-236"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fletcher-Sandersj&#x000f6;&#x000f6;</surname><given-names>A</given-names></name><name><surname>Bellander</surname><given-names>BM</given-names></name></person-group>
+<article-title>Is COVID-19 associated thrombosis caused by overactivation of the complement cascade? A literature review</article-title>
+<source>Thromb Res</source>
+<year>2020</year>
+<volume>194</volume>
+<fpage>36</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="pmid">32569879</pub-id></element-citation></ref><ref id="b14-cm-95-236"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Planquette</surname><given-names>B</given-names></name><name><surname>Le Berre</surname><given-names>A</given-names></name><name><surname>Khider</surname><given-names>L</given-names></name><name><surname>Yannoutsos</surname><given-names>A</given-names></name><name><surname>Gendron</surname><given-names>N</given-names></name><name><surname>de Torcy</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Prevalence and characteristics of pulmonary embolism in 1042 COVID-19 patients with respiratory symptoms: A nested case-control study</article-title>
+<source>Thromb Res</source>
+<year>2021</year>
+<volume>197</volume>
+<fpage>94</fpage>
+<lpage>99</lpage>
+<pub-id pub-id-type="pmid">33190025</pub-id></element-citation></ref><ref id="b15-cm-95-236"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Canzano</surname><given-names>P</given-names></name><name><surname>Brambilla</surname><given-names>M</given-names></name><name><surname>Porro</surname><given-names>B</given-names></name><name><surname>Cosentino</surname><given-names>N</given-names></name><name><surname>Tortorici</surname><given-names>E</given-names></name><name><surname>Vicini</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Platelet and Endothelial Activation as Potential Mechanisms Behind the Thrombotic Complications of COVID-19 Patients</article-title>
+<source>JACC Basic Transl Sci</source>
+<year>2021</year>
+<volume>6</volume>
+<fpage>202</fpage>
+<lpage>218</lpage>
+<pub-id pub-id-type="pmid">33649738</pub-id></element-citation></ref><ref id="b16-cm-95-236"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Panigada</surname><given-names>M</given-names></name><name><surname>Bottino</surname><given-names>N</given-names></name><name><surname>Tagliabue</surname><given-names>P</given-names></name><name><surname>Grasselli</surname><given-names>G</given-names></name><name><surname>Novembrino</surname><given-names>C</given-names></name><name><surname>Chantarangkul</surname><given-names>V</given-names></name><etal/></person-group>
+<article-title>Hypercoagulability of COVID-19 patients in intensive care unit: A report of thromboelastography findings and other parameters of hemostasis</article-title>
+<source>J Thromb Haemost</source>
+<year>2020</year>
+<volume>18</volume>
+<fpage>1738</fpage>
+<lpage>1742</lpage>
+<pub-id pub-id-type="pmid">32302438</pub-id></element-citation></ref><ref id="b17-cm-95-236"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aktaa</surname><given-names>S</given-names></name><name><surname>Wu</surname><given-names>J</given-names></name><name><surname>Nadarajah</surname><given-names>R</given-names></name><name><surname>Rashid</surname><given-names>M</given-names></name><name><surname>de Belder</surname><given-names>M</given-names></name><name><surname>Deanfield</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Incidence and mortality due to thromboembolic events during the COVID-19 pandemic: Multi-sourced population-based health records cohort study</article-title>
+<source>Thromb Res</source>
+<year>2021</year>
+<volume>202</volume>
+<fpage>17</fpage>
+<lpage>23</lpage>
+<pub-id pub-id-type="pmid">33711754</pub-id></element-citation></ref><ref id="b18-cm-95-236"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Warkentin</surname><given-names>TE</given-names></name><name><surname>Kaatz</surname><given-names>S</given-names></name></person-group>
+<article-title>COVID-19 versus HIT hypercoagulability</article-title>
+<source>Thromb Res</source>
+<year>2020</year>
+<volume>196</volume>
+<fpage>38</fpage>
+<lpage>51</lpage>
+<pub-id pub-id-type="pmid">32841919</pub-id></element-citation></ref><ref id="b19-cm-95-236"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lodigiani</surname><given-names>C</given-names></name><name><surname>Iapichino</surname><given-names>G</given-names></name><name><surname>Carenzo</surname><given-names>L</given-names></name><name><surname>Cecconi</surname><given-names>M</given-names></name><name><surname>Ferrazzi</surname><given-names>P</given-names></name><name><surname>Sebastian</surname><given-names>T</given-names></name><etal/></person-group>
+<article-title>Venous and arterial thromboembolic complications in COVID-19 patients admitted to an academic hospital in Milan. Italy</article-title>
+<source>Thromb Res</source>
+<year>2020</year>
+<volume>191</volume>
+<fpage>9</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="pmid">32353746</pub-id></element-citation></ref><ref id="b20-cm-95-236"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klok</surname><given-names>FA</given-names></name><name><surname>Kruip</surname><given-names>MJHA</given-names></name><name><surname>van der Meer</surname><given-names>NJM</given-names></name><name><surname>Arbous</surname><given-names>MS</given-names></name><name><surname>Gommers</surname><given-names>DAMP</given-names></name><name><surname>Kant</surname><given-names>KM</given-names></name><etal/></person-group>
+<article-title>Incidence of thrombotic complications in critically ill ICU patients with COVID-19</article-title>
+<source>Thromb Res</source>
+<year>2020</year>
+<volume>191</volume>
+<fpage>145</fpage>
+<lpage>147</lpage>
+<pub-id pub-id-type="pmid">32291094</pub-id></element-citation></ref><ref id="b21-cm-95-236"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aggarwal</surname><given-names>M</given-names></name><name><surname>Dass</surname><given-names>J</given-names></name><name><surname>Mahapatra</surname><given-names>M</given-names></name></person-group>
+<article-title>Hemostatic Abnormalities in COVID-19: An Update</article-title>
+<source>Indian J Hematol Blood Transfus</source>
+<year>2020</year>
+<volume>36</volume>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="pmid">32174687</pub-id></element-citation></ref><ref id="b22-cm-95-236"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mazzeffi</surname><given-names>MA</given-names></name><name><surname>Chow</surname><given-names>JH</given-names></name><name><surname>Tanaka</surname><given-names>K</given-names></name></person-group>
+<article-title>COVID-19 Associated Hypercoagulability: Manifestations, Mechanisms, and Management</article-title>
+<source>Shock</source>
+<year>2021</year>
+<volume>55</volume>
+<fpage>465</fpage>
+<lpage>471</lpage>
+<pub-id pub-id-type="pmid">32890309</pub-id></element-citation></ref><ref id="b23-cm-95-236"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Connors</surname><given-names>JM</given-names></name><name><surname>Levy</surname><given-names>JH</given-names></name></person-group>
+<article-title>Thromboinflammation and the hypercoagulability in COVID-19</article-title>
+<source>J Thromb Haemost</source>
+<year>2020</year>
+<volume>18</volume>
+<fpage>1559</fpage>
+<lpage>1561</lpage>
+<pub-id pub-id-type="pmid">32302453</pub-id></element-citation></ref><ref id="b24-cm-95-236"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boss</surname><given-names>K</given-names></name><name><surname>Kribben</surname><given-names>A</given-names></name><name><surname>Tyczynski</surname><given-names>B</given-names></name></person-group>
+<article-title>Pathological findings in rotation thromboelastometry associated with thromboembolic events in COVID-19 patients</article-title>
+<source>Thromb J</source>
+<year>2021</year>
+<volume>19</volume>
+<fpage>10</fpage>
+<pub-id pub-id-type="pmid">33573670</pub-id></element-citation></ref><ref id="b25-cm-95-236"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lorenzo</surname><given-names>C</given-names></name><name><surname>Francesca</surname><given-names>B</given-names></name><name><surname>Francesco</surname><given-names>P</given-names></name><name><surname>Elena</surname><given-names>C</given-names></name><name><surname>Luca</surname><given-names>S</given-names></name><name><surname>Paolo</surname><given-names>S</given-names></name></person-group>
+<article-title>Acute pulmonary embolism in COVID19 related hypercoagulability</article-title>
+<source>J Thromb Thrombolysis</source>
+<year>2020</year>
+<volume>50</volume>
+<fpage>223</fpage>
+<lpage>226</lpage>
+<pub-id pub-id-type="pmid">32474757</pub-id></element-citation></ref><ref id="b26-cm-95-236"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Becker</surname><given-names>RC</given-names></name></person-group>
+<article-title>COVID-19 update: Covid-19-associated coagulopathy</article-title>
+<source>J Thromb Thrombolysis</source>
+<year>2020</year>
+<volume>50</volume>
+<fpage>54</fpage>
+<lpage>67</lpage>
+<pub-id pub-id-type="pmid">32415579</pub-id></element-citation></ref><ref id="b27-cm-95-236"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kichloo</surname><given-names>A</given-names></name><name><surname>Dettloff</surname><given-names>K</given-names></name><name><surname>Aljadah</surname><given-names>M</given-names></name><name><surname>Albosta</surname><given-names>M</given-names></name><name><surname>Jamal</surname><given-names>S</given-names></name><name><surname>Singh</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>COVID-19 and Hypercoagulability: A Review</article-title>
+<source>Clin Appl Thromb Hemost</source>
+<year>2020</year>
+<volume>26</volume>
+<fpage>1076029620962853</fpage>
+<pub-id pub-id-type="pmid">33074732</pub-id></element-citation></ref><ref id="b28-cm-95-236"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bautista-Vargas</surname><given-names>M</given-names></name><name><surname>Bonilla-Abad&#x000ed;a</surname><given-names>F</given-names></name><name><surname>Ca&#x000f1;as</surname><given-names>CA</given-names></name></person-group>
+<article-title>Potential role for tissue factor in the pathogenesis of hypercoagulability associated with in COVID19</article-title>
+<source>J Thromb Thrombolysis</source>
+<year>2020</year>
+<volume>50</volume>
+<fpage>479</fpage>
+<lpage>483</lpage>
+<pub-id pub-id-type="pmid">32519164</pub-id></element-citation></ref><ref id="b29-cm-95-236"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rico-Mesa</surname><given-names>JS</given-names></name><name><surname>Rosas</surname><given-names>D</given-names></name><name><surname>Ahmadian-Tehrani</surname><given-names>A</given-names></name><name><surname>White</surname><given-names>A</given-names></name><name><surname>Anderson</surname><given-names>AS</given-names></name><name><surname>Chilton</surname><given-names>R</given-names></name></person-group>
+<article-title>The Role of Anticoagulation in COVID-19-Induced Hypercoagulability</article-title>
+<source>Curr Cardiol Rep</source>
+<year>2020</year>
+<volume>22</volume>
+<fpage>53</fpage>
+<pub-id pub-id-type="pmid">32556892</pub-id></element-citation></ref><ref id="b30-cm-95-236"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arena</surname><given-names>AW</given-names></name><name><surname>Hussein</surname><given-names>A</given-names></name><name><surname>Kurkowski</surname><given-names>EJ</given-names></name><name><surname>Kulkarni</surname><given-names>ML</given-names></name></person-group>
+<article-title>Can&#x02019;t Dissolve Me Now: A COVID-19 Provoked Venous Thromboembolism Breaks Through Apixaban: Case Report</article-title>
+<source>Clin Pract Cases Emerg Med</source>
+<year>2021</year>
+<volume>5</volume>
+<fpage>202</fpage>
+<lpage>205</lpage>
+<pub-id pub-id-type="pmid">34437005</pub-id></element-citation></ref><ref id="b31-cm-95-236"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>TS</given-names></name><name><surname>Lin</surname><given-names>L</given-names></name></person-group>
+<article-title>The Pathogenesis of COVID-19 Indicates Therapeutic Strategies</article-title>
+<source>Infectious Diseseas &#x00026; Immunity</source>
+<year>2021</year>
+<volume>1</volume>
+<fpage>5</fpage>
+<lpage>7</lpage>
+</element-citation></ref><ref id="b32-cm-95-236"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tan</surname><given-names>CW</given-names></name><name><surname>Low</surname><given-names>JGH</given-names></name><name><surname>Wong</surname><given-names>WH</given-names></name><name><surname>Chua</surname><given-names>YY</given-names></name><name><surname>Goh</surname><given-names>SL</given-names></name><name><surname>Ng</surname><given-names>HJ</given-names></name></person-group>
+<article-title>Critically ill COVID-19 infected patients exhibit increased clot waveform analysis parameters consistent with hypercoagulability</article-title>
+<source>Am J Hematol</source>
+<year>2020</year>
+<volume>95</volume>
+<fpage>E156</fpage>
+<lpage>E158</lpage>
+<pub-id pub-id-type="pmid">32267008</pub-id></element-citation></ref><ref id="b33-cm-95-236"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garc&#x000ed;a-Ortega</surname><given-names>A</given-names></name><name><surname>Oscullo</surname><given-names>G</given-names></name><name><surname>Calvillo</surname><given-names>P</given-names></name><name><surname>L&#x000f3;pez-Reyes</surname><given-names>R</given-names></name><name><surname>M&#x000e9;ndez</surname><given-names>R</given-names></name><name><surname>G&#x000f3;mez-Olivas</surname><given-names>JD</given-names></name><etal/></person-group>
+<article-title>Incidence, risk factors, and thrombotic load of pulmonary embolism in patients hospitalized for COVID-19 infection</article-title>
+<source>J Infect</source>
+<year>2021</year>
+<volume>82</volume>
+<fpage>261</fpage>
+<lpage>269</lpage>
+<pub-id pub-id-type="pmid">33440207</pub-id></element-citation></ref><ref id="b34-cm-95-236"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Loo</surname><given-names>J</given-names></name><name><surname>Spittle</surname><given-names>DA</given-names></name><name><surname>Newnham</surname><given-names>M</given-names></name></person-group>
+<article-title>COVID-19, immunothrombosis and venous thromboembolism: biological mechanisms</article-title>
+<source>Thorax</source>
+<year>2021</year>
+<volume>76</volume>
+<fpage>412</fpage>
+<lpage>420</lpage>
+<pub-id pub-id-type="pmid">33408195</pub-id></element-citation></ref><ref id="b35-cm-95-236"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iba</surname><given-names>T</given-names></name><name><surname>Levy</surname><given-names>JH</given-names></name><name><surname>Levi</surname><given-names>M</given-names></name><name><surname>Thachil</surname><given-names>J</given-names></name></person-group>
+<article-title>Coagulopathy in COVID-19</article-title>
+<source>J Thromb Haemost</source>
+<year>2020</year>
+<volume>18</volume>
+<fpage>2103</fpage>
+<lpage>2109</lpage>
+<pub-id pub-id-type="pmid">32558075</pub-id></element-citation></ref><ref id="b36-cm-95-236"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blasi</surname><given-names>A</given-names></name><name><surname>von Meijenfeldt</surname><given-names>FA</given-names></name><name><surname>Adelmeijer</surname><given-names>J</given-names></name><name><surname>Calvo</surname><given-names>A</given-names></name><name><surname>Iba&#x000f1;ez</surname><given-names>C</given-names></name><name><surname>Perdomo</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>In vitro hypercoagulability and ongoing in vivo activation of coagulation and fibrinolysis in COVID-19 patients on anticoagulation</article-title>
+<source>J Thromb Haemost</source>
+<year>2020</year>
+<volume>18</volume>
+<fpage>2646</fpage>
+<lpage>2653</lpage>
+<pub-id pub-id-type="pmid">32762118</pub-id></element-citation></ref><ref id="b37-cm-95-236"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Creel-Bulos</surname><given-names>C</given-names></name><name><surname>Auld</surname><given-names>SC</given-names></name><name><surname>Caridi-Scheible</surname><given-names>M</given-names></name><name><surname>Barker</surname><given-names>NA</given-names></name><name><surname>Friend</surname><given-names>S</given-names></name><name><surname>Gaddh</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Fibrinolysis Shutdown and Thrombosis in a COVID-19 ICU</article-title>
+<source>Shock</source>
+<year>2021</year>
+<volume>55</volume>
+<fpage>316</fpage>
+<lpage>320</lpage>
+<pub-id pub-id-type="pmid">32769822</pub-id></element-citation></ref><ref id="b38-cm-95-236"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Siddiqi</surname><given-names>HK</given-names></name><name><surname>Libby</surname><given-names>P</given-names></name><name><surname>Ridker</surname><given-names>PM</given-names></name></person-group>
+<article-title>COVID-19 &#x02013; A vascular disease</article-title>
+<source>Trends Cardiovasc Med</source>
+<year>2021</year>
+<volume>21</volume>
+<fpage>1</fpage>
+<lpage>5</lpage>
+</element-citation></ref><ref id="b39-cm-95-236"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miesbach</surname><given-names>W</given-names></name></person-group>
+<article-title>Pathological Role of Angiotensin II in Severe COVID-19</article-title>
+<source>TH Open</source>
+<year>2020</year>
+<volume>4</volume>
+<fpage>e138</fpage>
+<lpage>e144</lpage>
+<pub-id pub-id-type="pmid">32607467</pub-id></element-citation></ref><ref id="b40-cm-95-236"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ortega-Paz</surname><given-names>L</given-names></name><name><surname>Capodanno</surname><given-names>D</given-names></name><name><surname>Montalescot</surname><given-names>G</given-names></name><name><surname>Angiolillo</surname><given-names>DJ</given-names></name></person-group>
+<article-title>Coronavirus Disease-2019 Associated Thrombosis and Coagulopathy: Review of the Pathophysiological Characteristics and Implications for Antithrombotic Management</article-title>
+<source>J Am Heart Assoc</source>
+<year>2021</year>
+<volume>10</volume>
+<fpage>e019650</fpage>
+<pub-id pub-id-type="pmid">33228447</pub-id></element-citation></ref><ref id="b41-cm-95-236"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hajra</surname><given-names>A</given-names></name><name><surname>Mathai</surname><given-names>SV</given-names></name><name><surname>Ball</surname><given-names>S</given-names></name><name><surname>Bandyopadhyay</surname><given-names>D</given-names></name><name><surname>Veyseh</surname><given-names>M</given-names></name><name><surname>Chakraborty</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Management of Thrombotic Complications in COVID-19: An Update</article-title>
+<source>Drugs</source>
+<year>2020</year>
+<volume>80</volume>
+<fpage>1553</fpage>
+<lpage>1562</lpage>
+<pub-id pub-id-type="pmid">32803670</pub-id></element-citation></ref><ref id="b42-cm-95-236"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spiezia</surname><given-names>L</given-names></name><name><surname>Boscolo</surname><given-names>A</given-names></name><name><surname>Poletto</surname><given-names>F</given-names></name><name><surname>Cerruti</surname><given-names>L</given-names></name><name><surname>Tiberio</surname><given-names>I</given-names></name><name><surname>Campello</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title>COVID-19-Related Severe Hypercoagulability in Patients Admitted to Intensive Care Unit for Acute Respiratory Failure</article-title>
+<source>Thromb Haemost</source>
+<year>2020</year>
+<volume>120</volume>
+<fpage>998</fpage>
+<lpage>1000</lpage>
+<pub-id pub-id-type="pmid">32316063</pub-id></element-citation></ref><ref id="b43-cm-95-236"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Emert</surname><given-names>R</given-names></name><name><surname>Shah</surname><given-names>P</given-names></name><name><surname>Zampella</surname><given-names>JG</given-names></name></person-group>
+<article-title>COVID-19 and hypercoagulability in the outpatient setting</article-title>
+<source>Thromb Res</source>
+<year>2020</year>
+<volume>192</volume>
+<fpage>122</fpage>
+<lpage>123</lpage>
+<pub-id pub-id-type="pmid">32473495</pub-id></element-citation></ref><ref id="b44-cm-95-236"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wessels</surname><given-names>P</given-names></name></person-group>
+<article-title>Hypercoagulability in COVID-19</article-title>
+<source>SA Heart Journal</source>
+<year>2020</year>
+<volume>17</volume>
+<issue>3</issue>
+<pub-id pub-id-type="doi">10.24170/17-3-4372</pub-id>
+</element-citation></ref><ref id="b45-cm-95-236"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nasir</surname><given-names>U</given-names></name><name><surname>Ahmad</surname><given-names>S</given-names></name></person-group>
+<article-title>Management and Perspective of Coronavirus Disease 2019 (COVID-19), Pregnancy, and Hypercoagulability</article-title>
+<source>SN Compr Clin Med</source>
+<year>2021</year>
+<volume>3</volume>
+<fpage>1081</fpage>
+<lpage>1084</lpage>
+<pub-id pub-id-type="pmid">33723526</pub-id></element-citation></ref><ref id="b46-cm-95-236"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ferrari</surname><given-names>F</given-names></name><name><surname>Martins</surname><given-names>VM</given-names></name><name><surname>Teixeira</surname><given-names>M</given-names></name><name><surname>Santos</surname><given-names>RD</given-names></name><name><surname>Stein</surname><given-names>R</given-names></name></person-group>
+<article-title>COVID-19 and Thromboinflammation: Is There a Role for Statins?</article-title>
+<source>Clinics (Sao Paulo)</source>
+<year>2021</year>
+<volume>76</volume>
+<fpage>e2518</fpage>
+<pub-id pub-id-type="pmid">33787678</pub-id></element-citation></ref><ref id="b47-cm-95-236"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aliyev</surname><given-names>A</given-names></name><name><surname>Dumantepe</surname><given-names>M</given-names></name><name><surname>&#x0015e;&#x00131;rlak</surname><given-names>M</given-names></name><name><surname>Do&#x0011f;anc&#x00131;</surname><given-names>S</given-names></name><name><surname>Polat</surname><given-names>A</given-names></name><name><surname>Ayd&#x00131;n</surname><given-names>&#x000dc;</given-names></name><etal/></person-group>
+<article-title>Management of acute pulmonary embolism during COVID-19 pandemic</article-title>
+<source>Turk J Vasc Surg</source>
+<year>2021</year>
+<volume>30</volume>
+<fpage>77</fpage>
+<lpage>90</lpage>
+</element-citation></ref><ref id="b48-cm-95-236"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pamuk&#x000e7;u</surname><given-names>B</given-names></name></person-group>
+<article-title>Inflammation and thrombosis in patients with COVID-19: A prothrombotic and inflammatory disease caused by SARS coronavirus-2</article-title>
+<source>Anatol J Cardiol</source>
+<year>2020</year>
+<volume>24</volume>
+<fpage>224</fpage>
+<lpage>234</lpage>
+<pub-id pub-id-type="pmid">33001051</pub-id></element-citation></ref><ref id="b49-cm-95-236"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zuo</surname><given-names>Y</given-names></name><name><surname>Zuo</surname><given-names>M</given-names></name><name><surname>Yalavarthi</surname><given-names>S</given-names></name><name><surname>Gockman</surname><given-names>K</given-names></name><name><surname>Madison</surname><given-names>JA</given-names></name><name><surname>Shi</surname><given-names>H</given-names></name><etal/></person-group>
+<article-title>Neutrophil extracellular traps and thrombosis in COVID-19</article-title>
+<source>J Thromb Thrombolysis</source>
+<year>2021</year>
+<volume>51</volume>
+<fpage>446</fpage>
+<lpage>453</lpage>
+<pub-id pub-id-type="pmid">33151461</pub-id></element-citation></ref></ref-list></back><floats-group><fig position="float" id="f1-cm-95-236"><label>Figure 1</label><caption><p>The renin-angiotensin system cascade, angiotensin receptor 1 inhibitors and angiotensin converting enzyme inhibitors action. Ang I=Angiotensin I; Ang II= Angiotensin II; ACE=Angiotensin converting enzyme; ACE2=Angiotensin converting enzyme 2; AT1R-I= Angiotensin II receptor type 1; AT2R=Angiotensin II receptor type 2; ACE-1=ACE inhibitors; AT1R-I=Angiotensin receptor 1 inhibitors; Mas=Mitochondrial assembly protein.</p></caption><graphic xlink:href="cm-95-236f1" position="float"/></fig><fig position="float" id="f2-cm-95-236"><label>Figure 2</label><caption><p>Pathophysiology of the hypercoagulable state in COVID-19. COVID-19 leads to an inflammatory response that originates in the alveoli. Epithelial cells, macrophages and monocytes are activated by the release of inflammatory cytokines. Endothelial activation and dysfunction, platelet activation, expression of TF and increased levels of VWF and FVIII are conducted by the direct infection of the endothelial cells through the ACE2 receptor. All of these contribute to thrombin generation and fibrin clot formation. Thrombin causes inflammation through its effect on platelets which promote NET formation in neutrophils. ACE2=Angiotensin-converting enzyme 2; IL=Interleukin; FVIII=Factor VIII; NET=Neutrophil extracellular trap; TNF=Tumor necrosis factor; TF=Tissue factor; VWF=von Willebrand factor.</p></caption><graphic xlink:href="cm-95-236f2" position="float"/></fig></floats-group></article>

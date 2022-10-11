@@ -1,0 +1,1710 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="en" dtd-version="1.3"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Planta Med</journal-id><journal-id journal-id-type="iso-abbrev">Planta Med</journal-id><journal-id journal-id-type="doi">10.1055/s-00000058</journal-id><journal-title-group><journal-title>Planta Medica</journal-title></journal-title-group><issn pub-type="ppub">0032-0943</issn><issn pub-type="epub">1439-0221</issn><publisher><publisher-name>Georg Thieme Verlag KG</publisher-name><publisher-loc>R&#x000fc;digerstra&#x000df;e 14, 70469 Stuttgart, Germany</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">34359084</article-id><article-id pub-id-type="pmc">PMC9439852</article-id><article-id pub-id-type="doi">10.1055/a-1542-0151</article-id><article-id pub-id-type="publisher-id">F0210</article-id><article-categories><subj-group><subject>Biological and Pharmacological Activity</subject><subj-group><subject>Original Papers</subject></subj-group></subj-group></article-categories><title-group><article-title>
+Competitive CatSper Activators of Progesterone from
+<italic>Rhynchosia volubilis</italic>
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Xiang</surname><given-names>Jin</given-names></name><xref rid="AF-1" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Kang</surname><given-names>Hang</given-names></name><xref rid="AF-2" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Hong-Gang</given-names></name><xref rid="AF-3" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Shi</surname><given-names>Yu-Long</given-names></name><xref rid="AF-5" ref-type="aff"/><xref rid="AF-6" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Ya-Li</given-names></name><xref rid="AF-4" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Ruan</surname><given-names>Chang-Lei</given-names></name><xref rid="AF-1" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Lin-Hui</given-names></name><xref rid="AF-1" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Gao</surname><given-names>Han-Qi</given-names></name><xref rid="AF-1" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Luo</surname><given-names>Tao</given-names></name><xref rid="AF-2" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Hu</surname><given-names>Gao-Sheng</given-names></name><xref rid="AF-4" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Zhu</surname><given-names>Wei-Liang</given-names></name><xref rid="AF-5" ref-type="aff"/><xref rid="AF-6" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Jia</surname><given-names>Jing-Ming</given-names></name><xref rid="AF-4" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Jia-Chun</given-names></name><xref rid="AF-1" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Fang</surname><given-names>Jin-Bo</given-names></name><xref rid="AF-1" ref-type="aff"/><xref rid="CO-1" ref-type="author-notes"/></contrib></contrib-group><aff id="AF-1"><label>1</label><institution>School of Pharmacy, Hubei Key Laboratory of Natural Medicinal Chemistry and Resource Evaluation, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China</institution></aff><aff id="AF-2"><label>2</label><institution>Institute of Life Science and School of Life Science, Nanchang University, Key Laboratory of Reproductive Physiology and Pathology in Jiangxi Province, Nanchang, China</institution></aff><aff id="AF-3"><label>3</label><institution>Institute of Reproductive Health/Center of Reproductive Medicine, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China</institution></aff><aff id="AF-4"><label>4</label><institution>School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, China</institution></aff><aff id="AF-5"><label>5</label><institution>CAS Key Laboratory of Receptor Research &#x00026; Drug Discovery and Design Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China</institution></aff><aff id="AF-6"><label>6</label><institution>School of Pharmacy, University of Chinese Academy of Sciences, Beijing, China</institution></aff><author-notes><corresp id="CO-1"><bold>Correspondence </bold>Jin-Bo Fang <institution>School of Pharmacy</institution><institution>Hubei Key Laboratory of Natural Medicinal Chemistry and Resource Evaluation</institution><institution>Tongji Medical College</institution><institution>Huazhong University of Science and Technology</institution><addr-line>Hangkong Road 13, Qiaokou District</addr-line><city>430030 Wuhan, Hubei Province</city><country>China</country><phone>+&#x02009;86&#x0200a;27&#x0200a;83&#x0200a;69&#x0200a;24&#x0200a;82</phone><fax>+&#x02009;86&#x0200a;27&#x0200a;83&#x0200a;69&#x0200a;24&#x0200a;82</fax><email>fangjb@hust.edu.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>8</month><year>2021</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2022</year></pub-date><pub-date pub-type="pmc-release"><day>1</day><month>8</month><year>2021</year></pub-date><volume>88</volume><issue>11</issue><fpage>881</fpage><lpage>890</lpage><history><date date-type="received"><day>22</day><month>2</month><year>2021</year></date><date date-type="accepted"><day>21</day><month>6</month><year>2021</year></date></history><permissions><copyright-statement>
+The Author(s). This is an open access article published by Thieme under the terms of the Creative Commons Attribution-NonDerivative-NonCommercial License, permitting copying and reproduction so long as the original work is given appropriate credit. Contents may not be used for commecial purposes, or adapted, remixed, transformed or built upon. (
+<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</uri>
+)
+</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Author(s).</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License, which permits unrestricted reproduction and distribution, for non-commercial purposes only; and use and reproduction, but not distribution, of adapted material for non-commercial purposes only, provided the original work is properly cited.</license-p></license></permissions><abstract><p>
+The root
+<italic>Rhynchosia volubilis</italic>
+was widely used for contraception in folk medicine, although its molecular mechanism on antifertility has not yet been revealed. In human sperm, it was reported that the cation channel of sperm, an indispensable cation channel for the fertilization process, could be regulated by various steroid-like compounds in plants. Interestingly, these nonphysiological ligands would also disturb the activation of the cation channel of sperm induced by progesterone. Therefore, this study aimed to explore whether the compounds in
+<italic>R.&#x000a0;volubilis</italic>
+affect the physiological regulation of the cation channel of sperm. The bioguided isolation of the whole herb of
+<italic>R.&#x000a0;volubilis</italic>
+has resulted in the novel discovery of five new prenylated isoflavonoids, rhynchones A&#x0200a;&#x02013;&#x0200a;E (
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>5</bold>
+), a new natural product, 5&#x02032;-
+<italic>O</italic>
+-methylphaseolinisoflavan (
+<bold>6</bold>
+) (
+<sup>1</sup>
+H and
+<sup>13</sup>
+C NMR data, Supporting Information), together with twelve known compounds (
+<bold>7</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>18</bold>
+). Their structures were established by extensive spectroscopic analyses and drawing a comparison with literature data, while their absolute configurations were determined by electronic circular dichroism calculations. The experiments of intracellular Ca
+<sup>2+</sup>
+signals and patch clamping recordings showed that rhynchone A (
+<bold>1</bold>
+) significantly reduced cation channel of sperm activation by competing with progesterone. In conclusion, our findings indicat that rhynchone A might act as a contraceptive compound by impairing the activation of the cation channel of sperm and thus prevent fertilization.
+</p></abstract><kwd-group xml:lang="en"><title>Key words</title><kwd>Leguminosae</kwd><kwd><italic>Rhynchosia volubilis</italic></kwd><kwd>CatSper</kwd><kwd>prenylated isoflavonoids</kwd><kwd>rhynchones A&#x0200a;&#x02013;&#x0200a;E</kwd></kwd-group><funding-group><award-group><funding-source>the Fundamental Research Funds for the Central Universities</funding-source><award-id>HUST2016YXMS145</award-id></award-group><award-group><funding-source>the Special funds for central government to guide local scientific and Technological Development</funding-source><award-id>20202ZDB01013</award-id></award-group><award-group><funding-source>the National Natural Science Foundation of China</funding-source><award-id>No.31000150</award-id></award-group><award-group><funding-source>the Open Funds of State Key Laboratory of Magnetic Resonance and Atomic and Molecular Physics of China</funding-source><award-id>T152602</award-id></award-group><award-group><funding-source>the National Key Research and Development Plan of China</funding-source><award-id>2016YFC1000905</award-id></award-group></funding-group></article-meta></front><body><sec><title>Introduction</title><p>
+The genus
+<italic>Rhynchosia</italic>
+, belonging to the family Leguminosae, is composed of about 200 species, distributed in tropical and subtropical regions, but most of them are in Asia and Africa. There are 13 species in China, mainly distributed in the southern provinces of the Yangtze River
+<xref rid="RF0210-1" ref-type="bibr">1</xref>
+. The dry roots of
+<italic>Rhynchosia volubilis</italic>
+Lour. has shown diverse activities, including dispelling wind and dehumidification, promoting blood circulation, detoxification, detumescence, and relieving pain. It is also known as the king drug of a contraceptive prescription in folk medicine in clinics and has been used by natives in the northwest of Hubei Province, China, for female birth control for a long time
+<xref rid="RF0210-2" ref-type="bibr">2</xref>
+. The phytochemical investigations on this genus revealed the presence of flavonoids
+<xref rid="RF0210-3" ref-type="bibr">3</xref>
+, isoflavonoids
+<xref rid="RF0210-4" ref-type="bibr">4</xref>
+,&#x0200a;
+<xref rid="RF0210-5" ref-type="bibr">5</xref>
+, favan-3-ols, xanthones
+<xref rid="RF0210-6" ref-type="bibr">6</xref>
+, biphenyls, simple polyphenols, and sterols
+<xref rid="RF0210-7" ref-type="bibr">7</xref>
+. Some of these exhibited antifertility
+<xref rid="RF0210-8" ref-type="bibr">8</xref>
+, antimicrobial
+<xref rid="RF0210-9" ref-type="bibr">9</xref>
+, antitumor
+<xref rid="RF0210-10" ref-type="bibr">10</xref>
+, anti-inflammatory
+<xref rid="RF0210-11" ref-type="bibr">11</xref>
+, antiproliferative
+<xref rid="RF0210-12" ref-type="bibr">12</xref>
+, and antihyperlipidemic activities
+<xref rid="RF0210-13" ref-type="bibr">13</xref>
+,&#x0200a;
+<xref rid="RF0210-14" ref-type="bibr">14</xref>
+.
+</p><p>
+Calcium signaling in spermatozoa is essential for successful fertilization, which regulates the sperm capacitation, hyperactivation, and acrosome reaction
+<xref rid="RF0210-15" ref-type="bibr">15</xref>
+,&#x0200a;
+<xref rid="RF0210-16" ref-type="bibr">16</xref>
+. The vital source of sperm intracellular free Ca
+<sup>2+</sup>
+([Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+) is the Ca
+<sup>2+</sup>
+influx, predominantly mediated by the cation channel of sperm (CatSper), a pH-dependent voltage-gated Ca
+<sup>2+</sup>
+-selective channel
+<xref rid="RF0210-17" ref-type="bibr">17</xref>
+,&#x0200a;
+<xref rid="RF0210-18" ref-type="bibr">18</xref>
+. CatSper is a highly complex multisubunit channel composed of at least ten subunits
+<xref rid="RF0210-19" ref-type="bibr">19</xref>
+: four separate pore-forming
+<italic>&#x003b1;</italic>
+subunits (CatSper 1&#x0200a;&#x02013;&#x0200a;4) and six auxiliary subunits (CatSper
+<italic>&#x003b2;, &#x003b3;, &#x003b4;, &#x003b5;, &#x003b6;</italic>
+, and EFCAB9). Mouse knockout models and genetic screening in infertile men demonstrated that CatSper is essential for male fertility in mice and humans
+<xref rid="RF0210-19" ref-type="bibr">19</xref>
+. In human sperm,
+the steroid hormones, progesterone (P4), prostaglandin (PG) E1, and PGE2, have been noted as potent CatSper agonists
+<xref rid="RF0210-20" ref-type="bibr">20</xref>
+. Moreover, structurally diverse endocrine-disrupting chemicals activate the sperm-specific CatSper channel and desensitize sperm for physiological CatSper ligands
+<xref rid="RF0210-21" ref-type="bibr">21</xref>
+. Therefore, the CatSper channel is a polymodal chemosensor in human sperm. All these results suggest that the CatSper channel is an ideal target for contraceptive. In order to define whether the compounds from
+<italic>R.&#x000a0;volubilis</italic>
+disturb the physiological activation of the CatSper channel, we investigated the effects of the phytochemical constituents in the whole plant of
+<italic>R.&#x000a0;volubilis</italic>
+on the regulation of CatSper.
+</p></sec><sec><title>Results and Discussion</title><p>
+Firstly, given that the CatSper channel mainly dominates Ca
+<sup>2+</sup>
+influx in human sperm, the effect of different extracts from
+<italic>R.&#x000a0;volubilis</italic>
+on intracellular Ca
+<sup>2+</sup>
+([Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+) signals were evaluated. The results showed that the petroleum ether (PE) extracts gave rise to a rapid [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+elevation, while EtOAc and
+<italic>n</italic>
+-BuOH extracts failed to reproduce this effect (
+<bold>Fig.&#x02009;44S</bold>
+, Supporting Information).
+</p><p>
+The PE and EtOAc fraction from the crude EtOH extract from the whole herb of
+<italic>R.&#x000a0;volubilis</italic>
+was subjected to repeated chromatography procedures (silica gel, Toyopearl HW-40C, Sephadex LH-20, and semipreparative HPLC), leading to the isolation of five new prenylated isoflavonoids, rhynchones A&#x0200a;&#x02013;&#x0200a;E (
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>5</bold>
+), the structures of which were characterized by interpretation of their HRMS, 1D and 2D NMR, and electronic circular dichroism (ECD) data. Besides the five new compounds (
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>5</bold>
+), a new natural product, 5&#x02032;-
+<italic>O</italic>
+-methylphaseolinisoflavan (
+<bold>6</bold>
+)
+<xref rid="RF0210-22" ref-type="bibr">22</xref>
+, together with twelve known compounds (
+<bold>7</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>18</bold>
+) were obtained and identified as tonkinensisol (
+<bold>7</bold>
+)
+<xref rid="RF0210-23" ref-type="bibr">23</xref>
+, lupinifolinol (
+<bold>8</bold>
+)
+<xref rid="RF0210-24" ref-type="bibr">24</xref>
+, cathayanon H (
+<bold>9</bold>
+)
+<xref rid="RF0210-25" ref-type="bibr">25</xref>
+, cajanone (
+<bold>10</bold>
+)
+<xref rid="RF0210-5" ref-type="bibr">5</xref>
+, prunetin (
+<bold>11</bold>
+)
+<xref rid="RF0210-26" ref-type="bibr">26</xref>
+, isowighteone (
+<bold>12</bold>
+)
+<xref rid="RF0210-27" ref-type="bibr">27</xref>
+, erythrinin B (
+<bold>13</bold>
+)
+<xref rid="RF0210-28" ref-type="bibr">28</xref>
+, semilicoisoflavone B (
+<bold>14</bold>
+)
+<xref rid="RF0210-29" ref-type="bibr">29</xref>
+, eriosemaone D (
+<bold>15</bold>
+)
+<xref rid="RF0210-30" ref-type="bibr">30</xref>
+, formononetin (
+<bold>16</bold>
+)
+<xref rid="RF0210-31" ref-type="bibr">31</xref>
+, puerarone (
+<bold>17</bold>
+)
+<xref rid="RF0210-32" ref-type="bibr">32</xref>
+, and bidwillon C (
+<bold>18</bold>
+)
+<xref rid="RF0210-33" ref-type="bibr">33</xref>
+by comparison with literature values (
+<xref rid="FIF0210-1" ref-type="fig">Fig.&#x02009;1</xref>
+). Herein, the isolation, structure elucidation, and potential CatSper regulation activities of these isolated compounds are described in detail.
+</p><fig id="FIF0210-1"><label>Fig.&#x02009;1</label><caption><p>
+&#x02002;Structures of compounds
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>18</bold>
+isolated from
+<italic>R.&#x000a0;volubilis</italic>
+.
+</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10-1055-a-1542-0151-if0210pm01"/></fig><p>
+To further explore which kind of compound regulated the homeostasis of [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+, 18 compounds (
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>18</bold>
+) from
+<italic>R.&#x000a0;volubilis</italic>
+on [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+of human sperm were assessed. Interestingly, only rhynchone A (
+<bold>1</bold>
+) from the PE extracts evoked a transient amplitude of a [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+signal (
+<bold>Figs.&#x02009;44S</bold>
+and
+<bold>45S</bold>
+, Supporting Information). The results of patch-clamp recordings also manifested that rhynchone A amplified the monovalent current of human sperm, indicating that the elevation of the [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+signal caused by rhynchone A resulted from the activation of CatSper (
+<xref rid="FIF0210-2" ref-type="fig">Fig.&#x02009;2</xref>
+). More importantly, subsequent studies found that the elevation of [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+caused by P4 was suppressed by rhynchone A. The results of patch-clamp recordings on human sperm also manifested that rhynchone A compromised the activation of the CatSper
+channel elicited by P4 (
+<xref rid="FIF0210-3" ref-type="fig">Fig.&#x02009;3</xref>
+). Therefore, these findings suggested that rhynchone A attenuated the physiological activities of P4 on the CatSper channel, and as a result, affected the function of human sperm. Compared to compound
+<bold>10</bold>
+, we speculated that the configuration of the B-ring and the substitution of a methoxyl group at C-4&#x02032; played a vital role in activating CatSper.
+</p><fig id="FIF0210-2"><label>Fig.&#x02009;2</label><caption><p>
+&#x02002;The effect of different concentrations of rhynchone A (
+<bold>1</bold>
+) on the activation of the CatSper channel of human sperm.
+<bold>a</bold>
+&#x02002;The typical fluorescence traces of [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+signals before and after exposure to different concentrations of rhynchone A (
+<bold>1</bold>
+). Arrow indicates the time point of additives in human sperm.
+<bold>b</bold>
+&#x02002;Average amplitudes of Ca
+<sup>2+</sup>
+response in the presence of different concentrations of rhynchone A (
+<bold>1</bold>
+) are shown.
+<bold>c</bold>
+&#x02002;Representative monovalent current of human CatSper was potentiated by different concentrations of rhynchone A (
+<bold>1</bold>
+). The monovalent CatSper current was recorded in the presence of sodium-based divalent-free solution (NaDVF) by a voltage-clamp ramp protocol (from &#x02212;&#x02009;100&#x02009;mV to +&#x02009;100&#x02009;mV, 1&#x02009;s). Holding potential (HP) was set to 0&#x02009;mV.
+<bold>d</bold>
+&#x02002;Average currents of the CatSper channel at &#x02212;&#x02009;100&#x02009;mV (negative) and +&#x02009;100&#x02009;mV (positive) after injecting different concentrations of
+rhynchone A (
+<bold>1</bold>
+) are shown. Data are expressed as the mean &#x000b1; SEM; n&#x02009;=&#x02009;4, *p&#x02009;&#x0003c;&#x02009;0.05.
+</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10-1055-a-1542-0151-if0210pm02ad"/></fig><fig id="FIF0210-3"><label>Fig.&#x02009;3</label><caption><p>
+&#x02002;Rhynchone A (
+<bold>1</bold>
+) inhibited the activation of human CatSper induced by P4.
+<bold>a</bold>
+&#x02002;The typical fluorescence traces of [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+signals after exposure to rhynchone A (
+<bold>1</bold>
+), P4, and their mixture. Arrow indicates the time point of additives in human sperm.
+<bold>b</bold>
+&#x02002;Average amplitudes of the Ca
+<sup>2+</sup>
+response related to
+<bold>a</bold>
+are shown.
+<bold>c</bold>
+&#x02002;Representative monovalent current of human CatSper after injecting rhynchone A (
+<bold>1</bold>
+), P4, and their mixture. The monovalent CatSper current was recorded in the presence of sodium-based divalent-free solution (NaDVF) by a voltage-clamp ramp protocol (from &#x02212;&#x02009;100&#x02009;mV to +&#x02009;100&#x02009;mV, 1&#x02009;s). Holding potential (HP) was set to 0&#x02009;mV.
+<bold>d</bold>
+&#x02002;Average currents of the CatSper channel at &#x02212;&#x02009;100&#x02009;mV (negative) and +&#x02009;100&#x02009;mV (positive) as related to
+<bold>c</bold>
+are shown. Data are expressed as the mean &#x000b1; SEM; n&#x02009;=&#x02009;4, *p&#x02009;&#x0003c;&#x02009;0.05.
+</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10-1055-a-1542-0151-if0210pm03ad"/></fig><sec><title>Structure elucidation</title><p>
+Rhynchone A (
+<bold>1</bold>
+), a pale-yellow solid, has a molecular formula of C
+<sub>26</sub>
+H
+<sub>28</sub>
+O
+<sub>6</sub>
+based on HR-ESI-TOF-MS data (
+<bold>Fig.&#x02009;1S</bold>
+, Supporting Information) with an
+<italic>m/z</italic>
+ion of 435.1794 for [M &#x02013; H]
+<sup>&#x02212;</sup>
+(calcd. 435.1807). The presence of
+<sup>1</sup>
+H resonances at H-2a (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.68, 1H,
+<italic>dd, J&#x02009;=</italic>
+&#x02009;4.8, 11.7&#x02009;Hz), H-2b (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.84, 1H,
+<italic>dd, J&#x02009;=</italic>
+&#x02009;4.1, 11.9&#x02009;Hz), and H-3 (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+3.93, 1H, br
+<italic>t, J&#x02009;=</italic>
+&#x02009;4.4&#x02009;Hz), and corresponding oxymethylene and methine signals at
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+69.3, 44.9 in its
+<sup>1</sup>
+H and
+<sup>13</sup>
+C NMR spectra (
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+,
+<bold>Figs.&#x02009;2S</bold>
+and
+<bold>3S</bold>
+, Supporting Information), respectively, suggested the presence of an isoflavanone skeleton. Signals at
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+11.94 (1H,
+<italic>s</italic>
+) and 5.93 (1H,
+<italic>s</italic>
+) corresponded to the C-5 hydroxy group and H-8, respectively,
+which showed an ortho-substitution in the A-ring. The
+<sup>1</sup>
+H NMR spectrum of
+<bold>1</bold>
+exhibited four methyl groups at
+<italic>&#x003b4;</italic>
+1.42, 1.44 (3H,
+<italic>s,</italic>
+C-2&#x02033;), 1.66, and 1.71 (3H,
+<italic>s,</italic>
+C-3&#x02034;), one methoxyl proton at
+<italic>&#x003b4;</italic>
+3.77 (3H,
+<italic>s</italic>
+), and three olefinic protons at
+<italic>&#x003b4;</italic>
+5.48 (1H,
+<italic>d, J&#x02009;=&#x02009;</italic>
+10.1&#x02009;Hz), 6.56 (1H,
+<italic>d, J&#x02009;=&#x02009;</italic>
+10.1&#x02009;Hz), and 5.23 (1H,
+<italic>m</italic>
+), which indicated the presence of two isopropenyl groups.
+<sup>1</sup>
+H-
+<sup>1</sup>
+H COSY (
+<bold>Fig.&#x02009;6S</bold>
+, Supporting Information) correlations were observed for H-3&#x02033;/H-4&#x02033; and H-2&#x02034;/H-3&#x02034;, indicating the connectivity of C-3&#x02033; to C-4&#x02033; and C-2&#x02034; to C-3&#x02034;. The HMBC correlations (
+<bold>Fig.&#x02009;4S</bold>
+, Supporting Information) H-3&#x02033; to C-2&#x02033; and C-6; H-4&#x02033; to C-6, C-7, C- 2&#x02033;, and C-3&#x02033;; H
+<sub>3</sub>
+-2&#x02033; to C-2&#x02033;, C-3&#x02033;, and C-10 indicated that C-4&#x02033; was attached to C-6, and C-2&#x02033; was linked with C-7 by an ether bond. The aromatic proton signals at
+<italic>&#x003b4;</italic>
+6.48 (1H, s, H-3&#x02032;) and 7.17 (1H, s, H-6&#x02032;) indicated that
+the B-ring was 1&#x02032;, 2&#x02032;, 4&#x02032;, 6&#x02032;- tetrasubstituted. The HMBC correlations from H-3 to C-1&#x02032;, C-2&#x02032;; H-2 to C-1&#x02032;; H
+<sub>3</sub>
+-4&#x02032;-OMe to C-4&#x02032;; H-3&#x02032; to an oxidized aromatic quaternary C-2&#x02032;; and H
+<sub>2</sub>
+-1&#x02034; to C-4&#x02032; demonstrated the group substitution model in the B-ring (
+<xref rid="FIF0210-4" ref-type="fig">Fig.&#x02009;4</xref>
+). In order to determine the absolute configuration of
+<bold>1</bold>
+, a computational study using the time-dependent density functional theory (TD-DFT) method of ECD spectra at the B3LYP/6-31g (d, p) level was performed with Gaussian 16 B.01
+<xref rid="RF0210-34" ref-type="bibr">34</xref>
+. Additionally, the solvent effects of methanol were taken into consideration with the integral equation formalism polarizable continuum model (IEFPCM)
+<xref rid="RF0210-35" ref-type="bibr">35</xref>
+during the calculations. The Boltzmann averaged spectra for all the possible conformers of
+<bold>1</bold>
+and their experimental ECD spectra are shown in
+<xref rid="FIF0210-5" ref-type="fig">Fig.&#x02009;5&#x0200a;a</xref>
+. The experimental ECD spectrum of
+<bold>1</bold>
+displayed high similarity to the calculated ECD pattern of 3
+<italic>S</italic>
+-
+<bold>1</bold>
+, which exhibited a calculated ECD spectrum with a distinct positive Cotton effect at 202&#x02009;nm and a negative Cotton effect at 272&#x02009;nm (
+<xref rid="FIF0210-5" ref-type="fig">Fig.&#x02009;5&#x0200a;a</xref>
+). Furthermore, a negative Cotton effect at 326&#x02009;nm (
+<bold>Fig.&#x02009;8S</bold>
+, Supporting Information) in the ECD spectrum of
+<bold>1</bold>
+also suggested the 3
+<italic>S</italic>
+configuration
+<xref rid="RF0210-36" ref-type="bibr">36</xref>
+. Thus, the structure of rhynchone A (
+<bold>1</bold>
+) was determined as 3
+<italic>S</italic>
+-5, 2&#x02032;, 4&#x02032;-trihydroxy-2&#x02033;, 2&#x02033;-dimethylpyrano [6,7&#x0200a;:&#x0200a;5&#x02033;,6&#x02033;]-5&#x02032;-prenyl-isoflavone.
+</p><table-wrap id="TBF0210-1"><caption><p><bold>Table 1</bold>
+&#x02002;
+<sup>1</sup>
+H NMR (600&#x02009;MHz,
+<italic>&#x003b4;</italic>
+in ppm,
+<italic>J</italic>
+in Hz, CDCl
+<sub>3</sub>
+) data for compounds
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>5</bold>
+.
+</p></caption><table rules="all"><colgroup><col width="0"/><col width="0"/><col width="0"/><col width="0"/><col width="0"/><col width="0"/></colgroup><thead><tr><th align="left" rowspan="2">Position</th><th align="left">1</th><th align="left">2</th><th align="left">3</th><th align="left">4</th><th align="left">5</th></tr><tr><th align="left"><italic>&#x003b4;</italic><sub>H</sub>
+(
+<italic>J</italic>
+in Hz)
+</th><th align="left"><italic>&#x003b4;</italic><sub>H</sub>
+(
+<italic>J</italic>
+in Hz)
+</th><th align="left"><italic>&#x003b4;</italic><sub>H</sub>
+(
+<italic>J</italic>
+in Hz)
+</th><th align="left"><italic>&#x003b4;</italic><sub>H</sub>
+(
+<italic>J</italic>
+in Hz)
+</th><th align="left"><italic>&#x003b4;</italic><sub>H</sub>
+(
+<italic>J</italic>
+in Hz)
+</th></tr></thead><tbody><tr><td>2a</td><td>
+4.68 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;4.8, &#x02007;11.7&#x02009;Hz)
+</td><td>
+4.62 (1H, dd,
+<italic>J&#x02009;</italic>
+=&#x02009;4.9, &#x02007;11.7&#x02009;Hz)
+</td><td>
+4.70 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;4.6, &#x02007;11.9&#x02009;Hz)
+</td><td>
+4.72 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;11.1&#x02009;Hz)
+</td><td>
+4.52 (2H,
+<italic>s</italic>
+)
+</td></tr><tr><td>2b</td><td>
+4.84 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;4.1, &#x02007;11.9&#x02009;Hz)
+</td><td>
+4.78 (1H, dd,
+<italic>J&#x02009;</italic>
+=&#x02009;5.9, &#x02007;11.6&#x02009;Hz)
+</td><td>
+4.85 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;5.7, &#x02007;11.3&#x02009;Hz)
+</td><td/><td/></tr><tr><td>3</td><td>
+3.93 (1H,
+<italic>t, J&#x02009;</italic>
+=&#x02009;4.4&#x02009;Hz)
+</td><td>
+4.03 (1H, t,
+<italic>J&#x02009;</italic>
+=&#x02009;5.3&#x02009;Hz)
+</td><td>
+3.92 (1H,
+<italic>m</italic>
+)
+</td><td>
+4.32 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;11.4&#x02009;Hz)
+</td><td/></tr><tr><td>4</td><td/><td/><td/><td/><td/></tr><tr><td>5</td><td/><td/><td/><td/><td/></tr><tr><td>6</td><td/><td/><td/><td/><td>
+5.98 (1H,
+<italic>s</italic>
+)
+</td></tr><tr><td>7</td><td/><td/><td/><td/><td/></tr><tr><td>8</td><td>
+5.93 (1H,
+<italic>s</italic>
+)
+</td><td>
+5.93 (1H,
+<italic>s</italic>
+)
+</td><td>
+5.95 (1H,
+<italic>s</italic>
+)
+</td><td>
+5.91 (1H,
+<italic>s</italic>
+)
+</td><td/></tr><tr><td>9</td><td/><td/><td/><td/><td/></tr><tr><td>10</td><td/><td/><td/><td/><td/></tr><tr><td>1&#x02032;</td><td/><td/><td/><td/><td/></tr><tr><td>2&#x02032;</td><td/><td/><td/><td/><td/></tr><tr><td>3&#x02032;</td><td>
+6.48 (1H,
+<italic>s</italic>
+)
+</td><td>
+6.48 (1H,
+<italic>s</italic>
+)
+</td><td>
+6.52 (1H,
+<italic>s</italic>
+)
+</td><td>
+6.42 (1H,
+<italic>s</italic>
+)
+</td><td>
+6.42 (1H,
+<italic>s</italic>
+)
+</td></tr><tr><td>4&#x02032;</td><td/><td/><td/><td/><td/></tr><tr><td>5&#x02032;</td><td/><td/><td/><td/><td/></tr><tr><td>6&#x02032;</td><td>
+7.17 (1H,
+<italic>s</italic>
+)
+</td><td>
+7.00 (1H,
+<italic>s</italic>
+)
+</td><td>
+7.22 (1H,
+<italic>s</italic>
+)
+</td><td>
+6.64 (1H,
+<italic>s</italic>
+)
+</td><td>
+6.51 (1H,
+<italic>s</italic>
+)
+</td></tr><tr><td>2&#x02033;</td><td/><td/><td/><td/><td/></tr><tr><td>3&#x02033;</td><td>
+5.48 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.1&#x02009;Hz)
+</td><td>
+5.49 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.1&#x02009;Hz)
+</td><td>
+5.48 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.1&#x02009;Hz)
+</td><td>
+5.53 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.0&#x02009;Hz)
+</td><td>
+5.52 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.0&#x02009;Hz)
+</td></tr><tr><td>4&#x02033;</td><td>
+6.56 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.1&#x02009;Hz)
+</td><td>
+6.58 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.1&#x02009;Hz)
+</td><td>
+6.56 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.1&#x02009;Hz)
+</td><td>
+6.62 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.1&#x02009;Hz)
+</td><td>
+6.59 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;10.1&#x02009;Hz)
+</td></tr><tr><td>1&#x02034;</td><td>
+3.20 (2H,
+<italic>m</italic>
+)
+</td><td/><td/><td>
+3.13 (2H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;7.2&#x02009;Hz)
+</td><td/></tr><tr><td>2&#x02034;</td><td>
+5.23 (1H,
+<italic>m</italic>
+)
+</td><td>
+4.31 (1H,
+<italic>t, J&#x02009;</italic>
+=&#x02009;8.0&#x02009;Hz)
+</td><td>
+4.22 (1H,
+<italic>m</italic>
+)
+</td><td>
+5.15 (1H,
+<italic>t, J&#x02009;</italic>
+=&#x02009;7.2&#x02009;Hz)
+</td><td/></tr><tr><td rowspan="2">3&#x02034;</td><td rowspan="2"/><td>
+2.87 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;8.6, &#x02007;14.9&#x02009;Hz)
+</td><td>
+2.88 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;8.5, &#x02007;14.2&#x02009;Hz)
+</td><td/><td>
+5.48 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;9.8&#x02009;Hz)
+</td></tr><tr><td>
+2.66 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;2.0, &#x02007;14.6&#x02009;Hz)
+</td><td>
+2.68 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;2.9, &#x02007;14.0&#x02009;Hz)
+</td><td/><td/></tr><tr><td>4&#x02034;</td><td/><td/><td/><td/><td>
+6.18 (1H,
+<italic>d, J&#x02009;</italic>
+=&#x02009;9.8&#x02009;Hz)
+</td></tr><tr><td>5&#x02034;</td><td/><td>
+4.98 (1H,
+<italic>m</italic>
+); 4.86 &#x02007;(1H,
+<italic>m</italic>
+)
+</td><td>
+4.91 (1H,
+<italic>m</italic>
+); 4.78 &#x02007;(1H,
+<italic>m</italic>
+)
+</td><td/><td/></tr><tr><td/><td/><td/><td/><td/><td/></tr><tr><td rowspan="2">2&#x02033;-Me</td><td>
+1.44 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.43 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.43 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.46 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.40 (3H,
+<italic>s</italic>
+)
+</td></tr><tr><td>
+1.42 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.43 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.41 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.44 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.38 (3H,
+<italic>s</italic>
+)
+</td></tr><tr><td rowspan="2">2&#x02034;-Me</td><td rowspan="2"/><td rowspan="2"/><td rowspan="2"/><td rowspan="2"/><td>
+1.45 (3H,
+<italic>s</italic>
+)
+</td></tr><tr><td>
+1.45 (3H,
+<italic>s</italic>
+)
+</td></tr><tr><td rowspan="2">3&#x02034;-Me</td><td>
+1.71 (3H,
+<italic>s</italic>
+)
+</td><td/><td/><td>
+1.67 (3H,
+<italic>s</italic>
+)
+</td><td/></tr><tr><td>
+1.66 (3H,
+<italic>s</italic>
+)
+</td><td/><td/><td>
+1.60 (3H,
+<italic>s</italic>
+)
+</td><td/></tr><tr><td>6&#x02034;-Me</td><td/><td>
+1.79 (3H,
+<italic>s</italic>
+)
+</td><td>
+1.78 (3H,
+<italic>s</italic>
+)
+</td><td/><td/></tr><tr><td>5-OH</td><td>
+11.94 (1H,
+<italic>s</italic>
+)
+</td><td>
+12.07 (1H,
+<italic>s</italic>
+)
+</td><td>
+11.89 (1H,
+<italic>s</italic>
+)
+</td><td>
+11.63 (1H,
+<italic>s</italic>
+)
+</td><td>
+11.67 (1H,
+<italic>s</italic>
+)
+</td></tr><tr><td>2&#x02032;-OMe</td><td/><td/><td>
+3.79 (3H,
+<italic>s</italic>
+)
+</td><td/><td/></tr><tr><td>4&#x02032;-OMe</td><td>
+3.77 (3H,
+<italic>s</italic>
+)
+</td><td/><td/><td/><td/></tr></tbody></table></table-wrap><table-wrap id="TBF0210-2"><caption><p><bold>Table 2</bold>
+&#x02002;
+<sup>13</sup>
+C NMR (150&#x02009;MHz,
+<italic>&#x003b4;</italic>
+in ppm, CDCl
+<sub>3</sub>
+) data for compounds
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>5</bold>
+.
+</p></caption><table rules="all"><colgroup><col width="0"/><col width="0"/><col width="0"/><col width="0"/><col width="0"/><col width="0"/></colgroup><thead><tr><th align="left" rowspan="2">Position</th><th align="left">1</th><th align="left">2</th><th align="left">3</th><th align="left">4</th><th align="left">5</th></tr><tr><th align="left"><italic>&#x003b4;</italic><sub>C</sub>
+(Type)
+</th><th align="left"><italic>&#x003b4;</italic><sub>C</sub>
+(Type)
+</th><th align="left"><italic>&#x003b4;</italic><sub>C</sub>
+(Type)
+</th><th align="left"><italic>&#x003b4;</italic><sub>C</sub>
+(Type)
+</th><th align="left"><italic>&#x003b4;</italic><sub>C</sub>
+(Type)
+</th></tr></thead><tbody><tr><td>2</td><td>
+69.3 (CH
+<sub>2</sub>
+)
+</td><td>
+69.7 (CH
+<sub>2</sub>
+)
+</td><td>
+69.2 (CH
+<sub>2</sub>
+)
+</td><td>74.0 (CH)</td><td>
+70.2 (CH
+<sub>2</sub>
+)
+</td></tr><tr><td>3</td><td>44.9 (CH)</td><td>45.4 (CH)</td><td>44.7 (CH)</td><td>72.9 (CH)</td><td>105.1 (C)</td></tr><tr><td>4</td><td>196.8 (C)</td><td>197.1 (C)</td><td>196.6 (C)</td><td>194.8 (C)</td><td>185.1 (C)</td></tr><tr><td>5</td><td>159.0 (C)</td><td>159.0 (C)</td><td>159.0 (C)</td><td>158.3 (C)</td><td>161.5 (C)</td></tr><tr><td>6</td><td>103.1 (C)</td><td>103.1 (C)</td><td>103.1 (C)</td><td>103.2 (C)</td><td>96.7 (C)</td></tr><tr><td>7</td><td>163.0 (C)</td><td>162.8 (C)</td><td>163.2 (C)</td><td>163.5 (C)</td><td>159.3 (C)</td></tr><tr><td>8</td><td>96.0 (CH)</td><td>96.1 (CH)</td><td>96.2 (CH)</td><td>96.6 (CH)</td><td>103.6 (C)</td></tr><tr><td>9</td><td>162.3 (C)</td><td>162.4 (C)</td><td>162.2 (C)</td><td>162.4 (C)</td><td>163.5 (C)</td></tr><tr><td>10</td><td>101.3 (C)</td><td>101.8 (C)</td><td>101.3 (C)</td><td>101.5 (C)</td><td>101.3 (C)</td></tr><tr><td>1&#x02032;</td><td>113.5(C)</td><td>113.9 (C)</td><td>114.0 (C)</td><td>115.0 (C)</td><td>140.6 (C)</td></tr><tr><td>2&#x02032;</td><td>154.2 (C)</td><td>154.9 (C)</td><td>158.4 (C)</td><td>155.9 (C)</td><td>146.6 (C)</td></tr><tr><td>3&#x02032;</td><td>100.9 (CH)</td><td>106.3 (CH)</td><td>101.1 (CH)</td><td>105.7 (CH)</td><td>99.3 (CH)</td></tr><tr><td>4&#x02032;</td><td>158.1 (C)</td><td>156.7 (C)</td><td>155.1 (C)</td><td>155.6 (C)</td><td>148.7 (C)</td></tr><tr><td>5&#x02032;</td><td>122.8 (C)</td><td>118.5 (C)</td><td>119.5 (C)</td><td>118.4 (C)</td><td>114.8 (C)</td></tr><tr><td>6&#x02032;</td><td>127.6 (CH)</td><td>130.4 (CH)</td><td>129.4 (CH)</td><td>127.4 (CH)</td><td>105.9 (CH)</td></tr><tr><td>2&#x02033;</td><td>78.5 (C)</td><td>78.5 (C)</td><td>78.6 (C)</td><td>78.9 (C)</td><td>78.9 (C)</td></tr><tr><td>3&#x02033;</td><td>126.2 (CH)</td><td>126.2 (CH)</td><td>126.2 (CH)</td><td>126.5 (CH)</td><td>126.7 (CH)</td></tr><tr><td>4&#x02033;</td><td>115.1 (CH)</td><td>115.1 (CH)</td><td>115.0 (CH)</td><td>114.8 (CH)</td><td>114.9 (CH)</td></tr><tr><td>1&#x02034;</td><td>
+27.8 (CH
+<sub>2</sub>
+)
+</td><td/><td/><td>
+28.7 (CH
+<sub>2</sub>
+)
+</td><td/></tr><tr><td>2&#x02034;</td><td>122.6 (CH)</td><td>78.4 (CH)</td><td>75.6 (CH)</td><td>121.3 (CH)</td><td>76.2 (C)</td></tr><tr><td>3&#x02034;</td><td>132.4 (CH)</td><td>
+37.4 (CH
+<sub>2</sub>
+)
+</td><td>
+36.6 (CH
+<sub>2</sub>
+)
+</td><td>135.1 (C)</td><td>128.6 (CH)</td></tr><tr><td>4&#x02034;</td><td/><td>146.5 (C)</td><td>147.1 (C)</td><td/><td>122.0 (CH)</td></tr><tr><td>5&#x02034;</td><td/><td>
+111.3 (CH
+<sub>2</sub>
+)
+</td><td>
+110.6 (CH
+<sub>2</sub>
+)
+</td><td/><td/></tr><tr><td rowspan="2">2&#x02033;-Me</td><td>
+28.4 (CH
+<sub>3</sub>
+)
+</td><td>
+28.5 (CH
+<sub>3</sub>
+)
+</td><td>
+28.5 (CH
+<sub>3</sub>
+)
+</td><td>
+28.5 (CH
+<sub>3</sub>
+)
+</td><td>
+28.5 (CH
+<sub>3</sub>
+)
+</td></tr><tr><td>
+28.4 (CH
+<sub>3</sub>
+)
+</td><td>
+28.5 (CH
+<sub>3</sub>
+)
+</td><td>
+28.5 (CH
+<sub>3</sub>
+)
+</td><td>
+28.4 (CH
+<sub>3</sub>
+)
+</td><td>
+28.5 (CH
+<sub>3</sub>
+)
+</td></tr><tr><td rowspan="2">2&#x02034;-Me</td><td rowspan="2"/><td rowspan="2"/><td rowspan="2"/><td rowspan="2"/><td>
+27.6 (CH
+<sub>3</sub>
+)
+</td></tr><tr><td>
+27.4 (CH
+<sub>3</sub>
+)
+</td></tr><tr><td rowspan="2">3&#x02034;-Me</td><td>
+25.7 (CH
+<sub>3</sub>
+)
+</td><td/><td/><td>
+25.5 (CH
+<sub>3</sub>
+)
+</td><td/></tr><tr><td>
+17.7 (CH
+<sub>3</sub>
+)
+</td><td/><td/><td>
+17.6 (CH
+<sub>3</sub>
+)
+</td><td/></tr><tr><td>6&#x02034;-Me</td><td/><td>
+18.1 (CH
+<sub>3</sub>
+)
+</td><td>
+18.1 (CH
+<sub>3</sub>
+)
+</td><td/><td/></tr><tr><td>2&#x02032;-OMe</td><td/><td/><td>
+55.5 (CH
+<sub>3</sub>
+)
+</td><td/><td/></tr><tr><td>4&#x02032;-OMe</td><td>
+55.4 (CH
+<sub>3</sub>
+)
+</td><td/><td/><td/><td/></tr></tbody></table></table-wrap><fig id="FIF0210-4"><label>Fig.&#x02009;4</label><caption><p>
+&#x02002;Key HMBC and
+<sup>1</sup>
+H-
+<sup>1</sup>
+H COSY of rhynchones A&#x0200a;&#x02013;&#x0200a;E (
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>5</bold>
+).
+</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10-1055-a-1542-0151-if0210pm04"/></fig><fig id="FIF0210-5"><label>Fig.&#x02009;5</label><caption><p>
+&#x02002;Calculated and experimental ECD spectra for compounds
+<bold>1, 4</bold>
+, and
+<bold>5</bold>
+.
+</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10-1055-a-1542-0151-if0210pm05ac"/></fig><p>
+Rhynchone B (
+<bold>2</bold>
+), a yellow oil, was deduced as having the molecular formula C
+<sub>26</sub>
+H
+<sub>28</sub>
+O
+<sub>6</sub>
+by HR-ESI-TOF-MS [M + H
+<sub>2</sub>
+O &#x02013; H]
+<sup>&#x02212;</sup>
+<italic>m/z</italic>
+437.1606 (calcd. 437.1600), indicating one more index of hydrogen deficiency than
+<bold>1</bold>
+. The NMR spectroscopic data of
+<bold>2</bold>
+(
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+) also showed structural similarity with
+<bold>1</bold>
+. The major difference between these two compounds was found on the B-ring. The substitution at C-4&#x02032; and C-5&#x02032; was identified as an isopropenyl dihydrofuran group, which was characterized by the following: two endocyclic methylene protons,
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+2.66 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;2.0, 14.6&#x02009;Hz, 3&#x02034;a) and 2.87 (1H,
+<italic>dd, J&#x02009;</italic>
+=&#x02009;8.6, 14.9&#x02009;Hz, 3&#x02034;b)], two exocyclic methylene protons,
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.86 (H, m, 5&#x02034;a) and 4.98 (H, m, 5&#x02034;b), an oxymethine signal,
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.31 (H,
+<italic>t, J&#x02009;</italic>
+=&#x02009;8.0&#x02009;Hz),
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+78.49 (C-2&#x02034;), and a methyl group [
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+1.79 (3H, s, 6&#x02034;),
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+18.1 (C-6&#x02034;)]. These were confirmed by
+<sup>1</sup>
+H-
+<sup>1</sup>
+H COSY correlations (
+<bold>Fig.&#x02009;14S</bold>
+, Supporting Information) for H-2&#x02034;/H-3b&#x02034;, and HMBC correlations (
+<bold>Fig.&#x02009;13S</bold>
+, Supporting Information) from H-2&#x02034; to C-5&#x02032;/3&#x02034;/5&#x02034;/6&#x02034; and H-3b&#x02034; to C-4&#x02032;/5&#x02032;/6&#x02032;/2&#x02034;/4&#x02034;. The
+<italic>S</italic>
+configuration of C-3 was determined based on its circular dichroism spectrum (
+<bold>Fig.&#x02009;16S</bold>
+, Supporting Information), and showed a negative cotton effect at 325&#x02009;nm
+<xref rid="RF0210-36" ref-type="bibr">36</xref>
+. In the ROESY spectrum (
+<bold>Fig.&#x02009;15S</bold>
+, Supporting Information), H-2&#x02034; (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.31) correlated with H
+<sub>2</sub>
+-3&#x02034; (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+2.66, 2.87), H
+<sub>3</sub>
+-6&#x02034;(
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+1.79) correlated with H-2&#x02034;, and the coupling constants of H-2&#x02034; and H-3a&#x02034; were different from those in crotadihydrofuran A, which indicated that H-2&#x02034; was an
+<italic>&#x003b2;</italic>
+-orientation
+<xref rid="RF0210-37" ref-type="bibr">37</xref>
+. Thus, the structure of rhynchone B (
+<bold>2</bold>
+) was identified as 3
+<italic>S</italic>
+,2&#x02034;
+<italic>R</italic>
+-5,2&#x02032;-dihydroxy-2&#x02034;,2&#x02033;- dimethylpyrano[6,7&#x0200a;:&#x0200a;5&#x02033;,6&#x02033;]-2&#x02034;-allyl furano[4&#x02032;,5&#x02032;:4&#x02033;,5&#x02033;] isoflavanone.
+</p><p>
+Rhynchone C (
+<bold>3</bold>
+), a yellow powder, had a molecular formula of C
+<sub>26</sub>
+H
+<sub>26</sub>
+O
+<sub>6</sub>
+from its HR-ESI-TOF-MS spectra [M + H
+<sub>2</sub>
+O &#x02013; H]
+<sup>&#x02212;</sup>
+<italic>m/z</italic>
+451.1807 ([M + H
+<sub>2</sub>
+O &#x02013; H]
+<sup>&#x02212;</sup>
+calcd. 451.1757). The NMR data (
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+) revealed a methoxy group (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+3.79,
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+55.5) instead of the C-2&#x02032; hydroxyl group in
+<bold>2</bold>
+. This difference was demonstrated by the HMBC correlation from H
+<sub>3</sub>
+-2&#x02032;-OMe to C-2&#x02032; at
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+158.4 (
+<bold>Fig.&#x02009;21S</bold>
+, Supporting Information). Thus,
+<bold>3</bold>
+was identified as 3
+<italic>S</italic>
+, 2&#x02034;
+<italic>R</italic>
+-5-hydroxy-2&#x02032;-methoxyl-2&#x02033;, 2&#x02033;-dimethylpyrano [6,7&#x0200a;:&#x0200a;5&#x02033;,6&#x02033;]-2&#x02034;-allyl furano[4&#x02032;,5&#x02032;:4&#x02033;,5&#x02033;] isoflavanone.
+</p><p>
+Rhynchone D (
+<bold>4</bold>
+), a yellow oily solid, had a molecular formula of C
+<sub>25</sub>
+H
+<sub>24</sub>
+O
+<sub>6</sub>
+based on its HR-ESI-MS ion at [M + H
+<sub>2</sub>
+O &#x02013; H]
+<sup>&#x02212;</sup>
+<italic>m/z</italic>
+437.1639 (calcd. 437.1600). The NMR spectra (
+<bold>Figs.&#x02009;26S</bold>
+and
+<bold>27S</bold>
+, Supporting Information) of
+<bold>4</bold>
+exhibited very similar A- and B-ring moieties with those of
+<bold>1</bold>
+. The C-4&#x02032; was substituted by a hydroxyl group in
+<bold>2</bold>
+instead of a methoxy group in
+<bold>1</bold>
+. Additionally, incorporating a furan ring in the flavone system, an extra ring was fused to ring B (C-2-C-3-O-C-2&#x02032;-C1&#x02032;). This assertion was supported by the
+<sup>1</sup>
+H-
+<sup>1</sup>
+H COSY correlations of H-2 (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.72)/H-3 (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.32) (
+<bold>Fig.&#x02009;30S</bold>
+, Supporting Information) and HMBC correlations from H-2 (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.72) to C-4 (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+194.8), C-9 (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+162.4), and C-1&#x02032; (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+115.0) and H-3 (
+<italic>&#x003b4;</italic>
+<sub>H</sub>
+4.32) to C-4 (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+194.8) and C-1&#x02032; (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+115.0) (
+<bold>Fig.&#x02009;29S</bold>
+, Supporting Information). According to the coupling constant (
+<italic>J&#x02009;</italic>
+=&#x02009;11.1/11.4&#x02009;Hz) between H-2/H-3, we concluded that the two rings were
+<italic>trans</italic>
+-fused. In addition, the absolute configuration of
+<bold>4</bold>
+was approximate to 2
+<italic>S</italic>
+, 3
+<italic>R</italic>
+-
+<bold>4</bold>
+, which was characteristic of the positive Cotton effects at 212 and 273&#x02009;nm and the negative Cotton effect at 258&#x02009;nm (
+<xref rid="FIF0210-5" ref-type="fig">Fig.&#x02009;5&#x0200a;b</xref>
+) in the ECD spectrum. The structure of rhynchone D was deduced as 2
+<italic>S</italic>
+, 3
+<italic>R</italic>
+-5, 4&#x02032;-dihydroxy-2&#x02033;, 2&#x02033;-dimethylpyrano[6,7&#x0200a;:&#x0200a;5&#x02033;,6&#x02033;]-5&#x02032;-prenyl-furano [2,3&#x0200a;:&#x0200a;5&#x02032;,4&#x02032;]- flavonone.
+</p><p>
+Rhynchone E (
+<bold>5</bold>
+), a yellow oily solid, had a molecular formula of C
+<sub>25</sub>
+H
+<sub>24</sub>
+O
+<sub>8</sub>
+based on its HR-ESI-MS (
+<bold>Fig.&#x02009;33S</bold>
+, Supporting Information) and NMR spectra (
+<bold>Figs.&#x02009;34S</bold>
+and
+<bold>35S</bold>
+, Supporting Information). The NMR data (
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+) of substitution on its A- and B-rings resembled those of precatorin A, and the main difference between the two compounds was the connection between the B- and C-rings. The molecular mass of rhynchone E (
+<bold>5</bold>
+) was 32 mass units higher than precatorin A
+<xref rid="RF0210-4" ref-type="bibr">4</xref>
+, indicating that
+<bold>5</bold>
+possessed a hemiacetalic carbon (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+105.1, C-3). This was demonstrated by the following changes of carbon chemical shifts compared to precatorin A: C-2 (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+70.2, +&#x02009;0.5&#x02009;ppm), C-4 (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+185.1, +&#x02009;11.6&#x02009;ppm), C-1&#x02032; (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+140.6, +&#x02009;26.1&#x02009;ppm), C-2&#x02032;
+(
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+146.6, -9.3&#x02009;ppm), and C-6&#x02032; (
+<italic>&#x003b4;</italic>
+<sub>C</sub>
+105.9, 19.2&#x02009;ppm) based on HSQC (
+<bold>Fig.&#x02009;36S</bold>
+, Supporting Information), HMBC (
+<bold>Fig.&#x02009;37S</bold>
+, Supporting Information), and
+<sup>1</sup>
+H-
+<sup>1</sup>
+H COSY (
+<bold>Fig.&#x02009;38S</bold>
+, Supporting Information) analyses. The result of
+<bold>5</bold>
+showed that the experimental ECD spectrum exhibited a positive Cotton effect at 206&#x02009;nm and a negative Cotton effect at 272&#x02009;nm, which was highly similar to the calculated ECD pattern of 3
+<italic>S</italic>
+-
+<bold>5</bold>
+(
+<xref rid="FIF0210-5" ref-type="fig">Fig.&#x02009;5&#x0200a;c</xref>
+). So,
+<bold>5</bold>
+was identified as 3,5-dihydroxy-3-((7-hydroxy-2,2-dimethyl-2H-chromen-6-yl)oxy)-8,8-dimethyl-2,3-dihydro-4H,8H-pyrano[2,3-f]chromen-4-one.
+</p></sec></sec><sec><title>Materials and Methods</title><sec><title>General experiment procedures</title><p>
+Optical rotations were recorded on an AUTOPOL IV-T automatic polarimeter. The ECD spectra were obtained using a JASCO J-810 Circular Dichroism Spectrometer. All NMR data were obtained using a Bruker Avance III 600&#x02009;MHz NMR spectrometer, and the MS was obtained using a Thermo Fisher Ultimate 3000 HPLC TOF-MS. Toyopearl HW-40C and Sephadex LH-20 were employed for gel permeation. A macroporous adsorption resin (D101) and silica gel (100&#x0200a;&#x02013;&#x0200a;200, 200&#x0200a;&#x02013;&#x0200a;300 meshes) were employed for column chromatography. HPLC separations were carried out on a WuFeng LC-100 pump that was equipped with an RI2000 refractive index detector using a YMC-Pack ODS-A column (10&#x02009;&#x000d7;&#x02009;250&#x02009;mm, 5&#x02009;&#x000b5;m) and a YMC-Pack SIL column (10&#x02009;&#x000d7;&#x02009;250&#x02009;mm, 5&#x02009;&#x000b5;m). The change of human sperm [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+was measured using the fluorescent Ca
+<sup>2+</sup>
+indicator Fluo-4 AM with the EnSpire Multimode Plate Reader. Pipettes were prepared by a Sutter Micropipette Puller P1000 and Narishige Microforge MF830. The
+CatSper current was recorded by a patch-clamping system constructed by an Olympus IX71 inverted microscope, a Sutter electric triaxial micromanipulator, Axon Axopatch 200B, and Axon Digidata 1550.
+</p></sec><sec><title>Plant material</title><p>
+The whole herb of
+<italic>R.&#x000a0;volubilis</italic>
+was collected in Zaoyang County by Mr. Rui-Zhong Zhou, a pharmacist from Zaoyang Hospital of Traditional Chinese Medicine, Xiangyang City, Hubei Province. The plant was identified by Dr. Jinbo Fang, who is an Associate Professor from the School of Pharmacy, Tongji Medical College of Huazhong University of Science and Technology (China), where the voucher specimens (NO. RVL 20&#x0200a;181&#x0200a;101) were deposited.
+</p></sec><sec><title>Extraction and isolation</title><p>
+The air-dried whole plant of
+<italic>R.&#x000a0;volubilis</italic>
+(10&#x02009;kg) was powdered and then extracted three times (24&#x02009;h each time) with 95% EtOH at room temperature to obtain a crude extract after filtration and evaporation of the combined solution. The crude extract was suspended in H
+<sub>2</sub>
+O followed by solvent partitions with PE, EtOAc, and
+<italic>n</italic>
+-BuOH, then concentrated in a vacuum to afford extracts weighing 29.1&#x02009;g, 138.8&#x02009;g, and 179.2&#x02009;g, respectively.
+</p><p>
+PE Fr. (28.1&#x02009;g) was chromatographed on silica gel (100&#x0200a;&#x02013;&#x0200a;200 mesh) (PE-EtOAc 100&#x0200a;:&#x0200a;1, 99&#x0200a;:&#x0200a;1, 49&#x0200a;:&#x0200a;1, 19&#x0200a;:&#x0200a;1, 14&#x0200a;:&#x0200a;1, 12&#x0200a;:&#x0200a;1, 9&#x0200a;:&#x0200a;1, 4&#x0200a;:&#x0200a;1, 1&#x0200a;:&#x0200a;1, v/v) to afford nine fractions (Frs. P0101&#x0200a;&#x02013;&#x0200a;0109). Fr. P0105 (4.2&#x02009;g) was subjected to Toyopearl HW-40C (CH
+<sub>2</sub>
+Cl
+<sub>2</sub>
+-MeOH, 2&#x0200a;:&#x0200a;1, v/v), resulting in six fractions (Frs. P0701&#x0200a;&#x02013;&#x0200a;0706). Fr. P0705 (2.2&#x02009;g) was isolated by RP-C18 (MeOH-H
+<sub>2</sub>
+O, 6&#x0200a;:&#x0200a;4, 7&#x0200a;:&#x0200a;3, 8&#x0200a;:&#x0200a;2, 9&#x0200a;:&#x0200a;1 to 1: 0, v/v) to get Frs. P0901&#x0200a;&#x02013;&#x0200a;0905. Fr. P0904 (127.4&#x02009;mg) was purified by RP-HPLC (MeOH-H
+<sub>2</sub>
+O, 75&#x0200a;:&#x0200a;25, 1.5&#x02009;mL/min) to afford compounds
+<bold>1</bold>
+(4.6&#x02009;mg,
+<italic>t</italic>
+<sub>R</sub>
+&#x02009;=&#x02009;86.2&#x02009;min),
+<bold>2</bold>
+(20.7&#x02009;mg,
+<italic>t</italic>
+<sub>R</sub>
+&#x02009;=&#x02009;91.1&#x02009;min), and
+<bold>4</bold>
+(4.1&#x02009;mg,
+<italic>t</italic>
+<sub>R</sub>
+&#x02009;=&#x02009;107.6&#x02009;min).
+</p><p>
+Fr. P0106 (7.9&#x02009;g) was subjected to RP-C18 (MeOH-H
+<sub>2</sub>
+O, 4&#x0200a;:&#x0200a;6, 5&#x0200a;:&#x0200a;5, 6&#x0200a;:&#x0200a;4, 7&#x0200a;:&#x0200a;3, 8&#x0200a;:&#x0200a;2, 9&#x0200a;:&#x0200a;1 to 1: 0, v/v) to get Frs. P1201&#x0200a;&#x02013;&#x0200a;1208. Fr. P1207 (1.8&#x02009;g) was chromatographed on Toyopearl HW-40C (CH
+<sub>2</sub>
+Cl
+<sub>2</sub>
+-MeOH, 2&#x0200a;:&#x0200a;1, v/v) and Sephadex LH-20 (MeOH) to obtain Frs. P1801&#x0200a;&#x02013;&#x0200a;1805. Fr. P1804 (206.9&#x02009;mg) was isolated by silica gel (300&#x0200a;&#x02013;&#x0200a;400 mesh) eluted with (PE-acetone, 9&#x0200a;:&#x0200a;1&#x0200a;&#x02013;&#x0200a;4&#x0200a;:&#x0200a;1, v/v), then purified by RP-HPLC and eluted with MeOH-H
+<sub>2</sub>
+O (86&#x0200a;:&#x0200a;14, 1.5&#x02009;mL/min) followed by PTLC and eluted with PE-acetone (4&#x0200a;:&#x0200a;1) to afford
+<bold>6</bold>
+(3.6&#x02009;mg).
+</p><p>
+EtOAc Fr. (138.8&#x02009;g) was separated using resin HP-20SS (75&#x0200a;&#x02013;&#x0200a;150&#x02009;&#x000b5;m) and eluted with MeOH-H
+<sub>2</sub>
+O (4&#x0200a;:&#x0200a;6, 6&#x0200a;:&#x0200a;4, 8&#x0200a;:&#x0200a;2, 9&#x0200a;:&#x0200a;1, 0&#x0200a;:&#x0200a;10, v/v) to obtain six fractions (Frs. E0101&#x0200a;&#x02013;&#x0200a;0106). Fr. E0103 (54.2&#x02009;g) was subjected to silica gel [100&#x0200a;&#x02013;&#x0200a;200 mesh, (CH
+<sub>2</sub>
+Cl
+<sub>2</sub>
+-MeOH, 100&#x0200a;:&#x0200a;0, 99&#x0200a;:&#x0200a;1, 98&#x0200a;:&#x0200a;2, 97&#x0200a;:&#x0200a;3, 96&#x0200a;:&#x0200a;4, 95&#x0200a;:&#x0200a;5, 9&#x0200a;:&#x0200a;1, 8&#x0200a;:&#x0200a;1, 6&#x0200a;:&#x0200a;1, 2&#x0200a;:&#x0200a;1, 1&#x0200a;:&#x0200a;1, 0&#x0200a;:&#x0200a;1, v/v)] to afford 11 fractions (Frs. E0201&#x0200a;&#x02013;&#x0200a;0211). Fr. E0206 (3.8&#x02009;g) was chromatographed on silica gel (60&#x02009;&#x000b5;m) and eluted with CH
+<sub>2</sub>
+Cl
+<sub>2</sub>
+-MeOH (200&#x0200a;:&#x0200a;1, 100&#x0200a;:&#x0200a;1, 50&#x0200a;:&#x0200a;1, 1&#x0200a;:&#x0200a;1, 0&#x0200a;:&#x0200a;1, v/v) to get Frs. E0901&#x0200a;&#x02013;&#x0200a;0905. Fr. E0902 (829.9&#x02009;mg) was purified by Sephadex LH-20 (MeOH) followed by RP-HPLC eluted with MeOH-H
+<sub>2</sub>
+O (72&#x0200a;:&#x0200a;28, 1.5&#x02009;mL/min) and PTLC eluted with CH
+<sub>2</sub>
+Cl
+<sub>2</sub>
+-MeOH (49&#x0200a;:&#x0200a;1, v/v), to afford compounds
+<bold>3</bold>
+(4.3&#x02009;mg)
+<bold>, 5</bold>
+(22.7&#x02009;mg),
+<bold>7</bold>
+(4.9&#x02009;mg), and
+<bold>8</bold>
+(5.8&#x02009;mg).
+</p><p>
+Fr. E0104 (64.7&#x02009;g) was isolated with silica gel (60&#x02009;&#x000b5;m) and eluted with
+<italic>n</italic>
+-hexane-EtOAc, 6&#x0200a;:&#x0200a;1, 5&#x0200a;:&#x0200a;1, 4&#x0200a;:&#x0200a;1, 3&#x0200a;:&#x0200a;1, 2&#x0200a;:&#x0200a;1, 0&#x0200a;:&#x0200a;1, v/v) to afford nine fractions (Frs. E1301&#x0200a;&#x02013;&#x0200a;1309). Frs. E1301&#x0200a;&#x02013;&#x0200a;1303 (6.4&#x02009;g) were chromatographed on Toyopearl HW-40C (CH
+<sub>2</sub>
+Cl
+<sub>2</sub>
+-MeOH, 2&#x0200a;:&#x0200a;1, v/v) and Sephadex LH-20 (MeOH) and purified by RP-HPLC and eluted with MeOH-H
+<sub>2</sub>
+O (69&#x0200a;:&#x0200a;31, 1.5&#x02009;mL/min) followed by PTLC and eluted with (CH
+<sub>2</sub>
+Cl
+<sub>2</sub>
+-MeOH, 49&#x0200a;:&#x0200a;1, v/v) to afford
+<bold>14</bold>
+(6.3&#x02009;mg),
+<bold>15</bold>
+(10.7&#x02009;mg),
+<bold>16</bold>
+(6.1&#x02009;mg), and
+<bold>17</bold>
+(7.7&#x02009;mg). Frs. E1304&#x0200a;&#x02013;&#x0200a;1307 (15.2&#x02009;g) were separated using RP-C18 and eluted with MeOH-H
+<sub>2</sub>
+O (70&#x0200a;:&#x0200a;30, 75&#x0200a;:&#x0200a;25, 80&#x0200a;:&#x0200a;20, 85&#x0200a;:&#x0200a;15, 90&#x0200a;:&#x0200a;10, 100&#x0200a;:&#x0200a;0, v/v) to obtain seven fractions (Frs. E1801&#x0200a;&#x02013;&#x0200a;1807). Fr. E1804 (6.1&#x02009;g) was chromatographed on silica gel (300&#x0200a;&#x02013;&#x0200a;400 mesh) and eluted with PE-EtOAc (10&#x0200a;:&#x0200a;1, 9&#x0200a;:&#x0200a;1, 8&#x0200a;:&#x0200a;1, 7&#x0200a;:&#x0200a;1, 6&#x0200a;:&#x0200a;1, 5&#x0200a;:&#x0200a;1, 4&#x0200a;:&#x0200a;1, 3&#x0200a;:&#x0200a;1, 2&#x0200a;:&#x0200a;1, 1&#x0200a;:&#x0200a;1, 0&#x0200a;:&#x0200a;1, v/v) to afford 11
+fractions (Frs. E1901&#x0200a;&#x02013;&#x0200a;1911). Fr. E1906 (3.1&#x02009;g) was successively isolated with Sephadex LH-20 (MeOH), RP-HPLC, and eluted with MeOH-H
+<sub>2</sub>
+O (74&#x0200a;:&#x0200a;26, 1.5&#x02009;mL/min) followed by PTLC and eluted with (CH
+<sub>2</sub>
+Cl
+<sub>2</sub>
+-MeOH, 50&#x0200a;:&#x0200a;1, v/v) to afford
+<bold>10</bold>
+(15.1&#x02009;mg),
+<bold>11</bold>
+(12.8&#x02009;mg),
+<bold>12</bold>
+(5.2&#x02009;mg), and
+<bold>13</bold>
+(13.6&#x02009;mg). Fr. E1807 (4.7&#x02009;g) was chromatographed on silica gel (60&#x02009;&#x000b5;m) and eluted with PE-EtOAc (10&#x0200a;:&#x0200a;1, 9&#x0200a;:&#x0200a;1, 8&#x0200a;:&#x0200a;1, 7&#x0200a;:&#x0200a;1, 6&#x0200a;:&#x0200a;1, 5&#x0200a;:&#x0200a;1, 4&#x0200a;:&#x0200a;1, 3&#x0200a;:&#x0200a;1, 2&#x0200a;:&#x0200a;1, 1&#x0200a;:&#x0200a;1, 0&#x0200a;:&#x0200a;1, v/v) to afford 11 fractions (Frs. E2201&#x0200a;&#x02013;&#x0200a;2211). Frs. E2204&#x0200a;&#x02013;&#x0200a;2205 (958.2&#x02009;mg) were successively isolated with Sephadex LH-20 (MeOH), RP-HPLC, and eluted with MeOH-H
+<sub>2</sub>
+O (76&#x0200a;:&#x0200a;24, 1.5&#x02009;mL/min) followed by PTLC and eluted with PE-acetone (4&#x0200a;:&#x0200a;1) to afford
+<bold>9</bold>
+(7.0&#x02009;mg) and
+<bold>18</bold>
+(6.6&#x02009;mg).
+</p></sec><sec><title>Quantum chemistry calculations</title><p>
+A conformational search of the compounds was implemented in Maestro 10.2 software (Schrodinger, LLC) where conformers with Boltzmann populations &#x0003e;&#x02009;5% were taken into further quantum chemistry calculations. The geometry optimizations, frequency analysis, and TD-DFT calculations of each conformer were subsequently carried out using the B3LYP/6&#x0200a;&#x02013;&#x0200a;31&#x02009;g (d, p) level with Gaussian 16 B.01
+<xref rid="RF0210-34" ref-type="bibr">34</xref>
+. The solvent effects of methanol were taken into consideration by using a solvation model of IEFPCM during the calculations
+<xref rid="RF0210-35" ref-type="bibr">35</xref>
+. The calculated ECD data were Boltzmann averaged according to Gibbs free energy and their ECD spectra were generated by the SpecDis v1.71 program
+<xref rid="RF0210-39" ref-type="bibr">38</xref>
+with a bandwidth (&#x003c3;) of 0.16&#x02009;eV. For all calculated spectra, the vertical axes were scaled to fit the experimental spectra. The wavelength shift of 2, 0, and &#x02212;&#x02009;35&#x02009;nm was employed for
+<bold>1, 4</bold>
+, and
+<bold>5</bold>
+, respectively
+(
+<bold>Fig.&#x02009;41</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>43S</bold>
+, Supporting Information).
+</p></sec><sec><title>
+Measurement of sperm [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+</title><p>
+The change of human sperm [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+was measured using the fluorescent Ca
+<sup>2+</sup>
+indicator Fluo-4 AM with the EnSpire Multimode Plate Reader as previously described
+<xref rid="RF0210-40" ref-type="bibr">39</xref>
+. The action of compounds
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>18</bold>
+(100&#x02009;mM stock in DMSO) on [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+of human sperm was detected. The final concentration of DMSO was 0.1%. The change of sperm [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+was calculated by &#x00394;F/F
+<sub>0</sub>
+(%), indicating the percent (%) of fluorescent changes (&#x00394;F) normalized to the mean basal fluorescence before the application of any chemicals (F
+<sub>0</sub>
+). &#x00394;F/F
+<sub>0</sub>
+(%) = (F &#x02013; F
+<sub>0</sub>
+)/F
+<sub>0</sub>
+&#x02009;&#x000d7;&#x02009;100%, where F indicates the fluorescent intensity at each recorded time point.
+</p></sec><sec><title>Compounds assay &#x02013; sperm patch-clamp recordings</title><p>
+The whole-cell patch-clamp technique was applied to record human sperm CatSper as previously described
+<xref rid="RF0210-41" ref-type="bibr">40</xref>
+. Seals were formed at the sperm cytoplasmic droplet or the neck region by a 15&#x0200a;&#x02013;&#x0200a;30&#x02009;M&#x003a9; pipette. The transition into whole-cell mode was then made by applying short (1&#x02009;ms) voltage pulses (400&#x0200a;&#x02013;&#x0200a;650&#x02009;mV) combined with light suction. The currents were stimulated by 1&#x02009;s voltage ramps from &#x02212;&#x02009;100 to +&#x02009;100&#x02009;mV from a holding potential of 0&#x02009;mV. The monovalent current of CatSper and divalent-free (DVF) solution (150&#x02009;mM NaCl, 20&#x02009;mM HEPES, and 5&#x02009;mM EDTA, pH&#x02009;7.4) was used to record basal CatSper monovalent currents. Then, 1, 10, and 100&#x02009;&#x000b5;M compounds (
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>18</bold>
+), 1&#x02009;&#x000b5;M progesterone, and 100&#x02009;&#x000b5;M compounds (
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>18</bold>
+) together with 1&#x02009;&#x000b5;M progesterone in DVF were perfused to record CatSper currents. Data were analyzed with Clampfit version 10.4 software.
+</p></sec><sec><title>Rhynchone A (1)</title><p>
+Pale yellow solid; [
+<italic>&#x003b1;</italic>
+]
+<sub>D</sub>
+<sup>20</sup>
+&#x02009;&#x02212;&#x02009;5.33&#x000b0; (
+<italic>c</italic>
+0.1, CH
+<sub>3</sub>
+OH); UV (MeOH)
+<italic>&#x003bb;</italic>
+<sub>max</sub>
+nm (log
+<italic>&#x003b5;</italic>
+): 204 (4.02), 272 (3.97). IR (KBr)
+<italic>&#x003bd;</italic>
+<sub>max</sub>
+3423, 2970, 2881, 1639, 1560, 1494, 1392, 1187&#x02009;cm
+<sup>&#x02212;1</sup>
+;
+<sup>1</sup>
+H NMR (600&#x02009;MHz in CDCl
+<sub>3</sub>
+) and
+<sup>13</sup>
+C NMR (150&#x02009;MHz in CDCl
+<sub>3</sub>
+), for data, see
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+; HR-ESI-TOF-MS [M- H]
+<sup>&#x02212;</sup>
+<italic>m/z</italic>
+435.1794 ([M &#x02013; H]
+<sup>&#x02212;</sup>
+calcd. 435.1807).
+</p></sec><sec><title>Rhynchone B (2)</title><p>
+Yellow oil; [
+<italic>&#x003b1;</italic>
+]
+<sub>D</sub>
+<sup>20</sup>
+&#x02009;&#x02212;&#x02009;16.7&#x000b0; (
+<italic>c</italic>
+0.1, CH
+<sub>3</sub>
+OH); UV (MeOH)
+<italic>&#x003bb;</italic>
+<sub>max</sub>
+nm (log
+<italic>&#x003b5;</italic>
+): 203 (3.68), 272 (3.59). IR (KBr)
+<italic>&#x003bd;</italic>
+<sub>max</sub>
+3436, 2982, 2881, 2382, 1624, 1555, 1397, 1165&#x02009;cm
+<sup>&#x02212;1</sup>
+;
+<sup>1</sup>
+H NMR (600&#x02009;MHz in CDCl
+<sub>3</sub>
+) and
+<sup>13</sup>
+C NMR (150&#x02009;MHz in CDCl
+<sub>3</sub>
+), for data, see
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+; HR-ESI-TOF-MS [M + H
+<sub>2</sub>
+O &#x02013; H]
+<sup>&#x02212;</sup>
+<italic>m/z</italic>
+437.1606 ([M + H
+<sub>2</sub>
+O &#x02013; H]
+<sup>&#x02212;</sup>
+calcd. 437.1600).
+</p></sec><sec><title>Rhynchone C (3)</title><p>
+Yellow powder; [
+<italic>&#x003b1;</italic>
+]
+<sub>D</sub>
+<sup>20</sup>
+&#x02009;&#x02212;&#x02009;23.1&#x000b0; (
+<italic>c</italic>
+0.1, CH
+<sub>3</sub>
+OH); UV (MeOH)
+<italic>&#x003bb;</italic>
+<sub>max</sub>
+nm (log
+<italic>&#x003b5;</italic>
+): 202 (3.66), 272 (3.54). IR (KBr)
+<italic>&#x003bd;</italic>
+<sub>max</sub>
+3441, 2980, 2882, 1644, 1627, 1392, 1315&#x02009;cm
+<sup>&#x02212;1</sup>
+;
+<sup>1</sup>
+H NMR (600&#x02009;MHz in CDCl
+<sub>3</sub>
+) and
+<sup>13</sup>
+C NMR (150&#x02009;MHz in CDCl
+<sub>3</sub>
+), for data, see
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+; HR-ESI-TOF-MS [M- H]
+<sup>&#x02212;</sup>
+<italic>m/z</italic>
+435.1794 ([M &#x02013; H]
+<sup>&#x02212;</sup>
+calcd. 435.1807).
+</p></sec><sec><title>Rhynchone D (4)</title><p>
+Yellow oily solid; [
+<italic>&#x003b1;</italic>
+]
+<sub>D</sub>
+<sup>20</sup>
+&#x02009;&#x02212;&#x02009;15.3&#x000b0; (
+<italic>c</italic>
+0.1, CH
+<sub>3</sub>
+OH); UV (MeOH)
+<italic>&#x003bb;</italic>
+<sub>max</sub>
+nm (log
+<italic>&#x003b5;</italic>
+): 203 (3.98), 226 (3.56), 273 (3.85). IR (KBr)
+<italic>&#x003bd;</italic>
+<sub>max</sub>
+3342, 2980, 1630, 1627, 1491, 1376, 1363, 1169, 1130, 1097&#x02009;cm
+<sup>&#x02212;1</sup>
+;
+<sup>1</sup>
+H NMR (600&#x02009;MHz in CDCl
+<sub>3</sub>
+) and
+<sup>13</sup>
+C NMR (150&#x02009;MHz in CDCl
+<sub>3</sub>
+), for data, see
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+; HR-ESI-TOF-MS [M + H
+<sub>2</sub>
+O &#x02013; H]
+<sup>&#x02212;</sup>
+<italic>m/z</italic>
+437.1639 ([M + H
+<sub>2</sub>
+O &#x02013; H]
+<sup>&#x02212;</sup>
+calcd. 437.1600).
+</p></sec><sec><title>Rhynchone E (5)</title><p>
+Yellow oily solid; [
+<italic>&#x003b1;</italic>
+]
+<sub>D</sub>
+<sup>20</sup>
+&#x02009;&#x02212;&#x02009;67.1&#x000b0; (
+<italic>c</italic>
+0.1, CH
+<sub>3</sub>
+OH); UV (MeOH)
+<italic>&#x003bb;</italic>
+<sub>max</sub>
+nm (log
+<italic>&#x003b5;</italic>
+): 212 (3.90), 276 (3.92), 322 (3.76). IR (KBr)
+<italic>&#x003bd;</italic>
+<sub>max</sub>
+3440, 2980, 2881, 1647, 1627, 1484, 1381, 1145&#x02009;cm
+<sup>&#x02212;1</sup>
+;
+<sup>1</sup>
+H NMR (600&#x02009;MHz in CDCl
+<sub>3</sub>
+) and
+<sup>13</sup>
+C NMR (150&#x02009;MHz in CDCl
+<sub>3</sub>
+), for data, see
+<xref rid="TBF0210-1" ref-type="table">Tables 1</xref>
+and
+<xref rid="TBF0210-2" ref-type="table">2</xref>
+; HR-ESI-TOF-MS [M- H]
+<sup>&#x02212;</sup>
+<italic>m/z</italic>
+451.1366 ([M&#x000a0;&#x02013; H]
+<sup>&#x02212;</sup>
+calcd. 451.1392).
+</p></sec></sec><sec><title>Contributors&#x002bc; Statement</title><p>J. Xiang: investigation, visualization, and writing &#x02013; original draft. H. Kang: investigation, visualization, and writing &#x02013; original draft. H.&#x0200a;G. Li: resources and funding acquisition. Y.&#x0200a;L. Shi: investigation, visualization, and revision. Y.&#x0200a;L. Zhang: investigation. C.&#x0200a;L. Ruan: investigation. L.&#x0200a;H. Liu: investigation. H.&#x0200a;Q. Gao: investigation. T.&#x000a0;Luo: resources and funding acquisition. G.&#x0200a;S. Hu: investigation. W.&#x0200a;L. Zhu: supervision. J.&#x0200a;M. Jia: supervision. J.&#x0200a;C. Chen: resources. J.&#x0200a;B. Fang: writing &#x02013; review and editing, and funding acquisition. All authors approved the final version of the manuscript.</p></sec></body><back><ack><title>Acknowledgements</title><p>This research was financially supported by the National Key Research and Development Plan (No.&#x02009;2016YFC1&#x0200a;000&#x0200a;905), the National Natural Science Foundation (No.&#x02009;31&#x0200a;000&#x0200a;150), the Fundamental Research Funds for the Central Universities (No. HUST2016YXMS145), the Special Funds for Central Government to Guide Local Scientific and Technological Development (No.&#x02009;20&#x0200a;202ZDB01&#x0200a;013), and the Open Funds of State Key Laboratory of Magnetic Resonance and Atomic and Molecular Physics (No. T152602). We appreciate Dr. Zhijian Xu and Bo Li, CAS Key Laboratory of Receptor Research &#x00026; Drug Discovery and Design Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, for their help with the computational calculations.</p></ack><fn-group><fn fn-type="COI-statement" id="d34e237"><p><bold>Conflict of Interest</bold> The authors declare that they have no conflict of interest.</p></fn></fn-group><sec sec-type="supplementary-material"><title>Supporting Information</title><supplementary-material id="d34e3794"><p>
+HR-ESI-MS, NMR spectra, and ECD of compounds
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>5</bold>
+, and effect of extracts and compounds
+<bold>1</bold>
+&#x0200a;&#x02013;&#x0200a;
+<bold>18</bold>
+on human sperm [Ca
+<sup>2+</sup>
+]
+<sub>i</sub>
+are available as Supporting Information.
+</p><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10-1055-a-1542-0151-sup_pmf0210.pdf"><caption><p>Supporting Information</p></caption><caption><p>Supporting Information</p></caption></media></supplementary-material></sec><ref-list><title>References</title><ref id="RF0210-1"><label>1</label><mixed-citation publication-type="book"><collab>Editorial Committee of Flora of China </collab><collab>Chinese Academy of Sciences </collab><article-title><italic>Rhynchosia</italic>
+Loureiro, Fl. Cochinch. 2: 425, 460. 1790, nom. cons
+</article-title><publisher-loc>Beijing</publisher-loc><publisher-name>Beijing Science Press</publisher-name><year>2010</year><fpage>5</fpage></mixed-citation></ref><ref id="RF0210-2"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guan</surname><given-names>H T</given-names></name><name><surname>Fang</surname><given-names>F</given-names></name><name><surname>Xiong</surname><given-names>Z</given-names></name><name><surname>Meng</surname><given-names>T Q</given-names></name><name><surname>Huang</surname><given-names>S X</given-names></name></person-group><article-title><italic>n</italic>
+-Butanol extract of
+<italic>Rhynchosia volubilis</italic>
+Lour: a potent spermicidal agent
+<italic>In Vitro</italic></article-title><source>J Huazhong Univ Sci Technolog Med Sci</source><year>2014</year><volume>34</volume><fpage>398</fpage><lpage>402</lpage><pub-id pub-id-type="pmid">24939306</pub-id></mixed-citation></ref><ref id="RF0210-3"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xiang</surname><given-names>J</given-names></name><name><surname>Ruan</surname><given-names>C L</given-names></name><name><surname>Liu</surname><given-names>D</given-names></name><name><surname>Liu</surname><given-names>D</given-names></name><name><surname>Dai</surname><given-names>Y W</given-names></name><name><surname>Li</surname><given-names>H G</given-names></name><name><surname>Fang</surname><given-names>J B</given-names></name></person-group><article-title>
+Chemical constituents from
+<italic>Rhynchosia volubilis</italic></article-title><source>Chin Tradit Herbal Drugs</source><year>2020</year><volume>51</volume><fpage>100</fpage><lpage>106</lpage></mixed-citation></ref><ref id="RF0210-4"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coronado-Aceves</surname><given-names>E W</given-names></name><name><surname>Gigliarelli</surname><given-names>G</given-names></name><name><surname>Garibay-Escobar</surname><given-names>A</given-names></name><name><surname>Zepeda</surname><given-names>R ER</given-names></name><name><surname>Curini</surname><given-names>M</given-names></name><name><surname>Cervantes</surname><given-names>J L</given-names></name><name><surname>Espitia-Pinzon</surname><given-names>C II</given-names></name><name><surname>Superchi</surname><given-names>S</given-names></name><name><surname>Vergura</surname><given-names>S</given-names></name><name><surname>Marcotullio</surname><given-names>M C</given-names></name></person-group><article-title>
+New Isoflavonoids from the extract of
+<italic>Rhynchosia precatoria</italic>
+(Humb. &#x00026; Bonpl. ex Willd.) DC. and their antimycobacterial activity
+</article-title><source>J Ethnopharmacol</source><year>2017</year><volume>206</volume><fpage>92</fpage><lpage>100</lpage><pub-id pub-id-type="pmid">28506901</pub-id></mixed-citation></ref><ref id="RF0210-5"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ogungbe</surname><given-names>I V</given-names></name><name><surname>Hill</surname><given-names>G M</given-names></name><name><surname>Crouch</surname><given-names>R A</given-names></name><name><surname>Vogler</surname><given-names>B</given-names></name><name><surname>Nagarkoti</surname><given-names>M</given-names></name><name><surname>Haber</surname><given-names>W A</given-names></name><name><surname>Setzer</surname><given-names>W N</given-names></name></person-group><article-title>
+Prenylated isoflavonoids from
+<italic>Rhynchosia edulis</italic></article-title><source>Nat Prod Commun</source><year>2011</year><volume>6</volume><fpage>1637</fpage><lpage>1644</lpage><pub-id pub-id-type="pmid">22224278</pub-id></mixed-citation></ref><ref id="RF0210-6"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rammohan</surname><given-names>A</given-names></name><name><surname>Gunasekar</surname><given-names>D</given-names></name><name><surname>Reddy</surname><given-names>N V</given-names></name><name><surname>Vijaya</surname><given-names>T</given-names></name><name><surname>Deville</surname><given-names>A</given-names></name><name><surname>Bodo</surname><given-names>B</given-names></name></person-group><article-title>
+Structure elucidation and antioxidant activity of the phenolic compounds from
+<italic>Rhynchosia suaveolens</italic></article-title><source>Nat Prod Commun</source><year>2015</year><volume>10</volume><fpage>609</fpage><lpage>611</lpage><pub-id pub-id-type="pmid">25973488</pub-id></mixed-citation></ref><ref id="RF0210-7"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ahmed</surname><given-names>W</given-names></name><name><surname>Ahmad</surname><given-names>Z</given-names></name><name><surname>Malik</surname><given-names>A</given-names></name></person-group><article-title>
+Stigmasteryl galactoside from
+<italic>Rhynchosia minima</italic></article-title><source>Phytochemistry</source><year>1992</year><volume>31</volume><fpage>4038</fpage><lpage>4039</lpage></mixed-citation></ref><ref id="RF0210-8"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J G</given-names></name><name><surname>Xiong</surname><given-names>C L</given-names></name><name><surname>Wang</surname><given-names>S Y</given-names></name><name><surname>Wu</surname><given-names>Y P</given-names></name><name><surname>Zhang</surname><given-names>Z H</given-names></name></person-group><article-title>
+Comparison of the anti-fertility effects of four extracts from the roots of
+<italic>Rhynchosia volubilis</italic>
+Lour
+</article-title><source>Zhonghua Nan Ke Xue</source><year>2007</year><volume>13</volume><fpage>871</fpage><lpage>875</lpage><pub-id pub-id-type="pmid">17977315</pub-id></mixed-citation></ref><ref id="RF0210-9"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bakshu</surname><given-names>L M</given-names></name><name><surname>Venkata Raju</surname><given-names>R R</given-names></name></person-group><article-title>
+Antimicrobial activity of
+<italic>Rhynchosia beddomei</italic></article-title><source>Fitoterapia</source><year>2001</year><volume>72</volume><fpage>579</fpage><lpage>582</lpage><pub-id pub-id-type="pmid">11429261</pub-id></mixed-citation></ref><ref id="RF0210-10"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bethu</surname><given-names>M S</given-names></name><name><surname>Netala</surname><given-names>V R</given-names></name><name><surname>Domdi</surname><given-names>L</given-names></name><name><surname>Tartte</surname><given-names>V</given-names></name><name><surname>Janapala</surname><given-names>V R</given-names></name></person-group><article-title>
+Potential anticancer activity of biogenic silver nanoparticles using leaf extract of
+<italic>Rhynchosia suaveolens</italic>
+: an insight into the mechanism
+</article-title><source>Artif Cell Nanomed B</source><year>2018</year><volume>46</volume><fpage>104</fpage><lpage>114</lpage></mixed-citation></ref><ref id="RF0210-11"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jia</surname><given-names>X J</given-names></name><name><surname>Zhang</surname><given-names>C</given-names></name><name><surname>Bao</surname><given-names>J L</given-names></name><name><surname>Wang</surname><given-names>K</given-names></name><name><surname>Tu</surname><given-names>Y B</given-names></name><name><surname>Wan</surname><given-names>J B</given-names></name><name><surname>He</surname><given-names>C W</given-names></name></person-group><article-title>
+Flavonoids from
+<italic>Rhynchosia minima</italic>
+root exerts anti-inflammatory activity in lipopolysaccharide-stimulated RAW 264.7 cells via MAPK/NF-kappa B signaling pathway
+</article-title><source>Inflammopharmacology</source><year>2020</year><volume>28</volume><fpage>289</fpage><lpage>297</lpage><pub-id pub-id-type="pmid">31446590</pub-id></mixed-citation></ref><ref id="RF0210-12"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kinjo</surname><given-names>J</given-names></name><name><surname>Nagao</surname><given-names>T</given-names></name><name><surname>Tanaka</surname><given-names>T</given-names></name><name><surname>Nonaka</surname><given-names>G</given-names></name><name><surname>Okabe</surname><given-names>H</given-names></name></person-group><article-title>
+Antiproliferative constituents in the plant 8. Seeds of
+<italic>Rhynchosia volubilis</italic></article-title><source>Biol Pharm Bull</source><year>2001</year><volume>24</volume><fpage>1443</fpage><lpage>1445</lpage><pub-id pub-id-type="pmid">11767121</pub-id></mixed-citation></ref><ref id="RF0210-13"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kang</surname><given-names>S A</given-names></name><name><surname>Jang</surname><given-names>K H</given-names></name><name><surname>Cho</surname><given-names>Y</given-names></name><name><surname>Jang</surname><given-names>E K</given-names></name><name><surname>Ahn</surname><given-names>D K</given-names></name><name><surname>Park</surname><given-names>S K</given-names></name></person-group><article-title>
+Antihyperlipidemic effects of black bean (Yak-Kong,
+<italic>Rhynchosia molubilis</italic>
+) and soybean in an ovariectomized rat model
+</article-title><source>J Nutr</source><year>2004</year><volume>134</volume><fpage>1275s</fpage></mixed-citation></ref><ref id="RF0210-14"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rammohan</surname><given-names>A</given-names></name><name><surname>Reddy</surname><given-names>G M</given-names></name><name><surname>Bhaskar</surname><given-names>B V</given-names></name><name><surname>Gunasekar</surname><given-names>D</given-names></name><name><surname>Zyryanov</surname><given-names>G V</given-names></name></person-group><article-title>
+Phytochemistry and pharmacological activities of the genus
+<italic>Rhynchosia</italic>
+: a comprehensive review
+</article-title><source>Planta</source><year>2019</year><volume>251</volume><fpage>9</fpage><pub-id pub-id-type="pmid">31776671</pub-id></mixed-citation></ref><ref id="RF0210-15"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alasmari</surname><given-names>W</given-names></name><name><surname>Costello</surname><given-names>S</given-names></name><name><surname>Correia</surname><given-names>J</given-names></name><name><surname>Oxenham</surname><given-names>S K</given-names></name><name><surname>Morris</surname><given-names>J</given-names></name><name><surname>Fernandes</surname><given-names>L</given-names></name><name><surname>Ramalho-Santos</surname><given-names>J</given-names></name><name><surname>Kirkman-Brown</surname><given-names>J</given-names></name><name><surname>Michelangeli</surname><given-names>F</given-names></name><name><surname>Publicover</surname><given-names>S</given-names></name><name><surname>Barratt</surname><given-names>C LR</given-names></name></person-group><article-title>
+Ca
+<sup>2+</sup>
+signals generated by CatSper and Ca
+<sup>2+</sup>
+stores regulate different behaviors in human sperm
+</article-title><source>J Biol Chem</source><year>2013</year><volume>288</volume><fpage>6248</fpage><lpage>6258</lpage><pub-id pub-id-type="pmid">23344959</pub-id></mixed-citation></ref><ref id="RF0210-16"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Publicover</surname><given-names>S</given-names></name><name><surname>Harper</surname><given-names>C V</given-names></name><name><surname>Barratt</surname><given-names>C</given-names></name></person-group><article-title>
+[Ca
+<sup>2+</sup>
+](i) signalling in sperm &#x02013; making the most of what you&#x002bc;ve got
+</article-title><source>Nat Cell Biol</source><year>2007</year><volume>9</volume><fpage>235</fpage><lpage>242</lpage><pub-id pub-id-type="pmid">17330112</pub-id></mixed-citation></ref><ref id="RF0210-17"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lishko</surname><given-names>P V</given-names></name><name><surname>Botchkina</surname><given-names>I L</given-names></name><name><surname>Kirichok</surname><given-names>Y</given-names></name></person-group><article-title>
+Progesterone activates the principal Ca
+<sup>2+</sup>
+channel of human sperm
+</article-title><source>Nature</source><year>2011</year><volume>471</volume><fpage>387</fpage><lpage>391</lpage><pub-id pub-id-type="pmid">21412339</pub-id></mixed-citation></ref><ref id="RF0210-18"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kirichok</surname><given-names>Y</given-names></name><name><surname>Navarro</surname><given-names>B</given-names></name><name><surname>Clapham</surname><given-names>D E</given-names></name></person-group><article-title>
+Whole-cell patch-clamp measurements of spermatozoa reveal an alkaline-activated Ca
+<sup>2+</sup>
+channel
+</article-title><source>Nature</source><year>2006</year><volume>439</volume><fpage>737</fpage><lpage>740</lpage><pub-id pub-id-type="pmid">16467839</pub-id></mixed-citation></ref><ref id="RF0210-19"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>S G</given-names></name><name><surname>Publicover</surname><given-names>S J</given-names></name><name><surname>Barratt</surname><given-names>C LR</given-names></name><name><surname>Ramalingam</surname><given-names>M</given-names></name><name><surname>Drew</surname><given-names>E</given-names></name><name><surname>Publicover</surname><given-names>S J</given-names></name><name><surname>Barratt</surname><given-names>C LR</given-names></name><name><surname>Da Silva</surname><given-names>S M</given-names></name></person-group><article-title>Human sperm ion channel (dys)function: implications for fertilization</article-title><source>Hum Reprod Update</source><year>2019</year><volume>25</volume><fpage>758</fpage><lpage>776</lpage><pub-id pub-id-type="pmid">31665287</pub-id></mixed-citation></ref><ref id="RF0210-20"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lishko</surname><given-names>P V</given-names></name><name><surname>Botchkina</surname><given-names>I L</given-names></name><name><surname>Kirichok</surname><given-names>Y</given-names></name></person-group><article-title>
+Progesterone activates the principal Ca
+<sup>2+</sup>
+channel of human sperm
+</article-title><source>Nature</source><year>2011</year><volume>471</volume><fpage>387</fpage><lpage>391</lpage><pub-id pub-id-type="pmid">21412339</pub-id></mixed-citation></ref><ref id="RF0210-21"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X N</given-names></name><name><surname>Kang</surname><given-names>H</given-names></name><name><surname>Peng</surname><given-names>L Z</given-names></name><name><surname>Song</surname><given-names>D D</given-names></name><name><surname>Jiang</surname><given-names>X</given-names></name><name><surname>Li</surname><given-names>Y T</given-names></name><name><surname>Chen</surname><given-names>H Y</given-names></name><name><surname>Zeng</surname><given-names>X H</given-names></name></person-group><article-title>Pentachlorophenol inhibits CatSper function to compromise progesterone&#x002bc;s action on human sperm</article-title><source>Chemosphere</source><year>2020</year><volume>259</volume><fpage>127493</fpage><pub-id pub-id-type="pmid">32622245</pub-id></mixed-citation></ref><ref id="RF0210-22"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Antus</surname><given-names>S</given-names></name><name><surname>Gottsegen</surname><given-names>A</given-names></name><name><surname>Kolonits</surname><given-names>P</given-names></name><name><surname>Nogradi</surname><given-names>M</given-names></name></person-group><article-title>
+Synthesis of rac-5&#x02032;-
+<italic>O</italic>
+-methylphaseollinisoflavan
+</article-title><source>Liebigs Ann Chem</source><year>1986</year><volume>1986</volume><fpage>2179</fpage><lpage>2181</lpage></mixed-citation></ref><ref id="RF0210-23"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deng</surname><given-names>Y H</given-names></name><name><surname>Xu</surname><given-names>K P</given-names></name><name><surname>Zhou</surname><given-names>Y J</given-names></name><name><surname>Li</surname><given-names>F S</given-names></name><name><surname>Zeng</surname><given-names>G Y</given-names></name><name><surname>Tan</surname><given-names>G S</given-names></name></person-group><article-title>
+A new flavonol from
+<italic>Sophora tonkinensis</italic></article-title><source>J Asian Nat Prod Res</source><year>2007</year><volume>9</volume><fpage>45</fpage><lpage>48</lpage><pub-id pub-id-type="pmid">17365189</pub-id></mixed-citation></ref><ref id="RF0210-24"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thongnest</surname><given-names>S</given-names></name><name><surname>Lhinhatrakool</surname><given-names>T</given-names></name><name><surname>Wetprasit</surname><given-names>N</given-names></name><name><surname>Sutthivaiyakit</surname><given-names>P</given-names></name><name><surname>Sutthivaiyakit</surname><given-names>S</given-names></name></person-group><article-title><italic>Eriosema chinense</italic>
+: a rich source of antimicrobial and antioxidant flavonoids
+</article-title><source>Phytochemistry</source><year>2013</year><volume>96</volume><fpage>353</fpage><lpage>359</lpage><pub-id pub-id-type="pmid">24138819</pub-id></mixed-citation></ref><ref id="RF0210-25"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ni</surname><given-names>G</given-names></name><name><surname>Zhang</surname><given-names>Q J</given-names></name><name><surname>Wang</surname><given-names>Y H</given-names></name><name><surname>Chen</surname><given-names>R Y</given-names></name><name><surname>Zheng</surname><given-names>Z F</given-names></name><name><surname>Yu</surname><given-names>D Q</given-names></name></person-group><article-title>
+Chemical constituents of the stem bark of
+<italic>Morus cathayana</italic></article-title><source>J Asian Nat Prod Res</source><year>2010</year><volume>12</volume><fpage>505</fpage><lpage>515</lpage><pub-id pub-id-type="pmid">20552491</pub-id></mixed-citation></ref><ref id="RF0210-26"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Awouafack</surname><given-names>M D</given-names></name><name><surname>Spiteller</surname><given-names>P</given-names></name><name><surname>Lamshoft</surname><given-names>M</given-names></name><name><surname>Kusari</surname><given-names>S</given-names></name><name><surname>Ivanova</surname><given-names>B</given-names></name><name><surname>Tane</surname><given-names>P</given-names></name><name><surname>Spiteller</surname><given-names>M</given-names></name></person-group><article-title>
+Antimicrobial isopropenyl-dihydrofuranoisoflavones from
+<italic>Crotalaria lachnophora</italic></article-title><source>J Nat Prod</source><year>2011</year><volume>74</volume><fpage>272</fpage><lpage>278</lpage><pub-id pub-id-type="pmid">21265557</pub-id></mixed-citation></ref><ref id="RF0210-27"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bankeu</surname><given-names>J JK</given-names></name><name><surname>Khayala</surname><given-names>R</given-names></name><name><surname>Lenta</surname><given-names>B N</given-names></name><name><surname>Noungoue</surname><given-names>D T</given-names></name><name><surname>Ngouela</surname><given-names>S A</given-names></name><name><surname>Mustafa</surname><given-names>S A</given-names></name><name><surname>Asaad</surname><given-names>K</given-names></name><name><surname>Choudhary</surname><given-names>M I</given-names></name><name><surname>Prigge</surname><given-names>S T</given-names></name><name><surname>Hasanov</surname><given-names>R</given-names></name><name><surname>Nkengfack</surname><given-names>A E</given-names></name><name><surname>Tsamo</surname><given-names>E</given-names></name><name><surname>Ali</surname><given-names>M S</given-names></name></person-group><article-title>
+Isoflavone dimers and other bioactive constituents from the figs of
+<italic>Ficus mucuso</italic></article-title><source>J Nat Prod</source><year>2011</year><volume>74</volume><fpage>1370</fpage><lpage>1378</lpage><pub-id pub-id-type="pmid">21619045</pub-id></mixed-citation></ref><ref id="RF0210-28"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shao</surname><given-names>T M</given-names></name><name><surname>Li</surname><given-names>X B</given-names></name><name><surname>Qi</surname><given-names>C C</given-names></name><name><surname>Chen</surname><given-names>G Y</given-names></name><name><surname>Song</surname><given-names>X P</given-names></name><name><surname>Han</surname><given-names>C R</given-names></name><name><surname>Zheng</surname><given-names>C J</given-names></name></person-group><article-title>
+Chemical constituents of isoflavonoids from roots of
+<italic>Ficus auriculata</italic></article-title><source>Chinese J Org Chem</source><year>2018</year><volume>38</volume><fpage>710</fpage><lpage>714</lpage></mixed-citation></ref><ref id="RF0210-29"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>Y</given-names></name><name><surname>Kuang</surname><given-names>Y</given-names></name><name><surname>Li</surname><given-names>K</given-names></name><name><surname>Wang</surname><given-names>S</given-names></name><name><surname>Song</surname><given-names>W</given-names></name><name><surname>Qiao</surname><given-names>X</given-names></name><name><surname>Sabir</surname><given-names>G</given-names></name><name><surname>Ye</surname><given-names>M</given-names></name></person-group><article-title>
+Screening for bioactive natural products from a 67-compound library of
+<italic>Glycyrrhiza inflata</italic></article-title><source>Bioorgan Med Chem</source><year>2017</year><volume>25</volume><fpage>3706</fpage><lpage>3713</lpage></mixed-citation></ref><ref id="RF0210-30"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ateba</surname><given-names>S B</given-names></name><name><surname>Njamen</surname><given-names>D</given-names></name><name><surname>Ukowitz</surname><given-names>K</given-names></name><name><surname>Zehl</surname><given-names>M</given-names></name><name><surname>Kahlig</surname><given-names>H</given-names></name><name><surname>Hobiger</surname><given-names>S</given-names></name><name><surname>Jungbauer</surname><given-names>A</given-names></name><name><surname>Krenn</surname><given-names>L</given-names></name></person-group><article-title>
+New flavonoids from the underground parts of
+<italic>Eriosema laurentii</italic></article-title><source>Phytochem Lett</source><year>2016</year><volume>18</volume><fpage>144</fpage><lpage>149</lpage></mixed-citation></ref><ref id="RF0210-31"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>S H</given-names></name><name><surname>Zhang</surname><given-names>L P</given-names></name><name><surname>Gao</surname><given-names>P</given-names></name><name><surname>Shao</surname><given-names>Z Y</given-names></name></person-group><article-title>Isolation and characterisation of the isoflavones from sprouted chickpea seeds</article-title><source>Food Chem</source><year>2009</year><volume>114</volume><fpage>869</fpage><lpage>873</lpage></mixed-citation></ref><ref id="RF0210-32"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khan</surname><given-names>R A</given-names></name><name><surname>Kapil</surname><given-names>R S</given-names></name></person-group><article-title>
+A facile synthesis of biogenetic precursor, puerarone, isolated from
+<italic>Pueraria</italic>
+sp
+</article-title><source>J Heterocycl Chem</source><year>2001</year><volume>38</volume><fpage>1007</fpage><lpage>1009</lpage></mixed-citation></ref><ref id="RF0210-33"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Strong</surname><given-names>A L</given-names></name><name><surname>Jiang</surname><given-names>Q</given-names></name><name><surname>Zhang</surname><given-names>Q</given-names></name><name><surname>Zheng</surname><given-names>S L</given-names></name><name><surname>Boue</surname><given-names>S M</given-names></name><name><surname>Elliott</surname><given-names>S</given-names></name><name><surname>Burow</surname><given-names>M E</given-names></name><name><surname>Bunnell</surname><given-names>B A</given-names></name><name><surname>Wang</surname><given-names>G D</given-names></name></person-group><article-title>Design, synthesis, and osteogenic activity of daidzein analogs on human mesenchymal stem cells</article-title><source>ACS Med Chem Lett</source><year>2014</year><volume>5</volume><fpage>143</fpage><lpage>148</lpage><pub-id pub-id-type="pmid">24900787</pub-id></mixed-citation></ref><ref id="RF0210-34"><label>34</label><mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Frisch</surname><given-names>M J</given-names></name><name><surname>Trucks</surname><given-names>G W</given-names></name><name><surname>Schlegel</surname><given-names>H B</given-names></name><name><surname>Scuseria</surname><given-names>G E</given-names></name><name><surname>Robb</surname><given-names>M A</given-names></name><name><surname>Cheeseman</surname><given-names>J R</given-names></name><name><surname>Scalmani</surname><given-names>G</given-names></name><name><surname>Barone</surname><given-names>V</given-names></name><name><surname>Petersson</surname><given-names>G A</given-names></name><name><surname>Nakatsuji</surname><given-names>H</given-names></name><name><surname>Li</surname><given-names>X</given-names></name><name><surname>Caricato</surname><given-names>M</given-names></name><name><surname>Marenich</surname><given-names>A V</given-names></name><name><surname>Bloino</surname><given-names>J</given-names></name><name><surname>Janesko</surname><given-names>B G</given-names></name><name><surname>Gomperts</surname><given-names>R</given-names></name><name><surname>Mennucci</surname><given-names>B</given-names></name><name><surname>Hratchian</surname><given-names>H P</given-names></name><name><surname>Ortiz</surname><given-names>J V</given-names></name><name><surname>Izmaylov</surname><given-names>A F</given-names></name><name><surname>Sonnenberg</surname><given-names>J L</given-names></name><name><surname>Williams-Young</surname><given-names>D</given-names></name><name><surname>Ding</surname><given-names>F</given-names></name><name><surname>Lipparini</surname><given-names>F</given-names></name><name><surname>Egidi</surname><given-names>F</given-names></name><name><surname>Goings</surname><given-names>J</given-names></name><name><surname>Peng</surname><given-names>B</given-names></name><name><surname>Petrone</surname><given-names>A</given-names></name><name><surname>Henderson</surname><given-names>T</given-names></name><name><surname>Ranasinghe</surname><given-names>D</given-names></name><name><surname>Zakrzewski</surname><given-names>V G</given-names></name><name><surname>Gao</surname><given-names>J</given-names></name><name><surname>Rega</surname><given-names>N</given-names></name><name><surname>Zheng</surname><given-names>G</given-names></name><name><surname>Liang</surname><given-names>W</given-names></name><name><surname>Hada</surname><given-names>M</given-names></name><name><surname>Ehara</surname><given-names>M</given-names></name><name><surname>Toyota</surname><given-names>K</given-names></name><name><surname>Fukuda</surname><given-names>R</given-names></name><name><surname>Hasegawa</surname><given-names>J</given-names></name><name><surname>Ishida</surname><given-names>M</given-names></name><name><surname>Nakajima</surname><given-names>T</given-names></name><name><surname>Honda</surname><given-names>Y</given-names></name><name><surname>Kitao</surname><given-names>O</given-names></name><name><surname>Nakai</surname><given-names>H</given-names></name><name><surname>Vreven</surname><given-names>T</given-names></name><name><surname>Throssell</surname><given-names>K</given-names></name><name><surname>Montgomery</surname><given-names>J AJ</given-names></name><name><surname>Peralta</surname><given-names>J E</given-names></name><name><surname>Ogliaro</surname><given-names>F</given-names></name><name><surname>Bearpark</surname><given-names>M J</given-names></name><name><surname>Heyd</surname><given-names>J J</given-names></name><name><surname>Brothers</surname><given-names>E N</given-names></name><name><surname>Kudin</surname><given-names>K N</given-names></name><name><surname>Staroverov</surname><given-names>V N</given-names></name><name><surname>Keith</surname><given-names>T A</given-names></name><name><surname>Kobayashi</surname><given-names>R</given-names></name><name><surname>Normand</surname><given-names>J</given-names></name><name><surname>Raghavachari</surname><given-names>K</given-names></name><name><surname>Rendell</surname><given-names>A P</given-names></name><name><surname>Burant</surname><given-names>J C</given-names></name><name><surname>Iyengar</surname><given-names>S S</given-names></name><name><surname>Tomasi</surname><given-names>J</given-names></name><name><surname>Cossi</surname><given-names>M</given-names></name><name><surname>Millam</surname><given-names>J M</given-names></name><name><surname>Klene</surname><given-names>M</given-names></name><name><surname>Adamo</surname><given-names>C</given-names></name><name><surname>Cammi</surname><given-names>R</given-names></name><name><surname>Ochterski</surname><given-names>J W</given-names></name><name><surname>Martin</surname><given-names>R L</given-names></name><name><surname>Morokuma</surname><given-names>K</given-names></name><name><surname>Farkas</surname><given-names>O</given-names></name><name><surname>Foresman</surname><given-names>J B</given-names></name><name><surname>Fox</surname><given-names>D J</given-names></name></person-group><article-title>Gaussian 16, Revision B.01. GaussView 5.0. E. U. A</article-title><publisher-loc>Wallingford, CT</publisher-loc><publisher-name>Gaussian Inc.</publisher-name><year>2016</year></mixed-citation></ref><ref id="RF0210-35"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cances</surname><given-names>E</given-names></name><name><surname>Mennucci</surname><given-names>B</given-names></name><name><surname>Tomasi</surname><given-names>J</given-names></name></person-group><article-title>A new integral equation formalism for the polarizable continuum model: theoretical background and applications to isotropic and anisotropic dielectrics</article-title><source>J Chem Phys</source><year>1997</year><volume>107</volume><fpage>3032</fpage><lpage>3041</lpage></mixed-citation></ref><ref id="RF0210-36"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Slade</surname><given-names>D</given-names></name><name><surname>Ferreira</surname><given-names>D</given-names></name><name><surname>Marais</surname><given-names>J PJ</given-names></name></person-group><article-title>Circular dichroism, a powerful tool for the assessment of absolute configuration of flavonoids</article-title><source>Phytochemistry</source><year>2005</year><volume>66</volume><fpage>2177</fpage><lpage>2215</lpage><pub-id pub-id-type="pmid">16153414</pub-id></mixed-citation></ref><ref id="RF0210-37"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sun</surname><given-names>Q H</given-names></name><name><surname>Chou</surname><given-names>G X</given-names></name></person-group><article-title>
+Isoflavonoids from
+<italic>Crotalaria albida</italic>
+inhibit adipocyte differentiation and lipid accumulation in 3T3-L1 cells via suppression of PPAR-gamma pathway
+</article-title><source>PLoS One</source><year>2015</year><volume>10</volume><fpage>e0135893</fpage><pub-id pub-id-type="pmid">26285147</pub-id></mixed-citation></ref><ref id="RF0210-39"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bruhn</surname><given-names>T</given-names></name><name><surname>Schaumloffel</surname><given-names>A</given-names></name><name><surname>Hemberger</surname><given-names>Y</given-names></name><name><surname>Bringmann</surname><given-names>G</given-names></name></person-group><article-title>SpecDis: quantifying the comparison of calculated and experimental electronic circular dichroism spectra</article-title><source>Chirality</source><year>2013</year><volume>25</volume><fpage>243</fpage><lpage>249</lpage><pub-id pub-id-type="pmid">23532998</pub-id></mixed-citation></ref><ref id="RF0210-40"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zou</surname><given-names>Q X</given-names></name><name><surname>Peng</surname><given-names>Z</given-names></name><name><surname>Zhao</surname><given-names>Q</given-names></name><name><surname>Chen</surname><given-names>H Y</given-names></name><name><surname>Cheng</surname><given-names>Y M</given-names></name><name><surname>Liu</surname><given-names>Q</given-names></name><name><surname>He</surname><given-names>Y Q</given-names></name><name><surname>Weng</surname><given-names>S Q</given-names></name><name><surname>Wang</surname><given-names>H F</given-names></name><name><surname>Wang</surname><given-names>T</given-names></name><name><surname>Zheng</surname><given-names>L P</given-names></name><name><surname>Luo</surname><given-names>T</given-names></name></person-group><article-title>Diethylstilbestrol activates CatSper and disturbs progesterone actions in human spermatozoa</article-title><source>Hum Reprod</source><year>2017</year><volume>32</volume><fpage>290</fpage><lpage>298</lpage><pub-id pub-id-type="pmid">28031325</pub-id></mixed-citation></ref><ref id="RF0210-41"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lishko</surname><given-names>P V</given-names></name><name><surname>Botchkina</surname><given-names>I L</given-names></name><name><surname>Kirichok</surname><given-names>Y</given-names></name></person-group><article-title>
+Progesterone activates the principal Ca
+<sup>2+</sup>
+channel of human sperm
+</article-title><source>Nature</source><year>2011</year><volume>471</volume><fpage>387</fpage><lpage>391</lpage><pub-id pub-id-type="pmid">21412339</pub-id></mixed-citation></ref></ref-list></back></article>

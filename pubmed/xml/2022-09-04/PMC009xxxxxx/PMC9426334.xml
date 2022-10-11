@@ -1,0 +1,682 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700470</article-id><article-id pub-id-type="pmc">PMC9426334</article-id><article-id pub-id-type="publisher-id">32512</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.32512</article-id><article-categories><subj-group subj-group-type="heading"><subject>Art&#x000ed;culos Originales</subject></subj-group></article-categories><title-group><article-title>Iniciativas de promoci&#x000f3;n de la salud destinadas a adultos j&#x000f3;venes. Estudio cualitativo Promo&#x000e7;&#x000e3;o da sa&#x000fa;de e jovens</article-title><trans-title-group xml:lang="en"><trans-title>Health promotion initiatives aimed at young adults. Qualitative study</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Iniciativas de promo&#x000e7;&#x000e3;o da sa&#x000fa;de para jovens. Estudo qualitativo Promo&#x000e7;&#x000e3;o da sa&#x000fa;de e jovens</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0003-2728-9708.</contrib-id><name><surname>Moyano</surname><given-names>Daniela</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>dmoyano@iecs.org.ar</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0001-5496-9835</contrib-id><name><surname>Elorriaga</surname><given-names>Natalia</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><email>nelorriaga@iecs.org.ar</email></contrib><contrib contrib-type="author"><name><surname>Duque-Villa</surname><given-names>Yuly</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>ydv203@nyu.edu</email></contrib><contrib contrib-type="author"><name><surname>Ant&#x000fa;n</surname><given-names>Mar&#x000ed;a Cecilia</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>ceciantun@gmail.com</email></contrib><contrib contrib-type="author"><name><surname>Gonz&#x000e1;lez</surname><given-names>Ver&#x000f3;nica</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>vgonzalez9j@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-8739-5249</contrib-id><name><surname>Beliz&#x000e1;n</surname><given-names>Mar&#x000ed;a</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><email>mbelizan@iecs.org.ar</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-6100-1862</contrib-id><name><surname>Irazola</surname><given-names>Vilma</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><email>virazola@iecs.org.ar</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Instituto de Efectividad Cl&#x000ed;nica y Sanitaria (IECS), Departamento de Investigaci&#x000f3;n en Enfermedades Cr&#x000f3;nicas, CESCAS</institution>
+<country country="AR">Argentina</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>New York University. Department of Sociology</institution>
+<country country="US">USA</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Gobierno de la Ciudad Aut&#x000f3;noma de Buenos Aires, Direcci&#x000f3;n General de Desarrollo Saludable (DGDS)</institution>
+<country country="AR">Argentina</country>
+</aff><aff id="aff4">
+<label>4</label>
+<institution>Instituto de Efectividad Cl&#x000ed;nica y Sanitaria (IECS), Unidad de Investigaci&#x000f3;n Cualitativa</institution>
+<country country="AR">Argentina</country>
+</aff><aff id="aff5">
+<label>5</label>
+<institution>Consejo Nacional de Investigaciones Cient&#x000ed;ficas y T&#x000e9;cnicas, Centro de Investigaciones en Epidemiolog&#x000ed;a y Salud P&#x000fa;blica</institution>
+<country country="AR">Argentina</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>100</fpage><lpage>106</lpage><history><date date-type="received" iso-8601-date="2021-03-22"><day>22</day><month>3</month><year>2021</year></date><date date-type="accepted" iso-8601-date="2021-04-08"><day>08</day><month>4</month><year>2021</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/32512/37661">https://revistas.unc.edu.ar/index.php/med/article/view/32512/37661</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/32512/37628">https://revistas.unc.edu.ar/index.php/med/article/view/32512/37628</self-uri><abstract abstract-type="section"><title>Resumen</title><sec><title>Introducci&#x000f3;n</title><p>Las iniciativas de promoci&#x000f3;n de salud, m&#x000e1;s a&#x000fa;n las impulsadas desde el Estado, juegan un papel fundamental y estrat&#x000e9;gico en torno a la construcci&#x000f3;n de estilos de vida saludables. El objetivo fue explorar desde la perspectiva de un grupo de adultos j&#x000f3;venes de la Ciudad Aut&#x000f3;noma de Buenos Aires dimensiones y categor&#x000ed;as cualitativas relacionadas a iniciativas comunitarias de promoci&#x000f3;n de la salud con foco en alimentaci&#x000f3;n saludable, actividad f&#x000ed;sica y cesaci&#x000f3;n tab&#x000e1;quica.</p></sec><sec><title>M&#x000e9;todos</title><p>Se realiz&#x000f3; un estudio cualitativo de car&#x000e1;cter fenomenol&#x000f3;gico incluyendo 16 entrevistas en profundidad a personas menores de 40 a&#x000f1;os.</p></sec><sec><title>Resultados</title><p>Se identificaron y exploraron intervenciones a trav&#x000e9;s de sitios web, correo electr&#x000f3;nico, redes sociales, aplicativo-App m&#x000f3;vil (App), llamadas, mensajes de texto-SMS, material impreso o asesor&#x000ed;a breve. Las intervenciones de mayor aceptabilidad fueron: sitio web, redes sociales y App. El uso potencial de las intervenciones estar&#x000ed;a relacionado con la inclusi&#x000f3;n de elementos audiovisuales y los mensajes personalizados.</p></sec><sec><title>Conclusi&#x000f3;n</title><p>Nuestros hallazgos indican que las intervenciones que incluyan redes sociales, App y web tendr&#x000ed;an mayor potencial para promover estilos de vida saludables entre los adultos j&#x000f3;venes.</p></sec></abstract><trans-abstract xml:lang="en" abstract-type="section"><title>Abstract</title><sec><title>Introduction</title><p>Health promotion initiatives, even more those promoted by the State, play a fundamental and strategic role in the construction of healthy lifestyles. The objective was to explore from the perspective of a group of young adults from the Autonomous City of Buenos Aires, dimensions and qualitative categories related to health promotion community initiatives with a focus on healthy diet, physical activity, and smoking cessation.</p></sec><sec><title>Methods</title><p>A qualitative phenomenological study were conducted, including sixteen in-depth interviews with people under 40 years of age.</p></sec><sec><title>Results</title><p>Were found and explored that interventions through websites, email, social networks, application- Mobile App (App), calls, text messages (SMS), printed material, or brief advice. The most acceptable interventions were: website, social networks, and the App. The potential use of these interventions would be related by the inclusion of audiovisual elements and personalized messages.</p></sec><sec><title>Conclusion</title><p>The findings indicate that interventions that include social networks, App and web would have greater potential among young adults to promote healthy lifestyles.</p></sec></trans-abstract><trans-abstract xml:lang="pt" abstract-type="section"><title>Resumo</title><sec><title>Introdu&#x000e7;&#x000e3;o</title><p>As iniciativas de promo&#x000e7;&#x000e3;o da sa&#x000fa;de, ainda mais as promovidas pelo Estado, desempenham um papel fundamental e estrat&#x000e9;gico em torno da constru&#x000e7;&#x000e3;o de estilos de vida saud&#x000e1;veis. O objetivo foi explorar, a partir da perspectiva de um grupo de jovens da Cidade Aut&#x000f4;noma de Buenos Aires, dimens&#x000f5;es e categorias qualitativas relacionadas &#x000e0;s iniciativas de promo&#x000e7;&#x000e3;o da sa&#x000fa;de comunit&#x000e1;ria com foco na alimenta&#x000e7;&#x000e3;o saud&#x000e1;vel, atividade f&#x000ed;sica e cessa&#x000e7;&#x000e3;o do tabagismo.</p></sec><sec><title>M&#x000e9;todos</title><p>Foi realizado um estudo qualitativo de natureza fenomenol&#x000f3;gica, incluindo 16 entrevistas em profundidade com pessoas menores de 40 anos.</p></sec><sec><title>Resultados</title><p>Foi constatado e explorado que as interven&#x000e7;&#x000f5;espor meio de sites, e-mail, redes sociais, aplicativo-aplicativo m&#x000f3;vel (App), liga&#x000e7;&#x000f5;es, mensagens de texto-SMS, material impresso ou breve aconselhamento. As interven&#x000e7;&#x000f5;es com maior aceitabilidade foram: site, redes sociais e App. O potencial de utiliza&#x000e7;&#x000e3;o das interven&#x000e7;&#x000f5;es estaria relacionado com a inclus&#x000e3;o de elementos audiovisuais e mensagens personalizadas.</p></sec><sec><title>Conclus&#x000e3;o</title><p>Nossos resultados indicam que as interven&#x000e7;&#x000f5;es que incluem redes sociais, o aplicativo e a web teriam o maior potencial para promover estilos de vida saud&#x000e1;veis entre jovens adultos.</p></sec></trans-abstract><kwd-group><title>Palabras clave</title><kwd>promoci&#x000f3;n de la salud</kwd><kwd>adulto joven</kwd><kwd>servicios de salud</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>health promotion</kwd><kwd>young adult</kwd><kwd>health services</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>promo&#x000e7;&#x000e3;o da sa&#x000fa;de</kwd><kwd>jovem adulto</kwd><kwd>servi&#x000e7;os de sa&#x000fa;de</kwd></kwd-group><counts><fig-count count="1"/><table-count count="2"/><equation-count count="0"/><ref-count count="30"/><page-count count="7"/></counts></article-meta></front><body><boxed-text position="float"><p>Este trabajo busc&#x000f3; conocer cu&#x000e1;les pueden ser las iniciativas de promoci&#x000f3;n de salud relacionadas a alimentaci&#x000f3;n saludable, actividad f&#x000ed;sica y cesaci&#x000f3;n tab&#x000e1;quica m&#x000e1;s adecuadas de ser implementadas en diferentes pa&#x000ed;ses y que son destinadas a los adultos j&#x000f3;venes, Adem&#x000e1;s, como estas iniciativas son percibidas por los adultos j&#x000f3;venes de grandes conglomerados urbanos. Se observ&#x000f3; que las intervenciones de mayor aceptabilidad por parte del grupo de inter&#x000e9;s fueron las relacionadas a las redes sociales, p&#x000e1;ginas web y aplicativos m&#x000f3;viles. Estos hallazgos son importantes al momento de dise&#x000f1;ar pol&#x000ed;ticas y programas de promoci&#x000f3;n de la salud a nivel poblacional.</p></boxed-text><boxed-text position="float"><sec><title>Conceptos clave</title><p>Las iniciativas de promoci&#x000f3;n de salud, m&#x000e1;s a&#x000fa;n las impulsadas desde el Estado, juegan un papel fundamental y estrat&#x000e9;gico en torno a la construcci&#x000f3;n de estilos de vida saludables. Los resultados de esta investigaci&#x000f3;n resultan relevantes, ya que podr&#x000e1;n orientar a los decisores de pol&#x000ed;ticas para el dise&#x000f1;o o reformulaci&#x000f3;n de estrategias y programas de promoci&#x000f3;n de la salud con foco en la poblaci&#x000f3;n joven. Realizar estudios que rescaten la perspectiva de los potenciales usuarios, resultar&#x000e1; clave al momento de la formulaci&#x000f3;n de programas p&#x000fa;blicos acordes a la poblaci&#x000f3;n destinataria, que sean accesibles y aceptables cultural y socialmente como as&#x000ed; tambi&#x000e9;n permitir&#x000e1;n establecer prioridades en salud y una apropiada asignaci&#x000f3;n de recursos. Los resultados obtenidos desde del abordaje cualitativo constituyen un insumo relevante para la implementaci&#x000f3;n de pol&#x000ed;ticas p&#x000fa;blicas destinadas a la promoci&#x000f3;n de la salud en el marco de iniciativa de &#x0201c;Ciudades, Municipios y Comunidades
+Saludables&#x0201d; propuesta por la Organizaci&#x000f3;n Panamericana de la Salud/Organizaci&#x000f3;n Mundial de la Salud (OPS/OMS) en Argentina como en otros pa&#x000ed;ses de la regi&#x000f3;n.
+</p></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCI&#x000d3;N</title><p>Las enfermedades no transmisibles (ENT) son la principal causa de muerte en todo el mundo y en Latinoam&#x000e9;rica
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+.
+</p><p>Seg&#x000fa;n datos de la Organizaci&#x000f3;n Mundial de la Salud (OMS) en el 2014 las ENT en Argentina representaron el 81% del total de las muertes y el 17% de la mortalidad prematura (entre 30 y 70 a&#x000f1;os)
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+. Adem&#x000e1;s, la prevalencia de factores de riesgo para las ENT ha venido en aumento durante la &#x000fa;ltima d&#x000e9;cada
+<sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+</sup>
+.
+</p><p>Si bien la mayor&#x000ed;a de los esfuerzos se han focalizado en la prevenci&#x000f3;n de factores de riesgo individuales, el entorno f&#x000ed;sico, social y p&#x000fa;blico en el que las personas se desarrollan es ampliamente reconocido como un importante determinante de la salud
+<sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+.
+</p><p>Las pol&#x000ed;ticas y programas de promoci&#x000f3;n de salud impulsados desde el Estado hoy juegan un papel fundamental y estrat&#x000e9;gico en torno a la construcci&#x000f3;n de estilos de vida saludables en las comunidades
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+; potenciando un mayor control de la propia salud
+<sup>
+<xref rid="B6" ref-type="bibr">6</xref>
+</sup>
+. Adem&#x000e1;s, la aceptabilidad y potencial utilizaci&#x000f3;n de estas acciones ser&#x000e1;n elementos necesarios a considerar para una mejor adecuaci&#x000f3;n a los futuros usuarios.
+</p><p>Las intervenciones sanitarias destinadas a la poblaci&#x000f3;n joven son fundamentales para proteger las inversiones efectuadas en la ni&#x000f1;ez y para garantizar la salud de la futura poblaci&#x000f3;n adulta
+<sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+. Adem&#x000e1;s, desde el abordaje de promoci&#x000f3;n de la salud se jerarquiza la importancia de intervenciones comunitarias y evaluaciones participativas. Estos elementos ser&#x000e1;n cr&#x000ed;ticos al momento de dise&#x000f1;ar programas y servicios de salud innovadores, integrales y eficaces para el desarrollo y calidad de vida de los j&#x000f3;venes
+<sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+.
+</p><p>En Argentina, desde 2001 el Ministerio de Salud de la Naci&#x000f3;n instaur&#x000f3; intervenciones comunitarias de promoci&#x000f3;n de la salud a trav&#x000e9;s de la estrategia Municipios y Comunidades Saludables de alcance nacional, adherida a la iniciativa de "Ciudades, Municipios y Comunidades Saludables" propuesta por la Organizaci&#x000f3;n Panamericana de la Salud (OPS/OMS)
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+.
+</p><p>Sin embargo, en otros pa&#x000ed;ses de Am&#x000e9;rica Latina la implementaci&#x000f3;n de la Estrategia de Municipios y Comunidades Saludables vienen siendo incorporadas hace m&#x000e1;s de dos d&#x000e9;cadas desde la agenda p&#x000fa;blica
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+.
+</p><p>A nivel local el Gobierno de la Ciudad Aut&#x000f3;noma de Buenos Aires (CABA), viene implementando desde el a&#x000f1;o 2012 el "Programa Estaciones Saludables" (ES)
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+que busca impulsar a nivel comunitario la promoci&#x000f3;n de estilos de vida saludables a partir de la detecci&#x000f3;n de factores de riesgo y promoci&#x000f3;n de la pr&#x000e1;ctica de actividad f&#x000ed;sica y de alimentaci&#x000f3;n saludable.
+</p><p>El objetivo de este estudio fue explorar desde la perspectiva de un grupo de adultos j&#x000f3;venes de la Ciudad Aut&#x000f3;noma de Buenos Aires dimensiones y categor&#x000ed;as cualitativas relacionadas a iniciativas comunitarias de promoci&#x000f3;n de la salud con foco en alimentaci&#x000f3;n saludable, actividad f&#x000ed;sica y cesaci&#x000f3;n tab&#x000e1;quica.</p></sec><sec sec-type="methods"><title>M&#x000c9;TODOS</title><sec><title>Dise&#x000f1;o de estudio</title><p>El estudio tuvo un dise&#x000f1;o metodol&#x000f3;gico que se bas&#x000f3; en un enfoque cualitativo de car&#x000e1;cter fenomenol&#x000f3;gico
+<sup>
+<xref rid="B11" ref-type="bibr">11</xref>
+</sup>
+, en torno a intervenciones previamente seleccionadas a partir de la revisi&#x000f3;n de antecedentes de la literatura
+<sup>
+<xref rid="B12" ref-type="bibr">12</xref>
+</sup>
+, donde se exploraron dimensiones cualitativas, desde la perspectiva de los potenciales usuarios.
+</p></sec><sec><title>Muestra</title><p>Los informantes fueron adultos j&#x000f3;venes residentes en la CABA; incluyendo varones y mujeres con edades comprendidas entre 20 a 40 a&#x000f1;os, con diferente condici&#x000f3;n de clase (situaci&#x000f3;n laboral, caracter&#x000ed;sticas socio-econ&#x000f3;micas de la zona de residencia y nivel de educaci&#x000f3;n) y que al momento de la entrevista no estuvieron haciendo uso de los servicios brindados por el programa ES (potenciales usuarios). l muestreo utilizado fue intencional por saturaci&#x000f3;n
+<sup>
+<xref rid="B13" ref-type="bibr">13</xref>
+</sup>
+. El procedimiento de selecci&#x000f3;n y contacto fue a trav&#x000e9;s bola de nieve
+<sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+a partir de generar cuotas m&#x000ed;nimas seg&#x000fa;n la zona de residencia.
+</p></sec><sec><title>Dimensiones y categor&#x000ed;as de an&#x000e1;lisis</title><p>Las dimensiones se basaron en las intervenciones de promoci&#x000f3;n de la salud encontradas en la literatura disponible que fueron las siguientes: informaci&#x000f3;n publicada en sitio web; consejo breve y charlas cortas con un profesional; material impreso entregado en la v&#x000ed;a p&#x000fa;blica; mensajes a trav&#x000e9;s de redes sociales; asesoramiento a trav&#x000e9;s de salud m&#x000f3;vil (mensajes de texto - SMS, aplicativo para el celular o llamadas telef&#x000f3;nicas); mensajes informativos enviados por correo electr&#x000f3;nico.</p><p>Dentro de cada dimensi&#x000f3;n (intervenciones propuestas), se profundizaron las siguientes categor&#x000ed;as cualitativas:</p><list list-type="bullet"><list-item><p>Imaginarios positivos y negativos</p></list-item><list-item><p>Utilidad</p></list-item><list-item><p>Utilizaci&#x000f3;n actual y potencial utilizaci&#x000f3;n</p></list-item><list-item><p>Aceptabilidad</p></list-item><list-item><p>Decisiones frente a la estrategia</p></list-item><list-item><p>Experiencias previas</p></list-item><list-item><p>Barreras y facilitadores</p></list-item></list></sec><sec><title>Recolecci&#x000f3;n de datos</title><p>Se llevaron a cabo entrevistas en profundidad en jornadas presenciales de 30 a 45 minutos de duraci&#x000f3;n dentro del contexto del entrevistado (hogar o lugar de trabajo) y donde se implement&#x000f3; un gui&#x000f3;n tem&#x000e1;tico de preguntas abiertas, amplias, directas e indirectas. Este instrumento de recolecci&#x000f3;n de datos fue elaborado a partir de la revisi&#x000f3;n de la literatura, donde solamente se exploraron cualitativamente las intervenciones que quedaron incluidas durante de la etapa de revisi&#x000f3;n. Se estructur&#x000f3; el instrumento considerando los dominios amplios; dimensiones y categor&#x000ed;as antes mencionadas.</p></sec><sec><title>An&#x000e1;lisis de datos</title><p>La informaci&#x000f3;n cualitativa fue registrada a trav&#x000e9;s de notas de campo y grabaciones de audios que se transcribieron fielmente y se analizaron por medio de la t&#x000e9;cnica de an&#x000e1;lisis de contenido. Las transcripciones textuales se constituyeron en la unidad de an&#x000e1;lisis que se clasificaron, codificaron y se generaron categor&#x000ed;as interpretativas y emergentes.</p><p>Los an&#x000e1;lisis se llevaron a cabo utilizando el software ATLAS.ti 7 junto con la t&#x000e9;cnica manual de codificaci&#x000f3;n de informaci&#x000f3;n. El an&#x000e1;lisis consisti&#x000f3; en: 1) codificaci&#x000f3;n de nodos amplios (dimensiones); 2) distinci&#x000f3;n de informaci&#x000f3;n espec&#x000ed;fica para identificar elementos comunes, divergentes y emergentes (categor&#x000ed;as); 3) comparaci&#x000f3;n y condensaci&#x000f3;n de la informaci&#x000f3;n.</p><p>Para mejorar la validez interna del estudio se revisaron todas las transcripciones por lo menos 2 veces y se volvi&#x000f3; a contactar a los entrevistados para dar la posibilidad a que aclaren, cambien o ampl&#x000ed;en alguna idea aportada durante el desarrollo de la entrevista.</p><p>Desde el an&#x000e1;lisis de los discursos de los entrevistados se elabor&#x000f3; un marco conceptual conformado por dominios, dimensiones y categor&#x000ed;as y adem&#x000e1;s se seleccionaron frases textuales para ilustrar el contenido central de cada categor&#x000ed;a conservando el anonimato de los entrevistados.</p></sec><sec><title>Consideraciones &#x000e9;ticas</title><p>El protocolo de este estudio fue aprobado por el Comit&#x000e9; de &#x000c9;tica de Protocolos de Investigaci&#x000f3;n del Hospital Italiano de Buenos Aires. Los entrevistados consintieron su participaci&#x000f3;n a trav&#x000e9;s de la aceptaci&#x000f3;n del consentimiento informado.</p></sec></sec><sec sec-type="results"><title>RESULTADOS</title><sec><title>Descripci&#x000f3;n de la muestra</title><p>Se entrevist&#x000f3; a 16 informantes (11 mujeres y 5 hombres), con un rango de edad de 22 a 39 a&#x000f1;os (<xref rid="t1" ref-type="table">Tabla 1</xref>). No se encontraron diferencias marcadas en las percepciones asociadas a caracter&#x000ed;sticas propias de los/as participantes (sociodemogr&#x000e1;ficas), a pesar que la muestra fue seleccionada a partir de considerar diferentes criterios de selecci&#x000f3;n, por lo que este apartado de resultados se estructur&#x000f3; de modo general y no por sub-grupos.
+</p><p>A partir del an&#x000e1;lisis del discurso de los/as participantes, se desarroll&#x000f3; un marco conceptual donde se evidencia la complejidad de las interrelaciones de todos los elementos cualitativos explorados (<xref rid="f1" ref-type="fig">Figura 1</xref>).
+</p><table-wrap position="float" id="t1"><label>Tabla N&#x000b0; 1</label><caption><title>Caracter&#x000ed;sticas sociodemogr&#x000e1;ficas de la poblaci&#x000f3;n adulta joven bajo an&#x000e1;lisis (N=16); 2017</title></caption><table frame="hsides" rules="groups"><tr><th rowspan="1" colspan="1">Caracter&#x000ed;sticas</th><th rowspan="1" colspan="1">n</th></tr><tr><td colspan="2" rowspan="1">
+<p>G&#x000e9;nero</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Masculino</p>
+</td><td rowspan="1" colspan="1">
+<p>5</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Femenino</p>
+</td><td rowspan="1" colspan="1">
+<p>11</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Edad (a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>20-29</p>
+</td><td rowspan="1" colspan="1">
+<p>10</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>30 a 39</p>
+</td><td rowspan="1" colspan="1">
+<p>6</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Nivel socioecon&#x000f3;mico del conglomerado de residencia
+<xref rid="tfn1" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Bajo/medio-bajo</p>
+</td><td rowspan="1" colspan="1">
+<p>3</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Medio</p>
+</td><td rowspan="1" colspan="1">
+<p>7</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Alto/medio alto</p>
+</td><td rowspan="1" colspan="1">
+<p>6</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Nivel de educaci&#x000f3;n</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Hasta secundario completo</p>
+</td><td rowspan="1" colspan="1">
+<p>6</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Mas de secundario completo</p>
+</td><td rowspan="1" colspan="1">
+<p>10</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Ocupaci&#x000f3;n laboral actual</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Profesional</p>
+</td><td rowspan="1" colspan="1">
+<p>8</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Administrativo/personal de oficina</p>
+</td><td rowspan="1" colspan="1">
+<p>7</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Pe&#x000f3;n/maestranza</p>
+</td><td rowspan="1" colspan="1">
+<p>1</p>
+</td></tr></table><table-wrap-foot><fn id="tfn1"><p><sup>*</sup>Tomando la estratificaci&#x000f3;n socioecon&#x000f3;mica seg&#x000fa;n comuna, del Gobierno de la Ciudad de Buenos Aires.
+</p></fn></table-wrap-foot></table-wrap><p>
+<fig position="float" id="f1"><label>Figura N&#x000b0; 1</label><caption><title>Marco conceptual emergente del an&#x000e1;lisis de subjetividades</title></caption><graphic xlink:href="1853-0605-79-2-100-g001" position="float"/></fig>
+</p></sec><sec><title>Informaci&#x000f3;n publicada en sitio web</title><p>Se observ&#x000f3; una aceptabilidad alta de la estrategia basada en sitio web sobre h&#x000e1;bitos saludables. Los entrevistados expresaron que utilizan Internet en forma cotidiana para consultar sobre temas relacionados a la salud y que por lo menos en alguna ocasi&#x000f3;n tomaron una decisi&#x000f3;n sobre h&#x000e1;bitos saludables a partir de mirar o leer algo en la web. Adem&#x000e1;s, la utilizaci&#x000f3;n frecuente de esta estrategia se encontr&#x000f3; relacionada con premisas tales como "siempre es bueno sumar nuevos conocimientos y derribar mitos" y "que es hoy una herramienta barata", seg&#x000fa;n las propias palabras de los entrevistados.</p><p>Los imaginarios positivos se vincularon a los portales que permiten al usuario "cambiar algo" y que proporcionan informaci&#x000f3;n simple, corta, concisa, f&#x000e1;cil y r&#x000e1;pida de incorporar. Mientras que los imaginarios negativos se relacionaron con sitios que contienen informaci&#x000f3;n basada en textos largos y con vocabulario t&#x000e9;cnico.</p><p>Algunos entrevistados manifestaron recurrir a p&#x000e1;ginas oficiales gubernamentales, o a sitios que proporcionan informaci&#x000f3;n con alg&#x000fa;n "sentido" para el usuario, que parecen "confiables" o que "brindan informaci&#x000f3;n accesible de incorporar". Sin embargo, otros utilizaron el sitio web solo para ampliar un tema o aclarar alguna duda. La estrategia fue caracterizada como de f&#x000e1;cil acceso y que el tel&#x000e9;fono celular podr&#x000ed;a constituirse como un elemento facilitador (<xref rid="t2" ref-type="table">Tabla 2</xref>).
+</p><table-wrap position="float" id="t2"><label>Tabla N&#x000b0; 2</label><caption><title>Caracter&#x000ed;sticas de las estrategias de promoci&#x000f3;n de la salud reportadas por los entrevistados (N=16); 2017</title></caption><table frame="hsides" rules="groups"><tr><th rowspan="1" colspan="1">Dimensiones</th><th rowspan="1" colspan="1">Caracter&#x000ed;sticas</th><th rowspan="1" colspan="1">Frases literales</th></tr><tr><td rowspan="3" colspan="1">
+<p>Informaci&#x000f3;n publicada en sitio web</p>
+</td><td rowspan="3" colspan="1">
+<p>1) Consejos a trav&#x000e9;s de elementos audiovisuales (videos cortos, como hacer una pausa activa, rutinas de ejercicios, recetas simples y saludables), perfil interactivo y que sean compatibles con la realidad laboral y hogare&#x000f1;a. 2) Informaci&#x000f3;n v&#x000e1;lida, novedosa y que proporcionen confiabilidad al usuario. 3) Foco en lo &#x0201c;pr&#x000e1;ctico&#x0201d;. 4) Perfil perzonalizado. 5) Dise&#x000f1;o din&#x000e1;mico, amigable, con presencia de hiperv&#x000ed;nculos, que nuclee la oferta de servicios existentes. 6) No debe llevar a un mayor gasto econ&#x000f3;mico. 7) Mostrar experiencias individuales a partir de algunos referentes conocidos en la tem&#x000e1;tica.</p>
+</td><td rowspan="1" colspan="1">
+<p>&#x0201c;No me parece que sea &#x000fa;til un sito web donde te dicen que ten&#x000e9;s que comer sano o comer verduras porque es parte del conocimiento popular, no te ayuda en nada, todo el mundo lo sabe y poca gente lo hace&#x0201d;&#x02026; (Mujer, 31 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x0201c;Ejercicios caseros f&#x000e1;ciles o rutinas cortas (15 a 20 minutos) para distintas partes del cuerpo. Recetas f&#x000e1;ciles y r&#x000e1;pidas (con alimentos saludables o combinaci&#x000f3;n de alimentos a la semana). Facilitar el tema de la comida porque la gente no le dedica mucho tiempo porque no lo tiene&#x0201d;... (Mujer, 25 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x0201c;Esta bueno que vaya abarcando distintas cuestiones como alimentaci&#x000f3;n y actividad f&#x000ed;sica, que quiz&#x000e1;s te nuclee la oferta de espacios para realizar actividad f&#x000ed;sica&#x02026; que los mapeen porque por ah&#x000ed; uno sale y los encuentra pero no sabe bien en donde est&#x000e1;n. Hay mucha oferta de cosas para hacer&#x0201d;&#x02026; (Mujer, 26 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>Mensajes a trav&#x000e9;s de redes sociales</p>
+</td><td rowspan="2" colspan="1">
+<p>1) Temas de mayor inter&#x000e9;s: alimentaci&#x000f3;n saludable y en menor medida actividad f&#x000ed;sica. 2) Orientaci&#x000f3;n hacia cuestiones que conlleven a &#x0201c;pr&#x000e1;cticas concretas&#x0201d;, por ejemplo en como logarlo, recetas, tips de alimentaci&#x000f3;n, disponibilidad de espacios para hacer actividad f&#x000ed;sica, oferta de actividades, informaci&#x000f3;n no tan conocida.</p>
+</td><td rowspan="1" colspan="1">
+<p>&#x0201c;De alimentaci&#x000f3;n, tips de cocina. Si es para j&#x000f3;venes, pienso que tendr&#x000ed;a que ser simple, r&#x000e1;pido, barato, y entre todo esto saludable. La actividad f&#x000ed;sica no se, pero hay un mont&#x000f3;n. Ejercicios para hacer en casa&#x0201d;&#x02026; (Mujer, 24 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x0201c;De moverte, como che! andate caminando en vez de tomar el bondi por dos paradas. Rutinas que puedas hacer d&#x000ed;a a d&#x000ed;a&#x0201d;... (Mujer, 22 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="4" colspan="1">
+<p>Asesoramiento a trav&#x000e9;s de salud m&#x000f3;vil</p>
+</td><td rowspan="4" colspan="1">
+<p>1) SMS: que sean sobre alimentaci&#x000f3;n y tips de actividad f&#x000ed;sica de f&#x000e1;cil utilidad. 2) Frecuencia de solo algunas veces al mes. 3) Que sea personalizados, cortos y que se puedan leer r&#x000e1;pido. 4) Suscripci&#x000f3;n voluntaria. Llamadas: 1) Suscripci&#x000f3;n voluntaria. 2) Duraci&#x000f3;n: cortas, no mas de 5 minutos.</p>
+</td><td rowspan="1" colspan="1">
+<p>&#x0201c;Que te de tips de alimentaci&#x000f3;n, ejercicio, cuidado, pero que no me lo imponga. Si yo quiero hacer algo, es porque yo tom&#x000e9; la determinaci&#x000f3;n de hacerlo. M&#x000e1;s consejero por ponerle alg&#x000fa;n nombre&#x0201d;... (Hombre, 30 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x0201c;Que me diga por donde tengo que ir, porque yo noto que llegar a los espacias verdes es dif&#x000ed;cil entonces que me diga un camino menos transitable. Las bicicletas tambi&#x000e9;n las uso mucho. Si ya saben en que estaci&#x000f3;n estas y si quieres ir a conocer tal lugar, son tantos kil&#x000f3;metros, bajar&#x000ed;as tantas calor&#x000ed;as con este ritmo. Todo lo que sea armado que no me haga pensar a mi, me facilita, lo re uso&#x0201d;... (Mujer, 28 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>&#x0201c;Que me diga por donde tengo que ir, porque yo noto que llegar a los espacias verdes es dif&#x000ed;cil entonces que me diga un camino menos transitable. Las bicicletas tambi&#x000e9;n las uso mucho. Si ya saben en que estaci&#x000f3;n estas y si quieres ir a conocer tal lugar, son tantos kil&#x000f3;metros, bajar&#x000ed;as tantas calor&#x000ed;as con este ritmo. Todo lo que sea armado que no me haga pensar a mi, me facilita, lo re uso&#x0201d;... (Mujer, 28 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>Consejo breve y charlas cortas con un profesional</p>
+</td><td rowspan="2" colspan="1">
+<p>1) Temas de mayor inter&#x000e9;s fueron la alimentaci&#x000f3;n y en menor medida actividad f&#x000ed;sica, drogas legales y no legales y cuestiones psicol&#x000f3;gicas. 2) El horario &#x000f3;ptimo para asistir a charlas cortas fue por la tarde/noche o fines de semanas.</p>
+</td><td rowspan="1" colspan="1">
+<p>&#x0201c;Para m&#x000ed;, porque es un tema que me interesa demasiado, y creo que hay muchos problemas que se dan desde ah&#x000ed;&#x02026; es la alimentaci&#x000f3;n&#x0201d;... (Mujer, 32 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x0201c;Por ejemplo, pienso en los h&#x000e1;bitos que me generan dudas todo el tiempo y estar&#x000ed;a bueno tener esta info, es el tema de alimentaci&#x000f3;n&#x02026; hay mucho desconocimiento en cuales son las cosas que tienen que estar&#x0201d;&#x02026; (Mujer, 26 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Material impreso entregado en la v&#x000ed;a p&#x000fa;blica</p>
+</td><td rowspan="1" colspan="1">
+<p>1) Bien dise&#x000f1;ado, que no sea algo puramente informativo, claro y pr&#x000e1;ctico, que ingrese por la vista, tenga algo que lo hago distinto. 2) Temas de inter&#x000e9;s: lavado de verduras y frutas, importancia del agua y recetas saludables. 3) Contenidos: Foco en cuestiones mas bien pr&#x000e1;cticas, que sean simples y no parezcan dif&#x000ed;ciles de alcanzar, tips cortos, informaci&#x000f3;n puntual, con ejemplos, palabras claves, informaci&#x000f3;n &#x000fa;til para el ciudadano como por ejemplo direcciones de donde hacer actividad f&#x000ed;sica.</p>
+</td><td rowspan="1" colspan="1">
+<p>"Por ejemplo con el lavado de las verduras de las frutas, que uno aveces las lava as&#x000ed; nom&#x000e1;s. Sabemos que la mayoria de las cosas vienen con agrot&#x000f3;xicos&#x02026;si hay alguna forma que podamos hacer para minimizar eso ser&#x000ed;a interesate&#x02026; Cosas mas pr&#x000e1;cticas, quiz&#x000e1;s por que yo lo veo desde la mirada de la mujer que prepara los alimentos de la cocina... cual es la mejor forma para preparar los alimentos para sacarle el mayor provecho&#x02026; por ah&#x000ed; estas gastando la plata comprando algo que uno cree que es bueno para la salud y lo termina preparando mal y le anulas los beneficios"&#x02026; (Mujer, 32 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="3" colspan="1">
+<p>Mensajes informativos enviados por correo electr&#x000f3;nico</p>
+</td><td rowspan="3" colspan="1">
+<p>1) Caracter&#x000ed;sticas: cortos y atractivos, con buen dise&#x000f1;o y con alg&#x000fa;n asunto &#x0201c;llamativo&#x0201d;, que contenga infograf&#x000ed;a, algo visual, con im&#x000e1;genes, fotos, pocas palabras, claro y corto, con la presencia de hiperv&#x000ed;nculos para ampliar la informaci&#x000f3;n. Que tenga consejos pr&#x000e1;cticos, que sea personalizado, interactivo y que adquiera cierto car&#x000e1;cter profesional, que no tenga un aspecto de &#x0201c;propaganda o publicidad&#x0201d;. 2) Contenidos: los temas mas interesantes de recibir ser&#x000ed;an de alimentaci&#x000f3;n saludable (recetas saludables) y de actividad f&#x000ed;sica (rutinas de entrenamiento personalizado). Tambi&#x000e9;n informaci&#x000f3;n sobre drogas, alcohol, cigarrillos, automedicaci&#x000f3;n y medicina alternativa. 3) Frecuencia adecuada: semanal o cada 15 d&#x000ed;as. 4) Recibir &#x0201c;agenda de eventos&#x0201d; que proporcione informaci&#x000f3;n sobre charlas y convocatorias.</p>
+</td><td rowspan="1" colspan="1">
+<p>&#x0201c;Yo creo que si es algo semanal, me parece que yo ya no entrar&#x000ed;a pasado la tercera semana. Ni lo abrir&#x000ed;a o lo ver&#x000ed;a, no le dar&#x000ed;a mucha importancia porque entre todos los mails, me parece que quedar&#x000ed;a medio al olvido el tema de los boletines. Si me llega informaci&#x000f3;n que no busco, no se cuanto lo retendr&#x000ed;a o usar&#x000ed;a&#x0201d;&#x02026; (Mujer, 24 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x0201c;Algo bien visual, como una imagen con una frase corta; si quer&#x000e9;s mas informaci&#x000f3;n haces clic y te lleva a otro lado. No un email kilom&#x000e9;trico con un mill&#x000f3;n de consejos o un mill&#x000f3;n de cosas porque no lo leo. Prefiero im&#x000e1;genes grandes con dos o tres cosas&#x02026; y si quer&#x000e9;s m&#x000e1;s informaci&#x000f3;n sobre algo en particular, le haces clic y te lleva a alguna p&#x000e1;gina&#x0201d;&#x02026; (Mujer, 31 a&#x000f1;os)</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x0201c;Por ah&#x000ed; algunas buenas pr&#x000e1;cticas como, &#x000a1;f&#x000ed;jate que las personas de tu edad, en tal lugar del mundo! como que cuentan un caso para prestarle atenci&#x000f3;n. Para m&#x000ed;, ser&#x000ed;a muy importante que est&#x000e9; bien vinculado a la tem&#x000e1;tica y si yo me inscrib&#x000ed; en alg&#x000fa;n lado porque quiero recibir cierta informaci&#x000f3;n, que me llegue eso. Si me empieza a llegar informaci&#x000f3;n fuera de eso, yo lo dejar&#x000ed;a de abrir. Otra cosa que no tendr&#x000ed;a que tener es publicidad&#x0201d;... (Mujer, 26 a&#x000f1;os)</p>
+</td></tr></table></table-wrap></sec><sec><title>Mensajes a trav&#x000e9;s de redes sociales</title><p>Las redes sociales como Instagram, Facebook y en menor medida Twitter tuvieron una alta aceptabilidad y utilizaci&#x000f3;n, reconoci&#x000e9;ndolas como de uso frecuente en el grupo de j&#x000f3;venes. Se visualizaron experiencias previas de acceso a informaci&#x000f3;n por estos medios sobre temas de alimentaci&#x000f3;n y actividad f&#x000ed;sica por lo menos en alguna oportunidad.</p><p>Se observaron algunas diferencias marcadas en las percepciones seg&#x000fa;n el g&#x000e9;nero en torno a esta estrategia. Los varones, m&#x000e1;s all&#x000e1; de la edad y la condici&#x000f3;n de clase, refirieron recurrir con menos frecuencia que las mujeres a las redes sociales al momento de buscar informaci&#x000f3;n relacionada a h&#x000e1;bitos saludables. Sin embargo, de manera generalizada hombres y mujeres expresaron que hoy las redes sociales tienen un rol importante al momento de promover h&#x000e1;bitos saludables, con connotaciones tales como la exposici&#x000f3;n constante, el gran alcance y el f&#x000e1;cil acceso a gran cantidad de informaci&#x000f3;n (<xref rid="t2" ref-type="table">Tabla 2</xref>).
+</p></sec><sec><title>Asesoramiento a trav&#x000e9;s de salud m&#x000f3;vil (mensajes de texto, aplicativo para el celular o llamadas telef&#x000f3;nicas)</title><p>La estrategia de salud m&#x000f3;vil basada en SMS y llamadas sobre h&#x000e1;bitos saludables tuvo una baja aceptabilidad. Los entrevistados manifestaron que estas intervenciones no son de su inter&#x000e9;s y que puede resultar invasivas. Adem&#x000e1;s, la mayor&#x000ed;a de los entrevistados manifest&#x000f3; no leer SMS ni atender llamadas y se encontraron expresiones como: "es una v&#x000ed;a que no me llega". S&#x000f3;lo una minor&#x000ed;a que manifest&#x000f3; una cierta apertura a esta estrategia la condicion&#x000f3; a una suscripci&#x000f3;n voluntaria.</p><p>La aceptabilidad de la estrategia de App fue alta y se visualiz&#x000f3; un caudal de experiencias previas en el uso de aplicativos sobre h&#x000e1;bitos saludables, entre los que se encontraron el contador de pasos, App de rutinas de ejercicios, contador de calor&#x000ed;as e informaci&#x000f3;n nutricional, App de recetas y progresi&#x000f3;n del peso, entre otros (<xref rid="t2" ref-type="table">Tabla 2</xref>).
+</p></sec><sec><title>Consejo breve y charlas cortas con un profesional</title><p>En cuanto a la estrategia de consejo breve y charlas cortas con un profesional de la salud, se observaron pocas experiencias previas entre los entrevistados, donde las tem&#x000e1;ticas tratadas fueron alimentaci&#x000f3;n saludable (ingesta de agua, respetar las porciones) y actividad f&#x000ed;sica. En menor medida aparecieron consejos sobre el consumo de tabaco o alcohol.</p><p>Una parte de los informantes manifest&#x000f3; no recordar si recibi&#x000f3; alguna vez este tipo de consejo fundamentando no asistir con frecuencia a controles de salud o bien que no reconoc&#x000ed;an de manera clara este tipo de estrategia en el marco de una consulta o intervenci&#x000f3;n comunitaria. Cabe destacar que se visualizaron expresiones positivas sobre esta estrategia vinculadas a la relaci&#x000f3;n m&#x000e9;dico-paciente.</p><p>Los informantes manifestaron adem&#x000e1;s que ser&#x000ed;a interesante saber de antemano el contenido que se desarrollar&#x000e1; durante las charlas cortas.</p><p>Otro dato relevante es que una parte importante de la muestra expres&#x000f3; que los mensajes y charlas cortas ser&#x000e1;n &#x000fa;tiles en la medida que se adecuen a las caracter&#x000ed;sticas personales de los potenciales usuarios, a sus expectativas, conocimientos previos y a la disposici&#x000f3;n actual para cambiar los h&#x000e1;bitos de vida (<xref rid="t2" ref-type="table">Tabla 2</xref>).
+</p></sec><sec><title>Material impreso entregado en la v&#x000ed;a p&#x000fa;blica</title><p>Cuando se indag&#x000f3; sobre la estrategia de distribuci&#x000f3;n de informaci&#x000f3;n por material impreso, se observaron algunas manifestaciones positivas sobre la aceptabilidad. Gran parte de los entrevistados expresaron que s&#x000ed; se detendr&#x000ed;an a leer este material, sin embargo, no consideraron que esta estrategia pueda ser efectiva al momento de promover estilos de vida saludables, sustentando esta idea a partir de verbalizaciones como "es obsoleto", "sirve poco y nada", "no creo que le dar&#x000ed;a importancia", "en alg&#x000fa;n momento me va a molestar", "no me detendr&#x000ed;a con la persona que me lo dio", "esta sobreexplotado el tema de los volantes", "probablemente no le de uso". S&#x000f3;lo pocos informantes consideraron que el material impreso podr&#x000ed;a ser de utilidad para cuidar su salud, aunque lo ven m&#x000e1;s como un "complemento", encontrando adem&#x000e1;s desde los discursos diferentes barreras relacionadas al bajo impacto de esta estrategia (<xref rid="t2" ref-type="table">Tabla 2</xref>).
+</p></sec><sec><title>
+Mensajes informativos enviados por correo electr&#x000f3;nico
+</title><p>Cuando se exploraron las percepciones en torno al correo electr&#x000f3;nico, los informantes expresaron usarlo de manera diaria durante la semana y como herramienta en el &#x000e1;mbito laboral o acad&#x000e9;mico, no obstante, manifestaron que si bien recibir&#x000ed;an correos sobre estilos de vida saludable, estos podr&#x000ed;an pasar desapercibidos y no los leer&#x000ed;an con frecuencia (<xref rid="t2" ref-type="table">Tabla 2</xref>).
+</p></sec></sec><sec sec-type="discussion"><title>DISCUSI&#x000d3;N</title><p>Las intervenciones dirigidas a adultos j&#x000f3;venes para promover alimentaci&#x000f3;n saludable, actividad f&#x000ed;sica y cesaci&#x000f3;n tab&#x000e1;quica identificadas como efectivas que incluyeron redes sociales, sitio web y App tendr&#x000ed;an una mejor aceptabilidad y utilizaci&#x000f3;n al momento de promover estilos de vida saludables en el grupo de adultos j&#x000f3;venes de la CABA.</p><p>Otras intervenciones identificadas como informaci&#x000f3;n a trav&#x000e9;s de material impreso, correo electr&#x000f3;nico, mensajes de texto o llamadas telef&#x000f3;nicas ser&#x000ed;an menos aceptadas. Los adultos j&#x000f3;venes entrevistados no ten&#x000ed;an experiencia en recibir apoyo mediante charlas con profesionales de la salud, por lo que consideramos que esta &#x000fa;ltima estrategia deber&#x000ed;a explorarse con mayor profundidad en futuros estudios.
+</p><p>Al consultar la evidencia disponible sobre evaluaciones desde un enfoque cualitativo, los antecedentes encontrados se basaron en intervenciones sobre prevenci&#x000f3;n de ENT
+<sup>
+<xref rid="B15" ref-type="bibr">15-17</xref>
+</sup>
+y en espacios laborales y hospitalarios
+<sup>
+<xref rid="B18" ref-type="bibr">18-20</xref>
+</sup>
+.
+</p><p>A nivel de la regi&#x000f3;n, se encontr&#x000f3; una evaluaci&#x000f3;n que incorpor&#x000f3; una perspectiva cualitativa sobre el Programa Comunidades Saludables, orientada al componente de satisfacci&#x000f3;n
+<sup>
+<xref rid="B21" ref-type="bibr">21</xref>
+</sup>
+.
+</p><p>Desde este estudio se pudo constatar que las intervenciones basadas en internet como sitio web, redes sociales y App fueron ampliamente aceptadas m&#x000e1;s all&#x000e1; de las diferencias de edad, g&#x000e9;nero y condici&#x000f3;n de clase de los entrevistados presentando un alto caudal de experiencias previas en torno a temas relacionados a los h&#x000e1;bitos saludables, como tambi&#x000e9;n lo demostraron otros estudios similares
+<sup><xref rid="B22" ref-type="bibr">22</xref>.
+<xref rid="B23" ref-type="bibr">23</xref>
+</sup>
+.
+</p><p>Los informantes manifestaron utilizar de manera frecuente estas intervenciones, consider&#x000e1;ndolas de f&#x000e1;cil acceso y con una exposici&#x000f3;n constante, sin embargo cuando se indag&#x000f3; sobre la potencial utilizaci&#x000f3;n, emergieron subjetividades relacionadas a algunas caracter&#x000ed;sticas esenciales que cada una de estas deber&#x000ed;a garantizar, donde las m&#x000e1;s sobresalientes en los discursos fueron la presencia de elementos audiovisuales, tener un car&#x000e1;cter personalizado y brindar temas de inter&#x000e9;s para el potencial usuario. Estos elementos deber&#x000ed;an ser tenidos en cuenta al momento de dise&#x000f1;ar e implementar estas intervenciones.</p><p>La aceptaci&#x000f3;n de las intervenciones de salud m&#x000f3;vil basadas en llamadas y SMS fue baja, siendo divergente con lo documentado en otro estudio previo similar
+<sup>
+<xref rid="B24" ref-type="bibr">24</xref>
+</sup>
+. Considerar la perspectiva de los potenciales usuarios en torno a estas estrategias cobra relevancia ya que estas vienen siendo implementadas con mayor frecuencia a nivel de Latinoam&#x000e9;rica
+<sup>
+<xref rid="B25" ref-type="bibr">25</xref>
+</sup>
+, y donde seg&#x000fa;n nuestros hallazgos parecer&#x000ed;an presentar ciertas barreras de aceptabilidad en el grupo de adultos j&#x000f3;venes.
+</p><p>Un dato convergente entre la revisi&#x000f3;n y la perspectiva de los actores fue la relevancia que adquieren las intervenciones complejas, es decir en las que se combinan diferentes estrategias para mejorar alg&#x000fa;n h&#x000e1;bito espec&#x000ed;fico. En este sentido los informantes hicieron referencia a que si bien algunas pueden ser aceptadas y &#x000fa;tiles, implementadas de manera aislada no ser&#x000ed;a suficiente para plasmar cambios sostenidos en el tiempo.</p><p>Este hecho se vio marcado en torno al consejo breve o charlas cortas con un profesional de la salud, donde si bien los informantes expresaron no haber tenido experiencias previas sobre esta estrategia, consideraron que no ser&#x000ed;a suficiente para garantizar cambios en sus estilos de vida o que los mismos sean sostenidos en el tiempo.</p><p>Se observa que en la regi&#x000f3;n se vienen implementado con mayor frecuencia intervenciones basadas en consejo breve en especial sobre temas relacionados a la cesaci&#x000f3;n tab&#x000e1;quica
+<sup>
+<xref rid="B26" ref-type="bibr">26</xref>
+</sup>
+y donde ser&#x000e1; necesario pensar una adaptabilidad a los diferentes grupos etarios
+<sup>
+<xref rid="B27" ref-type="bibr">27</xref>
+</sup>
+.
+</p><p>En esta l&#x000ed;nea se pone en relieve la complejidad del constructo de los estilos de vida, donde se conjugan aspectos individuales y sociales y donde mejorarlos implicar&#x000ed;a avanzar hacia intervenciones cada vez m&#x000e1;s complejas.</p><p>Como lo postula Bourdieu (1979) los sujetos perciben el mundo y act&#x000fa;an en &#x000e9;l a partir de un conjunto de esquemas sociales generativos interiorizados denominado habitus, es as&#x000ed; que las elecciones de los sujetos van siendo definidas y construidas socialmente y donde el Estado y sus programas de promoci&#x000f3;n de la salud pueden establecerse como dispositivos claves en torno a las pr&#x000e1;cticas de cuidado
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+.
+</p><p>As&#x000ed; mismo, se reconoce la complejidad del entramado de subjetividades en torno a la construcci&#x000f3;n de h&#x000e1;bitos saludables
+<sup>
+<xref rid="B28" ref-type="bibr">28</xref>
+</sup>
+constatado en cierta medida a trav&#x000e9;s del marco conceptual propuesto en este trabajo donde se pone en evidencia que, entre la aceptaci&#x000f3;n y la utilizaci&#x000f3;n efectiva de los servicios de salud, existen m&#x000fa;ltiples canales y mediadores.
+</p><p>Si bien desde este estudio se pudieron jerarquizar diferentes intervenciones de promoci&#x000f3;n de la salud considerando elementos como aceptabilidad y potencial utilizaci&#x000f3;n, tambi&#x000e9;n ser&#x000e1; necesario considerar las caracter&#x000ed;sticas espec&#x000ed;ficas dentro de cada estrategia y su adecuaci&#x000f3;n a los potenciales usuarios
+<sup>
+<xref rid="B29" ref-type="bibr">29</xref>
+</sup>
+.
+</p><p>Otros elementos a tener en cuenta y que surgieron de este estudio, son las barreras y facilitadores vinculados a la accesibilidad. Este resultado cobra relevancia ya que la evidencia estar&#x000ed;a indicando que en la poblaci&#x000f3;n joven las barreras para promover estilos de vida saludables provienen de la esfera ambiental, social o institucional
+<sup>
+<xref rid="B30" ref-type="bibr">30</xref>
+</sup>
+.
+</p><p>Entre las limitaciones de este trabajo pueden se&#x000f1;alarse las provenientes del muestreo cualitativo, ya que los resultados no pueden generalizarse a toda la poblaci&#x000f3;n adulta joven. Adem&#x000e1;s, durante el trabajo de campo pudo existir sesgo de complacencia; sin embargo, se intent&#x000f3; minimizarlo a trav&#x000e9;s del uso de preguntas abiertas, amplias, generales e indirectas.</p><p>Una de las fortalezas de este estudio es que se lleg&#x000f3; a la saturaci&#x000f3;n de la mayor&#x000ed;a de las categor&#x000ed;as lo que podr&#x000ed;a estar indicando cierta consistencia en los discursos de los entrevistados m&#x000e1;s all&#x000e1; de caracter&#x000ed;sticas como g&#x000e9;nero y otras provenientes desde la esfera social.</p><p>Poder explorar elementos desde la perspectiva de los potenciales usuarios y desde un enfoque cualitativo posibilit&#x000f3; una aproximaci&#x000f3;n profunda y explicativa al momento de pensar diferentes escenarios de implementaci&#x000f3;n de iniciativas de promoci&#x000f3;n de la salud destinadas al grupo de adultos j&#x000f3;venes.</p></sec></body><back><ack><title>Agradecimientos:</title><p>A todos los y las informantes que aportaron sus voces en este estudio y Daniel Comande por su colaboraci&#x000f3;n en el proceso de b&#x000fa;squeda bibliogr&#x000e1;fica.
+</p></ack><fn-group><fn fn-type="other"><p>
+<bold>Limitaciones de responsabilidad:</bold>
+La responsabilidad del trabajo es exclusivamente de quienes colaboraron en la elaboraci&#x000f3;n del mismo.
+</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflicto de inter&#x000e9;s:</bold>
+Ninguno.
+</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo:</bold>
+La presente investigaci&#x000f3;n fue financiada por el Gobierno de la Ciudad Aut&#x000f3;noma de Buenos Aires, Argentina.
+</p></fn><fn fn-type="other"><p>
+<bold>Originalidad:</bold>
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.
+</p></fn><fn fn-type="other"><p>
+<bold>Cesi&#x000f3;n de derechos:</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, ceden los derechos de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la Revista de la Facultad de Ciencias M&#x000e9;dicas y realizar las traducciones necesarias al idioma ingl&#x000e9;s.
+</p></fn><fn fn-type="equal"><p>
+<bold>Contribuci&#x000f3;n de los autores:</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, han trabajado en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, haci&#x000e9;ndose p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.
+</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lim</surname><given-names>SS</given-names></name>
+<name><surname>Vos</surname><given-names>T</given-names></name>
+<name><surname>Flaxman</surname><given-names>AD</given-names></name>
+<name><surname>Danaei</surname><given-names>G</given-names></name>
+<name><surname>Shibuya</surname><given-names>K</given-names></name>
+<name><surname>Adair-Rohani</surname><given-names>H</given-names></name>
+<name><surname>Amann</surname><given-names>M</given-names></name>
+<name><surname>Anderson</surname><given-names>HR</given-names></name>
+<name><surname>Andrews</surname><given-names>KG</given-names></name>
+<name><surname>Aryee</surname><given-names>M</given-names></name>
+<name><surname>Atkinson</surname><given-names>C</given-names></name>
+<name><surname>Bacchus</surname><given-names>LJ</given-names></name>
+<name><surname>Bahalim</surname><given-names>AN</given-names></name>
+<name><surname>Balakrishnan</surname><given-names>K</given-names></name>
+<name><surname>Balmes</surname><given-names>J</given-names></name>
+<name><surname>Barker-Collo</surname><given-names>S</given-names></name>
+<name><surname>Baxter</surname><given-names>A</given-names></name>
+<name><surname>Bell</surname><given-names>ML</given-names></name>
+<name><surname>Blore</surname><given-names>JD</given-names></name>
+<name><surname>Blyth</surname><given-names>F</given-names></name>
+<name><surname>Bonner</surname><given-names>C</given-names></name>
+<name><surname>Borges</surname><given-names>G</given-names></name>
+<name><surname>Bourne</surname><given-names>R</given-names></name>
+<name><surname>Boussinesq</surname><given-names>M</given-names></name>
+<name><surname>Brauer</surname><given-names>M</given-names></name>
+<name><surname>Brooks</surname><given-names>P</given-names></name>
+<name><surname>Bruce</surname><given-names>NG</given-names></name>
+<name><surname>Brunekreef</surname><given-names>B</given-names></name>
+<name><surname>Bryan-Hancock</surname><given-names>C</given-names></name>
+<name><surname>Bucello</surname><given-names>C</given-names></name>
+<name><surname>Buchbinder</surname><given-names>R</given-names></name>
+<name><surname>Bull</surname><given-names>F</given-names></name>
+<name><surname>Burnett</surname><given-names>RT</given-names></name>
+<name><surname>Byers</surname><given-names>TE</given-names></name>
+<name><surname>Calabria</surname><given-names>B</given-names></name>
+<name><surname>Carapetis</surname><given-names>J</given-names></name>
+<name><surname>Carnahan</surname><given-names>E</given-names></name>
+<name><surname>Chafe</surname><given-names>Z</given-names></name>
+<name><surname>Charlson</surname><given-names>F</given-names></name>
+<name><surname>Chen</surname><given-names>H</given-names></name>
+<name><surname>Chen</surname><given-names>JS</given-names></name>
+<name><surname>Cheng</surname><given-names>AT</given-names></name>
+<name><surname>Child</surname><given-names>JC</given-names></name>
+<name><surname>Cohen</surname><given-names>A</given-names></name>
+<name><surname>Colson</surname><given-names>KE</given-names></name>
+<name><surname>Cowie</surname><given-names>BC</given-names></name>
+<name><surname>Darby</surname><given-names>S</given-names></name>
+<name><surname>Darling</surname><given-names>S</given-names></name>
+<name><surname>Davis</surname><given-names>A</given-names></name>
+<name><surname>Degenhardt</surname><given-names>L</given-names></name>
+<name><surname>Dentener</surname><given-names>F</given-names></name>
+<name><surname>Des Jarlais</surname><given-names>DC</given-names></name>
+<name><surname>Devries</surname><given-names>K</given-names></name>
+<name><surname>Dherani</surname><given-names>M</given-names></name>
+<name><surname>Ding</surname><given-names>EL</given-names></name>
+<name><surname>Dorsey</surname><given-names>ER</given-names></name>
+<name><surname>Driscoll</surname><given-names>T</given-names></name>
+<name><surname>Edmond</surname><given-names>K</given-names></name>
+<name><surname>Ali</surname><given-names>SE</given-names></name>
+<name><surname>Engell</surname><given-names>RE</given-names></name>
+<name><surname>Erwin</surname><given-names>PJ</given-names></name>
+<name><surname>Fahimi</surname><given-names>S</given-names></name>
+<name><surname>Falder</surname><given-names>G</given-names></name>
+<name><surname>Farzadfar</surname><given-names>F</given-names></name>
+<name><surname>Ferrari</surname><given-names>A</given-names></name>
+<name><surname>Finucane</surname><given-names>MM</given-names></name>
+<name><surname>Flaxman</surname><given-names>S</given-names></name>
+<name><surname>Fowkes</surname><given-names>FG</given-names></name>
+<name><surname>Freedman</surname><given-names>G</given-names></name>
+<name><surname>Freeman</surname><given-names>MK</given-names></name>
+<name><surname>Gakidou</surname><given-names>E</given-names></name>
+<name><surname>Ghosh</surname><given-names>S</given-names></name>
+<name><surname>Giovannucci</surname><given-names>E</given-names></name>
+<name><surname>Gmel</surname><given-names>G</given-names></name>
+<name><surname>Graham</surname><given-names>K</given-names></name>
+<name><surname>Grainger</surname><given-names>R</given-names></name>
+<name><surname>Grant</surname><given-names>B</given-names></name>
+<name><surname>Gunnell</surname><given-names>D</given-names></name>
+<name><surname>Gutierrez</surname><given-names>HR</given-names></name>
+<name><surname>Hall</surname><given-names>W</given-names></name>
+<name><surname>Hoek</surname><given-names>HW</given-names></name>
+<name><surname>Hogan</surname><given-names>A</given-names></name>
+<name><surname>Hosgood</surname><given-names>HD 3rd</given-names></name>
+<name><surname>Hoy</surname><given-names>D</given-names></name>
+<name><surname>Hu</surname><given-names>H</given-names></name>
+<name><surname>Hubbell</surname><given-names>BJ</given-names></name>
+<name><surname>Hutchings</surname><given-names>SJ</given-names></name>
+<name><surname>Ibeanusi</surname><given-names>SE</given-names></name>
+<name><surname>Jacklyn</surname><given-names>GL</given-names></name>
+<name><surname>Jasrasaria</surname><given-names>R</given-names></name>
+<name><surname>Jonas</surname><given-names>JB</given-names></name>
+<name><surname>Kan</surname><given-names>H</given-names></name>
+<name><surname>Kanis</surname><given-names>JA</given-names></name>
+<name><surname>Kassebaum</surname><given-names>N</given-names></name>
+<name><surname>Kawakami</surname><given-names>N</given-names></name>
+<name><surname>Khang</surname><given-names>YH</given-names></name>
+<name><surname>Khatibzadeh</surname><given-names>S</given-names></name>
+<name><surname>Khoo</surname><given-names>JP</given-names></name>
+<name><surname>Kok</surname><given-names>C</given-names></name>
+<name><surname>Laden</surname><given-names>F</given-names></name>
+<name><surname>Lalloo</surname><given-names>R</given-names></name>
+<name><surname>Lan</surname><given-names>Q</given-names></name>
+<name><surname>Lathlean</surname><given-names>T</given-names></name>
+<name><surname>Leasher</surname><given-names>JL</given-names></name>
+<name><surname>Leigh</surname><given-names>J</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Lin</surname><given-names>JK</given-names></name>
+<name><surname>Lipshultz</surname><given-names>SE</given-names></name>
+<name><surname>London</surname><given-names>S</given-names></name>
+<name><surname>Lozano</surname><given-names>R</given-names></name>
+<name><surname>Lu</surname><given-names>Y</given-names></name>
+<name><surname>Mak</surname><given-names>J</given-names></name>
+<name><surname>Malekzadeh</surname><given-names>R</given-names></name>
+<name><surname>Mallinger</surname><given-names>L</given-names></name>
+<name><surname>Marcenes</surname><given-names>W</given-names></name>
+<name><surname>March</surname><given-names>L</given-names></name>
+<name><surname>Marks</surname><given-names>R</given-names></name>
+<name><surname>Martin</surname><given-names>R</given-names></name>
+<name><surname>McGale</surname><given-names>P</given-names></name>
+<name><surname>McGrath</surname><given-names>J</given-names></name>
+<name><surname>Mehta</surname><given-names>S</given-names></name>
+<name><surname>Mensah</surname><given-names>GA</given-names></name>
+<name><surname>Merriman</surname><given-names>TR</given-names></name>
+<name><surname>Micha</surname><given-names>R</given-names></name>
+<name><surname>Michaud</surname><given-names>C</given-names></name>
+<name><surname>Mishra</surname><given-names>V</given-names></name>
+<name><surname>Mohd Hanafiah</surname><given-names>K</given-names></name>
+<name><surname>Mokdad</surname><given-names>AA</given-names></name>
+<name><surname>Morawska</surname><given-names>L</given-names></name>
+<name><surname>Mozaffarian</surname><given-names>D</given-names></name>
+<name><surname>Murphy</surname><given-names>T</given-names></name>
+<name><surname>Naghavi</surname><given-names>M</given-names></name>
+<name><surname>Neal</surname><given-names>B</given-names></name>
+<name><surname>Nelson</surname><given-names>PK</given-names></name>
+<name><surname>Nolla</surname><given-names>JM</given-names></name>
+<name><surname>Norman</surname><given-names>R</given-names></name>
+<name><surname>Olives</surname><given-names>C</given-names></name>
+<name><surname>Omer</surname><given-names>SB</given-names></name>
+<name><surname>Orchard</surname><given-names>J</given-names></name>
+<name><surname>Osborne</surname><given-names>R</given-names></name>
+<name><surname>Ostro</surname><given-names>B</given-names></name>
+<name><surname>Page</surname><given-names>A</given-names></name>
+<name><surname>Pandey</surname><given-names>KD</given-names></name>
+<name><surname>Parry</surname><given-names>CD</given-names></name>
+<name><surname>Passmore</surname><given-names>E</given-names></name>
+<name><surname>Patra</surname><given-names>J</given-names></name>
+<name><surname>Pearce</surname><given-names>N</given-names></name>
+<name><surname>Pelizzari</surname><given-names>PM</given-names></name>
+<name><surname>Petzold</surname><given-names>M</given-names></name>
+<name><surname>Phillips</surname><given-names>MR</given-names></name>
+<name><surname>Pope</surname><given-names>D</given-names></name>
+<name><surname>Pope</surname><given-names>CA 3rd</given-names></name>
+<name><surname>Powles</surname><given-names>J</given-names></name>
+<name><surname>Rao</surname><given-names>M</given-names></name>
+<name><surname>Razavi</surname><given-names>H</given-names></name>
+<name><surname>Rehfuess</surname><given-names>EA</given-names></name>
+<name><surname>Rehm</surname><given-names>JT</given-names></name>
+<name><surname>Ritz</surname><given-names>B</given-names></name>
+<name><surname>Rivara</surname><given-names>FP</given-names></name>
+<name><surname>Roberts</surname><given-names>T</given-names></name>
+<name><surname>Robinson</surname><given-names>C</given-names></name>
+<name><surname>Rodriguez-Portales</surname><given-names>JA</given-names></name>
+<name><surname>Romieu</surname><given-names>I</given-names></name>
+<name><surname>Room</surname><given-names>R</given-names></name>
+<name><surname>Rosenfeld</surname><given-names>LC</given-names></name>
+<name><surname>Roy</surname><given-names>A</given-names></name>
+<name><surname>Rushton</surname><given-names>L</given-names></name>
+<name><surname>Salomon</surname><given-names>JA</given-names></name>
+<name><surname>Sampson</surname><given-names>U</given-names></name>
+<name><surname>Sanchez-Riera</surname><given-names>L</given-names></name>
+<name><surname>Sanman</surname><given-names>E</given-names></name>
+<name><surname>Sapkota</surname><given-names>A</given-names></name>
+<name><surname>Seedat</surname><given-names>S</given-names></name>
+<name><surname>Shi</surname><given-names>P</given-names></name>
+<name><surname>Shield</surname><given-names>K</given-names></name>
+<name><surname>Shivakoti</surname><given-names>R</given-names></name>
+<name><surname>Singh</surname><given-names>GM</given-names></name>
+<name><surname>Sleet</surname><given-names>DA</given-names></name>
+<name><surname>Smith</surname><given-names>E</given-names></name>
+<name><surname>Smith</surname><given-names>KR</given-names></name>
+<name><surname>Stapelberg</surname><given-names>NJ</given-names></name>
+<name><surname>Steenland</surname><given-names>K</given-names></name>
+<name><surname>St&#x000f6;ckl</surname><given-names>H</given-names></name>
+<name><surname>Stovner</surname><given-names>LJ</given-names></name>
+<name><surname>Straif</surname><given-names>K</given-names></name>
+<name><surname>Straney</surname><given-names>L</given-names></name>
+<name><surname>Thurston</surname><given-names>GD</given-names></name>
+<name><surname>Tran</surname><given-names>JH</given-names></name>
+<name><surname>Van Dingenen</surname><given-names>R</given-names></name>
+<name><surname>van Donkelaar</surname><given-names>A</given-names></name>
+<name><surname>Veerman</surname><given-names>JL</given-names></name>
+<name><surname>Vijayakumar</surname><given-names>L</given-names></name>
+<name><surname>Weintraub</surname><given-names>R</given-names></name>
+<name><surname>Weissman</surname><given-names>MM</given-names></name>
+<name><surname>White</surname><given-names>RA</given-names></name>
+<name><surname>Whiteford</surname><given-names>H</given-names></name>
+<name><surname>Wiersma</surname><given-names>ST</given-names></name>
+<name><surname>Wilkinson</surname><given-names>JD</given-names></name>
+<name><surname>Williams</surname><given-names>HC</given-names></name>
+<name><surname>Williams</surname><given-names>W</given-names></name>
+<name><surname>Wilson</surname><given-names>N</given-names></name>
+<name><surname>Woolf</surname><given-names>AD</given-names></name>
+<name><surname>Yip</surname><given-names>P</given-names></name>
+<name><surname>Zielinski</surname><given-names>JM</given-names></name>
+<name><surname>Lopez</surname><given-names>AD</given-names></name>
+<name><surname>Murray</surname><given-names>CJ</given-names></name>
+<name><surname>Ezzati</surname><given-names>M</given-names></name>
+<name><surname>Al Mazroa</surname><given-names>MA</given-names></name>
+<name><surname>Memish</surname><given-names>ZA</given-names></name>
+</person-group><article-title>A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010</article-title><source>Lancet</source><year iso-8601-date="2012-12-15">2012</year><month>Dec</month><day>15</day><volume>380</volume><issue>9859</issue><fpage>2224</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(12)61766-8</pub-id><comment>Erratum in: Lancet. 2013 Apr 13;381(9874):1276</comment><comment>Erratum in: Lancet. 2013 Feb 23;381(9867):628. Al Mazroa, Mohammad A [added]; Memish, Ziad A [added]</comment><pub-id pub-id-type="pmid">23245609</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group><source>Noncommunicable Diseases (NCD) Country Profiles</source><publisher-loc>Argentina</publisher-loc><publisher-name>WHO</publisher-name><year>2014</year><comment>Disponible en:
+<ext-link xlink:href="https://apps.who.int/iris/bitstream/handle/10665/128038/9789241507509_eng.pdf" ext-link-type="uri">https://apps.who.int/iris/bitstream/handle/10665/128038/9789241507509_eng.pdf</ext-link>
+</comment></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Instituto Nacional de Estad&#x000ed;stica y Censos: Ministerio de Salud, Presidencia de la Naci&#x000f3;n Argentina</collab>
+</person-group><source>Tercera Encuesta Nacional de Factores de Riesgo para Enfermedades No Transmisibles. Argentina: Estrategia Nacional de Prevenci&#x000f3;n y Control de Enfermedades no transmisibles. Compontente: vigilancia</source><publisher-name>INDEC</publisher-name><publisher-name>Ministerio de Salud, Presidencia de la Naci&#x000f3;n Argentina</publisher-name><year>2013</year><comment>Disponible en:
+<ext-link xlink:href="https://cesni-biblioteca.org/archivos/3ra-encuesta-nacional.pdf" ext-link-type="uri">https://cesni-biblioteca.org/archivos/3ra-encuesta-nacional.pdf</ext-link>
+</comment></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Organizaci&#x000f3;n Mundial de la Salud. Comisi&#x000f3;n sobre Determinantes Sociales de la Salud</collab>
+</person-group><source>Subsanar las desigualdades en una generaci&#x000f3;n. Alcanzar la equidad sanitaria actuando sobre los determinantes sociales de la salud</source><publisher-loc>Ginebra, Suiza</publisher-loc><publisher-name>OMS</publisher-name><year>2008</year><comment>Disponible en:
+<ext-link xlink:href="https://apps.who.int/iris/handle/10665/69830" ext-link-type="uri">https://apps.who.int/iris/handle/10665/69830</ext-link>
+</comment></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Organizaci&#x000f3;n Mundial de la Salud</collab>
+</person-group><part-title>Pol&#x000ed;ticas p&#x000fa;blicas para la salud p&#x000fa;blica</part-title><person-group person-group-type="author">
+<collab>OMS</collab>
+</person-group><source>Informe sobre la salud en el mundo 2008: La atenci&#x000f3;n primaria de salud, m&#x000e1;s necesaria que nunca</source><publisher-loc>Suiza</publisher-loc><publisher-name>OMS</publisher-name><year>2008</year><comment>Disponible en:
+<ext-link xlink:href="https://www.paho.org/hq/dmdocuments/2010/APS_Informe_sobre_Salud_en_el_mundo-2008.pdf" ext-link-type="uri">https://www.paho.org/hq/dmdocuments/2010/APS_Informe_sobre_Salud_en_el_mundo-2008.pdf</ext-link>
+</comment></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group><source>Ottawa Charter for Health Promotion</source><publisher-loc>Suiza</publisher-loc><publisher-name>WHO</publisher-name><year>2012</year><comment>Disponible en:
+<ext-link xlink:href="https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion" ext-link-type="uri">https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion</ext-link>
+</comment></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Organizaci&#x000f3;n Panamericana de la Salud</collab>
+</person-group><source>Estrategia y plan de acci&#x000f3;n regional sobre los Adolescentes y J&#x000f3;venes 2010-2018</source><publisher-loc>Washington</publisher-loc><publisher-name>OPS</publisher-name><year>2010</year><comment>Disponible en:
+<ext-link xlink:href="http://new.paho.org/hq/dmdocuments/2011/Estrategia-y-Plan-de-Accion-Regional-sobre-los-Adolescentes-y-Jovenes.pdf" ext-link-type="uri">http://new.paho.org/hq/dmdocuments/2011/Estrategia-y-Plan-de-Accion-Regional-sobre-los-Adolescentes-y-Jovenes.pdf</ext-link>
+</comment></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="website"><person-group person-group-type="author">
+<collab>Organizaci&#x000f3;n Panamericana de la Salud/Organizaci&#x000f3;n Mundial de la Salud</collab>
+</person-group><source>Acerca de Municipios Saludables</source><comment>Disponible en:
+<ext-link xlink:href="https://www3.paho.org/hq/index.php?option=com_content&#x00026;view=article&#x00026;id=10706:about-healthy-municipalities&#x00026;Itemid=820&#x00026;lang=es" ext-link-type="uri">https://www3.paho.org/hq/index.php?option=com_content&#x00026;view=article&#x00026;id=10706:about-healthy-municipalities&#x00026;Itemid=820&#x00026;lang=es</ext-link>
+</comment></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="website"><person-group person-group-type="author">
+<name><surname>Pretell Aguilar</surname><given-names>R</given-names></name>
+</person-group><source>Estado de redes de municipios y comunidades saludables en los pa&#x000ed;ses conformantes de la REDLACPROMSA. Per&#x000fa;</source><year>2017</year><comment>Disponible en:
+<ext-link xlink:href="http://docplayer.es/86768845-Estado-de-redes-de-municipios-y-comunidades-saludables-en-los-paises-conformantes-de-la-redlacpromsa.html" ext-link-type="uri">http://docplayer.es/86768845-Estado-de-redes-de-municipios-y-comunidades-saludables-en-los-paises-conformantes-de-la-redlacpromsa.html</ext-link>
+</comment></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gonz&#x000e1;lez</surname><given-names>V</given-names></name>
+<name><surname>Ruggiero</surname><given-names>MD</given-names></name>
+<name><surname>Mirri</surname><given-names>M</given-names></name>
+<name><surname>Pedemonti</surname><given-names>B</given-names></name>
+<name><surname>Rossi</surname><given-names>M</given-names></name>
+<name><surname>Yomal</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Programa Estaciones Saludables en la Ciudad Aut&#x000f3;noma de Buenos Aires</article-title><source>Rev Argent Salud P&#x000fa;blica</source><year>2016</year><volume>7</volume><issue>26</issue><fpage>26</fpage><lpage>32</lpage><comment>Disponible en:
+<ext-link xlink:href="http://www.rasp.msal.gov.ar/rasp/articulos/volumen26/26-32.pdf" ext-link-type="uri">http://www.rasp.msal.gov.ar/rasp/articulos/volumen26/26-32.pdf</ext-link>
+</comment></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Smith</surname><given-names>J</given-names></name>
+<name><surname>Flowers</surname><given-names>P</given-names></name>
+<name><surname>Larkin</surname><given-names>M</given-names></name>
+</person-group><source>Interpretative Phenomenological Analysis: Theory, Method and Research</source><publisher-loc>London</publisher-loc><publisher-name>Sage</publisher-name><year>2009</year></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rother</surname><given-names>ET</given-names></name>
+</person-group><article-title>Systematic literature review X narrative review</article-title><source>Acta Paul Enferm</source><year>2007</year><volume>20</volume><issue>2</issue><fpage>v</fpage><lpage>vi</lpage><pub-id pub-id-type="doi">10.1590/S0103-21002007000200001</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Saunders</surname><given-names>B</given-names></name>
+<name><surname>Sim</surname><given-names>J</given-names></name>
+<name><surname>Kingstone</surname><given-names>T</given-names></name>
+<name><surname>Baker</surname><given-names>S</given-names></name>
+<name><surname>Waterfield</surname><given-names>J</given-names></name>
+<name><surname>Bartlam</surname><given-names>B</given-names></name>
+<name><surname>Burroughs</surname><given-names>H</given-names></name>
+<name><surname>Jinks</surname><given-names>C</given-names></name>
+</person-group><article-title>Saturation in qualitative research: exploring its conceptualization and operationalization</article-title><source>Qual Quant</source><year>2018</year><volume>52</volume><issue>4</issue><fpage>1893</fpage><lpage>1907</lpage><pub-id pub-id-type="doi">10.1007/s11135-017-0574-8</pub-id><pub-id pub-id-type="pmid">29937585</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Parker</surname><given-names>C</given-names></name>
+<name><surname>Scott</surname><given-names>S</given-names></name>
+<name><surname>Geddes</surname><given-names>A</given-names></name>
+</person-group><part-title>Snowball Sampling</part-title><person-group person-group-type="author">
+<name><surname>Atkinson</surname><given-names>P</given-names></name>
+<name><surname>Delamont</surname><given-names>S</given-names></name>
+<name><surname>Cernat</surname><given-names>A</given-names></name>
+<name><surname>Sakshaug</surname><given-names>WJ</given-names></name>
+<name><surname>Williams</surname><given-names>RA</given-names></name>
+</person-group><source>SAGE Research Methods Foundations</source><year>2019</year><pub-id pub-id-type="doi">10.4135/9781526421036831710</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jefferson</surname><given-names>VW</given-names></name>
+<name><surname>Melkus</surname><given-names>GD</given-names></name>
+<name><surname>Spollett</surname><given-names>GR</given-names></name>
+</person-group><article-title>Health-promotion practices of young black women at risk for diabetes</article-title><source>Diabetes Educ</source><year>2000</year><season>Mar-Apr</season><volume>26</volume><issue>2</issue><fpage>295</fpage><lpage>302</lpage><pub-id pub-id-type="doi">10.1177/014572170002600210</pub-id><pub-id pub-id-type="pmid">10865595</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bernat</surname><given-names>JK</given-names></name>
+<name><surname>Hullmann</surname><given-names>SE</given-names></name>
+<name><surname>Sparks</surname><given-names>GG</given-names></name>
+</person-group><article-title>Communicating breast cancer risk information to young adult women: A pilot study</article-title><source>J Psychosoc Oncol</source><year>2017</year><season>May-Jun</season><volume>35</volume><issue>3</issue><fpage>249</fpage><lpage>259</lpage><pub-id pub-id-type="doi">10.1080/07347332.2016.1277821</pub-id><pub-id pub-id-type="pmid">28060675</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Walsh</surname><given-names>JR</given-names></name>
+<name><surname>White</surname><given-names>AA</given-names></name>
+<name><surname>Kattelmann</surname><given-names>KK</given-names></name>
+</person-group><article-title>Using PRECEDE to develop a weight management program for disadvantaged young adults</article-title><source>J Nutr Educ Behav</source><year>2014</year><season>Mar-Apr</season><volume>46</volume><issue>2</issue><fpage>S1</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.jneb.2013.11.005</pub-id><pub-id pub-id-type="pmid">24456835</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Thomas</surname><given-names>EL</given-names></name>
+<name><surname>Puig Ribera</surname><given-names>A</given-names></name>
+<name><surname>Senye-Mir</surname><given-names>A</given-names></name>
+<name><surname>Eves</surname><given-names>FF</given-names></name>
+</person-group><article-title>Promoting Healthy Choices in Workplace Cafeterias: A Qualitative Study</article-title><source>J Nutr Educ Behav</source><year iso-8601-date="2016-02">2016</year><month>Feb</month><volume>48</volume><issue>2</issue><fpage>138</fpage><lpage>45.e1</lpage><pub-id pub-id-type="doi">10.1016/j.jneb.2015.11.001</pub-id><pub-id pub-id-type="pmid">26706957</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hammerback</surname><given-names>K</given-names></name>
+<name><surname>Hannon</surname><given-names>PA</given-names></name>
+<name><surname>Harris</surname><given-names>JR</given-names></name>
+<name><surname>Clegg-Thorp</surname><given-names>C</given-names></name>
+<name><surname>Kohn</surname><given-names>M</given-names></name>
+<name><surname>Parrish</surname><given-names>A</given-names></name>
+</person-group><article-title>Perspectives on Workplace Health Promotion Among Employees in Low-Wage Industries</article-title><source>Am J Health Promot</source><year>2015</year><season>Jul-Aug</season><volume>29</volume><issue>6</issue><fpage>384</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.4278/ajhp.130924-QUAL-495</pub-id><pub-id pub-id-type="pmid">25162321</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Joseph</surname><given-names>RP</given-names></name>
+<name><surname>Ainsworth</surname><given-names>BE</given-names></name>
+<name><surname>Mathis</surname><given-names>L</given-names></name>
+<name><surname>Hooker</surname><given-names>SP</given-names></name>
+<name><surname>Keller</surname><given-names>C</given-names></name>
+</person-group><article-title>Utility of Social Cognitive Theory in Intervention Design for Promoting Physical Activity among African-American Women: A Qualitative Study</article-title><source>Am J Health Behav</source><year iso-8601-date="2017-09-01">2017</year><month>Sep</month><day>1</day><volume>41</volume><issue>5</issue><fpage>518</fpage><lpage>533</lpage><pub-id pub-id-type="doi">10.5993/AJHB.41.5.1</pub-id><pub-id pub-id-type="pmid">28760174</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Transparencia Presupuestaria</collab>
+</person-group><source>Observatorio del Gasto. Evaluaci&#x000f3;n de indicadores de servicios del Programa Entornos y Comunidades Saludables 2007-2008. Gobierno de M&#x000e9;xico</source><publisher-loc>M&#x000e9;xico</publisher-loc><publisher-name>Transparencia Presupuestaria</publisher-name><year>2009</year><comment>Disponible en:
+<ext-link xlink:href="https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Evaluaciones/CHPF2013/12s037compl09.pdf" ext-link-type="uri">https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Evaluaciones/CHPF2013/12s037compl09.pdf</ext-link>
+</comment></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nour</surname><given-names>M</given-names></name>
+<name><surname>Yeung</surname><given-names>SH</given-names></name>
+<name><surname>Partridge</surname><given-names>S</given-names></name>
+<name><surname>Allman-Farinelli</surname><given-names>M</given-names></name>
+</person-group><article-title>A Narrative Review of Social Media and Game-Based Nutrition Interventions Targeted at Young Adults</article-title><source>J Acad Nutr Diet</source><year iso-8601-date="2017-05">2017</year><month>May</month><volume>117</volume><issue>5</issue><fpage>735</fpage><lpage>752.e10</lpage><pub-id pub-id-type="doi">10.1016/j.jand.2016.12.014</pub-id><pub-id pub-id-type="pmid">28238894</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McIntosh</surname><given-names>JRD</given-names></name>
+<name><surname>Jay</surname><given-names>S</given-names></name>
+<name><surname>Hadden</surname><given-names>N</given-names></name>
+<name><surname>Whittaker</surname><given-names>PJ</given-names></name>
+</person-group><article-title>Do E-health interventions improve physical activity in young people: a systematic review</article-title><source>Public Health</source><year iso-8601-date="2017-07">2017</year><month>Jul</month><volume>148</volume><fpage>140</fpage><lpage>148</lpage><pub-id pub-id-type="doi">10.1016/j.puhe.2017.04.001</pub-id><pub-id pub-id-type="pmid">28482322</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mendis</surname><given-names>K</given-names></name>
+<name><surname>Forster</surname><given-names>T</given-names></name>
+<name><surname>Paxton</surname><given-names>K</given-names></name>
+<name><surname>Hyland</surname><given-names>K</given-names></name>
+<name><surname>Yelverton</surname><given-names>J</given-names></name>
+<name><surname>McLean</surname><given-names>R</given-names></name>
+<name><surname>Canalese</surname><given-names>J</given-names></name>
+<name><surname>Brown</surname><given-names>A</given-names></name>
+<name><surname>Steinbeck</surname><given-names>K</given-names></name>
+</person-group><article-title>Large and forgotten in rural Australia: assessment, attitudes and possible approaches to losing weight in young adult males</article-title><source>BMC Public Health</source><year iso-8601-date="2014-03-11">2014</year><month>Mar</month><day>11</day><volume>14</volume><elocation-id>243</elocation-id><pub-id pub-id-type="doi">10.1186/1471-2458-14-243</pub-id><pub-id pub-id-type="pmid">24612872</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>M&#x000fc;ller</surname><given-names>AM</given-names></name>
+<name><surname>Alley</surname><given-names>S</given-names></name>
+<name><surname>Schoeppe</surname><given-names>S</given-names></name>
+<name><surname>Vandelanotte</surname><given-names>C</given-names></name>
+</person-group><article-title>The effectiveness of e-&#x00026; mHealth interventions to promote physical activity and healthy diets in developing countries: A systematic review</article-title><source>Int J Behav Nutr Phys Act</source><year iso-8601-date="2016-10-10">2016</year><month>Oct</month><day>10</day><volume>13</volume><issue>1</issue><elocation-id>109</elocation-id><pub-id pub-id-type="doi">10.1186/s12966-016-0434-2</pub-id><pub-id pub-id-type="pmid">27724911</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Garc&#x000ed;a-G&#x000f3;mez</surname><given-names>L</given-names></name>
+<name><surname>Sansores</surname><given-names>RH</given-names></name>
+<name><surname>No&#x000e9; D&#x000ed;az</surname><given-names>V</given-names></name>
+<name><surname>Urdapilleta-Herrera</surname><given-names>E</given-names></name>
+<name><surname>Gonz&#x000e1;lez-Rojas</surname><given-names>G</given-names></name>
+<name><surname>P&#x000e9;rez-M&#x000e1;rquez</surname><given-names>LE</given-names></name>
+<name><surname>Ram&#x000ed;rez Venegas</surname><given-names>A</given-names></name>
+</person-group><article-title>Impacto del consejo breve para dejar de fumar</article-title><source>Salud Publica Mex</source><year>2015</year><season>Sep-Oct</season><volume>57</volume><issue>5</issue><fpage>366</fpage><lpage>7</lpage><comment>Spanish</comment><pub-id pub-id-type="pmid">26544996</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Berendsen</surname><given-names>BA</given-names></name>
+<name><surname>Kremers</surname><given-names>SP</given-names></name>
+<name><surname>Savelberg</surname><given-names>HH</given-names></name>
+<name><surname>Schaper</surname><given-names>NC</given-names></name>
+<name><surname>Hendriks</surname><given-names>MR</given-names></name>
+</person-group><article-title>The implementation and sustainability of a combined lifestyle intervention in primary care: mixed method process evaluation</article-title><source>BMC Fam Pract</source><year iso-8601-date="2015-03-17">2015</year><month>Mar</month><day>17</day><volume>16</volume><elocation-id>37</elocation-id><pub-id pub-id-type="doi">10.1186/s12875-015-0254-5</pub-id><pub-id pub-id-type="pmid">25880376</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arnaiz</surname><given-names>MG</given-names></name>
+</person-group><article-title>Alimentaci&#x000f3;n y cultura en Espa&#x000f1;a: una aproximaci&#x000f3;n desde la antropolog&#x000ed;a social</article-title><source>Physis. Revista de Sa&#x000fa;de Coletiva</source><year>2010</year><volume>20</volume><issue>2</issue><fpage>357</fpage><lpage>86</lpage><comment>Disponible en:
+<ext-link xlink:href="http://www.redalyc.org/articulo.oa?id=400838227003" ext-link-type="uri">http://www.redalyc.org/articulo.oa?id=400838227003</ext-link>
+</comment></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Quintiliani</surname><given-names>LM</given-names></name>
+<name><surname>De Jesus</surname><given-names>M</given-names></name>
+<name><surname>Wallington</surname><given-names>SF</given-names></name>
+</person-group><article-title>The impact of student diversity on interest, design, and promotion of Web-based tailored nutrition and physical activity programs for community colleges</article-title><source>J Nutr Educ Behav</source><year>2011</year><season>Sep-Oct</season><volume>43</volume><issue>5</issue><fpage>379</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1016/j.jneb.2010.08.012</pub-id><pub-id pub-id-type="pmid">21621467</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Aceijas</surname><given-names>C</given-names></name>
+<name><surname>Waldh&#x000e4;usl</surname><given-names>S</given-names></name>
+<name><surname>Lambert</surname><given-names>N</given-names></name>
+<name><surname>Cassar</surname><given-names>S</given-names></name>
+<name><surname>Bello-Corassa</surname><given-names>R</given-names></name>
+</person-group><article-title>Determinants of health-related lifestyles among university students</article-title><source>Perspect Public Health</source><year iso-8601-date="2017-07">2017</year><month>Jul</month><volume>137</volume><issue>4</issue><fpage>227</fpage><lpage>236</lpage><pub-id pub-id-type="doi">10.1177/1757913916666875</pub-id><pub-id pub-id-type="pmid">27597797</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,522 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell J</journal-id><journal-id journal-id-type="iso-abbrev">Cell J</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>Cell Journal (Yakhteh)</journal-title></journal-title-group><issn pub-type="ppub">2228-5806</issn><issn pub-type="epub">2228-5814</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36043404</article-id><article-id pub-id-type="pmc">PMC9428477</article-id><article-id pub-id-type="other">Cell-J-24-364</article-id><article-id pub-id-type="doi">10.22074/cellj.2022.7922</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject><subj-group><subject>Biophysics</subject><subject>Cellular and Molecular Biology</subject></subj-group></subj-group></article-categories><title-group><article-title>Extremely Low Frequency Magnetic Fields Induce <italic>mTOR</italic> and
+<italic>Hsa_Circ_100338</italic> Expression Changes in Gastric Cancer
+and Normal Fibroblast Cell Lines </article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Mansoury</surname><given-names>Fereshteh</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Babaei</surname><given-names>Nahid</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Abdi</surname><given-names>Soheila</given-names></name><degrees>Ph.D</degrees><xref rid="A2" ref-type="aff">2</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Entezari</surname><given-names>Maliheh</given-names></name><degrees>Ph.D</degrees><xref rid="A3" ref-type="aff">3</xref><xref rid="A4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Doosti</surname><given-names>Abbas</given-names></name><degrees>Ph.D</degrees><xref rid="A5" ref-type="aff">5</xref></contrib><aff id="A1"><label>1</label>Department of Cell Biology and Genetics, Bushehr Branch, Islamic Azad University, Bushehr, Iran</aff><aff id="A2"><label>2</label>Department of Physics, Safadasht Branch, Islamic Azad University, Tehran, Iran</aff><aff id="A3"><label>3</label>Department of Genetics, Faculty of Advanced Science and Technology, Tehran Medical Sciences Branch, Islamic Azad University,
+Tehran, Iran</aff><aff id="A4"><label>4</label>Farhikhtegan Medical Convergence, Science Research Center, Farhikhtegan Hospital, Tehran Medical Sciences, Islamic Azad
+University, Tehran, Iran</aff><aff id="A5"><label>5</label>Biotechnology Research Center, Shahrekord Branch, Islamic Azad University, Shahrekord, Iran</aff></contrib-group><author-notes><corresp id="cor1">
+<label>* Corresponding Address:</label>
+<addr-line>P.O.Box: 3164348658</addr-line>
+<addr-line>Department of Physics</addr-line>
+<addr-line>Safadasht Branch</addr-line>
+<institution>Islamic Azad University</institution>
+<addr-line>Tehran</addr-line><country>Iran</country>
+Email: <email>soheilaabdi@safaiau.ac.ir</email>
+</corresp></author-notes><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>27</day><month>7</month><year>2022</year></pub-date><volume>24</volume><issue>7</issue><fpage>364</fpage><lpage>369</lpage><history><date date-type="received"><day>29</day><month>12</month><year>2020</year></date><date date-type="accepted"><day>24</day><month>5</month><year>2021</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium,
+with the exception of commercial purposes, is permitted provided the original work is properly cited.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0) License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original
+work is properly cited. </license-p></license></permissions><abstract><sec><title>Objective</title><p> Extremely low-frequency magnetic field (ELF-MF) exposure, as a targeted tumor therapy, presents several
+potential advantages. In this research, we investigated effects of different ELF-MF intensities on cell viability and
+expression levels of the mammalian target of rapamycin (mTOR) and hsa_circ_100338 in the normal fibroblast (Hu02)
+and human gastric adenocarcinoma (AGS) cell lines.
+</p></sec><sec><title>Materials and Methods</title><p>In this experimental study, cell lines of AGS and Hu02, were cultured under the exposure of ELF-
+MF with magnetic flux densities (MFDs) of 0.25, 0.5, 1 and 2 millitesla (mT) for 18 hours. The 3-(4, 5-dimethylthiazoyl-2-
+yl)-2, 5-diphenyltetrazolium bromide (MTT) assay was used to evaluate the cell viability. Relative expression of mTOR
+and hsa_circ_100338 RNAs was estimated by quantitative real-time polymerase chain reaction (qRT-PCR) technique.</p></sec><sec><title>Results</title><p> Viability of the normal cells was significantly increased at MFDs of 0.5, 1 and 2 mT, while viability of the
+tumor cells was significantly decreased at MFD of 0.25 and increased at MFD of 2 mT. Expression level of mTOR was
+significantly increased at the all applied MFDs in the normal cells, while it was significantly decreased at MFDs of 0.25
+and 0.5mT in the tumor cells. MFDs of 1 and 2 mT in tumor cells inversely led to the increase in mTOR expression.
+hsa_circ_100338 was downregulated in MFD of 0.25 mT and then it was increased parallel to the increase of MFD in
+the normal and tumor cells.
+</p></sec><sec><title>Conclusion</title><p>Results of the present study indicated that ELF-MF at MFDs of 0.25 and 0.5 mT can lead to decrease
+in the both mTOR and hsa_circ_100338 expression levels. Given the role of mTOR in cell growth, proliferation and
+differentiation, in addition to the potential role of hsa_circ_100338 in metastasis, expression inhibition of these two
+genes could be a therapeutic target in cancer treatment.</p></sec></abstract><kwd-group><kwd>Circulating MicroRNA</kwd><kwd>Gastric Cancer</kwd><kwd>Gene Expression</kwd><kwd>Magnetic Field</kwd><kwd>mTOR Protein</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Mansoury F, Babaei N, Abdi S, Entezari M, Doosti A. Extremely low frequency magnetic fields induce mTOR and Hsa_Circ_100338 expression
+changes in gastric cancer and normal fibroblast cell lines. Cell J. 2022; 24(7): 364-369. doi: 10.22074/cellj.2022.7922.
+This open-access article has been published under the terms of the Creative Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0).</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Today, due to the increasing presence of
+electromagnetic fields in daily life, its effects on health
+have received much attention. It has been found that
+magnetic fields can affect living systems, but their
+beneficial or harmful effects have not been fully
+investigated (<xref rid="B1" ref-type="bibr">1</xref>). Association of electromagnetic fields
+with risk of various cancers, including postmenopausal
+breast cancer (<xref rid="B2" ref-type="bibr">2</xref>), childhood leukemia (<xref rid="B3" ref-type="bibr">3</xref>) and lung
+cancer (<xref rid="B4" ref-type="bibr">4</xref>) has been demonstrated by some studies.
+It has been found that electromagnetic fields affects
+a variety of physiological processes (<xref rid="B5" ref-type="bibr">5</xref>), while such
+effects depend on extremely low-frequency magnetic
+field (ELF-MF) frequency and duration (<xref rid="B6" ref-type="bibr">6</xref>).</p><p>Plasma membrane structure, intracellular signal
+transduction pathways and gene transcription could
+be changed following the exposure of electromagnetic
+fields (<xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B8" ref-type="bibr">8</xref>).</p><p>Applying the electromagnetic field as a non-invasive
+technique was used in the oncology field to treat cancer
+cells. In EMF therapy micro-currents are exposed locally
+to the specific tissue or the entire body. ELF-MF is used
+for the treatment of several diseases like Parkinson disease
+(<xref rid="B9" ref-type="bibr">9</xref>). EMF therapy, in the wave range of 0-300 Hz can help
+reduce dosage, harmful side-effects of chemotherapy
+and radiotherapy, further to enhancing prognosis of the
+disease (<xref rid="B10" ref-type="bibr">10</xref>).</p><p>During the last few years, the mammalian target of rapamycin (<italic>mTOR</italic>) has
+received significant attention for its importance in treating cancer. <italic>mTOR</italic>
+plays an important role in cancer cell growth through affecting the activity of elF4F
+complex. This enzyme increases translation by phosphorylating two targets of ribosomal p70S6
+kinase (S6K1) and initiation factor 4E binding protein 1 (4E-BP1) (<xref rid="B11" ref-type="bibr">11</xref>). Stimulating
+expression of the membrane surface carriers is one of the most important roles of
+<italic>mTOR</italic> in the body, leading to the increase access to nutrients for cell
+growth and proliferation (<xref rid="B12" ref-type="bibr">12</xref>). Moreover, <italic>mTOR</italic> also enhances expression of
+hypoxia-inducible factor-1&#x003b1; (HIF1&#x003b1;), which plays a key role in angiogenesis. Therefore,
+mutations in the upstream components of the <italic>mTOR</italic> pathway are implicated in
+cancer progression (<xref rid="B13" ref-type="bibr">13</xref>). Some studies indicated that <italic>mTOR</italic> dysfunction is
+applied as a therapeutic target in gastric cancer (GC). Additionally, increased
+<italic>mTOR</italic> activity is directly related to tumor progression and low patient
+survival (<xref rid="B14" ref-type="bibr">14</xref>).</p><p>Circular RNAs (circRNAs) are non-coding RNAs with stable structure and tissue-specific
+expression (<xref rid="B15" ref-type="bibr">15</xref>). Unlike other RNAs, circRNAs are resistant to degradation and they are
+highly ubiquitous in the transcriptome of eukaryotes (<xref rid="B16" ref-type="bibr">16</xref>). Some studies have shown that
+circRNAs can act as microRNA (miRNA) sponges, regulators of splicing and transcription, as
+well as altering gene expression (<xref rid="B15" ref-type="bibr">15</xref>). Changes in circRNA expression could induce abnormal
+cellular functions and various diseases including cardiovascular diseases and various
+cancers (<xref rid="B17" ref-type="bibr">17</xref>, <xref rid="B18" ref-type="bibr">18</xref>). A recent study showed the clinical significance of
+<italic>hsa_circRNA_100338 </italic>in hepatocellular carcinoma (HCC) and suggested that
+this circRNA could be a potential biomarker for HCC. The report also revealed that
+<italic>hsa_circRNA_100338 </italic>could act as a sponge for miR-141-3p and increase
+potential of the liver cancer cells to metastases (<xref rid="B19" ref-type="bibr">19</xref>). Although some studies were done to
+provide <italic>hsa_circRNA_100338 </italic>as a biomarker of cancer cells, there is no
+evidence to assay the expression level of <italic>hsa_circRNA_100338 </italic>on GC cells at
+different electromagnetic flux densities.</p><p>The aim of this study was to investigate effect of magnetic flux densities (MFDs) of 0.25,
+0.5, 1 and 2 millitesla (mT) on the expression level of <italic>mTOR</italic> and
+<italic>hsa_circRNA_100338 </italic>in a human gastric cancer cell line (AGS) and human
+normal fibroblast (Hu02) cells after 18 hours.</p></sec><sec sec-type="materials-methods"><title>Materials and Methods</title><p>In this experimental research, expression levels of <italic>mTOR</italic> and
+<italic>hsa_circ_100338</italic> were determined in AGS cell line, as tumor cell and Hu02
+cell line, as normal cells, following the exposure to MFDs of 0.25, 0.5, 1 and 2 mT in
+comparison to the unexposed cells.</p><p>This study was approved by the Ethics Committee of
+Bushehr University of Medical Sciences (IR.BPUMS.
+REC.1339.180).</p><sec><title>Cell culture </title><p>Human gastric adenocarcinoma (AGS) and human
+normal fibroblast (Hu02) cell lines were purchased from
+the National Genetic Resources Center of Iran, and then
+according to their instructions, the cells were seeded
+monolayer in the 25 ml flasks. AGS cells were cultured
+in Ham&#x02019;s F12 (Gibco, USA) medium as described in the
+previous study (<xref rid="B20" ref-type="bibr">20</xref>). The cells were exposed to ELF-MF
+with MFDs of 0.25, 0.5, 1 and 2 mT continuously for 18
+hours.</p></sec><sec><title>Exposure system</title><p>Electromagnetic fields were produced by the system consisted of a solenoid cylinder of
+diameter 12 cm, length 30 cm and 1200 turns (<xref rid="B21" ref-type="bibr">21</xref>). To produce various electromagnetic
+intensities with a frequency of 50 Hz, an alternative current power supply (TDGC2, 220v,
+50- 60 Hz; Delta International Electric, China) was applied. The electromagnetic field
+generated inside the solenoid is uniform and in the direction of the cylindrical axis. The
+solenoid cylinder was placed horizontally at the center of the CO<sub>2</sub> incubator
+and flasks of cells were placed in the middle of the cylinder. The sham groups were
+incubated at the same condition inside the solenoid cylinder, while the circuit was
+interrupted. A digital teslameter with a 3&#x02010;D sensor (Holaday, USA) was used to estimate
+the electromagnetic flux density at the middle of the solenoid cylinder.</p></sec><sec><title>MTT assay</title><p>The cell viability was determined by the 3-(<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B5" ref-type="bibr">5</xref>-dimethylthiazoyl-2-yl)-2,
+5-diphenyltetrazolium bromide (MTT) assay. For this purpose, the medium was removed from
+the cultured cells in the 96 well plates. Then, the MTT solution was added to each well
+after which the plate was incubated for 4 hours at 37&#x000b0;C with 5% CO<sub>2</sub> . After
+removing supernatant, 100 &#x003bc;l Dimethylsulfoxide (DMSO) was added to each well and shaken
+well to dissolve all formazan crystals. Finally, the absorption was measured at 570 nm by
+a microplate reader (Synegry HT, USA). </p></sec><sec><title>RNA extraction, cDNA synthesis and real-timepolymerase chain reaction</title><p>To measure expression changes of <italic>mTOR</italic> and
+<italic>hsa_circRNA_100338</italic>, real-time PCR (qRT-PCR) was used. Briefly, total
+RNA was extracted by using TRIzol reagent (TRI Sigma-Aldrich, Germany) according to the
+manufacturer&#x02019;s instruction. Takara RNA PCR Kit was used to synthesize cDNA. Quantitative
+real-time PCR (qRTPCR) was performed by Bioneer Exicycler&#x02122; 96 Detection System. Detail of
+the PCR steps have been described in our previous studies (<xref rid="B20" ref-type="bibr">20</xref>, <xref rid="B22" ref-type="bibr">22</xref>). The primer sequences
+are listed in Table 1.</p><p>Delta threshold cycle value (&#x00394;Ct) was measured for each sample to determine the relative
+expression of genes to the housekeeping gene and then the delta delta threshold cycle
+value (&#x00394;&#x00394;Ct) which is the difference between &#x00394;Ct of the exposed tumor or normal cells and
+control group was determined. Fold changes of gene and miRs expression was calculated by
+2<sup>&#x02212;&#x00394;&#x00394;Ct</sup> formula. </p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>The sequences of <italic>GAPDH, mTOR</italic>, and <italic>hsa _circ_100338</italic> primers used
+in the current study</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="2" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Genes</th><th rowspan="1" colspan="1">Primer sequences (5&#x02032;-3&#x02032;)</th></tr><tr><th colspan="2" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="2" colspan="1">hsa_circ_100338</td><td rowspan="1" colspan="1">F: AAAAGCAAGCAGTGCCCATA</td></tr><tr><td rowspan="1" colspan="1">R: GCTCGAATCAGGTCCACCA</td></tr><tr><td align="left" rowspan="2" colspan="1">mTOR</td><td rowspan="1" colspan="1">F: AGCATCGGATGCTTAGGAGTGG </td></tr><tr><td rowspan="1" colspan="1">R: CAGCCAGTCATCTTTGGAGACC </td></tr><tr><td align="left" rowspan="2" colspan="1">GAPDH</td><td rowspan="1" colspan="1">F: GCACCGTCAAGGCTGAGAAC</td></tr><tr><td rowspan="1" colspan="1">R: GGATCTCGCTCCTGGAAGATG</td></tr><tr><th colspan="2" rowspan="1">
+<hr/>
+</th></tr></tbody></table></table-wrap></sec><sec><title>Statistical analysis</title><p>SPSS software version 25 was used to analysis the data.
+The results were shown as mean &#x000b1; standard deviation
+(mean &#x000b1; SD). To compare significant differences among
+the groups, one-way and two-way analyses of variance
+and Tukey Post hoc test were used. The level of probability
+for the significant differences among the groups was
+considered as P&#x0003c;0.05.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Cell viability measurement</title><p>ELF-MF with MFD of 0.25 mT did not affect cell
+viability of the normal cells while exposure to MFDs
+of 0.5, 1 and 2 mT lead to a significant increase in cell
+viability (P&#x0003c;0.0001).</p><p>Exposure of tumor cells to 0.25 mT MFD led to a
+significant decrease in cell viability, but the cell viability
+was increased in parallel with the increase of MFD and
+this increase was significant at MFD of 2 mT (<xref rid="F1" ref-type="fig">Fig .1</xref>).
+Sidak analysis showed a significant decrease in tumor
+cells in comparison with normal cells in terms of viability
+at MFDs of 0.25 (P=0.02), 0.5 (P&#x0003c;0.0001), 1 (P&#x0003c;0.0001),
+and 2 mT (P&#x0003c;0.0001, <xref rid="F1" ref-type="fig">Fig .1</xref>).</p><fig position="float" id="F1"><label>Fig 1</label><caption><p>Mean viability percentage of the normal cells and tumor cells,
+following the exposure to continuous MFDs of 0.25, 0.5, 1 and 2 mT for
+18 hours in comparison to the unexposed cells. *; P&#x0003c;0.05, ***; P&#x0003c;0.001,
+MFDs; Magnetic flux densities, and ns; Non significant. </p></caption><graphic xlink:href="Cell-J-24-364-g01" position="float"/></fig></sec><sec><title>Relative expression of <italic>mTOR</italic>
+</title><p>Expression level of the <italic>mTOR</italic> gene in the normal cells exposed to
+different intensities of ELF-MF was significantly higher than that of the unexposed normal
+cells (P&#x0003c;0.001). The highest and lowest expression level of this gene was observed
+at 2 mT and 0.5 mT respectively (<xref rid="F2" ref-type="fig">Fig .2A</xref>). However, pattern of <italic>mTOR</italic>
+expression level in tumor cells was different from that in normal cells. By that means the
+expression level of the gene in exposed tumor cells at MFDs of 0.25 mT and 0.5 mT was
+downregulated and at MFDs of 1 and 2 mT was upregulated compared to unexposed tumor cells
+(<xref rid="F2" ref-type="fig">Fig .2B</xref>). Expression level of the <italic>mTOR</italic> gene in the exposed and unexposed
+tumor cells, as well as the exposed and unexposed normal cells, was analyzed using the
+sidak test. As evident from the data shown in Figure 2C, the unexposed tumor cells showed
+no significant difference compared to unexposed normal cells concerning the relative
+expression of <italic>mTOR</italic> mRNA (P&#x0003e;0.05). However, relative expression of mTOR
+mRNA was significantly downregulated in the exposed tumor cells at MFDs of 0.25
+(P&#x0003c;0.0001, 0.03 FC), 0.5 (P&#x0003c;0.0001, 0.05 FC), 1 (P&#x0003c;0.0001, 0.38 FC)
+and 2 (P=0.003, 0.68 FC) mT in comparison with the exposed normal cells (<xref rid="F2" ref-type="fig">Fig .2C</xref>).</p><fig position="float" id="F2"><label>Fig 2</label><caption><p>Comparison of <italic>mTOR</italic> expression levels in normal and tumor cells in different
+MFDs. mRNA expression level of <italic>mTOR</italic> in the <bold>A.</bold> Exposed
+normal and <bold>B. </bold>Gastric tumor cells at various MFDs. <bold>C.</bold>
+Comparison of the mRNA expression level of <italic>mTOR</italic> in the exposed,
+unexposed normal and tumor cells. Different letters on each column show statistically
+significant difference, and the same letters on each column has no difference. ***;
+P&#x0003c;0.001 and MFD; Magnetic flux densities.</p></caption><graphic xlink:href="Cell-J-24-364-g02" position="float"/></fig></sec><sec><title>Relative expression of <italic>hsa_circ_100338</italic></title><p>Expression level of <italic>hsa_circ_100338</italic> in the exposed normal cells
+significantly down regulated at MFD of 0.25 mT (0.18 FC, P=0.0005) compared to the
+unexposed normal cells. At the other intensities, no significant change was observed
+(<xref rid="F3" ref-type="fig">Fig .3A</xref>). However, relative expression of <italic>mTOR</italic> mRNA was significantly
+down-regulated in the exposed tumor cells at MFDs of 0.25 (0.002 FC, P&#x0003c;0.0001), 0.5
+(0.013 FC, P&#x0003c;0.0001), 1 (0.19 FC, P=0.0016) and 2 mT (0.31 FC, P=0.017) in
+comparison with the unexposed tumor cells (<xref rid="F3" ref-type="fig">Fig .3B</xref>). Sidak test was used to analyze
+expression level of the <italic>hsa_circ _100338</italic> in the all groups of tumor and
+normal cells. As shown in Figure 3C, the obtained data showed no significant difference
+between the unexposed tumor cells and unexposed normal cells. Concerning the expression
+level of <italic>has-circ-0005986</italic> (P&#x0003e;0.05). However, expression level of the
+<italic>hsa _circ_100338</italic> was significantly increased in the exposed tumor cells
+at MFDs of 0.25 (P&#x0003c;0.0001, 0.013 FC), 0.5 (0.024 FC, P&#x0003c;0.0001), 1 (0.16 FC,
+P&#x0003c;0.0001) and 2 (0.22 FC, P&#x0003c;0.0001) mT.</p><fig position="float" id="F3"><label>Fig 3</label><caption><p>Comparison of <italic>hsa_circ_100338</italic> expression levels in normal and tumor cells in
+different MFDs. Relative expression level of <italic>hsa_ circ_100338</italic> in the
+<bold>A. </bold>Tumor and <bold>B.</bold> Normal cells with different MFDs.<bold> C.
+</bold>Comparison of mRNA expression level of <italic>hsa_circ_100338</italic> in the
+exposed and unexposed normal cells with tumor cells. Different letters on each column
+show statistically significant differences, the columns having common letters show
+statistically no significant difference. ***; P&#x0003c;0.001, ns; Non significant, and
+MFDs; Magnetic flux densities.</p></caption><graphic xlink:href="Cell-J-24-364-g03" position="float"/></fig></sec><sec><title>Correlation analysis</title><p>A significant positive correlation (r=0.799, 95% CI=0.4866 to 0.9306, P=0.0003) was
+observed between expression level of the <italic>hsa_circ_100338</italic> and
+<italic>(mTOR) </italic>genes in the tumor cells exposed to extremely low frequency
+magnetic fields (ELF-MF). As shown in Figure 4, no significant correlation was observed
+between expression level of the <italic>hsa_circ_100338</italic> and mTOR genes in the
+normal cells exposed to ELF-MF (P=0.540).</p><fig position="float" id="F4"><label>Fig 4</label><caption><p>Correlation analysis between <italic>mTOR</italic> and <italic>hsa_circ_100338</italic> gene
+expressions in <bold>A.</bold> Normal cells and <bold>B. </bold>Gastric cancer cell
+lines exposed to extremely low frequency magnetic fields (ELF-MF).</p></caption><graphic xlink:href="Cell-J-24-364-g04" position="float"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>In the present study, effects of ELF-MF with MFDs of 0.25, 0.5, 1; and 2mT on AGS and Hu02
+cell lines were investigated. Our finding indicated that ELF-MF can affect the cell
+viability and change the expression levels of <italic>mTOR</italic> and
+<italic>hsa_circRNA_100338 </italic>in the both tumor and normal cells. Expression levels
+of <italic>mTOR</italic> were significantly increased at all applied MFDs in the normal
+cells while it was significantly decreased at MFDs of 0.25 and 0.5 mT in tumor cells. MFDs
+of 1 and 2 mT in tumor cells inversely lead to the increase in <italic>mTOR</italic>
+expression. <italic>Hsa_circ_100338</italic> was down-regulated in MFD of 0.25 mT and then
+was increased parallel to the increase in MFD in normal and tumor cells. </p><p>Interaction of ELF-MF with living organisms could induce different biological effects that
+depend on the type, MFD, frequency and time of exposure (<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B23" ref-type="bibr">23</xref>). There are some studies that
+indicated antitumor effect of EMFs (<xref rid="B24" ref-type="bibr">24</xref>). Release of intracellular proteases that alter the
+integrity of cancer cell membrane was reported in A549 human lung cancer cells exposed to 50
+and 385 Hz electromagnetic fields (<xref rid="B25" ref-type="bibr">25</xref>). Decreased growth of breast cancer tumor cells under
+the influence of magnetic fields has been reported (<xref rid="B26" ref-type="bibr">26</xref>). These cytotoxic effects have been
+attributed to changes in plasma membrane properties, impaired Ca<sup>+2</sup> penetration
+(<xref rid="B27" ref-type="bibr">27</xref>) and changes in cytoskeletal structure (<xref rid="B28" ref-type="bibr">28</xref>). In the present study, cytotoxic effects of
+the ELF-MF with MFD of 0.25 mT on gastric cancer cells were observed. However, some
+conflicting researches have been reported in this regard. Some researchers reported inducing
+effects of cell proliferation (<xref rid="B29" ref-type="bibr">29</xref>, <xref rid="B30" ref-type="bibr">30</xref>) and the others demonstrated cytotoxic effects of EMFs
+(<xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B32" ref-type="bibr">32</xref>). Different results of magnetic fields in this study can be explained by EMFs window
+effects hypothesis. The window effect is a biological response that only occurs at certain
+criteria of the frequency, amplitude, intensity and time of exposure, while outside of these
+criteria, the biological system does not respond to EMFs (<xref rid="B33" ref-type="bibr">33</xref>). The intensities of 0.5-2 mT
+showed no decrease in cell viability of tumor cells but a relative increase in it, which
+indicate the anti-apoptotic effects of ELF-MF (<xref rid="B34" ref-type="bibr">34</xref>). It was shown that ELF-MF protected
+cancer cells from apoptosis due to heat shock (<xref rid="B35" ref-type="bibr">35</xref>). It was demonstrated that
+<italic>PI3K/AKT/mTOR</italic> pathway activation in GC could impair cell growth and
+proliferation as well as, metabolism and angiogenesis (<xref rid="B14" ref-type="bibr">14</xref>). In this study, it was shown that
+<italic>mTOR</italic> gene was overexpressed in the GC cell lines at 2 mT ELF-MF, but at
+MFDs of 0.25 and 0.5 mT, this gene was down-regulated in comparison with the unexposed GC
+cell lines. Phosphorylation of Ser2448 <italic>mTOR</italic> enzyme activates eukaryotic
+initiation factor 4E (elF4E) and ribosomal S6 kinase p70 (p70S6 kinase 1) and inactivates
+eIF4E inhibitor 4E-BO.1. In other words, overexpression of the <italic>mTOR</italic> gene
+upregulated expression level of cell growth and cell division mediators including cyclin D1,
+and down-regulated expression level of cell cycle progression regulators (<xref rid="B36" ref-type="bibr">36</xref>). Therefore,
+MFDs of 0.25 and 0.5 mT, which caused a sharp decrease in <italic>mTOR</italic> expression
+level of GC cell lines, can be considered as a treatment for gastric cancer. </p><p>Moreover, according to the results, expression level of <italic>hsa_circ_100338</italic> in
+AGS cell lines showed significant differences at different MFDs and this led to the
+downregulation of <italic>hsa_circ_100338 </italic>expression level in an
+intensity-dependent manner. So that, the lowest expression level of
+<italic>hsa_circ_100338</italic> was seen at 0.25 mT ELF-MF. Nevertheless, by increasing,
+MFD of the electromagnetic field, its expression level was also increased. Few studies have
+been performed to determine the role of circRNAs in cancer. Our results suggested that
+<italic>hsa_circ_100338 </italic>could be a good biomarker for diagnosis of gastric
+cancer. The biomarker role of <italic>hsa_circ_100338</italic> has been reported in HCC. It
+has been shown that <italic>hsa_circ_100338</italic> acted as a miR-141-3p sponge in HCC
+tissue (<xref rid="B19" ref-type="bibr">19</xref>). The other study revealed that circRNA-100338 was involved in regulation of
+angiogenesis and HCC metastasis (<xref rid="B37" ref-type="bibr">37</xref>). In the current study, therefore,
+<italic>hsa_circ_100338</italic> in AGS cells may also interact with miRNAs.
+Downregulation of <italic>hsa_circ_100338</italic> expression level was observed in AGS
+cells exposed to MFD of 0.25 mT. </p><p><italic>Hsa_circ_100338 </italic>expression level had positive correlation with
+<italic>mTOR</italic> in the tumor cells following exposure of ELF-MF, whereas the normal
+cells treatment with ELF-MF showed no significant correlation. A study showed that
+<italic>hsa_circ_100338</italic> regulated protein kinase activity of
+<italic>mTOR</italic> in HCC patients and operated as a key regulator in promoting the
+<italic>mTOR</italic> signaling pathway. The study indicated that not only gene expression
+level of <italic>hsa_ circ_100338</italic> was increased in HCC cells compared to the normal
+cells, but also knockdown of <italic>hsa_circ_100338</italic> gene affected cell
+proliferation ability (<xref rid="B37" ref-type="bibr">37</xref>).</p><p>ELF-EMFs can alter gene expression by several mechanisms, including alteration of cell
+membrane channels like calcium channels (<xref rid="B38" ref-type="bibr">38</xref>), increase in free radicals formation and
+stability (<xref rid="B39" ref-type="bibr">39</xref>), in addition to direct interaction with DNA (<xref rid="B40" ref-type="bibr">40</xref>). Overall, decrease of
+<italic>mTOR</italic> and <italic>hsa_circ_100338</italic> expressions as well as cell
+viability decrease in tumor cells, following the exposure to MFD of 0.25 mT in this study,
+indicated that this MFD had the most beneficial effects and it can be considered as an
+adjutant therapeutic method in cancer treatment.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Results of the present study indicated that ELF-MF at MFDs of 0.25 and 0.5 mT can
+down-regulated both <italic>mTOR</italic> and <italic>hsa_circ_100338</italic> expressions.
+Given the role of <italic>mTOR</italic> in cell growth, proliferation, differentiation and
+the potential role of <italic>hsa_circ_100338</italic> in metastasis, the expression
+inhibition of these two genes could be a therapeutic target in cancer treatment. However,
+more in vitro and <italic>in vivo</italic> researches are needed to find suitable MFD and
+exposure protocols to suppress and control cancer cell with fewer side-effects. </p></sec></body><back><ack><title>Acknowledgements</title><p>This research project was approved by the Bushehr
+Branch of Islamic Azad University with the code number
+1464865796403321398120546. The authors would like
+to thank Ms. Hadiseh Mohammadpour and Ms. Neda
+Tekiyemaroof, from Cancer Institute, Tehran University
+of Medical Sciences and Razi Drug Research Center of
+Iran University of Medical Sciences (Tehran, Iran). There
+is no conflict of interest in this study.</p></ack><bio id="d64e655"><title>Authors&#x02019; Contributions</title><p>S.A.; Was the designer of the project and responsible for
+overall supervision. N.B.; Was involved in experimental
+studies and data analysis. F.M.; Carried out all
+experimental works, including primer design, cell culture, qRT-PCR, and data analysis. M.E., A.D.; Were involved
+in experimental studies and drafting the manuscript. The
+authors have read and approved the final manuscript.</p></bio><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abdi</surname><given-names>S</given-names></name>
+<name><surname>Dorranian</surname><given-names>D</given-names></name>
+<name><surname>Razavi</surname><given-names>AE</given-names></name>
+<name><surname>Naderi</surname><given-names>GA</given-names></name>
+<name><surname>Boshtam</surname><given-names>M</given-names></name>
+<name><surname>Ghorannevis</surname><given-names>M</given-names></name>
+</person-group><article-title>Evaluation of the effects of weak and moderate static magnetic fields on the characteristics of human low density lipoprotein in vitro</article-title><source>Bioelectromagnetics</source><year>2013</year><volume>34</volume><issue>5</issue><fpage>397</fpage><lpage>404</lpage><pub-id pub-id-type="pmid">23361580</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Labreche</surname><given-names>F</given-names></name>
+<name><surname>Goldberg</surname><given-names>MS</given-names></name>
+<name><surname>Valois</surname><given-names>MF</given-names></name>
+<name><surname>Nadon</surname><given-names>L</given-names></name>
+<name><surname>Richardson</surname><given-names>L</given-names></name>
+<name><surname>Lakhani</surname><given-names>R</given-names></name>
+<etal/>
+</person-group><article-title>Occupational exposures to extremely low frequency magnetic fields and postmenopausal breast cancer</article-title><source>Am J Ind Med</source><year>2003</year><volume>44</volume><issue>6</issue><fpage>643</fpage><lpage>652</lpage><pub-id pub-id-type="pmid">14635241</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sch&#x000fc;z</surname><given-names>J</given-names></name>
+<name><surname>Ahlbom</surname><given-names>A</given-names></name>
+</person-group><article-title>Exposure to electromagnetic fields and the risk of childhood leukaemia: a review</article-title><source>Radiat Prot Dosim</source><year>2008</year><volume>132</volume><issue>2</issue><fpage>202</fpage><lpage>211</lpage></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Yao</surname><given-names>A</given-names></name>
+<name><surname>Xu</surname><given-names>Z</given-names></name>
+<name><surname>Dou</surname><given-names>H</given-names></name>
+<name><surname>Shen</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>Low frequency magnetic fields induce autophagy-associated cell death in lung cancer through miR-486-mediated inhibition of Akt/mTOR signaling pathway</article-title><source>Sci Rep</source><year>2017</year><volume>7</volume><issue>1</issue><fpage>1</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">28127051</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Saliev</surname><given-names>T</given-names></name>
+<name><surname>Begimbetova</surname><given-names>D</given-names></name>
+<name><surname>Masoud</surname><given-names>AR</given-names></name>
+<name><surname>Matkarimov</surname><given-names>B</given-names></name>
+</person-group><article-title>Biological effects of non-ionizing electromagnetic fields: two sides of a coin</article-title><source>Prog Biophys Mol Biol</source><year>2019</year><volume>141</volume><fpage>25</fpage><lpage>36</lpage><pub-id pub-id-type="pmid">30030071</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abdi</surname><given-names>S</given-names></name>
+<name><surname>Dorranian</surname><given-names>D</given-names></name>
+<name><surname>Naderi</surname><given-names>GA</given-names></name>
+<name><surname>Razavi</surname><given-names>AE</given-names></name>
+</person-group><article-title>Changes in physicochemical charachteristics of human low density lipoprotein nanoparticles by electromagnetic field exposure</article-title><source>Stud U Babes-Bol Che</source><year>2016</year><volume>61</volume><issue>1</issue><fpage>185</fpage><lpage>197</lpage></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Grassi</surname><given-names>C</given-names></name>
+<name><surname>D&#x02019;Ascenzo</surname><given-names>M</given-names></name>
+<name><surname>Torsello</surname><given-names>A</given-names></name>
+<name><surname>Martinotti</surname><given-names>G</given-names></name>
+<name><surname>Wolf</surname><given-names>F</given-names></name>
+<name><surname>Cittadini</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Effects of 50 Hz electromagnetic fields on voltage-gated Ca2+ channels and their role in modulation of neuroendocrine cell proliferation and death</article-title><source>Cell Calcium</source><year>2004</year><volume>35</volume><issue>4</issue><fpage>307</fpage><lpage>315</lpage><pub-id pub-id-type="pmid">15036948</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Phillips</surname><given-names>JL</given-names></name>
+</person-group><article-title>Effects of electromagnetic field exposure on gene transcription</article-title><source>J Cell Biochem</source><year>1993</year><volume>51</volume><issue>4</issue><fpage>381</fpage><lpage>386</lpage><pub-id pub-id-type="pmid">8496241</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vadala</surname><given-names>M</given-names></name>
+<name><surname>Vallelunga</surname><given-names>A</given-names></name>
+<name><surname>Palmieri</surname><given-names>L</given-names></name>
+<name><surname>Palmieri</surname><given-names>B</given-names></name>
+<name><surname>Morales-Medina J</surname><given-names>C</given-names></name>
+<name><surname>Iannitti</surname><given-names>T</given-names></name>
+</person-group><article-title>Mechanisms and therapeutic applications of electromagnetic therapy in Parkinson&#x02019;s disease</article-title><source>Behav Brain Funct</source><year>2015</year><volume>11</volume><fpage>26</fpage><lpage>26</lpage><pub-id pub-id-type="pmid">26347217</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Crocetti</surname><given-names>S</given-names></name>
+<name><surname>Beyer</surname><given-names>C</given-names></name>
+<name><surname>Schade</surname><given-names>G</given-names></name>
+<name><surname>Egli</surname><given-names>M</given-names></name>
+<name><surname>Frohlich</surname><given-names>J</given-names></name>
+<name><surname>Franco-Obregon</surname><given-names>A</given-names></name>
+</person-group><article-title>Low intensity and frequency pulsed electromagnetic fields selectively impair breast cancer cell viability</article-title><source>PLoS One</source><year>2013</year><volume>8</volume><fpage>e72944</fpage><lpage>e72944</lpage><pub-id pub-id-type="pmid">24039828</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Petroulakis</surname><given-names>E</given-names></name>
+<name><surname>Mamane</surname><given-names>Y</given-names></name>
+<name><surname>Le Bacquer</surname><given-names>O</given-names></name>
+<name><surname>Shahbazian</surname><given-names>D</given-names></name>
+<name><surname>Sonenberg</surname><given-names>N</given-names></name>
+</person-group><article-title>mTOR signaling: implications for cancer and anticancer therapy</article-title><source>Br J Cancer</source><year>2006</year><volume>94</volume><issue>2</issue><fpage>195</fpage><lpage>199</lpage><pub-id pub-id-type="pmid">16404421</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wullschleger</surname><given-names>S</given-names></name>
+<name><surname>Loewith</surname><given-names>R</given-names></name>
+<name><surname>Hall</surname><given-names>MN</given-names></name>
+</person-group><article-title>TOR signaling in growth and metabolism</article-title><source>Cell</source><year>2006</year><volume>124</volume><issue>3</issue><fpage>471</fpage><lpage>484</lpage><pub-id pub-id-type="pmid">16469695</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Patel</surname><given-names>PH</given-names></name>
+<name><surname>Chadalavada</surname><given-names>RS</given-names></name>
+<name><surname>Chaganti</surname><given-names>R</given-names></name>
+<name><surname>Motzer</surname><given-names>RJ</given-names></name>
+</person-group><article-title>Targeting von Hippel-Lindau pathway in renal cell carcinoma</article-title><source>Clin Cancer Res</source><year>2006</year><volume>12</volume><issue>24</issue><fpage>7215</fpage><lpage>7220</lpage><pub-id pub-id-type="pmid">17189392</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>G</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Chen</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>X</given-names></name>
+<name><surname>Pan</surname><given-names>J</given-names></name>
+<name><surname>Li</surname><given-names>G</given-names></name>
+<etal/>
+</person-group><article-title>Overexpression of phosphorylated mammalian target of rapamycin predicts lymph node metastasis and prognosis of chinese patients with gastric cancer</article-title><source>Clin Cancer Res</source><year>2009</year><volume>15</volume><issue>5</issue><fpage>1821</fpage><lpage>1829</lpage><pub-id pub-id-type="pmid">19223493</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Memczak</surname><given-names>S</given-names></name>
+<name><surname>Jens</surname><given-names>M</given-names></name>
+<name><surname>Elefsinioti</surname><given-names>A</given-names></name>
+<name><surname>Torti</surname><given-names>F</given-names></name>
+<name><surname>Krueger</surname><given-names>J</given-names></name>
+<name><surname>Rybak</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Circular RNAs are a large class of animal RNAs with regulatory potency</article-title><source>Nature</source><year>2013</year><volume>495</volume><issue>7441</issue><fpage>333</fpage><lpage>338</lpage><pub-id pub-id-type="pmid">23446348</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hentze</surname><given-names>MW</given-names></name>
+<name><surname>Preiss</surname><given-names>T</given-names></name>
+</person-group><article-title>Circular RNAs: splicing&#x02019;s enigma variations</article-title><source>EMBO J</source><year>2013</year><volume>32</volume><issue>7</issue><fpage>923</fpage><lpage>925</lpage><pub-id pub-id-type="pmid">23463100</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>S</given-names></name>
+<name><surname>Yang</surname><given-names>X</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+<name><surname>Shang</surname><given-names>R</given-names></name>
+<etal/>
+</person-group><article-title>Circular RNA: a new star of noncoding RNAs</article-title><source>Cancer Lett</source><year>2015</year><volume>365</volume><issue>2</issue><fpage>141</fpage><lpage>148</lpage><pub-id pub-id-type="pmid">26052092</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>S</given-names></name>
+<name><surname>Guo</surname><given-names>C</given-names></name>
+<name><surname>Zhang</surname><given-names>W</given-names></name>
+<name><surname>Che</surname><given-names>W</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<name><surname>Zhuang</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>The integrative regulatory network of circRNA, microRNA and mRNA in atrial fibrillation</article-title><source>Front Genet</source><year>2019</year><volume>10</volume><fpage>526</fpage><lpage>526</lpage><pub-id pub-id-type="pmid">31249590</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>X-Y</given-names></name>
+<name><surname>Huang</surname><given-names>Z-L</given-names></name>
+<name><surname>Xu</surname><given-names>Y-H</given-names></name>
+<name><surname>Zheng</surname><given-names>Q</given-names></name>
+<name><surname>Chen</surname><given-names>Z</given-names></name>
+<name><surname>Song</surname><given-names>W</given-names></name>
+<etal/>
+</person-group><article-title>Comprehensive circular RNA profiling reveals the regulatory role of the circRNA-100338/miR-141-3p pathway in hepatitis B-related hepatocellular carcinoma</article-title><source>Sci Rep</source><year>2017</year><volume>7</volume><issue>1</issue><fpage>1</fpage><lpage>12</lpage><pub-id pub-id-type="pmid">28127051</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mansoury</surname><given-names>F</given-names></name>
+<name><surname>Babaei</surname><given-names>N</given-names></name>
+<name><surname>Abdi</surname><given-names>S</given-names></name>
+<name><surname>Entezari</surname><given-names>M</given-names></name>
+<name><surname>Doosti</surname><given-names>A</given-names></name>
+</person-group><article-title>Changes in NOTCH1 gene and its regulatory circRNA, hsa_circ_0005986 expression pattern in human gastric adenocarcinoma and human normal fibroblast cell line following the exposure to extremely low frequency magnetic field</article-title><source>Electromagn Biol Med</source><year>2021</year><volume>40</volume><issue>3</issue><fpage>375</fpage><lpage>383</lpage><pub-id pub-id-type="pmid">33620018</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bahar</surname><given-names>M</given-names></name>
+<name><surname>Majd</surname><given-names>A</given-names></name>
+<name><surname>Abdi</surname><given-names>S</given-names></name>
+</person-group><article-title>Effects of (ELF) extremely low frequency (50 Hz) AC and DC magnetic fields on lentil germination and seedlings growth</article-title><source>J Theor Appl Phys</source><year>2009</year><volume>3</volume><issue>2</issue><fpage>12</fpage><lpage>16</lpage></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><collab>Mehrara Sh, Mohammadpour H, Miri SR, Abdi S</collab><article-title>Plasmacytoma variant translocation 1 and nicotinamide phosphoribosyl-transferase long noncoding RNAs promote colorectal cancer</article-title><source>Gene Rep</source><year>2021</year><volume>21</volume><fpage>101</fpage><lpage>113</lpage></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eder</surname><given-names>SH</given-names></name>
+<name><surname>Cadiou</surname><given-names>H</given-names></name>
+<name><surname>Muhamad</surname><given-names>A</given-names></name>
+<name><surname>McNaughton</surname><given-names>PA</given-names></name>
+<name><surname>Kirschvink</surname><given-names>JL</given-names></name>
+<name><surname>Winklhofer</surname><given-names>M</given-names></name>
+</person-group><article-title>Magnetic characterization of isolated candidate vertebrate magnetoreceptor cells</article-title><source>Proc Natl Acad Sci USA</source><year>2012</year><volume>109</volume><issue>30</issue><fpage>12022</fpage><lpage>12027</lpage><pub-id pub-id-type="pmid">22778440</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zimmerman</surname><given-names>JW</given-names></name>
+<name><surname>Pennison</surname><given-names>MJ</given-names></name>
+<name><surname>Brezovich</surname><given-names>I</given-names></name>
+<name><surname>Yi</surname><given-names>N</given-names></name>
+<name><surname>Yang</surname><given-names>CT</given-names></name>
+<name><surname>Ramaker</surname><given-names>R</given-names></name>
+<etal/>
+</person-group><article-title>Cancer cell proliferation is inhibited by specific modulation frequencies</article-title><source>Br J Cancer</source><year>2012</year><volume>106</volume><issue>2</issue><fpage>307</fpage><lpage>313</lpage><pub-id pub-id-type="pmid">22134506</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ashdown</surname><given-names>CP</given-names></name>
+<name><surname>Johns</surname><given-names>SC</given-names></name>
+<name><surname>Aminov</surname><given-names>E</given-names></name>
+<name><surname>Unanian</surname><given-names>M</given-names></name>
+<name><surname>Connacher</surname><given-names>W</given-names></name>
+<name><surname>Friend</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>Pulsed low-frequency magnetic fields induce tumor membrane disruption and altered cell viability</article-title><source>Biophys J</source><year>2020</year><volume>118</volume><issue>7</issue><fpage>1552</fpage><lpage>1563</lpage><pub-id pub-id-type="pmid">32142642</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Crocetti</surname><given-names>S</given-names></name>
+<name><surname>Beyer</surname><given-names>C</given-names></name>
+<name><surname>Schade</surname><given-names>G</given-names></name>
+<name><surname>Egli</surname><given-names>M</given-names></name>
+<name><surname>Fr&#x000f6;hlich</surname><given-names>J</given-names></name>
+<name><surname>Franco-Obreg&#x000f3;n</surname><given-names>A</given-names></name>
+</person-group><article-title>Low intensity and frequency pulsed electromagnetic fields selectively impair breast cancer cell viability</article-title><source>PLoS One</source><year>2013</year><volume>8</volume><issue>9</issue><fpage>e72944</fpage><lpage>e72944</lpage><pub-id pub-id-type="pmid">24039828</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pessina</surname><given-names>G</given-names></name>
+<name><surname>Aldinucci</surname><given-names>C</given-names></name>
+<name><surname>Palmi</surname><given-names>M</given-names></name>
+<name><surname>Sgaragli</surname><given-names>G</given-names></name>
+<name><surname>Benocci</surname><given-names>A</given-names></name>
+<name><surname>Meini</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Pulsed electromagnetic fields affect the intracellular calcium concentrations in human astrocytoma cells</article-title><source>Bioelectromagnetics</source><year>2001</year><volume>22</volume><issue>7</issue><fpage>503</fpage><lpage>510</lpage><pub-id pub-id-type="pmid">11568936</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sulpizio</surname><given-names>M</given-names></name>
+<name><surname>Falone</surname><given-names>S</given-names></name>
+<name><surname>Amicarelli</surname><given-names>F</given-names></name>
+<name><surname>Marchisio</surname><given-names>M</given-names></name>
+<name><surname>Di Giuseppe</surname><given-names>F</given-names></name>
+<name><surname>Eleuterio</surname><given-names>E</given-names></name>
+<etal/>
+</person-group><article-title>Molecular basis underlying the biological effects elicited by extremely low-frequency magnetic field (ELF-MF) on neuroblastoma cells</article-title><source>J Cell Biochem</source><year>2011</year><volume>112</volume><issue>12</issue><fpage>3797</fpage><lpage>3806</lpage><pub-id pub-id-type="pmid">21826706</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Trillo</surname><given-names>M&#x000c1;</given-names></name>
+<name><surname>Mart&#x000ed;nez</surname><given-names>MA</given-names></name>
+<name><surname>Cid</surname><given-names>MA</given-names></name>
+<name><surname>Leal</surname><given-names>J</given-names></name>
+<name><surname>&#x000da;beda</surname><given-names>A</given-names></name>
+</person-group><article-title>Influence of a 50 Hz magnetic field and of all-trans&#x02011;retinol on the proliferation of human cancer cell lines</article-title><source>Int J Oncol</source><year>2012</year><volume>40</volume><issue>5</issue><fpage>1405</fpage><lpage>1413</lpage><pub-id pub-id-type="pmid">22293994</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mart&#x000ed;nez</surname><given-names>MA</given-names></name>
+<name><surname>&#x000da;beda</surname><given-names>A</given-names></name>
+<name><surname>Cid</surname><given-names>MA</given-names></name>
+<name><surname>Trillo</surname><given-names>M&#x000c1;</given-names></name>
+</person-group><article-title>The proliferative response of NB69 human neuroblastoma cells to a 50 Hz magnetic field is mediated by ERK1/2 signaling</article-title><source>Cell Physiol Biochem</source><year>2012</year><volume>29</volume><issue>5-6</issue><fpage>675</fpage><lpage>686</lpage><pub-id pub-id-type="pmid">22613968</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>CY</given-names></name>
+<name><surname>Chang</surname><given-names>CW</given-names></name>
+<name><surname>Chen</surname><given-names>CR</given-names></name>
+<name><surname>Chuang</surname><given-names>CY</given-names></name>
+<name><surname>Chiang</surname><given-names>C-S</given-names></name>
+<name><surname>Shu</surname><given-names>WY</given-names></name>
+<etal/>
+</person-group><article-title>Extremely low-frequency electromagnetic fields cause G1 phase arrest through the activation of the ATM-Chk2-p21 pathway</article-title><source>PLoS One</source><year>2014</year><volume>9</volume><issue>8</issue><fpage>e104732</fpage><lpage>e104732</lpage><pub-id pub-id-type="pmid">25111195</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jung</surname><given-names>IS</given-names></name>
+<name><surname>Kim</surname><given-names>HJ</given-names></name>
+<name><surname>Noh</surname><given-names>R</given-names></name>
+<name><surname>Kim</surname><given-names>SC</given-names></name>
+<name><surname>Kim</surname><given-names>CW</given-names></name>
+</person-group><article-title>Effects of extremely low frequency magnetic fields on NGF induced neuronal differentiation of PC12 cells</article-title><source>Bioelectromagnetics</source><year>2014</year><volume>35</volume><issue>7</issue><fpage>459</fpage><lpage>469</lpage><pub-id pub-id-type="pmid">25159695</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Litovitz</surname><given-names>T</given-names></name>
+<name><surname>Montrose</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>W</given-names></name>
+</person-group><article-title>Dose-response implications of the transient nature of electromagnetic-field-induced bioeffects: Theoretical hypotheses and predictions</article-title><source>Bioelectromagnetics</source><year>1992</year><volume>13</volume><issue>S1</issue><fpage>237</fpage><lpage>246</lpage><pub-id pub-id-type="pmid">1317177</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>B</given-names></name>
+<name><surname>Ye</surname><given-names>C</given-names></name>
+<name><surname>Qiu</surname><given-names>L</given-names></name>
+<name><surname>Chen</surname><given-names>L</given-names></name>
+<name><surname>Fu</surname><given-names>Y</given-names></name>
+<name><surname>Sun</surname><given-names>W</given-names></name>
+</person-group><article-title>Mitochondrial ROS release and subsequent Akt activation potentially mediated the anti-apoptotic effect of a magnetic field on FL cell</article-title><source>Cell Physiol Biochem</source><year>2016</year><volume>38</volume><issue>6</issue><fpage>2489</fpage><lpage>2499</lpage><pub-id pub-id-type="pmid">27310130</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Robison</surname><given-names>JG</given-names></name>
+<name><surname>Pendleton</surname><given-names>AR</given-names></name>
+<name><surname>Monson</surname><given-names>KO</given-names></name>
+<name><surname>Murray</surname><given-names>BK</given-names></name>
+<name><surname>O&#x02019;Neill</surname><given-names>KL</given-names></name>
+</person-group><article-title>Decreased DNA repair rates and protection from heat induced apoptosis mediated by electromagnetic field exposure</article-title><source>Bioelectromagnetics</source><year>2002</year><volume>23</volume><issue>2</issue><fpage>106</fpage><lpage>112</lpage><pub-id pub-id-type="pmid">11835257</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chiang</surname><given-names>GG</given-names></name>
+<name><surname>Abraham</surname><given-names>RT</given-names></name>
+</person-group><article-title>Phosphorylation of mammalian target of rapamycin (mTOR) at Ser-2448 is mediated by p70S6 kinase</article-title><source>J Biol Chem</source><year>2005</year><volume>280</volume><issue>27</issue><fpage>25485</fpage><lpage>25490</lpage><pub-id pub-id-type="pmid">15899889</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>XY</given-names></name>
+<name><surname>Huang</surname><given-names>ZL</given-names></name>
+<name><surname>Zhang</surname><given-names>PB</given-names></name>
+<name><surname>Huang</surname><given-names>XY</given-names></name>
+<name><surname>Huang</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>HC</given-names></name>
+<etal/>
+</person-group><article-title>CircRNA-100338 is associated with mTOR signaling pathway and poor prognosis in hepatocellular carcinoma</article-title><source>Front Oncol</source><year>2019</year><volume>9</volume><fpage>392</fpage><lpage>392</lpage><pub-id pub-id-type="pmid">31157168</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Panagopoulos</surname><given-names>D</given-names></name>
+</person-group><article-title>J, Karabarbounis A, Margaritis LH.Mechanism for action of electromagnetic fields on cells</article-title><source>Biochem Biophys Res Commun</source><year>2002</year><volume>298</volume><issue>1</issue><fpage>95</fpage><lpage>102</lpage><pub-id pub-id-type="pmid">12379225</pub-id></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Consales</surname><given-names>C</given-names></name>
+<name><surname>Merla</surname><given-names>C</given-names></name>
+<name><surname>Marino</surname><given-names>C</given-names></name>
+<name><surname>Benassi</surname><given-names>B</given-names></name>
+</person-group><source>Electromagnetic fields, oxidative stress, and neurodegeneration.Int J Cell Biol</source><publisher-name>Int J Cell Biol</publisher-name><year>2012</year><fpage>1</fpage><lpage>17</lpage></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mihai</surname><given-names>CT</given-names></name>
+<name><surname>Rotinberg</surname><given-names>P</given-names></name>
+<name><surname>Brinza</surname><given-names>F</given-names></name>
+<name><surname>Vochita</surname><given-names>G</given-names></name>
+</person-group><article-title>Extremely low-frequency electromagnetic fields cause DNA strand breaks in normal cells</article-title><source>J Environ Health Sci Eng</source><year>2014</year><volume>12</volume><issue>1</issue><fpage>15</fpage><lpage>15</lpage><pub-id pub-id-type="pmid">24401758</pub-id></element-citation></ref></ref-list></back></article>

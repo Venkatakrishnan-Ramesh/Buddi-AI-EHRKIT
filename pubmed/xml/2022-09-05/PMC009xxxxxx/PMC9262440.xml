@@ -1,0 +1,538 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Bras Pneumol</journal-id><journal-id journal-id-type="iso-abbrev">J Bras Pneumol</journal-id><journal-id journal-id-type="publisher-id">jbpneu</journal-id><journal-title-group><journal-title>Jornal Brasileiro de Pneumologia</journal-title></journal-title-group><issn pub-type="ppub">1806-3713</issn><issn pub-type="epub">1806-3756</issn><publisher><publisher-name>Sociedade Brasileira de Pneumologia e Tisiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35830052</article-id><article-id pub-id-type="pmc">PMC9262440</article-id><article-id pub-id-type="doi">10.36416/1806-3756/e20210367</article-id><article-id pub-id-type="other">00000</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Prevalence of the eosinophilic phenotype among severe asthma patients in Brazil: the BRAEOS study</article-title><trans-title-group xml:lang="pt"><trans-title>Preval&#x000ea;ncia do fen&#x000f3;tipo eosinof&#x000ed;lico em pacientes com asma grave no Brasil: o estudo BRAEOS</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9399-5275</contrib-id><name><surname>Athanazio</surname><given-names>Rodrigo</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5132-1934</contrib-id><name><surname>Stelmach</surname><given-names>Rafael</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7294-4188</contrib-id><name><surname>Antila</surname><given-names>Martti</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1475-2663</contrib-id><name><surname>Souza-Machado</surname><given-names>Adelmir</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7505-210X</contrib-id><name><surname>Arruda</surname><given-names>L. Karla</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1702-7475</contrib-id><name><surname>Cerci</surname><given-names>Alcindo</given-names><suffix>Neto</suffix></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5703-4370</contrib-id><name><surname>Serpa</surname><given-names>Faradiba Sarquis</given-names></name><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3125-1385</contrib-id><name><surname>Blanco</surname><given-names>Daniela Cavalet</given-names></name><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6864-1571</contrib-id><name><surname>Lima</surname><given-names>Marina</given-names></name><xref rid="aff8" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1034-7580</contrib-id><name><surname>Bianchi</surname><given-names>Pedro</given-names><suffix>J&#x000fa;nior</suffix></name><xref rid="aff9" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7508-0119</contrib-id><name><surname>Penha</surname><given-names>M&#x000e1;rcio</given-names></name><xref rid="aff10" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4050-5906</contrib-id><name><surname>Rabahi</surname><given-names>Marcelo Fouad</given-names></name><xref rid="aff11" ref-type="aff">
+<sup>11</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>. Divis&#x000e3;o de Pneumologia, Instituto do Cora&#x000e7;&#x000e3;o - InCor - Hospital das Cl&#x000ed;nicas, Faculdade de Medicina, Universidade de S&#x000e3;o Paulo, S&#x000e3;o Paulo (SP) Brasil.</aff><aff id="aff2">
+<label>2</label>. Consultoria M&#x000e9;dica e Pesquisa Cl&#x000ed;nica - CMPC - Sorocaba (SP) Brasil.</aff><aff id="aff3">
+<label>3</label>. Instituto de Ci&#x000ea;ncias da Sa&#x000fa;de, Universidade Federal da Bahia, Salvador (BA) Brasil.</aff><aff id="aff4">
+<label>4</label>. Faculdade de Medicina de Ribeir&#x000e3;o Preto, Universidade de S&#x000e3;o Paulo, Ribeir&#x000e3;o Preto (SP) Brasil.</aff><aff id="aff5">
+<label>5</label>. Universidade Estadual de Londrina - UEL - Londrina (PR) Brasil.</aff><aff id="aff6">
+<label>6</label>. Escola Superior de Ci&#x000ea;ncias da Santa Casa de Miseric&#x000f3;rdia de Vit&#x000f3;ria, Vit&#x000f3;ria (ES) Brasil.</aff><aff id="aff7">
+<label>7</label>. Escola de Medicina, Pontif&#x000ed;cia Universidade Cat&#x000f3;lica do Rio Grande do Sul, Porto Alegre (RS) Brasil.</aff><aff id="aff8">
+<label>8</label>. Hospital Dia do Pulm&#x000e3;o, Blumenau (SC) Brasil.</aff><aff id="aff9">
+<label>9</label>. Divis&#x000e3;o de Imunologia Cl&#x000ed;nica e Alergia, Hospital das Cl&#x000ed;nicas, Faculdade de Medicina, Universidade de S&#x000e3;o Paulo, S&#x000e3;o Paulo (SP) Brasil.</aff><aff id="aff10">
+<label>10</label>. AstraZeneca Brasil, Cotia (SP) Brasil.</aff><aff id="aff11">
+<label>11</label>. Departamento de Cl&#x000ed;nica M&#x000e9;dica-Pneumologia, Faculdade de Medicina, Universidade Federal de Goi&#x000e1;s, Goi&#x000e2;nia (GO) Brasil.</aff><author-notes><corresp id="c1">
+<label>Correspondence to:</label> Rodrigo Athanazio. Instituto do Cora&#x000e7;&#x000e3;o, Avenida Dr. En&#x000e9;as Carvalho de Aguiar, 44, 5&#x000ba; andar (Pneumologia), Cerqueira C&#x000e9;sar, CEP 05403-900, S&#x000e3;o Paulo, SP, Brasil. Tel.: 55 11 3661-5695. E-mail: <email>rathanazio@yahoo.com.br</email>
+</corresp><fn fn-type="con" id="fn02"><p><bold>AUTHOR CONTRIBUTIONS:</bold> RA and MP: conceptualization, project administration, methodology, data analysis, and drafting of the manuscript. RA, RS, MA, AS-M, LKA, ACN, FSS, DCB, ML, MR, and PBJ: data collection, data analysis, and drafting of the manuscript. All authors reviewed and approved the final version of the manuscript. </p></fn><fn fn-type="COI-statement" id="fn03"><p><bold>CONFLICT OF INTEREST STATEMENT:</bold> Rodrigo Athanazio has participated in clinical studies funded by or has received conference/consultancy fees from the following pharmaceutical companies: AstraZeneca, Chiesi, GlaxoSmithKline, Novartis, Sanofi, Pfizer, Roche, and Vertex. Rafael Stelmach has participated in clinical studies funded by or has received conference/consultancy fees from the following pharmaceutical companies: AstraZeneca, Boehringer Ingelheim, Eurofarma, GlaxoSmithKline, Novartis, and Sanofi. Martti Antila has participated in clinical studies funded by AbbVie, AstraZeneca, EMS, Eurofarma, GlaxoSmithKline, Humanigen, Janssen, Novartis, Sanofi, Angion Biomedica, BeiGene, and Rigel Pharmaceuticals, Inc., as well as having received consultancy fees from Abbott Laboratories, Ach&#x000e9;, AstraZeneca, Chiesi, Eurofarma, IPI ASAC Brasil, and Sanofi. Adelmir Souza-Machado has no conflicts of interest to declare. L. Karla Arruda has received research support or lecture fees from AstraZeneca, Novartis, Sanofi, GlaxoSmithKline, and Takeda. Alcindo Cerci Neto has no conflicts of interest to declare. Faradiba Sarquis Serpa has been a member in advisory boards and a speaker for Novartis, Sanofi, and Takeda-Shire, as well as having participated in clinical trials funded by Novartis and AstraZeneca. Daniela Cavalet Blanco has no conflicts of interest to declare. Marina Lima has received conference and lecture fees from AstraZeneca. Marcelo Rabahi has participated in clinical research funded by AstraZeneca and Boehringer Ingelheim. Pedro Bianchi J&#x000fa;nior has received sponsorship from AstraZeneca, Bayer, Novartis, Sanofi, and Takeda-Shire. M&#x000e1;rcio Penha was an employee of AstraZeneca Brasil at the time the study was conducted; he is currently employed by Chiese Brasil. </p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>01</day><month>7</month><year>2022</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2022</year></pub-date><volume>48</volume><issue>3</issue><elocation-id>e20210367</elocation-id><history><date date-type="received"><day>14</day><month>6</month><year>2021</year></date><date date-type="accepted"><day>03</day><month>4</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; 2022 Sociedade Brasileira de Pneumologia e Tisiologia</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>Sociedade Brasileira de Pneumologia e Tisiologia</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License which permits unrestricted non-commercial use, distribution, and reproduction in any medium provided the original work is properly cited.</license-p></license></permissions><abstract><title>ABSTRACT</title><sec><title>Objective:</title><p>To assess the prevalence of the eosinophilic and allergic phenotypes of severe asthma in Brazil, as well as to investigate the clinical characteristics of severe asthma patients in the country. </p></sec><sec><title>Methods:</title><p>This was a cross-sectional study of adult patients diagnosed with severe asthma and managed at specialized centers in Brazil. The study was conducted in 2019. </p></sec><sec><title>Results:</title><p>A total of 385 patients were included in the study. Of those, 154 had a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup> and 231 had a blood eosinophil count of &#x02264; 300 cells/mm<sup>3</sup>. The median age was 54.0 years, and most of the patients were female, with a BMI of 29.0 kg/m<sup>2</sup> and a history of allergy (81.6%). The prevalence of patients with a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup> was 40.0% (95% CI: 35.1-44.9), and that of those with a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup> and a history of allergy was 31.9% (95% CI: 27.3-36.6). Age and BMI showed positive associations with a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup> (OR = 0.97, p &#x0003c; 0.0001; and OR = 0.96, p = 0.0233, respectively), whereas the time elapsed since the onset of asthma symptoms showed an increased association with a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup> (OR = 1.02, p = 0.0011). </p></sec><sec><title>Conclusions:</title><p>This study allowed us to characterize the population of severe asthma patients in Brazil, showing the prevalence of the eosinophilic phenotype (in 40% of the sample). Our results reveal the relevance of the eosinophilic phenotype of severe asthma at a national level, contributing to increased effectiveness in managing the disease and implementing public health strategies. </p></sec></abstract><trans-abstract xml:lang="pt"><title>RESUMO</title><sec><title>Objetivo:</title><p>Avaliar a preval&#x000ea;ncia dos fen&#x000f3;tipos eosinof&#x000ed;lico e al&#x000e9;rgico da asma grave no Brasil e investigar as caracter&#x000ed;sticas cl&#x000ed;nicas dos pacientes com asma grave no pa&#x000ed;s. </p></sec><sec><title>M&#x000e9;todos:</title><p>Estudo transversal com pacientes adultos com diagn&#x000f3;stico de asma grave atendidos em centros especializados no Brasil. O estudo foi realizado em 2019. </p></sec><sec><title>Resultados:</title><p>Foram inclu&#x000ed;dos no estudo 385 pacientes. Destes, 154 apresentavam contagem de eosin&#x000f3;filos no sangue &#x0003e; 300 c&#x000e9;lulas/mm<sup>3</sup> e 231 apresentavam contagem de eosin&#x000f3;filos no sangue &#x02264; 300 c&#x000e9;lulas/mm<sup>3</sup>. A mediana da idade foi de 54,0 anos, e a maioria dos pacientes era do sexo feminino, com IMC de 29,0 kg/m<sup>2</sup> e hist&#x000f3;ria de alergia (81,6%). A preval&#x000ea;ncia de pacientes com contagem de eosin&#x000f3;filos no sangue &#x0003e; 300 c&#x000e9;lulas/mm<sup>3</sup> foi de 40,0% (IC95%: 35,1-44,9), e a daqueles com contagem de eosin&#x000f3;filos no sangue &#x0003e; 300 c&#x000e9;lulas/mm<sup>3</sup> e hist&#x000f3;ria de alergia foi de 31,9% (IC95%: 27,3-36,6). A idade e o IMC apresentaram associa&#x000e7;&#x000f5;es positivas com contagem de eosin&#x000f3;filos no sangue &#x0003e; 300 c&#x000e9;lulas/mm<sup>3</sup> (OR = 0,97, p &#x0003c; 0,0001 e OR = 0,96, p = 0,0233, respectivamente), ao passo que o tempo decorrido desde o in&#x000ed;cio dos sintomas de asma apresentou associa&#x000e7;&#x000e3;o aumentada com contagem de eosin&#x000f3;filos no sangue &#x0003e; 300 c&#x000e9;lulas/mm<sup>3</sup> (OR = 1,02, p = 0,0011). </p></sec><sec><title>Conclus&#x000f5;es:</title><p>Este estudo possibilitou a caracteriza&#x000e7;&#x000e3;o da popula&#x000e7;&#x000e3;o de pacientes com asma grave no Brasil, mostrando a preval&#x000ea;ncia do fen&#x000f3;tipo eosinof&#x000ed;lico (em 40% da amostra). Nossos resultados revelam a relev&#x000e2;ncia do fen&#x000f3;tipo eosinof&#x000ed;lico da asma grave em n&#x000ed;vel nacional, contribuindo para aumentar a efic&#x000e1;cia no manejo da doen&#x000e7;a e na implanta&#x000e7;&#x000e3;o de estrat&#x000e9;gias de sa&#x000fa;de p&#x000fa;blica. </p></sec></trans-abstract><kwd-group><title>Keywords:</title><kwd>Asthma</kwd><kwd>Epidemiology</kwd><kwd>Eosinophils</kwd><kwd>Phenotype</kwd><kwd>Allergy and immunology.</kwd></kwd-group><kwd-group xml:lang="pt"><title>Descritores:</title><kwd>Asma</kwd><kwd>Epidemiologia</kwd><kwd>Eosin&#x000f3;filos</kwd><kwd>Fen&#x000f3;tipo</kwd><kwd>Alergia e imunologia.</kwd></kwd-group><counts><fig-count count="0"/><table-count count="10"/><equation-count count="0"/><ref-count count="40"/></counts></article-meta></front><body><sec sec-type="intro"><title>INTRODUCTION</title><p>Asthma is a complex heterogeneous condition, affecting over 300 million people worldwide.<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref> In Brazil, the prevalence of asthma among adults has been estimated at 4.4%, with severe asthma accounting for 3.7% of all asthma cases.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>Severe asthma places a great burden on the health care system, with several unmet needs. According to the GINA, severe asthma is &#x0201c;asthma that is uncontrolled despite adherence with maximal optimized therapy and treatment of contributory factors, or that worsens when high dose treatment is decreased.&#x0201d;<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>Given the variety of inflammatory, clinical, and functional characteristics of severe asthma, the disease can have several phenotypes.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref> A high level of eosinophils (in serum or induced sputum) characterizes a specific inflammatory phenotype associated with poor symptom control and an increased number of exacerbations.<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref> Although several biologic agents targeting the T2 inflammatory pathway use different blood eosinophil cutoff points, there is still no consensus regarding the cutoffs for severe asthma (i.e., 150 cells/mm<sup>3</sup>, 300 cells/mm<sup>3</sup>, or 400 cells/mm<sup>3</sup>).<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref> Peripheral blood eosinophil counts as high as 400 cells/mm<sup>3</sup> have been linked to increased asthma exacerbations.<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref> Nevertheless, adult-onset asthma patients with a blood eosinophil count &#x02265; 300 cells/mm<sup>3</sup> present with a distinct phenotype of severe asthma, with frequent exacerbations and a poor prognosis. Studies of anti-eosinophilic therapies suggest that patients with blood eosinophil counts &#x02265; 300 cells/mm<sup>3</sup> benefit from targeted treatment.<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref> It is known that an eosinophil count &#x0003e; 150 cells/mm<sup>3</sup> can be characterized as a specific phenotype of disease that is more severe.<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref> However, the higher the cutoff, the greater the clinical differences across phenotypes and the greater the clinical benefits of therapies targeting the T2 inflammatory pathway.<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Although eosinophilic inflammation of the airways has been classically associated with allergic asthma, there is evidence that eosinophilia is present in severe asthma patients without a history of &#x0201c;atopy.&#x0201d;<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref> Patients with severe asthma and high eosinophil levels typically present with increased levels of anxiety and depression, as well as decreased quality of life (QoL),<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> consuming more health care resources. </p><p>It is of utmost importance to gain a deeper understanding of the epidemiological distribution of eosinophilic phenotypes among patients with severe asthma in order to optimize the management of this condition. This study sought to investigate the prevalence of different eosinophilic phenotypes among severe asthma patients managed at specialized centers in Brazil, as well as to characterize and compare clinical features between two phenotypes based on the blood eosinophil count. The study objectives were to assess the prevalence of the eosinophilic phenotype (a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup>) among severe asthma patients, identify an overlap between the eosinophilic phenotype and the allergic phenotype, and compare the eosinophilic phenotype with the noneosinophilic phenotype in terms of clinical features and patient-reported outcomes. The prevalence of eosinophils was evaluated by using a cutoff point &#x0003e; 150 cells/mm<sup>3</sup>,<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref> and the impact of chronic oral corticosteroid (C-OCS) use was also evaluated. </p></sec><sec sec-type="methods"><title>METHODS</title><sec><title>
+Study design and population
+</title><p>The BRAEOS study was a cross-sectional study conducted in Brazil and involving ten centers specializing in the management of patients with asthma. Patients were enrolled during 2019 over a period of 10 months. </p><p>The target population consisted of adult patients who had been diagnosed with severe asthma at least one year prior to inclusion in the study. Severe asthma was defined as asthma requiring treatment with high-dose inhaled corticosteroids (as determined by GINA)<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref> and long-acting &#x003b2;<sub>2</sub> agonists or leukotriene receptor antagonists/theophylline during the previous year; asthma requiring treatment with oral corticosteroids for &#x02265; 50% of the days in the previous year to prevent it from becoming &#x0201c;uncontrolled&#x0201d;; or asthma that remained &#x0201c;uncontrolled&#x0201d; despite this therapy.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref> Patients were excluded if they were current/former smokers (with a smoking history &#x02265; 10 pack-years), experienced a moderate/severe asthma exacerbation in the 4 weeks prior to enrollment, or received a burst of systemic corticosteroids in the 4 weeks prior to enrollment. Other exclusion criteria included previous use of biologic agents for asthma treatment (the exception being omalizumab), any changes in the pharmacological treatment of asthma in the past 3 months, and concomitant lung diseases. </p></sec><sec><title>
+Data collection and variables
+</title><p>Data were collected during an appointment in which patients were assessed for asthma control and QoL; blood samples were collected for determination of eosinophil and total serum IgE levels; and patient medical charts were reviewed for data on demographic characteristics, smoking status, asthma-related clinical data, a history of allergy (clinically documented preexisting history and/or a positive aeroallergen-specific IgE screen, a positive skin prick test for aeroallergens, or both), comorbidities, the Charlson Comorbidity Index,<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> pharmacological treatment, and lung function. Lung function data included pre- and post-bronchodilator FEV<sub>1</sub> (in % of predicted) and post-bronchodilator FEV<sub>1</sub>/FVC. </p><p>An eosinophilic phenotype was defined as a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup>. A blood eosinophil count &#x0003e; 150 cells/mm<sup>3</sup> was used as a secondary outcome. An allergic phenotype was defined as a combination of high total serum IgE level (&#x0003e; 100 IU/mL) and a history of allergy. </p><p>Late-onset asthma was defined as the onset of asthma symptoms at the age of 12 years or older.<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref> Moderate asthma exacerbation was defined as the use of systemic corticosteroids (or a temporary increase in a stable oral corticosteroid background dosage) for at least 3 days, the use of a single injectable dose of corticosteroids, or an emergency department/urgent care center visit (of &#x0003c; 24 h) for asthma requiring systemic corticosteroids.<xref rid="B18" ref-type="bibr">
+<sup>18</sup>
+</xref> Severe asthma exacerbation was defined as an inpatient hospital stay (&#x02265; 24 h) because of asthma.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p></sec><sec><title>
+Patient-reported outcomes
+</title><p>Patients completed the Saint George&#x02019;s Respiratory Questionnaire (SGRQ)<xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref> and the 5-item Asthma Control Questionnaire (ACQ-5)<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref> to assess their perception of QoL and asthma control, respectively. SGRQ scores were expressed as percentage of overall impairment (a score of 100 indicating the worst possible health status and a score of 0 indicating the best possible health status). The total ACQ-5 score ranges from 0 (totally controlled asthma) to 6 (severely uncontrolled asthma). An ACQ-5 score &#x0003e; 1.5 indicated uncontrolled asthma. </p></sec><sec><title>
+Statistical analysis
+</title><p>The sample size was calculated for a prevalence study based on the primary endpoint defined as the proportion of patients with a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup>, assuming a conservative estimate of a prevalence of 50%. With a margin of error of 5%, a sample of 385 patients with severe asthma was calculated to be required. </p><p>Descriptive statistics were used in order to summarize data (means, standard deviations, medians, and minimum/maximum values for numerical variables; and absolute numbers and percentages for categorical variables). Missing data were not replaced. </p><p>The primary analysis dataset included all of the patients with blood eosinophil counts available for eosinophilic phenotype characterization. Data were summarized for the sample as a whole and broken down by eosinophilic phenotype, as well as being summarized and compared by C-OCS use (n = 387). </p><p>Comparisons between eosinophilic groups and C-OCS users/nonusers were computed with the chi-square test or Fisher&#x02019;s exact test for categorical variables and with the Student&#x02019;s t-test or the Mann-Whitney test for numerical variables. Multivariate logistic regressions were performed to explore the association between clinical characteristics and the eosinophilic phenotype, with 95% CIs and adjusted ORs. All statistical tests were two-tailed, and the level of significance was set at 5%. All statistical analyses were performed with the Statistical Analysis System, version 9.4 (SAS Institute Inc., Cary, NC, USA). </p></sec><sec><title>
+Ethical considerations
+</title><p>All patients provided written informed consent prior to study entry. The study was approved by the research ethics committees/institutional review boards of the participating centers and was performed in accordance with the applicable regulatory and legal requirements. </p></sec></sec><sec sec-type="results"><title>RESULTS</title><p>Of the 387 patients included in the study, 385 had available blood eosinophil counts and were therefore included in the analysis. Of those 385 patients, 154 had an eosinophil count &#x0003e; 300 cells/mm<sup>3</sup> and 231 had an eosinophil count &#x02264; 300 cells/mm<sup>3</sup> (<xref rid="t1" ref-type="table">Table 1</xref>). The main results are presented by eosinophilic phenotype. All 387 patients were included in the analysis of C-OCS use. </p><p>
+<table-wrap position="float" id="t1"><label>Table 1</label><caption><title>Characteristics of the study participants and pharmacological treatment of asthma for the sample as a whole and for the eosinophilic phenotype. </title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="center" rowspan="2" colspan="1">Characteristic</th><th align="center" rowspan="1" colspan="1">Total</th><th align="center" rowspan="1" colspan="1">Blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup>
+</th><th align="center" rowspan="1" colspan="1">Blood eosinophil count of &#x02264; 300 cells/mm<sup>3</sup>
+</th><th align="center" rowspan="1" colspan="1">p</th></tr><tr><th align="center" rowspan="1" colspan="1">(N = 385)</th><th align="center" rowspan="1" colspan="1">(n = 154)</th><th align="center" rowspan="1" colspan="1">(n = 231)</th><th align="left" rowspan="1" colspan="1">
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median (IQR)</td><td align="center" rowspan="1" colspan="1">54.0 (43.0-62.0)</td><td align="center" rowspan="1" colspan="1">52.5 (42.0-61.0)</td><td align="center" rowspan="1" colspan="1">54.0 (44.0-63.0)</td><td align="center" rowspan="1" colspan="1">0.0422*</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, n (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Female</td><td align="center" rowspan="1" colspan="1">302 (78.4)</td><td align="center" rowspan="1" colspan="1">117 (76.0)</td><td align="center" rowspan="1" colspan="1">185 (80.1)</td><td align="center" rowspan="1" colspan="1">0.3364<sup>&#x02020;</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median (IQR)</td><td align="center" rowspan="1" colspan="1">29.0 (24.8-33.7)</td><td align="center" rowspan="1" colspan="1">28.4 (24.6-32.4)</td><td align="center" rowspan="1" colspan="1">29.4 (25.0-34.6)</td><td align="center" rowspan="1" colspan="1">0.0395*</td></tr><tr><td align="left" rowspan="1" colspan="1">Smoking status, n (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Never smoker</td><td align="center" rowspan="1" colspan="1">323 (83.9)</td><td align="center" rowspan="1" colspan="1">124 (80.5)</td><td align="center" rowspan="1" colspan="1">199 (86.1)</td><td align="center" rowspan="1" colspan="1">0.1411<sup>&#x02020;</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Former smoker</td><td align="center" rowspan="1" colspan="1">62 (16.1)</td><td align="center" rowspan="1" colspan="1">30 (19.5)</td><td align="center" rowspan="1" colspan="1">32 (13.9)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" colspan="3" rowspan="1">Onset of asthma symptoms, n (%) </td><td align="left" colspan="2" rowspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Early-onset asthma<sup>a</sup>
+</td><td align="center" rowspan="1" colspan="1">182 (49.2)</td><td align="center" rowspan="1" colspan="1">64 (43.2)</td><td align="center" rowspan="1" colspan="1">118 (53.2)</td><td align="center" rowspan="1" colspan="1">0.0618<sup>&#x02020;</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Late-onset asthma<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">188 (50.8)</td><td align="center" rowspan="1" colspan="1">84 (56.8)</td><td align="center" rowspan="1" colspan="1">104 (46.8)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02026;Missing data</td><td align="center" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" colspan="4" rowspan="1">Moderate asthma exacerbations (in the previous 12 months), n (%) </td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 0 exacerbations</td><td align="center" rowspan="1" colspan="1">102 (26.6)</td><td align="center" rowspan="1" colspan="1">39 (25.3)</td><td align="center" rowspan="1" colspan="1">63 (27.4)</td><td align="center" rowspan="1" colspan="1">0.0812<sup>&#x02020;</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 1 exacerbation</td><td align="center" rowspan="1" colspan="1">70 (18.2)</td><td align="center" rowspan="1" colspan="1">23 (14.9)</td><td align="center" rowspan="1" colspan="1">47 (20.4)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 2 exacerbations</td><td align="center" rowspan="1" colspan="1">71 (18.5)</td><td align="center" rowspan="1" colspan="1">24 (15.6)</td><td align="center" rowspan="1" colspan="1">47 (20.4)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> &#x02265; 3 exacerbations</td><td align="center" rowspan="1" colspan="1">141 (36.7)</td><td align="center" rowspan="1" colspan="1">68 (44.2)</td><td align="center" rowspan="1" colspan="1">73 (31.7)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" colspan="4" rowspan="1">Severe asthma exacerbations (in the previous 12 months), n (%) </td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 0 exacerbations</td><td align="center" rowspan="1" colspan="1">368 (95.6)</td><td align="center" rowspan="1" colspan="1">148 (96.1)</td><td align="center" rowspan="1" colspan="1">220 (95.2)</td><td align="center" rowspan="1" colspan="1">0.9018<sup>&#x02020;&#x02020;</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 1 exacerbation</td><td align="center" rowspan="1" colspan="1">13 (3.4)</td><td align="center" rowspan="1" colspan="1">4 (2.6)</td><td align="center" rowspan="1" colspan="1">9 (3.9)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 2 exacerbations</td><td align="center" rowspan="1" colspan="1">2 (0.5)</td><td align="center" rowspan="1" colspan="1">1 (0.6)</td><td align="center" rowspan="1" colspan="1">1 (0.4)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> &#x02265; 3 exacerbations</td><td align="center" rowspan="1" colspan="1">2 (0.5)</td><td align="center" rowspan="1" colspan="1">1 (0.6)</td><td align="center" rowspan="1" colspan="1">1 (0.4)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Overall exacerbation rate (in the previous 12 months)</td><td align="center" rowspan="1" colspan="1">2.77</td><td align="center" rowspan="1" colspan="1">3.20</td><td align="center" rowspan="1" colspan="1">2.49</td><td align="center" rowspan="1" colspan="1">--</td></tr><tr><td align="left" rowspan="1" colspan="1">Moderate exacerbation rate (in the previous 12 months)</td><td align="center" rowspan="1" colspan="1">2.71</td><td align="center" rowspan="1" colspan="1">3.13</td><td align="center" rowspan="1" colspan="1">2.42</td><td align="center" rowspan="1" colspan="1">--</td></tr><tr><td align="left" rowspan="1" colspan="1">Severe exacerbation rate (in the previous 12 months)</td><td align="center" rowspan="1" colspan="1">0.07</td><td align="center" rowspan="1" colspan="1">0.06</td><td align="center" rowspan="1" colspan="1">0.08</td><td align="center" rowspan="1" colspan="1">--</td></tr><tr><td align="left" rowspan="1" colspan="1">History of atopy</td><td align="center" rowspan="1" colspan="1">311 (81.6)</td><td align="center" rowspan="1" colspan="1">123 (80.9)</td><td align="center" rowspan="1" colspan="1">188 (82.1)</td><td align="center" rowspan="1" colspan="1">0.7718<sup>&#x02020;</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">FEV<sub>1</sub>, % predicted, n (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Pre-bronchodilator</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> N</td><td align="center" rowspan="1" colspan="1">277</td><td align="center" rowspan="1" colspan="1">107</td><td align="center" rowspan="1" colspan="1">170</td><td align="center" rowspan="1" colspan="1">0.6078<sup>&#x000b6;</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Mean &#x000b1; SD</td><td align="center" rowspan="1" colspan="1">60.4 &#x000b1; 17.8</td><td align="center" rowspan="1" colspan="1">61.1 &#x000b1; 17.3</td><td align="center" rowspan="1" colspan="1">59.9 &#x000b1; 18.1</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Post-bronchodilator</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> N</td><td align="center" rowspan="1" colspan="1">251</td><td align="center" rowspan="1" colspan="1">96</td><td align="center" rowspan="1" colspan="1">155</td><td align="center" rowspan="1" colspan="1">0.6801*</td></tr><tr><td align="left" rowspan="1" colspan="1"> Mean &#x000b1; SD</td><td align="center" rowspan="1" colspan="1">67.7 &#x000b1; 17.9</td><td align="center" rowspan="1" colspan="1">68.9 &#x000b1; 18.7</td><td align="center" rowspan="1" colspan="1">66.9 &#x000b1; 17.5</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" colspan="3" rowspan="1">Post-bronchodilator FEV1/FVC ratio </td><td align="left" colspan="2" rowspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Mean &#x000b1; SD</td><td align="center" rowspan="1" colspan="1">66.5 &#x000b1; 11.8</td><td align="center" rowspan="1" colspan="1">67.3 &#x000b1; 12.4</td><td align="center" rowspan="1" colspan="1">66.0 &#x000b1; 11.3</td><td align="center" rowspan="1" colspan="1">0.3824<sup>&#x000b6;</sup>
+</td></tr><tr><td align="left" colspan="3" rowspan="1">Pharmacological treatment, n (%) </td><td align="left" colspan="2" rowspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Inhaled corticosteroid</td><td align="center" rowspan="1" colspan="1">385 (100.0)</td><td align="center" rowspan="1" colspan="1">154 (100.0)</td><td align="center" rowspan="1" colspan="1">231 (100.0)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02026;&#x02026;Median dose, &#x000b5;g<sup>c</sup> (IQR)</td><td align="center" rowspan="1" colspan="1">1,600.00 (1,200.00-2,400.00)</td><td align="center" rowspan="1" colspan="1">1,600.00 (1,200.00-2,400.00)</td><td align="center" rowspan="1" colspan="1">1,600.00 (1,200.00-2,400.00)</td><td align="center" rowspan="1" colspan="1">0.3316*</td></tr><tr><td align="left" rowspan="1" colspan="1"> LABA</td><td align="center" rowspan="1" colspan="1">381 (99.0)</td><td align="center" rowspan="1" colspan="1">153 (99.4)</td><td align="center" rowspan="1" colspan="1">228 (98.7)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> LAMA</td><td align="center" rowspan="1" colspan="1">52 (13.5)</td><td align="center" rowspan="1" colspan="1">20 (13.0)</td><td align="center" rowspan="1" colspan="1">32 (13.9)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> SABA</td><td align="center" rowspan="1" colspan="1">333 (86.5)</td><td align="center" rowspan="1" colspan="1">136 (88.3)</td><td align="center" rowspan="1" colspan="1">197 (85.3)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> SAMA</td><td align="center" rowspan="1" colspan="1">8 (2.1)</td><td align="center" rowspan="1" colspan="1">2 (1.3)</td><td align="center" rowspan="1" colspan="1">6 (2.6)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Chronic oral corticosteroid</td><td align="center" rowspan="1" colspan="1">14 (3.6)</td><td align="center" rowspan="1" colspan="1">5 (3.2)</td><td align="center" rowspan="1" colspan="1">9 (3.9)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Leukotriene receptor antagonist</td><td align="center" rowspan="1" colspan="1">58 (15.1)</td><td align="center" rowspan="1" colspan="1">26 (16.9)</td><td align="center" rowspan="1" colspan="1">32 (13.9)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Xanthine</td><td align="center" rowspan="1" colspan="1">13 (3.4)</td><td align="center" rowspan="1" colspan="1">7 (4.5)</td><td align="center" rowspan="1" colspan="1">6 (2.6)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Omalizumab</td><td align="center" rowspan="1" colspan="1">46 (11.9)</td><td align="center" rowspan="1" colspan="1">18 (11.7)</td><td align="center" rowspan="1" colspan="1">28 (12.1)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Macrolides</td><td align="center" rowspan="1" colspan="1">5 (1.3)</td><td align="center" rowspan="1" colspan="1">3 (1.9)</td><td align="center" rowspan="1" colspan="1">2 (0.9)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" colspan="5" rowspan="1">LABA + LAMA + inhaled corticosteroid for the treatment of asthma, n (%) </td></tr><tr><td align="left" rowspan="1" colspan="1"> Yes</td><td align="center" rowspan="1" colspan="1">51 (13.2)</td><td align="center" rowspan="1" colspan="1">19 (12.3)</td><td align="center" rowspan="1" colspan="1">32 (13.9)</td><td align="left" rowspan="1" colspan="1">
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p>LABA: long-acting &#x003b2;<sub>2</sub> agonist; SABA: short-acting &#x003b2;<sub>2</sub> agonist; LAMA: long-acting muscarinic antagonist; and SAMA: short-acting muscarinic antagonist. <sup>a</sup>Early-onset asthma: onset of symptoms &#x0003c; 12 years of age. <sup>b</sup>Late-onset asthma: onset of symptoms &#x02265; 12 years of age. <sup>c</sup>Cumulative inhaled corticosteroid dose is presented on the basis of the equivalent budesonide dose. *Mann-Whitney test. <sup>&#x02020;</sup>Chi-square test. <sup>&#x02020;&#x02020;</sup>Fisher&#x02019;s exact test. <sup>&#x000b6;</sup>Student&#x02019;s t-test.</p></fn></table-wrap-foot></table-wrap>
+</p><p>Of the sample as a whole, most (78.4%) were women, the median age being 54.0 years. The median BMI was 29.0 kg/m<sup>2</sup>, and approximately 16% were former smokers. Nearly 50% (188/370) of our patients had late-onset asthma. Most patients (81.6%) had a history of allergy, with confirmed atopy (a positive aeroallergen-specific IgE screen or a positive skin prick test for aeroallergens) in 73.2%. The mean post-bronchodilator FEV<sub>1</sub> was 67.7 &#x000b1; 17.9%, and the mean post-bronchodilator FEV<sub>1</sub>/FVC ratio was 66.5 &#x000b1; 11.8. </p><p>Moderate asthma exacerbations were absent in 26.6% of patients, and 36.7% had had &#x02265; 3 moderate exacerbations in the previous year. At least one severe asthma exacerbation was found in 4.4% of the patients in that same period. The overall mean exacerbation rate in the previous year was 2.77 (2.71 for moderate exacerbations and 0.07 for severe exacerbations). </p><p>Regarding pharmacological treatment for asthma, all patients were on inhaled corticosteroids, and 99.0% were treated with long-acting &#x003b2;<sub>2</sub> agonists. A total of 13.5% of patients were receiving treatment with long-acting muscarinic antagonists, and 11.9% were receiving treatment with omalizumab. In the previous 12 months, 75.5% of patients had received a median of 3.0 corticosteroid bursts. The median OCS dose was 5.0 &#x000b1; 10.2 mg of prednisone. </p><p>The proportion of patients with eosinophils &#x0003e; 300 cells/mm<sup>3</sup> was 40.0% (95% CI: 35.1-44.9), whereas 73.0% (95% CI: 68.6-77.4) had eosinophils &#x0003e; 150 cells/mm<sup>3</sup>. </p><p>Approximately 80% of the patients had a history of allergy, and 31.9% (95% CI: 27.3-36.6) had both a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup> and a history of allergy. A total of 286 patients (74.3%) had total serum IgE levels &#x0003e; 100 IU/mL (95% CI: 69.9-78.7), and 62.6% (95% CI: 57.8-67.4) had total serum IgE levels &#x0003e; 100 IU/mL and a history of atopy (<xref rid="t2" ref-type="table">Table 2</xref>). </p><p>
+<table-wrap position="float" id="t2"><label>Table 2</label><caption><title>Prevalence of the eosinophilic and allergic phenotypes in the sample as a whole (N = 385). </title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/></colgroup><thead><tr><th align="center" rowspan="1" colspan="1">Variable</th><th align="center" rowspan="1" colspan="1">n (%) - [95% CI]</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Overall sample</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup>
+</td><td align="center" rowspan="1" colspan="1">154 (40.0) - [35.1-44.9]</td></tr><tr><td align="left" rowspan="1" colspan="1"> Blood eosinophil count &#x0003e; 150 cells/mm<sup>3</sup>
+</td><td align="center" rowspan="1" colspan="1">281 (73.0) - [68.6-77.4]</td></tr><tr><td align="left" rowspan="1" colspan="1"> History of allergy</td><td align="center" rowspan="1" colspan="1">311 (81.6) - [77.7-85.5]</td></tr><tr><td align="left" rowspan="1" colspan="1"> Blood eosinophil count &#x0003e; 300/mm<sup>3</sup> and a history of allergy</td><td align="center" rowspan="1" colspan="1">123 (31.9) - [27.3-36.6]</td></tr><tr><td align="left" rowspan="1" colspan="1"> Total serum IgE &#x0003e; 100 IU/mL</td><td align="center" rowspan="1" colspan="1">286 (74.3) - [69.9-78.7]</td></tr><tr><td align="left" rowspan="1" colspan="1"> Total serum IgE &#x0003e; 100 IU/mL and a history of allergy</td><td align="center" rowspan="1" colspan="1">241 (62.6) - [57.8-67.4]</td></tr><tr><td align="left" rowspan="1" colspan="1">History of allergy<sup>a</sup> in patients with a blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup> (n = 154)</td><td align="center" rowspan="1" colspan="1">123 (79.9) - [73.5-86.2]</td></tr></tbody></table><table-wrap-foot><fn id="TFN2"><label>a</label><p>History of allergy: clinically documented preexisting history of respiratory allergy or atopy (a positive aeroallergen-specific IgE screen or a positive skin prick test for aeroallergens). </p></fn></table-wrap-foot></table-wrap>
+</p><p>The median age of eosinophilic patients was lower than that of noneosinophilic patients (p = 0.0422). The median BMI was significantly lower in eosinophilic patients than in noneosinophilic patients (p = 0.0395). Eosinophilic patients showed an overall exacerbation rate of 3.20 exacerbation/patient-years, a moderate exacerbation rate of 3.13 exacerbation/patient-years, and a severe exacerbation rate of 0.06 exacerbation/patient-years. Noneosinophilic patients showed an overall exacerbation rate of 2.49 exacerbation/patient-years, a moderate exacerbation rate of 2.42 exacerbation/patient-years, and a severe exacerbation rate of 0.08 exacerbation/patient-years, with no statistically significant differences between groups (<xref rid="t1" ref-type="table">Table 1</xref>). </p><p>In the sample as a whole, the mean blood eosinophil count was 309.8 &#x000b1; 263.5 cells/mm<sup>3</sup>. The mean blood eosinophil count was 540.9 &#x000b1; 274.2 cells/mm<sup>3</sup> for eosinophilic patients and 155.7 &#x000b1; 79.5 cells/mm<sup>3</sup> for noneosinophilic patients. The median total serum IgE level was 259.0 IU/mL for eosinophilic patients, IgE levels being higher in eosinophilic patients than in noneosinophilic patients (p = 0.0150; <xref rid="t3" ref-type="table">Table 3</xref>). </p><p>
+<table-wrap position="float" id="t3"><label>Table 3</label><caption><title>Laboratory test results for the sample as a whole and for the eosinophilic phenotype. </title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="center" rowspan="2" colspan="1">Test</th><th align="center" rowspan="1" colspan="1">Total</th><th align="center" rowspan="1" colspan="1">Blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup>
+</th><th align="center" rowspan="1" colspan="1">Blood eosinophil count of &#x02264; 300 cells/mm<sup>3</sup>
+</th><th align="center" rowspan="1" colspan="1">p</th></tr><tr><th align="center" rowspan="1" colspan="1">(N = 385)</th><th align="center" rowspan="1" colspan="1">(n = 154)</th><th align="center" rowspan="1" colspan="1">(n = 231)</th><th align="left" rowspan="1" colspan="1">
+</th></tr></thead><tbody><tr><td align="left" colspan="3" rowspan="1">Eosinophils, cells/mm<sup>3</sup>
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Mean &#x000b1; SD</td><td align="center" rowspan="1" colspan="1">309.8 &#x000b1; 263.5</td><td align="center" rowspan="1" colspan="1">540.9 &#x000b1; 274.2</td><td align="center" rowspan="1" colspan="1">155.7 &#x000b1; 79.5</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Eosinophils, n (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 0 to &#x02264; 100 cells/&#x000b5;L</td><td align="center" rowspan="1" colspan="1">64 (16.6)</td><td align="center" rowspan="1" colspan="1">0 (0.0)</td><td align="center" rowspan="1" colspan="1">64 (27.7)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 101 to &#x02264; 200 cells/&#x000b5;L</td><td align="center" rowspan="1" colspan="1">92 (23.9)</td><td align="center" rowspan="1" colspan="1">0 (0.0)</td><td align="center" rowspan="1" colspan="1">92 (39.8)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 201 to &#x02264; 300 cells/&#x000b5;L</td><td align="center" rowspan="1" colspan="1">75 (19.5)</td><td align="center" rowspan="1" colspan="1">0 (0.0)</td><td align="center" rowspan="1" colspan="1">75 (32.5)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 301 to &#x02264; 400 cells/&#x000b5;L</td><td align="center" rowspan="1" colspan="1">60 (15.6)</td><td align="center" rowspan="1" colspan="1">60 (39.0)</td><td align="center" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> 401 to &#x02264; 500 cells/&#x000b5;L</td><td align="center" rowspan="1" colspan="1">34 (8.8)</td><td align="center" rowspan="1" colspan="1">34 (22.1)</td><td align="center" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> &#x0003e; 501 cells/&#x000b5;L</td><td align="center" rowspan="1" colspan="1">60 (15.6)</td><td align="center" rowspan="1" colspan="1">60 (39.0)</td><td align="center" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Total serum IgE (IU/mL)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median (IQR)</td><td align="center" rowspan="1" colspan="1">259.0 (93.2-605.0)</td><td align="center" rowspan="1" colspan="1">336.3 (113.0-817.0)</td><td align="center" rowspan="1" colspan="1">235.2 (75.4-503.1)</td><td align="center" rowspan="1" colspan="1">0.0150*</td></tr></tbody></table><table-wrap-foot><fn id="TFN3"><p>*Mann-Whitney test. </p></fn></table-wrap-foot></table-wrap>
+</p><p>With regard to rhinitis, gastroesophageal reflux, type 2 diabetes, and nasal polyps, there were statistically significant differences between the two groups. The median Charlson Comorbidity Index was lower in eosinophilic patients (p = 0.0125; Figure S1). </p><p>In the sample as a whole, the median SGRQ symptom score was 55.6 (median activity score, 60.8; median impact score, 39.9; <xref rid="t4" ref-type="table">Table 4</xref>) and the median total SGRQ score was 49.8. There were no statistically significant differences between eosinophilic and noneosinophilic phenotypes regarding total and individual domain scores. </p><p>
+<table-wrap position="float" id="t4"><label>Table 4</label><caption><title>Patient-reported outcomes for the sample as a whole and for the eosinophilic phenotype. </title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="center" rowspan="2" colspan="1">Variable</th><th align="center" rowspan="1" colspan="1">Total</th><th align="center" rowspan="1" colspan="1">Blood eosinophil count &#x0003e; 300 cells/mm<sup>3</sup>
+</th><th align="center" rowspan="1" colspan="1">Blood eosinophil count of &#x02264; 300 cells/mm<sup>3</sup>
+</th><th align="center" rowspan="1" colspan="1">p</th></tr><tr><th align="center" rowspan="1" colspan="1">(N = 385)</th><th align="center" rowspan="1" colspan="1">(n = 154)</th><th align="center" rowspan="1" colspan="1">(n = 231)</th><th align="left" rowspan="1" colspan="1">
+</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">SGRQ </td></tr><tr><td align="left" rowspan="1" colspan="1">Symptoms score (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median (IQR)</td><td align="center" rowspan="1" colspan="1">55.6 (39.3-71.9)</td><td align="center" rowspan="1" colspan="1">54.3 (40.2-75.2)</td><td align="center" rowspan="1" colspan="1">57.6 (38.2-70.1)</td><td align="center" rowspan="1" colspan="1">0.4658*</td></tr><tr><td align="left" rowspan="1" colspan="1">Activity score (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median (IQR)</td><td align="center" rowspan="1" colspan="1">60.8 (49.2-74.6)</td><td align="center" rowspan="1" colspan="1">60.4 (47.7-73.6)</td><td align="center" rowspan="1" colspan="1">61.1 (53.2-79.2)</td><td align="center" rowspan="1" colspan="1">0.2691*</td></tr><tr><td align="left" rowspan="1" colspan="1">Impact score (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median (IQR)</td><td align="center" rowspan="1" colspan="1">39.9 (23.3-55.6)</td><td align="center" rowspan="1" colspan="1">38.8 (21.6-54.0)</td><td align="center" rowspan="1" colspan="1">42.2 (24.2-58.3)</td><td align="center" rowspan="1" colspan="1">0.1320*</td></tr><tr><td align="left" rowspan="1" colspan="1">Total score (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median (IQR)</td><td align="center" rowspan="1" colspan="1">49.8 (35.3-63.1)</td><td align="center" rowspan="1" colspan="1">48.8 (34.6-61.0)</td><td align="center" rowspan="1" colspan="1">50.4 (35.8-65.4)</td><td align="center" rowspan="1" colspan="1">0.2405<sup>&#x02020;</sup>
+</td></tr><tr><td align="left" colspan="5" rowspan="1">ACQ-5 </td></tr><tr><td align="left" rowspan="1" colspan="1">Total score</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median (IQR)</td><td align="center" rowspan="1" colspan="1">2.0 (1.0-2.8)</td><td align="center" rowspan="1" colspan="1">1.8 (1.0-2.8)</td><td align="center" rowspan="1" colspan="1">2.2 (1.0-3.0)</td><td align="center" rowspan="1" colspan="1">0.3290*</td></tr><tr><td align="left" rowspan="1" colspan="1">ACQ-5 categories, n (%)</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Well-controlled</td><td align="center" rowspan="1" colspan="1">141 (36.6)</td><td align="center" rowspan="1" colspan="1">59 (38.3)</td><td align="center" rowspan="1" colspan="1">82 (35.5)</td><td align="center" rowspan="1" colspan="1">0.5745<sup>&#x02020;&#x02020;</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> Uncontrolled</td><td align="center" rowspan="1" colspan="1">244 (63.4)</td><td align="center" rowspan="1" colspan="1">95 (61.7)</td><td align="center" rowspan="1" colspan="1">149 (64.5)</td><td align="left" rowspan="1" colspan="1">
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN4"><p>SGRQ: Saint George&#x02019;s Respiratory Questionnaire; and ACQ-5: 5-item Asthma Control Questionnaire. *Mann-Whitney test. <sup>&#x02020;</sup>Student&#x02019;s t-test. <sup>&#x02020;&#x02020;</sup>Chi-square test. </p></fn></table-wrap-foot></table-wrap>
+</p><p>The median ACQ-5 score was 2.0, and 63.4% of patients had uncontrolled asthma. No statistically significant differences were found between eosinophilic and noneosinophilic phenotypes. </p><p>A logistic regression model was built with clinical variables of interest (<xref rid="t5" ref-type="table">Table 5</xref>). Lower age (OR = 0.97; p &#x0003c; 0.0001) and lower BMI (OR = 0.96; p = 0.0233) showed a positive association with the eosinophilic phenotype. On the other hand, the time elapsed since the onset of asthma symptoms (OR = 1.02; p = 0.0011) showed an increased association with an eosinophil count &#x0003e; 300 cells/mm<sup>3</sup>. </p><p>
+<table-wrap position="float" id="t5"><label>Table 5</label><caption><title>Logistic regression model for variables of interest. </title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">
+</th><th align="center" rowspan="1" colspan="1">OR<sup>a</sup>
+</th><th align="center" rowspan="1" colspan="1">95% CI for OR</th><th align="center" rowspan="1" colspan="1">p</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years</td><td align="center" rowspan="1" colspan="1">0.97</td><td align="center" rowspan="1" colspan="1">[0.95-0.98]</td><td align="center" rowspan="1" colspan="1">&#x0003c; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index</td><td align="center" rowspan="1" colspan="1">0.96</td><td align="center" rowspan="1" colspan="1">[0.93-0.99]</td><td align="center" rowspan="1" colspan="1">0.0233</td></tr><tr><td align="left" rowspan="1" colspan="1">Time elapsed since the onset of asthma symptoms, years</td><td align="center" rowspan="1" colspan="1">1.02</td><td align="center" rowspan="1" colspan="1">[1.01-1.04]</td><td align="center" rowspan="1" colspan="1">0.0011</td></tr><tr><td align="left" rowspan="1" colspan="1">Likelihood ratio</td><td align="left" rowspan="1" colspan="1">
+</td><td align="left" rowspan="1" colspan="1">
+</td><td align="center" rowspan="1" colspan="1">&#x0003c; 0.0001</td></tr></tbody></table><table-wrap-foot><fn id="TFN5"><label>a</label><p>Reference for the dependent variable: a blood eosinophil count of &#x02264; 300 cells/mm<sup>3</sup>. </p></fn></table-wrap-foot></table-wrap>
+</p><p>Results by C-OCS use included 387 patients (14 patients with C-OCS use and 373 patients without C-OCS use). The proportion of patients without severe asthma exacerbations in the previous 12 months was significantly lower in C-OCS users than in C-OCS nonusers (78.6% vs. 96.2%). The proportion of patients with a history of stroke and heart failure was significantly higher in C-OCS users than in C-OCS nonusers (14.3% vs. 1.9% for both; <inline-supplementary-material xlink:href="1806-3756-jbpneu-48-03-e20210367-suppl1.pdf" id="d64e1730" content-type="local-data">Table S1</inline-supplementary-material>). </p></sec><sec sec-type="discussion"><title>DISCUSSION</title><p>In the BRAEOS study we found a high prevalence of eosinophilic patients (40% for a blood eosinophil cutoff &#x0003e; 300 cells/mm<sup>3</sup> and 73% for a blood eosinophil cutoff &#x0003e; 150 cells/mm<sup>3</sup>), with a great overlap between the eosinophilic and allergic phenotypes. Our results are in accordance with those of several other studies of patients with severe asthma. One cohort study performed at a tertiary referral center and using a blood eosinophil cutoff &#x0003e; 300 cells/mm<sup>3</sup> revealed an eosinophilic phenotype prevalence of 41%.<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref> Two observational studies using a blood eosinophil cutoff &#x0003e; 400 cells/mm<sup>3</sup> reported an eosinophilic asthma prevalence of 16-38%.<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref> On the other hand, the Belgian Severe Asthma Registry used a blood eosinophil cutoff &#x0003e; 200 cells/mm<sup>3</sup> and showed a prevalence of 53%.<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref> Although these studies were conducted in different settings and used distinct study populations in terms of asthma severity, they provide a broad picture of the distribution of the eosinophilic profile and a framework for interpreting our results. </p><p>In the present study, a blood eosinophil cutoff &#x0003e; 300 cells/mm<sup>3</sup> was used for the primary objective. Although several biologic agents targeting the T2 inflammatory (eosinophilic) pathway use different cutoff points, there is still debate about the cutoff point that should be used (i.e., 150 cells/mm<sup>3</sup>, 300 cells/mm<sup>3</sup>, or 400 cells/mm<sup>3</sup>).<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref> It is known that eosinophilic patients with a blood eosinophil count &#x0003e; 150 cells/mm<sup>3</sup> show more severe disease that can be characterized as a distinct phenotype.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref> By using a higher cutoff, such as 300 cells/mm<sup>3</sup>, the clinical differences between phenotypic groups and the potential benefit of therapies to treat type 2 inflammation become more evident. This allows the identification of specific groups with better chances of benefiting from targeted therapy.<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p><p>With regard to the overall characteristics of the study participants, the median age was 54.0 years, most were female, and the proportion of obesity was high. A severe clinical presentation was observed in the study population, as evidenced by a history of exacerbation, as well as elevated eosinophil and IgE levels. These findings are consistent with those of other studies.<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref> The ACQ-5 scores showed that approximately two thirds of the sample had uncontrolled asthma symptoms. Lung function findings revealed a high prevalence of fixed airway obstruction despite optimized treatment with high doses of inhaled corticosteroids and other long-term control medications.<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref> High SGRQ scores revealed poor QoL, which reflects the disease severity in the study population and highlights the burden of disease. </p><p>With regard to the two inflammatory phenotypes of interest, eosinophilic patients had lower BMI, had fewer comorbidities, and tended to be younger than did noneosinophilic patients. They also presented with a longer time elapsed since the onset of asthma symptoms, higher IgE values, a higher number of corticosteroid bursts, and a tendency to experience a higher annual exacerbation rate in comparison with noneosinophilic patients. Although the findings regarding the eosinophilic phenotype point to an apparently clinically healthier group of patients (younger, with lower BMI and fewer comorbidities), these patients required more bursts of oral corticosteroids in the previous year than did noneosinophilic patients. This may provide a pathophysiological explanation for the cause of the exacerbations.<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref> Whereas in eosinophilic patients the inflammatory process could play a predominant role, in noneosinophilic patients, factors such as obesity and other comorbidities might be associated with the occurrence of the exacerbations.<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p><p>Inhaled corticosteroid doses and asthma control were similar between the two eosinophilic groups. This reflects the severity of this condition in both groups. Nonetheless, these findings might be valuable for adjustment of routine clinical practice with distinct management approaches. Possible approaches include adding biologic agents for specific phenotypes and increasing inhaled corticosteroid doses in eosinophilic patients or decreasing inhaled corticosteroid doses in noneosinophilic patients to minimize long-term side effects. Another strategy is to improve the control of comorbidities in noneosinophilic patients instead of introducing new anti-inflammatory drugs. </p><p>In our study, asthma severity was more evident in the C-OCS users, with more endotracheal intubations, more exacerbations, and worse QoL. C-OCS users required additional care, which ultimately led to increased costs related to the management of the disease. In this setting, biologic agents seem to be an appropriate therapeutic option with proven results, reducing the exacerbation rates and oral corticosteroid doses. In one trial,<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref> benralizumab showed a 75% C-OCS dose reduction vs. a 25% dose reduction in the placebo group, as well as a 100% C-OCS dose reduction in 52% of patients. Studies examining mepolizumab and dupilumab have shown similar results.<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref> We found a very low proportion of C-OCS users in comparison with real-life settings in Europe.<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref> This might be explained by the fact that many pulmonologists/allergists avoid prescribing C-OCSs in routine clinical practice, even for patients with uncontrolled asthma. However, the number of oral corticosteroid bursts was high, and this may be related to a high risk of C-OCS side effects.<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref> This suggests that targeted therapies to improve the control of severe asthma may be highly beneficial by reducing the use of C-OCSs.</p><p>Given the considerable overlap of eosinophilic asthma and atopy found in the present study, a high number of these patients would be potential candidates for therapies that target both conditions: anti-IgE therapy for patients with atopy and anti-IL-5 for those with eosinophilic asthma.<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref> The body of evidence, however, is not sufficiently consistent to allow us to conclude which of these therapies should be first introduced in this patient population, given that previous studies have reported similar efficacy.<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref> It is known that the T2 inflammatory response, which centers around the eosinophil as the final effector cell, can be initiated by an allergic (Th2) or nonallergic (non-Th2) pathway, triggered by external factors such as smoking, viruses, pollutants, and bacteria.<xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref>
+</p><p>One of the major limitations of the present study is its cross-sectional design, limiting causal inference. However, the regression models allowed us to explore associations between patient characteristics and the eosinophilic profile. Induced sputum eosinophil count, a recognized biomarker of airway inflammation and disease severity, was not performed, because it is not widely available in clinical practice.<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref> However, some studies have suggested that there is a strong correlation between blood and sputum eosinophil counts.<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref> Another limitation of the present study is that not every patient with a history of atopy and high IgE levels had skin prick test or allergen-specific IgE results available. Our prevalence result might be slightly underestimated because of the inclusion of patients using oral corticosteroids and omalizumab. However, given that these patients account for less than 15% of the study sample and that the objective of the study was to estimate the prevalence of the eosinophilic phenotype in severe asthma patients in Brazil, we consider this impact to be minimal. Nevertheless, for this subgroup of C-OCS users, the results of the statistical analysis should be interpreted with caution because of the small number of cases in our study. </p><p>The BRAEOS study was a multicenter study involving a population representative of several regions of Brazil, which is a country of continental dimensions. Data were collected in a systematic way and following internationally validated definitions, allowing adequate comparability of the results. Therefore, the BRAEOS study was able to characterize the population of patients with severe asthma in Brazil, emphasizing the eosinophilic phenotype (40% of the sample) and showing associations with a lower BMI, fewer comorbidities, and a higher number of corticosteroid bursts. Not surprisingly, C-OCS users had more severe disease, with more exacerbations, more cardiovascular comorbidities, and poorer health-related QoL. Our results reveal the relevance of the eosinophilic phenotype of severe asthma at a national level, contributing to increased effectiveness in managing the disease and implementing public health strategies. </p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>We would like to thank all of the patients, coordinators, and investigators who participated in the BRAEOS study, as well as all of the AstraZeneca employees involved in the study, especially Flavia Lopes, Luisa Augusto Furlan, and Angela Honda de Souza, who is currently Head of the <italic>Funda&#x000e7;&#x000e3;o ProAr</italic> Continuing Medical Education Program. Study conduction and medical writing support was provided by CTI Clinical Trial &#x00026; Consulting and funded by AstraZeneca Brasil. </p></ack><fn-group><fn fn-type="supported-by" id="fn1a"><p><bold>Financial support:</bold> This study received financial support from AstraZeneca Brasil.</p></fn><fn fn-type="other" id="fn2"><label>2</label><p>Study carried out at the Hospital das Cl&#x000ed;nicas da Faculdade de Medicina da Universidade de S&#x000e3;o Paulo, S&#x000e3;o Paulo (SP), Consultoria M&#x000e9;dica e Pesquisa Cl&#x000ed;nica, Sorocaba (SP), Instituto de Ci&#x000ea;ncias M&#x000e9;dicas da Universidade Federal da Bahia, Salvador (BA), Faculdade de Medicina de Ribeir&#x000e3;o Preto, Ribeir&#x000e3;o Preto (SP), Universidade Estadual de Londrina, Londrina (PR), Escola de Medicina da Pontif&#x000ed;cia Universidade Cat&#x000f3;lica do Rio Grande do Sul, Porto Alegre (RS), Hospital Dia do Pulm&#x000e3;o, Blumenau (SC), Faculdade de Medicina da Universidade Federal de Goi&#x000e1;s, Goi&#x000e2;nia (GO), and Faculdade de Medicina da Universidade de S&#x000e3;o Paulo, S&#x000e3;o Paulo (SP) Brasil.</p></fn></fn-group><fn-group><fn fn-type="other" id="fn1"><p><bold>DATA AVAILABILITY:</bold> The authors confirm that the data supporting the findings of this study are available within the article and/or its <inline-supplementary-material xlink:href="1806-3756-jbpneu-48-03-e20210367-suppl1.pdf" id="d64e3202" content-type="local-data">supplementary materials</inline-supplementary-material>. </p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="B1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>World Health Organization [homepage on the Internet]</collab>
+</person-group><publisher-loc>Geneva</publisher-loc><publisher-name>WHO</publisher-name><year>c2021</year><source>Asthma-Key Facts 2020</source><ext-link xlink:href="https://www.who.int/en/news-room/fact-sheets/detail/asthma" ext-link-type="uri">https://www.who.int/en/news-room/fact-sheets/detail/asthma</ext-link></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Instituto Brasileiro de Geografia e Estat&#x000ed;stica (IBGE) [homepage on the Internet]</collab>
+</person-group><publisher-loc>Rio de Janeiro</publisher-loc><publisher-name>IBGE</publisher-name><year>c2014</year><source>Pesquisa Nacional de Sa&#x000fa;de 2013 - Percep&#x000e7;&#x000e3;o do Estado de Sa&#x000fa;de, Estilos de Vida e Doen&#x000e7;as Cr&#x000f4;nicas. Brasil, Grandes Regi&#x000f5;es e Unidades da Federa&#x000e7;&#x000e3;o</source><ext-link xlink:href="https://biblioteca.ibge.gov.br/visualizacao/livros/liv91110.pdf" ext-link-type="uri">https://biblioteca.ibge.gov.br/visualizacao/livros/liv91110.pdf</ext-link></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ponte</surname><given-names>EV</given-names></name>
+<name><surname>Souza-Machado</surname><given-names>A</given-names></name>
+</person-group><article-title>Severe asthma in Brazil from diagnosis to treatment</article-title><source>J Bras Pneumol</source><year>2021</year><volume>47</volume><issue>6</issue><elocation-id>e20210386</elocation-id><pub-id pub-id-type="doi">10.36416/1806-3756/e20210386</pub-id><pub-id pub-id-type="pmid">34932729</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pizzichini</surname><given-names>MMM</given-names></name>
+<name><surname>Carvalho-Pinto</surname><given-names>RM</given-names></name>
+<name><surname>Can&#x000e7;ado</surname><given-names>JED</given-names></name>
+<name><surname>Rubin</surname><given-names>AS</given-names></name>
+<name><surname>Cerci</surname><given-names>A</given-names><suffix>Neto</suffix></name>
+<name><surname>Cardoso</surname><given-names>AP</given-names></name>
+</person-group><article-title>2020 Brazilian Thoracic Association recommendations for the management of asthma</article-title><source>J Bras Pneumol</source><year>2020</year><volume>46</volume><issue>1</issue><elocation-id>e20190307</elocation-id><pub-id pub-id-type="doi">10.1590/1806-3713/e20190307</pub-id><pub-id pub-id-type="pmid">32130345</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Global Initiative for Asthma (GINA) [homepage on the Internet]</collab>
+</person-group><publisher-loc>Bethesda</publisher-loc><publisher-name>GINA</publisher-name><year>c2021</year><source>Global Strategy for Asthma Management and Prevention (2020 update)</source><ext-link xlink:href="https://ginasthma.org/wp-content/uploads/2020/06/GINA-2020-report_20_06_04-1-wms.pdf" ext-link-type="uri">https://ginasthma.org/wp-content/uploads/2020/06/GINA-2020-report_20_06_04-1-wms.pdf</ext-link></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>KF</given-names></name>
+<name><surname>Wenzel</surname><given-names>SE</given-names></name>
+<name><surname>Brozek</surname><given-names>JL</given-names></name>
+<name><surname>Bush</surname><given-names>A</given-names></name>
+<name><surname>Castro</surname><given-names>M</given-names></name>
+<name><surname>Sterk</surname><given-names>PJ</given-names></name>
+</person-group><article-title>International ERS/ATS guidelines on definition, evaluation and treatment of severe asthma [published correction appears in Eur Respir</article-title><year>2014</year><volume>43</volume><issue>4</issue><fpage>1216</fpage><lpage>1216</lpage><pub-id pub-id-type="doi">10.1183/09031936.00202013</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Green</surname><given-names>RH</given-names></name>
+<name><surname>Brightling</surname><given-names>CE</given-names></name>
+<name><surname>McKenna</surname><given-names>S</given-names></name>
+<name><surname>Hargadon</surname><given-names>B</given-names></name>
+<name><surname>Parker</surname><given-names>D</given-names></name>
+<name><surname>Bradding</surname><given-names>P</given-names></name>
+</person-group><article-title>Asthma exacerbations and sputum eosinophil counts a randomised controlled trial</article-title><source>Lancet</source><year>2002</year><volume>360</volume><issue>9347</issue><fpage>1715</fpage><lpage>1721</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(02)11679-5</pub-id><pub-id pub-id-type="pmid">12480423</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Price</surname><given-names>DB</given-names></name>
+<name><surname>Rigazio</surname><given-names>A</given-names></name>
+<name><surname>Campbell</surname><given-names>JD</given-names></name>
+<name><surname>Bleecker</surname><given-names>ER</given-names></name>
+<name><surname>Corrigan</surname><given-names>CJ</given-names></name>
+<name><surname>Thomas</surname><given-names>M</given-names></name>
+</person-group><article-title>Blood eosinophil count and prospective annual asthma disease burden a UK cohort study</article-title><source>Lancet Respir Med</source><year>2015</year><volume>3</volume><issue>11</issue><fpage>849</fpage><lpage>858</lpage><pub-id pub-id-type="doi">10.1016/S2213-2600(15)00367-7</pub-id><pub-id pub-id-type="pmid">26493938</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Corren</surname><given-names>J</given-names></name>
+<name><surname>Weinstein</surname><given-names>S</given-names></name>
+<name><surname>Janka</surname><given-names>L</given-names></name>
+<name><surname>Zangrilli</surname><given-names>J</given-names></name>
+<name><surname>Garin</surname><given-names>M</given-names></name>
+</person-group><article-title>Phase 3 Study of Reslizumab in Patients With Poorly Controlled Asthma Effects Across a Broad Range of Eosinophil Counts</article-title><source>Chest</source><year>2016</year><volume>150</volume><issue>4</issue><fpage>799</fpage><lpage>810</lpage><pub-id pub-id-type="doi">10.1016/j.chest.2016.03.018</pub-id><pub-id pub-id-type="pmid">27018175</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Castro</surname><given-names>M</given-names></name>
+<name><surname>Wenzel</surname><given-names>SE</given-names></name>
+<name><surname>Bleecker</surname><given-names>ER</given-names></name>
+<name><surname>Pizzichini</surname><given-names>E</given-names></name>
+<name><surname>Kuna</surname><given-names>P</given-names></name>
+<name><surname>Busse</surname><given-names>WW</given-names></name>
+</person-group><article-title>Benralizumab, an anti-interleukin 5 receptor a monoclonal antibody, versus placebo for uncontrolled eosinophilic asthma a phase 2b randomised dose-ranging study</article-title><source>Lancet Respir Med</source><year>2014</year><volume>2</volume><issue>11</issue><fpage>879</fpage><lpage>890</lpage><pub-id pub-id-type="doi">10.1016/S2213-2600(14)70201-2</pub-id><pub-id pub-id-type="pmid">25306557</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Possa</surname><given-names>SS</given-names></name>
+<name><surname>Leick</surname><given-names>EA</given-names></name>
+<name><surname>Prado</surname><given-names>CM</given-names></name>
+<name><surname>Martins</surname><given-names>MA</given-names></name>
+<name><surname>Tib&#x000e9;rio</surname><given-names>IF</given-names></name>
+</person-group><article-title>Eosinophilic inflammation in allergic asthma</article-title><source>Front Pharmacol</source><year>2013</year><volume>4</volume><fpage>46</fpage><lpage>46</lpage><pub-id pub-id-type="doi">10.3389/fphar.2013.00046</pub-id><pub-id pub-id-type="pmid">23616768</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Walford</surname><given-names>HH</given-names></name>
+<name><surname>Doherty</surname><given-names>TA</given-names></name>
+</person-group><article-title>Diagnosis and management of eosinophilic asthma a US perspective</article-title><source>J Asthma Allergy</source><year>2014</year><volume>7</volume><fpage>53</fpage><lpage>65</lpage><pub-id pub-id-type="doi">10.2147/JAA.S39119</pub-id><pub-id pub-id-type="pmid">24748808</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de Groot</surname><given-names>JC</given-names></name>
+<name><surname>Ten Brinke</surname><given-names>A</given-names></name>
+<name><surname>Bel</surname><given-names>EH</given-names></name>
+</person-group><article-title>Management of the patient with eosinophilic asthma a new era begins [published correction appears in ERJ Open Res. 2016 Aug 25;2(3):]. ERJ Open</article-title><source>Res</source><year>2015</year><volume>1</volume><issue>1</issue><fpage>00024</fpage><lpage>02015</lpage><pub-id pub-id-type="doi">10.1183/23120541.00024-2015</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wenzel</surname><given-names>SE</given-names></name>
+<name><surname>Schwartz</surname><given-names>LB</given-names></name>
+<name><surname>Langmack</surname><given-names>EL</given-names></name>
+<name><surname>Halliday</surname><given-names>JL</given-names></name>
+<name><surname>Trudeau</surname><given-names>JB</given-names></name>
+<name><surname>Gibbs</surname><given-names>RL</given-names></name>
+</person-group><article-title>Evidence that severe asthma can be divided pathologically into two inflammatory subtypes with distinct physiologic and clinical characteristics</article-title><source>Am J Respir Crit Care Med</source><year>1999</year><volume>160</volume><issue>3</issue><fpage>1001</fpage><lpage>1008</lpage><pub-id pub-id-type="doi">10.1164/ajrccm.160.3.9812110</pub-id><pub-id pub-id-type="pmid">10471631</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shaw</surname><given-names>DE</given-names></name>
+<name><surname>Sousa</surname><given-names>AR</given-names></name>
+<name><surname>Fowler</surname><given-names>SJ</given-names></name>
+<name><surname>Fleming</surname><given-names>LJ</given-names></name>
+<name><surname>Roberts</surname><given-names>G</given-names></name>
+<name><surname>Corfield</surname><given-names>J</given-names></name>
+</person-group><article-title>Clinical and inflammatory characteristics of the European U-BIOPRED adult severe asthma cohort [published correction appears in Eur Respir J 2017 Jun 22;49(6):]. Eur Respir</article-title><year>2015</year><volume>46</volume><issue>5</issue><fpage>1308</fpage><lpage>1321</lpage><pub-id pub-id-type="doi">10.1183/13993003.00779-2015</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Charlson</surname><given-names>ME</given-names></name>
+<name><surname>Pompei</surname><given-names>P</given-names></name>
+<name><surname>Ales</surname><given-names>KL</given-names></name>
+<name><surname>MacKenzie</surname><given-names>CR</given-names></name>
+</person-group><article-title>A new method of classifying prognostic comorbidity in longitudinal studies development and validation</article-title><source>J Chronic Dis</source><year>1987</year><volume>40</volume><issue>5</issue><fpage>373</fpage><lpage>383</lpage><pub-id pub-id-type="doi">10.1016/0021-9681(87)90171-8</pub-id><pub-id pub-id-type="pmid">3558716</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>DJ</given-names></name>
+<name><surname>Walters</surname><given-names>EH</given-names></name>
+<name><surname>Perret</surname><given-names>JL</given-names></name>
+<name><surname>Lodge</surname><given-names>CJ</given-names></name>
+<name><surname>Lowe</surname><given-names>AJ</given-names></name>
+<name><surname>Matheson</surname><given-names>MC</given-names></name>
+</person-group><article-title>Age-of-asthma onset as a determinant of different asthma phenotypes in adults a systematic review and meta-analysis of the literature</article-title><source>Expert Rev Respir Med</source><year>2015</year><volume>9</volume><issue>1</issue><fpage>109</fpage><lpage>123</lpage><pub-id pub-id-type="doi">10.1586/17476348.2015.1000311</pub-id><pub-id pub-id-type="pmid">25584929</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bleecker</surname><given-names>ER</given-names></name>
+<name><surname>FitzGerald</surname><given-names>JM</given-names></name>
+<name><surname>Chanez</surname><given-names>P</given-names></name>
+<name><surname>Papi</surname><given-names>A</given-names></name>
+<name><surname>Weinstein</surname><given-names>SF</given-names></name>
+<name><surname>Barker</surname><given-names>P</given-names></name>
+</person-group><article-title>Efficacy and safety of benralizumab for patients with severe asthma uncontrolled with high-dosage inhaled corticosteroids and long-acting &#x000df;2-agonists (SIROCCO) a randomised, multicentre, placebo-controlled phase 3 trial</article-title><source>Lancet</source><year>2016</year><volume>388</volume><issue>10056</issue><fpage>2115</fpage><lpage>2127</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(16)31324-1</pub-id><pub-id pub-id-type="pmid">27609408</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>KF</given-names></name>
+<name><surname>Wenzel</surname><given-names>SE</given-names></name>
+<name><surname>Brozek</surname><given-names>JL</given-names></name>
+<name><surname>Bush</surname><given-names>A</given-names></name>
+<name><surname>Castro</surname><given-names>M</given-names></name>
+<name><surname>Sterk</surname><given-names>PJ</given-names></name>
+</person-group><article-title>International ERS/ATS guidelines on definition, evaluation and treatment of severe asthma [published correction appears in Eur Respir</article-title><year>2014</year><volume>43</volume><issue>4</issue><fpage>1216</fpage><lpage>1216</lpage><pub-id pub-id-type="doi">10.1183/09031936.00202013</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sousa</surname><given-names>TC</given-names></name>
+<name><surname>Jardim</surname><given-names>JR</given-names></name>
+<name><surname>Jones</surname><given-names>P</given-names></name>
+</person-group><article-title>Valida&#x000e7;&#x000e3;o do Question&#x000e1;rio do Hospital Saint George na Doen&#x000e7;a Respirat&#x000f3;ria (SGRQ) em pacientes portadores de doen&#x000e7;a pulmonar obstrutiva cr&#x000f4;nica no Brasil</article-title><source>J Pneumol</source><year>2000</year><volume>26</volume><issue>3</issue><fpage>119</fpage><lpage>128</lpage><pub-id pub-id-type="doi">10.1590/S0102-35862000000300004</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Leite</surname><given-names>M</given-names></name>
+<name><surname>Ponte</surname><given-names>EV</given-names></name>
+<name><surname>Petroni</surname><given-names>J</given-names></name>
+<name><surname>D'Oliveira</surname><given-names>A</given-names><suffix>J&#x000fa;nior</suffix></name>
+<name><surname>Pizzichini</surname><given-names>E</given-names></name>
+<name><surname>Cruz</surname><given-names>AA</given-names></name>
+</person-group><article-title>Evaluation of the asthma control questionnaire validated for use in Brazil</article-title><source>J Bras Pneumol</source><year>2008</year><volume>34</volume><issue>10</issue><fpage>756</fpage><lpage>763</lpage><pub-id pub-id-type="doi">10.1590/S1806-37132008001000002</pub-id><pub-id pub-id-type="pmid">19009207</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cruz</surname><given-names>AA</given-names></name>
+<name><surname>Riley</surname><given-names>JH</given-names></name>
+<name><surname>Bansal</surname><given-names>AT</given-names></name>
+<name><surname>Ponte</surname><given-names>EV</given-names></name>
+<name><surname>Souza-Machado</surname><given-names>A</given-names></name>
+<name><surname>Almeida</surname><given-names>PCA</given-names></name>
+</person-group><article-title>Asthma similarities across ProAR (Brazil) and U-BIOPRED (Europe) adult cohorts of contrasting locations, ethnicity and socioeconomic status</article-title><source>Respir Med</source><year>2020</year><volume>161</volume><fpage>105817</fpage><lpage>105817</lpage><pub-id pub-id-type="doi">10.1016/j.rmed.2019.105817</pub-id><pub-id pub-id-type="pmid">31790928</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Comberiati</surname><given-names>P</given-names></name>
+<name><surname>McCormack</surname><given-names>K</given-names></name>
+<name><surname>Malka-Rais</surname><given-names>J</given-names></name>
+<name><surname>Spahn</surname><given-names>JD</given-names></name>
+</person-group><article-title>Proportion of Severe Asthma Patients Eligible for Mepolizumab Therapy by Age and Age of Onset of Asthma</article-title><source>J Allergy Clin Immunol Pract</source><year>2019</year><volume>7</volume><issue>8</issue><fpage>2689</fpage><lpage>2696</lpage><pub-id pub-id-type="doi">10.1016/j.jaip.2019.05.053</pub-id><pub-id pub-id-type="pmid">31201938</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bedolla-Barajas</surname><given-names>M</given-names></name>
+<name><surname>Ra&#x000fa;l Ortiz-Peregrina</surname><given-names>J</given-names></name>
+<name><surname>Daniel Hern&#x000e1;ndez-Col&#x000ed;n</surname><given-names>D</given-names></name>
+<name><surname>Morales-Romero</surname><given-names>J</given-names></name>
+<name><surname>Ramses Bedolla-Pulido</surname><given-names>T</given-names></name>
+<name><surname>Larenas-Linnemann</surname><given-names>D</given-names></name>
+</person-group><article-title>The characterization of asthma with blood eosinophilia in adults in Latin America</article-title><source>J Asthma</source><year>2019</year><volume>56</volume><issue>11</issue><fpage>1138</fpage><lpage>1146</lpage><pub-id pub-id-type="doi">10.1080/02770903.2018.1520863</pub-id><pub-id pub-id-type="pmid">30395744</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schleich</surname><given-names>F</given-names></name>
+<name><surname>Brusselle</surname><given-names>G</given-names></name>
+<name><surname>Louis</surname><given-names>R</given-names></name>
+<name><surname>Vandenplas</surname><given-names>O</given-names></name>
+<name><surname>Michils</surname><given-names>A</given-names></name>
+<name><surname>Pilette</surname><given-names>C</given-names></name>
+</person-group><article-title>Heterogeneity of phenotypes in severe asthmatics The Belgian Severe Asthma Registry (BSAR)</article-title><source>Respir Med</source><year>2014</year><volume>108</volume><issue>12</issue><fpage>1723</fpage><lpage>1732</lpage><pub-id pub-id-type="doi">10.1016/j.rmed.2014.10.007</pub-id><pub-id pub-id-type="pmid">25456708</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fowler</surname><given-names>SJ</given-names></name>
+<name><surname>Tavernier</surname><given-names>G</given-names></name>
+<name><surname>Niven</surname><given-names>R</given-names></name>
+</person-group><article-title>High blood eosinophil counts predict sputum eosinophilia in patients with severe asthma</article-title><source>J Allergy Clin Immunol</source><year>2015</year><volume>135</volume><issue>3</issue><fpage>822</fpage><lpage>824</lpage><pub-id pub-id-type="doi">10.1016/j.jaci.2014.09.034</pub-id><pub-id pub-id-type="pmid">25445828</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ortega</surname><given-names>H</given-names></name>
+<name><surname>Katz</surname><given-names>L</given-names></name>
+<name><surname>Gunsoy</surname><given-names>N</given-names></name>
+<name><surname>Keene</surname><given-names>O</given-names></name>
+<name><surname>Yancey</surname><given-names>S</given-names></name>
+</person-group><article-title>Blood eosinophil counts predict treatment response in patients with severe eosinophilic asthma</article-title><source>J Allergy Clin Immunol</source><year>2015</year><volume>136</volume><issue>3</issue><fpage>825</fpage><lpage>826</lpage><pub-id pub-id-type="doi">10.1016/j.jaci.2015.05.039</pub-id><pub-id pub-id-type="pmid">26194540</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Brasil. Minist&#x000e9;rio da Sa&#x000fa;de. Secretaria de Ci&#x000ea;ncia, Tecnologia, Inova&#x000e7;&#x000e3;o e Insumos Estrat&#x000e9;gicos em Sa&#x000fa;de</collab>
+</person-group><publisher-loc>Bras&#x000ed;lia</publisher-loc><publisher-name>Minist&#x000e9;rio da Sa&#x000fa;de</publisher-name><year>c2021</year><source>Relat&#x000f3;rio de recomenda&#x000e7;&#x000e3;o N&#x000ba; 613 (Maio 2021). Benralizumabe e mepolizumabe no tratamento da asma eosinof&#x000ed;lica grave refrat&#x000e1;ria em pacientes com idade de 18 anos ou mais</source><ext-link xlink:href="http://conitec.gov.br/images/Relatorios/2021/20210602_Relatorio_613_benralizumabe_mepolizumabe_asma_grave_P_22.pdf" ext-link-type="uri">http://conitec.gov.br/images/Relatorios/2021/20210602_Relatorio_613_benralizumabe_mepolizumabe_asma_grave_P_22.pdf</ext-link></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Teague</surname><given-names>WG</given-names></name>
+<name><surname>Phillips</surname><given-names>BR</given-names></name>
+<name><surname>Fahy</surname><given-names>JV</given-names></name>
+<name><surname>Wenzel</surname><given-names>SE</given-names></name>
+<name><surname>Fitzpatrick</surname><given-names>AM</given-names></name>
+<name><surname>Moore</surname><given-names>WC</given-names></name>
+</person-group><article-title>Baseline Features of the Severe Asthma Research Program (SARP III) Cohort Differences with Age</article-title><source>J Allergy Clin Immunol Pract</source><year>2018</year><volume>6</volume><issue>2</issue><fpage>545</fpage><lpage>554</lpage><pub-id pub-id-type="doi">10.1016/j.jaip.2017.05.032</pub-id><pub-id pub-id-type="pmid">28866107</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>Eur Respir J</collab>
+</person-group><article-title>The ENFUMOSA cross-sectional European multicentre study of the clinical phenotype of chronic severe asthma European Network for Understanding Mechanisms of Severe Asthma</article-title><source>Eur Respir J</source><year>2003</year><volume>22</volume><issue>3</issue><fpage>470</fpage><lpage>477</lpage><pub-id pub-id-type="doi">10.1183/09031936.03.00261903</pub-id><pub-id pub-id-type="pmid">14516137</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shaw</surname><given-names>DE</given-names></name>
+<name><surname>Sousa</surname><given-names>AR</given-names></name>
+<name><surname>Fowler</surname><given-names>SJ</given-names></name>
+<name><surname>Fleming</surname><given-names>LJ</given-names></name>
+<name><surname>Roberts</surname><given-names>G</given-names></name>
+<name><surname>Corfield</surname><given-names>J</given-names></name>
+</person-group><article-title>Clinical and inflammatory characteristics of the European U-BIOPRED adult severe asthma cohort [published correction appears in Eur Respir J 2017 Jun 22;49(6):]. Eur Respir</article-title><year>2015</year><volume>46</volume><issue>5</issue><fpage>1308</fpage><lpage>1321</lpage><pub-id pub-id-type="doi">10.1183/13993003.00779-2015</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Konstantellou</surname><given-names>E</given-names></name>
+<name><surname>Papaioannou</surname><given-names>AI</given-names></name>
+<name><surname>Loukides</surname><given-names>S</given-names></name>
+<name><surname>Patentalakis</surname><given-names>G</given-names></name>
+<name><surname>Papaporfyriou</surname><given-names>A</given-names></name>
+<name><surname>Hillas</surname><given-names>G</given-names></name>
+</person-group><article-title>Persistent airflow obstruction in patients with asthma Characteristics of a distinct clinical phenotype</article-title><source>Respir Med</source><year>2015</year><volume>109</volume><issue>11</issue><fpage>1404</fpage><lpage>1409</lpage><pub-id pub-id-type="doi">10.1016/j.rmed.2015.09.009</pub-id><pub-id pub-id-type="pmid">26412805</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Taille</surname><given-names>C</given-names></name>
+<name><surname>Chanez</surname><given-names>P</given-names></name>
+<name><surname>Devouassoux</surname><given-names>G</given-names></name>
+<name><surname>Didier</surname><given-names>A</given-names></name>
+<name><surname>Pison</surname><given-names>C</given-names></name>
+<name><surname>Garcia</surname><given-names>G</given-names></name>
+</person-group><article-title>Mepolizumab in a population with severe eosinophilic asthma and corticosteroid dependence results from a French early access programme</article-title><source>Eur Respir J</source><year>2020</year><volume>55</volume><issue>6</issue><fpage>1902345</fpage><lpage>1902345</lpage><pub-id pub-id-type="doi">10.1183/13993003.02345-2019</pub-id><pub-id pub-id-type="pmid">32241829</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sullivan</surname><given-names>PW</given-names></name>
+<name><surname>Ghushchyan</surname><given-names>VH</given-names></name>
+<name><surname>Globe</surname><given-names>G</given-names></name>
+<name><surname>Schatz</surname><given-names>M</given-names></name>
+</person-group><article-title>Oral corticosteroid exposure and adverse effects in asthmatic patients</article-title><source>J Allergy Clin Immunol</source><year>2018</year><volume>141</volume><issue>1</issue><fpage>110</fpage><lpage>116</lpage><pub-id pub-id-type="doi">10.1016/j.jaci.2017.04.009</pub-id><pub-id pub-id-type="pmid">28456623</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nair</surname><given-names>P</given-names></name>
+<name><surname>Wenzel</surname><given-names>S</given-names></name>
+<name><surname>Rabe</surname><given-names>KF</given-names></name>
+<name><surname>Bourdin</surname><given-names>A</given-names></name>
+<name><surname>Lugogo</surname><given-names>NL</given-names></name>
+<name><surname>Kuna</surname><given-names>P</given-names></name>
+</person-group><article-title>Oral Glucocorticoid-Sparing Effect of Benralizumab in Severe Asthma</article-title><source>N Engl J Med</source><year>2017</year><volume>376</volume><issue>25</issue><fpage>2448</fpage><lpage>2458</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1703501</pub-id><pub-id pub-id-type="pmid">28530840</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brusselle</surname><given-names>GG</given-names></name>
+<name><surname>Koppelman</surname><given-names>GH</given-names></name>
+</person-group><article-title>Biologic Therapies for Severe Asthma</article-title><source>N Engl J Med</source><year>2022</year><volume>386</volume><issue>2</issue><fpage>157</fpage><lpage>171</lpage><pub-id pub-id-type="doi">10.1056/NEJMra2032506</pub-id><pub-id pub-id-type="pmid">35020986</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Albers</surname><given-names>FC</given-names></name>
+<name><surname>M&#x000fc;llerov&#x000e1;</surname><given-names>H</given-names></name>
+<name><surname>Gunsoy</surname><given-names>NB</given-names></name>
+<name><surname>Shin</surname><given-names>JY</given-names></name>
+<name><surname>Nelsen</surname><given-names>LM</given-names></name>
+<name><surname>Bradford</surname><given-names>ES</given-names></name>
+</person-group><article-title>Biologic treatment eligibility for real-world patients with severe asthma The IDEAL study</article-title><source>J Asthma</source><year>2018</year><volume>55</volume><issue>2</issue><fpage>152</fpage><lpage>160</lpage><pub-id pub-id-type="doi">10.1080/02770903.2017.1322611</pub-id><pub-id pub-id-type="pmid">28622052</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Carvalho-Pinto</surname><given-names>RM</given-names></name>
+<name><surname>Can&#x000e7;ado</surname><given-names>JED</given-names></name>
+<name><surname>Pizzichini</surname><given-names>MMM</given-names></name>
+<name><surname>Fiterman</surname><given-names>J</given-names></name>
+<name><surname>Rubin</surname><given-names>AS</given-names></name>
+<name><surname>Cerci</surname><given-names>A</given-names><suffix>Neto</suffix></name>
+</person-group><article-title>2021 Brazilian Thoracic Association recommendations for the management of severe asthma</article-title><source>J Bras Pneumol</source><year>2021</year><volume>47</volume><issue>6</issue><elocation-id>e20210273</elocation-id><pub-id pub-id-type="doi">10.36416/1806-3756/e20210273</pub-id><pub-id pub-id-type="pmid">34932721</pub-id></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Caminati</surname><given-names>M</given-names></name>
+<name><surname>Pham</surname><given-names>DL</given-names></name>
+<name><surname>Bagnasco</surname><given-names>D</given-names></name>
+<name><surname>Canonica</surname><given-names>GW</given-names></name>
+</person-group><article-title>Type 2 immunity in asthma</article-title><source>World Allergy Organ J</source><year>2018</year><volume>11</volume><issue>1</issue><fpage>13</fpage><lpage>13</lpage><pub-id pub-id-type="doi">10.1186/s40413-018-0192-5</pub-id><pub-id pub-id-type="pmid">29988331</pub-id></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mukherjee</surname><given-names>M</given-names></name>
+<name><surname>Nair</surname><given-names>P</given-names></name>
+</person-group><article-title>Blood or sputum eosinophils to guide asthma therapy . Lancet Respir</article-title><source>Med</source><year>2015</year><volume>3</volume><issue>11</issue><fpage>824</fpage><lpage>825</lpage><pub-id pub-id-type="doi">10.1016/S2213-2600(15)00419-1</pub-id></element-citation></ref></ref-list></back></article>

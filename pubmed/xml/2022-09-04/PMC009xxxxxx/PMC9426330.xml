@@ -1,0 +1,1395 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700474</article-id><article-id pub-id-type="pmc">PMC9426330</article-id><article-id pub-id-type="publisher-id">30289</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.30289</article-id><article-categories><subj-group subj-group-type="heading"><subject>Revisiones De Literatura</subject></subj-group></article-categories><title-group><article-title>Potenciales de la nutrigen&#x000e9;tica en el abordaje y tratamiento de enfermedades cardiovasculares y factores de riesgo asociados</article-title><trans-title-group xml:lang="en"><trans-title>Nutrigenetics: potentials and applications in cardiovascular diseases and associated risk factors</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Potenciais da nutrigen&#x000e9;tica na abordagem e tratamento de doen&#x000e7;as cardiovasculares e fatores de risco associados</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">http://orcid.org/0000-0002-8878-3067</contrib-id><name><surname>Defag&#x000f3;</surname><given-names>Maria Daniela</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>danieladefago@hotmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-0366-3112</contrib-id><name><surname>Eynard</surname><given-names>Aldo Renato</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>aeynard@gmail.com</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Escuela de Nutrici&#x000f3;n. Facultad de Ciencias M&#x000e9;dicas. Universidad Nacional de C&#x000f3;rdoba</institution>
+<country country="AR">Argentina</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Instituto de Investigaciones en Ciencias de la Salud (INICSA), CONICET</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>168</fpage><lpage>180</lpage><history><date date-type="received" iso-8601-date="2020-09-14"><day>14</day><month>9</month><year>2020</year></date><date date-type="accepted" iso-8601-date="2020-09-18"><day>18</day><month>9</month><year>2020</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/30289/37841">https://revistas.unc.edu.ar/index.php/med/article/view/30289/37841</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/30289/37630">https://revistas.unc.edu.ar/index.php/med/article/view/30289/37630</self-uri><abstract abstract-type="section"><title>Resumen</title><sec><title>Introducci&#x000f3;n:</title><p>A partir de la nutrigen&#x000e9;tica, estudio del efecto que la variaci&#x000f3;n gen&#x000e9;tica tiene sobre la respuesta individual a la dieta, es posible comprender y modular la respuesta cl&#x000ed;nica condicionada por el genotipo por la dieta.</p></sec><sec><title>Objetivo:</title><p>explorar la evidencia bibliogr&#x000e1;fica sobre los potenciales de la nutrigen&#x000e9;tica en el abordaje y tratamiento de las enfermedades cardiovasculares (ECV) y factores de riesgo asociados.</p></sec><sec><title>Materiales y m&#x000e9;todos:</title><p>se realiz&#x000f3; una b&#x000fa;squeda sistem&#x000e1;tica de publicaciones en bases de datos electr&#x000f3;nicas MEDLINE, EMBASE y Google Scholar. Se incluyeron aquellos art&#x000ed;culos que conten&#x000ed;an las palabras claves o una combinaci&#x000f3;n de ellas, durante 1990-2019, tanto de estudios experimentales como observacionales.</p></sec><sec><title>Resultados:</title><p>49 art&#x000ed;culos fueron incluidos, clasificados de acuerdo a las principales v&#x000ed;as moleculares involucradas en la etiopatogenia de las ECV. Si bien se encontr&#x000f3; una amplia diversidad de variantes gen&#x000e9;ticas que confieren susceptibilidad para las ECV y factores de riesgo como obesidad, dislipemia e hipertensi&#x000f3;n arterial, se observ&#x000f3; poca consistencia en la publicaci&#x000f3;n de estudios de replicaci&#x000f3;n.</p></sec><sec><title>Conclusi&#x000f3;n:</title><p>el conocimiento de variantes gen&#x000e9;ticas permite la personalizaci&#x000f3;n de la dieta, que puede complementarse con otras recomendaciones saludables asociadas al estilo de vida. Son necesarios m&#x000e1;s estudios en grandes poblaciones y metaan&#x000e1;lisis que muestren de manera inequ&#x000ed;voca la relaci&#x000f3;n gen-nutriente.</p></sec></abstract><trans-abstract xml:lang="en" abstract-type="section"><title>Abstract</title><sec><title>Introduction:</title><p>From nutrigenetics, the genetic variation to dietary response, it is possible to understand and modulate the clinical response conditioned by the genotype by the diet.</p></sec><sec><title>Objective:</title><p>to explore the bibliographic evidence on the potential of nutrigenetics in the approach and treatment of cardiovascular diseases (CVD) and associated risk factors.</p></sec><sec><title>Materials and ethods:</title><p>a systematic search was carried out in the electronic databases MEDLINE, EMBASE and Google Scholar. Those articles that contained the keywords or a combination of them, during 1990-2019, from both experimental and observational studies, were included.</p></sec><sec><title>Results:</title><p>49 articles were included, classified according to the main molecular pathways involved in the etiopathogenesis of CVD. Although a wide diversity of genetic variants was found that confer susceptibility to CVD and risk factors such as obesity, dyslipidemia and arterial hypertension, there is little consistency in the publication of replication studies.</p></sec><sec><title>Conclusion:</title><p>the knowledge of genetic variants allows the personalization of the diet, which can be complemented with other healthy recommendations associated with the lifestyle. More studies in large populations and meta-analyzes are necessary to unequivocally show the gene-nutrient relationship.</p></sec></trans-abstract><trans-abstract xml:lang="pt" abstract-type="section"><title>Resumo</title><sec><title>Introdu&#x000e7;&#x000e3;o:</title><p>A partir da nutrigen&#x000e9;tica, estudo do efeito que a varia&#x000e7;&#x000e3;o gen&#x000e9;tica exerce sobre a resposta individual &#x000e0; dieta, &#x000e9; poss&#x000ed;vel compreender e modular a resposta cl&#x000ed;nica condicionada pelo gen&#x000f3;tipo pela dieta.</p></sec><sec><title>Objetivo</title><p>explorar as evid&#x000ea;ncias bibliogr&#x000e1;ficas sobre o potencial da nutrigen&#x000e9;tica na abordagem e tratamento das doen&#x000e7;as cardiovasculares (DCV) e fatores de risco associados.</p></sec><sec><title>Materiais &#x000e9;todos:</title><p>foi realizada uma busca sistem&#x000e1;tica de publica&#x000e7;&#x000f5;es nas bases de dados eletr&#x000f4;nicas MEDLINE, EMBASE e Google Scholar. Foram inclu&#x000ed;dos os artigos que continham as palavras-chave ou uma combina&#x000e7;&#x000e3;o delas, no per&#x000ed;odo 1990-2019, tanto de estudos experimentais quanto observacionais.</p></sec><sec><title>Resultados:</title><p>foram inclu&#x000ed;dos 49 artigos, classificados de acordo com as principais vias moleculares envolvidas na etiopatogenia das DCV. Embora tenha sido encontrada uma grande diversidade de variantes gen&#x000e9;ticas que conferem suscetibilidade &#x000e0;s DCV e a fatores de risco como obesidade, dislipidemia e hipertens&#x000e3;o arterial, pouca consist&#x000ea;ncia foi observada na publica&#x000e7;&#x000e3;o de estudos de replica&#x000e7;&#x000e3;o.</p></sec><sec><title>Conclus&#x000e7;&#x000e3;o:</title><p>o conhecimento das variantes gen&#x000e9;ticas permite a personaliza&#x000e7;&#x000e3;o da dieta, podendo ser complementada com outras recomenda&#x000e7;&#x000f5;es saud&#x000e1;veis associadas ao estilo de vida. Mais estudos em grandes popula&#x000e7;&#x000f5;es e meta-an&#x000e1;lises s&#x000e3;o necess&#x000e1;rios para mostrar inequivocamente a rela&#x000e7;&#x000e3;o gene-nutriente.</p></sec></trans-abstract><kwd-group><title>Palabras clave</title><kwd>genes</kwd><kwd>gen&#x000f3;mica</kwd><kwd>nutrici&#x000f3;n</kwd><kwd>enfermedad cardiovascular</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>genes</kwd><kwd>genomics</kwd><kwd>nutrition</kwd><kwd>cardiovascular disease</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>genes</kwd><kwd>gen&#x000f3;mica</kwd><kwd>nutri&#x000e7;&#x000e3;o</kwd><kwd>doen&#x000e7;a cardiovascular</kwd></kwd-group><counts><fig-count count="1"/><table-count count="1"/><equation-count count="0"/><ref-count count="62"/><page-count count="13"/></counts></article-meta></front><body><boxed-text position="float"><p>Una misma dieta puede tener efectos diferentes en las personas y ello se debe a las caracter&#x000ed;sticas gen&#x000e9;ticas individuales. En este art&#x000ed;culo se llev&#x000f3; a cabo una revisi&#x000f3;n bibliogr&#x000e1;fica de c&#x000f3;mo ciertas variantes en genes asociados a la enfermedad cardiovascular y factores de riesgo asociados (como dislipemia, hipertensi&#x000f3;n arterial, obesidad y diabetes) condicionan la respuesta a la alimentaci&#x000f3;n, actuando de manera protectora o promotora de la enfermedad.</p></boxed-text><boxed-text position="float"><sec><title>Conceptos clave</title><sec><title>Qu&#x000e9; se sabe sobre el tema:</title><p>La enfermedad cardiovascular (ECV) es una patolog&#x000ed;a multifactorial con componentes gen&#x000e9;ticos y otros asociados al estilo de vida. La detecci&#x000f3;n de genes candidatos ha permitido profundizar en la patogenia de la ECV y de aquellos polimorfismos (SNPs) vinculados a un mayor o menor riesgo de padecerla. A partir de la nutrigen&#x000e9;tica, rama de la gen&#x000f3;mica nutricional, es posible comprender y modular la respuesta cl&#x000ed;nica condicionada por el genotipo, ante determinados nutrientes.</p></sec><sec><title>Qu&#x000e9; aporta este trabajo:</title><p>Este trabajo presenta, a trav&#x000e9;s de una revisi&#x000f3;n de la literatura, el potencial de la nutrigen&#x000e9;tica en el abordaje y tratamiento de las enfermedades cardiovasculares y factores de riesgo asociados.</p></sec></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCI&#x000d3;N</title><p>La gen&#x000f3;mica nutricional es la disciplina que estudia la interacci&#x000f3;n de los alimentos y sus componentes con el genoma de los individuos a nivel molecular, celular y sist&#x000e9;mico, con el fin de emplear la alimentaci&#x000f3;n como una herramienta para prevenir o tratar enfermedades. Incluye tres grandes &#x000e1;reas: la nutrigen&#x000f3;mica, epigen&#x000e9;tica y la nutrigen&#x000e9;tica
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+. La<italic toggle="yes">nutrigen&#x000f3;mica</italic> aborda el efecto de los nutrientes sobre el genoma y sus variaciones. Implica el an&#x000e1;lisis de los mecanismos moleculares que se manifiestan seg&#x000fa;n distintas respuestas fenot&#x000ed;picas a la dieta en relaci&#x000f3;n al genotipo o estructura gen&#x000e9;tica. Si bien el t&#x000e9;rmino <italic toggle="yes">epigen&#x000e9;tica</italic> no se incluye generalmente en la definici&#x000f3;n de gen&#x000f3;mica nutricional, &#x000e9;ste hace referencia a los patrones hereditarios de la expresi&#x000f3;n de genes sin cambios en la secuencia del &#x000e1;cido desoxirribonucleico (ADN) por la metilaci&#x000f3;n del ADN y modificaciones en las histonas, en los cuales la exposici&#x000f3;n o no a determinados nutrientes desde la gestaci&#x000f3;n tiene un rol relevante. Por otro lado, se entiende por <italic toggle="yes">nutrigen&#x000e9;tica</italic> al estudio de las variantes gen&#x000e9;ticas de los individuos que condicionan la respuesta cl&#x000ed;nica a determinados nutrientes. Los SNPs o variantes gen&#x000e9;ticas (por sus siglas en ingl&#x000e9;s <italic toggle="yes">single nucleotide polymorphisms</italic> o
+polimorfismos de nucle&#x000f3;tido simple) comprenden el cambio de un nucle&#x000f3;tido por otro en la secuencia de ADN y representan el 90% de todos los polimorfismos humanos. Los SNPs que alteran la funci&#x000f3;n de genes involucrados en el mantenimiento b&#x000e1;sico de la c&#x000e9;lula pueden aumentar el riesgo de desarrollar enfermedad a trav&#x000e9;s de su interacci&#x000f3;n con factores diet&#x000e9;ticos o bien, pueden ser responsables de un aspecto nutricional beneficioso
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+.
+</p><p>La alimentaci&#x000f3;n constituye un factor ambiental primordial al que todos los seres humanos est&#x000e1;n expuestos desde el nacimiento y, al ser potencialmente modificable, ofrece numerosas posibilidades de prevenci&#x000f3;n y control, en salud y enfermedad. De este modo, la nutrigen&#x000e9;tica permite actuar a trav&#x000e9;s de recomendaciones nutricionales espec&#x000ed;ficas que pueden compensar tendencias gen&#x000e9;ticas de riesgo. Poseer una determinada variante gen&#x000e9;tica asociada a un riesgo no significa que dicha patolog&#x000ed;a se desarrollar&#x000e1; inevitablemente, pero s&#x000ed; que hay un mayor riesgo de que padecerla. El conocimiento de las variantes gen&#x000e9;ticas permite la personalizaci&#x000f3;n de la alimentaci&#x000f3;n, la cual debe ser acompa&#x000f1;ada de otras recomendaciones asociadas al estilo de vida y surgidas a trav&#x000e9;s de la completa valoraci&#x000f3;n nutricional, cl&#x000ed;nica y familiar
+<sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+</sup>
+. Este concepto de nutrici&#x000f3;n personalizada surge como una oportunidad para la prevenci&#x000f3;n de enfermedades y para robustecer la salud a trav&#x000e9;s del estudio simult&#x000e1;neo del fenotipo (evaluaci&#x000f3;n nutricional antropom&#x000e9;trica, bioqu&#x000ed;mica y alimentaria) y del genotipo (test nutrigen&#x000e9;ticos) (<xref rid="f1" ref-type="fig">Figura 1</xref>) .
+</p><p>
+<fig position="float" id="f1"><label>Figura 1</label><caption><title>Din&#x000e1;mica de la nutrici&#x000f3;n personalizada</title></caption><graphic xlink:href="1853-0605-79-2-168-g001" position="float"/></fig>
+</p><p>Las enfermedades cardiovasculares (ECV) son patolog&#x000ed;as complejas, caracterizadas por procesos inflamatorios y alteraciones vasculares cr&#x000f3;nicas con eventos agudos poco predecibles. Los estudios de asociaci&#x000f3;n gen&#x000e9;tica y gen&#x000f3;mica (GWAS, <italic toggle="yes">genome-wide association study</italic>) y los estudios familiares han permitido la identificaci&#x000f3;n de genes candidatos relacionados a la etiopatogenia de esta enfermedad y postulado ciertos SNPs como causales de ECV en determinadas poblaciones
+<sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+. Este trabajo presenta, a trav&#x000e9;s de una revisi&#x000f3;n de la literatura, el potencial de la nutrigen&#x000e9;tica en el abordaje y tratamiento de las enfermedades cardiovasculares y factores de riesgo asociados.
+</p></sec><sec sec-type="materials|methods"><title>MATERIALES Y M&#x000c9;TODOS</title><p>El art&#x000ed;culo incluye, en primer lugar, una teorizaci&#x000f3;n sobre los biomarcadores gen&#x000e9;ticos y las ECV, seguida por una revisi&#x000f3;n de la evidencia cient&#x000ed;fica presente en bases de datos electr&#x000f3;nicas sobre la influencia de variantes gen&#x000e9;ticas en el abordaje cl&#x000ed;nico de la ECV y factores de riesgo asociados.</p><p>Para este segundo apartado, se realiz&#x000f3; una b&#x000fa;squeda sistem&#x000e1;tica de publicaciones cient&#x000ed;ficas que tuvieron como objetivo analizar la asociaci&#x000f3;n entre nutrigen&#x000e9;tica y ECV. Para la b&#x000fa;squeda se utilizaron las bases de datos electr&#x000f3;nicas Medline, Embase, Lilacs y SciELO. Se incluyeron estudios observacionales y experimentales realizados en seres humanos que reportaron el an&#x000e1;lisis del impacto de la alimentaci&#x000f3;n en la ECV y sus factores de riesgo en funci&#x000f3;n de las variantes gen&#x000e9;ticas, sin restricci&#x000f3;n de lenguaje, publicados entre los a&#x000f1;os 1990-2019. Se utilizaron t&#x000e9;rminos de b&#x000fa;squeda vinculados al objetivo del trabajo en diferentes combinaciones (ej. nutrigen&#x000e9;tica, SNPs, genes, dieta, enfermedad cardiovascular). Los estudios experimentales en animales, duplicados o con resultados no correspondientes al objetivo de este art&#x000ed;culo fueron excluidos. Luego de una primera selecci&#x000f3;n a trav&#x000e9;s de la lectura de t&#x000ed;tulos y res&#x000fa;menes de los trabajos identificados (n=220), se obtuvieron los
+textos completos de los art&#x000ed;culos elegidos en la primera ronda de revisores. Posteriormente tras la lectura de todos los art&#x000ed;culos completos y considerados potencialmente pertinentes, se lleg&#x000f3; a un consenso respecto a aquellos que finalmente fueron incluidos en la revisi&#x000f3;n sistem&#x000e1;tica, los cuales fueron 49 art&#x000ed;culos.
+</p></sec><sec sec-type="results|discussion"><title>RESULTADOS Y DISCUSI&#x000d3;N</title><sec><title>Biomarcadores g&#x000e9;nicos</title><p>Un biomarcador es una impronta biol&#x000f3;gica que puede medirse de forma objetiva y proporciona informaci&#x000f3;n sobre el desarrollo de procesos patol&#x000f3;gicos, fisiol&#x000f3;gicos o de respuesta terap&#x000e9;utica. Los biomarcadores g&#x000e9;nicos corresponden a variaciones en la estructura y secuencia gen&#x000e9;tica que pueden causar la p&#x000e9;rdida o el funcionamiento defectuoso de una prote&#x000ed;na vital para el desarrollo normal de procesos biol&#x000f3;gicos
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+. El genotipado de SNPs consiste en la detecci&#x000f3;n de polimorfismos de la cadena de ADN mediante distintas metodolog&#x000ed;as, como PCR en tiempo real (<italic toggle="yes">quantitative polymerase chain reaction real time</italic>), variante de la reacci&#x000f3;n en cadena de la polimerasa (PCR), utilizada para amplificar y simult&#x000e1;neamente cuantificar de forma absoluta el producto de la amplificaci&#x000f3;n de ADN
+<sup>
+<xref rid="B6" ref-type="bibr">6</xref>
+</sup>
+.
+</p><p>En los &#x000fa;ltimos a&#x000f1;os, la asociaci&#x000f3;n de SNPs con determinadas patolog&#x000ed;as ha aumentado notablemente por el empleo de t&#x000e9;cnicas de genotipado masivo y la informaci&#x000f3;n procedente de grandes proyectos internacionales de genotipificaci&#x000f3;n como los proyectos HapMap, Human Variome y los grandes estudios de asociaci&#x000f3;n GWAS, en los que se analizan de forma simult&#x000e1;nea miles de SNPs distribuidos por todo el genoma, que permiten identificar variantes gen&#x000e9;ticas relacionadas con la enfermedad por v&#x000ed;as y mecanismos no conocidos previamente
+<sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+.
+</p></sec><sec><title>Marcadores gen&#x000e9;ticos de riesgo en enfermedades cardiovasculares y factores de riesgo asociados</title><p>Las ECV, principal causa de muerte en el denominado mundo "desarrollado", tienen un origen multifactorial que resulta de la interacci&#x000f3;n entre la susceptibilidad gen&#x000e9;tica del individuo y los factores ambientales a los que se ha expuesto. Como principales factores de riesgo para las ECV se destacan el tabaquismo, la inactividad f&#x000ed;sica, la diabetes mellitus, la dislipemia y la hipertensi&#x000f3;n arterial; tambi&#x000e9;n factores no modificables como el sexo, la edad y antecedentes heredo-familiares. Nuevos marcadores cl&#x000ed;nicos y moleculares, como la prote&#x000ed;na C reactiva ultrasensible (PCRus), la homociste&#x000ed;na y SNPs, han surgido en los &#x000fa;ltimos tiempos para mejorar la estimaci&#x000f3;n del riesgo cardiovascular y ofrecer nuevas terap&#x000e9;uticas
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+.
+</p><p>Las principales v&#x000ed;as moleculares involucradas en la etiopatogenia de las ECV comprenden el estr&#x000e9;s oxidativo, el metabolismo lip&#x000ed;dico, la inflamaci&#x000f3;n y los trastornos hemodin&#x000e1;micos, v&#x000ed;as en las cuales se han identificado genes candidatos y sus correspondientes SNPs que confieren susceptibilidad para las ECV y factores de riesgo como obesidad, dislipemia e hipertensi&#x000f3;n arterial
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+.
+</p><p>Se presenta a continuaci&#x000f3;n, la evidencia sobre determinados genes y SNPs vinculados a la ECV y el potencial de la nutrigen&#x000e9;tica en el abordaje de estas patolog&#x000ed;as a trav&#x000e9;s de posibles intervenciones alimentarias.</p></sec><sec><title>Genes asociados a dislipemia</title><p>La alteraci&#x000f3;n en el metabolismo lip&#x000ed;dico constituye uno de los principales factores de riesgo de ECV. Existen diversas investigaciones acerca de las diferentes respuestas a la dieta, reflejadas en las concentraciones lip&#x000ed;dicas plasm&#x000e1;ticas, en relaci&#x000f3;n a genes candidatos implicados en el metabolismo de las lipoprote&#x000ed;nas, como detallaremos y que se sintetiza en la <bold>Tabla 1</bold>.
+</p><p><bold>Apolipoprote&#x000ed;na A1 (APOA1)</bold>: codifica la apolipoprote&#x000ed;na A-I, principal componente proteico de la lipoprote&#x000ed;na de alta densidad (HDL-c) en el plasma y defectos en este gen est&#x000e1;n asociados con deficiencias de HDL-c. Mutaciones en la regi&#x000f3;n reguladora del gen, en la posici&#x000f3;n-75 pdb con la sustituci&#x000f3;n de alanina por glicina (A-&#x0003e;G, SNP rs670), han sido asociadas a cambios en las concentraciones de lipoprote&#x000ed;nas s&#x000e9;ricas. Sujetos portadores del alelo A presentaron niveles m&#x000e1;s elevados de colesterol total y LDL-c, particularmente despu&#x000e9;s de una dieta rica en &#x000e1;cidos grasos monoinsaturados (MUFAs, <italic toggle="yes">monounsaturated fatty acids</italic>) en comparaci&#x000f3;n con el genotipo GG. Con respecto a los &#x000e1;cidos grasos poliinsaturados de cadena larga (PUFAs, <italic toggle="yes">polyunsaturated fatty acids</italic>), en mujeres portadoras del alelo A, un consumo superior de PUFAs fue asociado a mayores concentraciones de HDL-c, mientras que se observ&#x000f3; un efecto opuesto en mujeres con el
+genotipo GG
+<sup>
+<xref rid="B10" ref-type="bibr">10-12</xref>
+</sup>
+.
+</p><p><bold>Apolipoprote&#x000ed;na A4 (APOA4)</bold>: participa en la absorci&#x000f3;n intestinal de los l&#x000ed;pidos dietarios y en la s&#x000ed;ntesis y aclaramiento de quilomicrones. Un SNP com&#x000fa;n implica la sustituci&#x000f3;n de glutamina por histidina (Gln360His, G&#x0003e;T, rs5110). En portadores de este SNP se han reportado menores concentraciones de LDL-c en respuesta a la ingesta de colesterol total y un efecto beneficioso en las concentraciones de HDL-c ante una dieta rica en MUFAs. Otra variante com&#x000fa;n es el SNP rs675 (Thr347Ser), asociado a una mejor respuesta en el descenso de colesterol, LDL-c y ApoB ante una dieta rica en fitoesteroles, fibras solubles y PUFAs
+<sup><xref rid="B13" ref-type="bibr">13</xref>.
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+.
+</p><p><bold>Apolipoprote&#x000ed;na A5 (APO5)</bold>: participa en el metabolismo de los triglic&#x000e9;ridos. Si bien se han descrito m&#x000e1;s de 15 variantes en este gen, dentro de las m&#x000e1;s estudiadas se encuentra el SNP rs662799 (1131T-&#x0003e;C), asociado a riesgo de cardiopat&#x000ed;a isqu&#x000e9;mica, mayores concentraciones de triglic&#x000e9;ridos, LDL-c y prote&#x000ed;na C reactiva s&#x000e9;rica. La reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble tendr&#x000ed;a un efecto beneficioso en este genotipo. Otra variante, el SNP rs3135506, ha sido asociado a perturbaciones hemodin&#x000e1;micas y se caracteriza por la presencia de citosina en lugar de guanina en su mol&#x000e9;cula. Los individuos homocigotos CC (genotipo m&#x000e1;s frecuente) presentaron hipertensi&#x000f3;n arterial cuando en su alimentaci&#x000f3;n hubo un porcentaje de grasa superior al 30% del valor energ&#x000e9;tico total (VET), mientras que en individuos con la presencia del alelo G (CG o GG) se observ&#x000f3; el efecto contrario, ya que cuando la
+ingesta de grasa super&#x000f3; el 30% del VET la presi&#x000f3;n arterial fue menor. Otro SNP estudiado es el rs2075291, con sustituci&#x000f3;n de una glicina por ciste&#x000ed;na en el amino&#x000e1;cido 185 (185Gly-&#x0003e;Cys). La presencia del alelo A se asocia mayor riesgo de hipertrigliceridemia, especialmente en el genotipo AA
+<sup>
+<xref rid="B15" ref-type="bibr">15-17</xref>
+</sup>
+.
+</p><p><bold>Apolipoprote&#x000ed;na E (APOE)</bold>: esta mol&#x000e9;cula codifica la principal apoprote&#x000ed;na integrante de los quilomicrones y mutaciones en este gen pueden provocar disbetalipoproteinemia, con elevaci&#x000f3;n de la concentraci&#x000f3;n plasm&#x000e1;tica de colesterol y triglic&#x000e9;ridos. Se reconocen tres variantes al&#x000e9;licas relativamente comunes de ApoE definidas por dos SNPs, rs429358 y rs7412 y denominados ApoE-&#x003b5;2, ApoE-&#x003b5;3 (la variante m&#x000e1;s frecuente) y ApoE-&#x003b5;4 que sintetizan las prote&#x000ed;nas ApoE2, ApoE3 y ApoE4. Si bien en el caso del SNP rs429358 el alelo T es el m&#x000e1;s frecuente y no se asocia a riesgo, si el alelo es C y adem&#x000e1;s contiene la variante rs7412 (C/C o C/T, denomin&#x000e1;ndose alelo APOE-&#x003b5;4) surge un riesgo aumentado de enfermedad de Alzheimer y ECV. As&#x000ed;, la isoforma de ApoE4 es un factor de riesgo importante, mientras que la isoforma de ApoE3 no se asocia con un mayor riesgo de ECV. En el caso de la ApoE2 se ha comunicado una relaci&#x000f3;n m&#x000e1;s ambigua con la ECV, dependiente de otros factores
+gen&#x000e9;ticos y ambientales
+<sup><xref rid="B18" ref-type="bibr">18</xref>.
+<xref rid="B19" ref-type="bibr">19</xref>
+</sup>
+.
+</p><p>Al implementar dietas bajas en grasas totales y grasas saturadas, como as&#x000ed; tambi&#x000e9;n al incorporar PUFAs, se han observado resultados favorables a nivel lip&#x000e9;mico en todas las isoformas, y m&#x000e1;s fuertemente en la ApoE4
+<sup><xref rid="B20" ref-type="bibr">20</xref>.
+<xref rid="B21" ref-type="bibr">21</xref>
+</sup>
+.
+</p><p><bold>Paraoxonasa 1 (PON1)</bold>: la enzima codificada por este gen es una &#x000e9;ster-hidrolasa presente en las HDL-c relacionada con la eliminaci&#x000f3;n de fosfol&#x000ed;pidos e hidroper&#x000f3;xidos oxidados presentes en la LDL-c, inhibiendo de esta forma su riesgosa actividad biol&#x000f3;gica y restaurando una LDL-c normal para acoplarse a su receptor. El SNP rs662 presenta la sustituci&#x000f3;n de arginina por glutamina en la regi&#x000f3;n 192 (A-&#x0003e;G). Mientras que la presencia del alelo G se asocia a menor riesgo cardiovascular (GG o GA), el alelo A (genotipo AA) se vincula a mayor riesgo de ECV. Otro SNP en estudio es el rs854560, con los genotipos AA, AT y TT. La presencia del alelo T es la forma m&#x000e1;s favorable, que codifica metionina, mientras que el alelo A que codifica leucina, tendr&#x000ed;a el efecto opuesto, con mayor riesgo de ECV y susceptibilidad a complicaciones como ser diabetes y su complicaci&#x000f3;n m&#x000e1;s frecuente, la retinopat&#x000ed;a diab&#x000e9;tica. Algunos investigadores han reportado un rol protector en la
+ingesta de polifenoles, antocianos y &#x000e1;cido oleico y la actividad de PON1, logr&#x000e1;ndose la obtenci&#x000f3;n de mejores perfiles lip&#x000ed;dicos plasm&#x000e1;ticos
+<sup><xref rid="B22" ref-type="bibr">22</xref>.
+<xref rid="B23" ref-type="bibr">23</xref>
+</sup>
+.
+</p><p><bold>Receptor activado por proliferadores peroxisomales alfa (PPARA</bold>, por sus siglas en ingl&#x000e9;s,
+<italic toggle="yes">peroxisome proliferator-activated receptor alpha</italic>
+<bold>)</bold>: este gen codifica el subtipo de PPAR-&#x003b1;, factor de transcripci&#x000f3;n nuclear con un papel clave en la regulaci&#x000f3;n de las v&#x000ed;as metab&#x000f3;licas involucradas en la mantenci&#x000f3;n del balance energ&#x000e9;tico y en la utilizaci&#x000f3;n de sustratos, en especial de la oxidaci&#x000f3;n de las grasas (24). Un SNP en la posici&#x000f3;n 162 de este gen, caracterizado por la sustituci&#x000f3;n de una valina por una leucina (V-&#x0003e;L, rs1800206); ha sido asociado a hipertrigliceridemia en individuos con dietas muy bajas en PUFAs. Sin embargo, al aumentar el aporte de PUFAs tanto de omega 3 como omega 6, los portadores de este polimorfismo presentaban mejoras en las concentraciones de triglic&#x000e9;ridos y, al aumentar los PUFAs omega 3, en los valores de prote&#x000ed;na C reactiva
+<sup><xref rid="B25" ref-type="bibr">25</xref>.
+<xref rid="B26" ref-type="bibr">26</xref>
+</sup>
+.
+</p><p><bold>Lipoprote&#x000ed;na lipasa (LPL)</bold>: este gen codifica la lipoprote&#x000ed;na lipasa, la cual tiene la doble funci&#x000f3;n de actuar como hidrolasa de triglic&#x000e9;ridos y ligando/factor de puente para la captaci&#x000f3;n de lipoprote&#x000ed;na mediada por receptor. Mutaciones en LPL causan alteraciones en el metabolismo de las lipoprote&#x000ed;nas. Se ha observado que individuos portadores del SNP rs285, con sustituci&#x000f3;n de citosina por timina (C-&#x0003e;T, genotipo TT) en la posici&#x000f3;n 514 de la regi&#x000f3;n reguladora presentan mayores concentraciones plasm&#x000e1;ticas de HDL-c cuando el porcentaje de grasas consumidas es inferior al 30% de las calor&#x000ed;as totales, mientras que una alta ingesta de grasa se asociar&#x000ed;a con menores concentraciones de HDL-c, efecto ben&#x000e9;fico no observado cuando el aporte de grasa supera este valor. Este efecto positivo tampoco se presenta en los genotipos CC y CT. Con respecto al tipo de grasa consumida, los efectos se observaron especialmente para dietas ricas en SFAs (<italic toggle="yes">saturated fatty
+acids</italic>) y MUFAs de origen animal
+<sup>
+<xref rid="B27" ref-type="bibr">27</xref>
+</sup>
+.
+</p><p><bold>Proprote&#x000ed;na convertasa subtilisina/kexina tipo 9 (PCSK9)</bold>: es un regulador clave de concentraciones de LDL-c en suero. Mutaciones en este gen han sido asociadas a hipercolesterolemia familiar. El SNP rs505151, que implica el cambio de glicina por alanina (A-&#x0003e;G, genotipo GG) se asocia a mayor riesgo de hipercolesterolemia, mientras que el genotipo AA presenta menor riesgo tanto de dislipemia como de ateroesclerosis
+<sup><xref rid="B28" ref-type="bibr">28</xref>.
+<xref rid="B29" ref-type="bibr">29</xref>
+</sup>
+.
+</p></sec><sec><title>Genes asociados a disfunci&#x000f3;n endotelial</title><p>El endotelio vascular es un &#x000f3;rgano vasto y extenso que desempe&#x000f1;a un rol vital en la regulaci&#x000f3;n, mantenimiento y control de las funciones cardiovasculares. Perturbaciones a nivel endotelial lo predisponen a la agregaci&#x000f3;n plaquetaria, la trombosis, la inflamaci&#x000f3;n, la vasoconstricci&#x000f3;n o el incremento de la permeabilidad vascular, inici&#x000e1;ndose un proceso de <italic toggle="yes">disfunci&#x000f3;n endotelial</italic>, s&#x000ed;ndrome fisiopatol&#x000f3;gico com&#x000fa;n y complejo en el desarrollo de enfermedades metab&#x000f3;licas, cardiovasculares y autoinmunes
+<sup>
+<xref rid="B30" ref-type="bibr">30</xref>
+</sup>
+.
+</p><p><bold>Interleuquina 6 (IL-6)</bold>: este gen codifica una prote&#x000ed;na que es proinflamatoria act&#x000fa;an en la inflamaci&#x000f3;n y en el crecimiento y diferenciaci&#x000f3;n de linfocitos B. Su funcionamiento se asocia a una amplia variedad de enfermedades relacionadas a la inflamaci&#x000f3;n, incluyendo incremento en la susceptibilidad a diabetes y artritis reumatoidea. Se ha observado una asociaci&#x000f3;n entre distintos SNPs de la IL-6 y factores de riesgo de ECV. Algunos de los SNPs reportados en la regi&#x000f3;n promotora del gen IL6 comprenden las variantes rs1800795 (174G-&#x0003e;C), rs1800796 (572G-&#x0003e;C) y rs1800797 (598G-&#x0003e;C). En la variante rs1800795, la presencia del alelo G se asocia a mayor producci&#x000f3;n de IL-6, con el consecuente aumento en el riesgo de enfermedades de base inflamatoria, como diabetes tipo 2 e hipertensi&#x000f3;n arterial. Sin embargo, se ha observado una respuesta positiva en el perfil lip&#x000ed;dico y en las concentraciones de adiponectina al realizar intervenciones nutricionales basadas en
+disminuir el consumo energ&#x000e9;tico y aumentar la actividad f&#x000ed;sica
+<sup>
+<xref rid="B31" ref-type="bibr">31</xref>
+</sup>
+.
+</p><p>En cuanto al SNP rs1800796, el alelo C se asocia con mayor riesgo de enfermedad coronaria y concentraciones plasm&#x000e1;ticas m&#x000e1;s elevadas de fibrin&#x000f3;geno (genotipos CC y CG), riesgo no observado en el genotipo GG. En relaci&#x000f3;n al SNP rs1800797 la presencia de al menos un alelo G (AG o GG) aumenta el riesgo de s&#x000ed;ndrome metab&#x000f3;lico e hipertensi&#x000f3;n arterial
+<sup><xref rid="B32" ref-type="bibr">32</xref>.
+<xref rid="B33" ref-type="bibr">33</xref>
+</sup>
+.
+</p><p><bold>Metilentetrahidrofolato reductasa (MTHFR)</bold>: la prote&#x000ed;na codificada por este gen cataliza la conversi&#x000f3;n de 5,10-metilentetrahidrofolato a 5-metiltetrahidrofolato, un co-sustrato para la remetilaci&#x000f3;n de la homociste&#x000ed;na a metionina. La variante C677T (rs1801133) est&#x000e1; implicada en el metabolismo del &#x000e1;cido f&#x000f3;lico; aumenta la susceptibilidad a trastornos vasculares oclusivas, defectos del tubo neural, c&#x000e1;ncer de colon y leucemia aguda. Estas alteraciones provocan elevados niveles sangu&#x000ed;neos de homociste&#x000ed;na, cuya autoxidaci&#x000f3;n genera radicales libres, mol&#x000e9;culas involucradas en el estr&#x000e9;s oxidativo. La hiperhomocisteinemia tiene un efecto citot&#x000f3;xico directo sobre las c&#x000e9;lulas endoteliales y puede promover las LDL-ox que se asocian a un aumento de la adhesividad y agregabilidad plaquetaria
+<sup>
+<xref rid="B41" ref-type="bibr">41</xref>
+</sup>
+. Situaciones de d&#x000e9;ficit de &#x000e1;cido f&#x000f3;lico y de vitaminas B6 y B12, que act&#x000fa;an como cofactores y sustratos en el metabolismo de la metionina, pueden provocar un aumento en la homociste&#x000ed;na plasm&#x000e1;tica. En personas con una dieta pobre en &#x000e1;cido f&#x000f3;lico se detecta una mayor concentraci&#x000f3;n s&#x000e9;rica de homociste&#x000ed;na en los homocigotos TT en comparaci&#x000f3;n con los dem&#x000e1;s genotipos. Esto les confiere un mayor riesgo de ECV y en dietas con alta ingesta de &#x000e1;cido f&#x000f3;lico se compensa el defecto. Los pacientes portadores del genotipo CT tambi&#x000e9;n necesitan suplementar la ingesta de &#x000e1;cidos f&#x000f3;lico, mientras que los sujetos homocigotas CC presentan niveles normales de homociste&#x000ed;na en sangre
+<sup>
+<xref rid="B34" ref-type="bibr">34</xref>
+</sup>
+.
+</p><p><bold>&#x000d3;xido n&#x000ed;trico sintasa 3 (NOS3)</bold>: act&#x000fa;a principalmente en la s&#x000ed;ntesis de &#x000f3;xido n&#x000ed;trico (ON) en el endotelio, utilizando la L-arginina como sustrato, produciendo vasodilataci&#x000f3;n. Un SNP de este gen endotelial, rs1799983, se ha asociado con ECV. Se caracteriza por una conversi&#x000f3;n de guanina por timina en la posici&#x000f3;n 894 del gen, y consecuente sustituci&#x000f3;n de la glutamina (alelo m&#x000e1;s com&#x000fa;n) por el aspartato (alelo m&#x000e1;s raro) en el residuo 298 (Glu298Asp). Portadores del alelo T (genotipos TT o GT) presentan menor capacidad de formaci&#x000f3;n de ON lo que conduce a alteraciones funcionales. Sin embargo, mejoran su funci&#x000f3;n endotelial medida por vasodilataci&#x000f3;n mediada por flujo en presencia de mayores concentraciones de PUFAs omega 3 en plasma, efecto no observado en GG homocigotas. De esta manera, los PUFAs omega 3 interact&#x000fa;an de manera beneficiosa en sujetos portadores de este genotipo, mejorando la funci&#x000f3;n endotelial
+<sup>
+<xref rid="B35" ref-type="bibr">35</xref>
+</sup>
+.
+</p><p><bold>Araquidonato 5-lipooxigenasa (ALOX5)</bold>: miembro de la familia de genes de la lipooxigenasa, participa en la s&#x000ed;ntesis de leucotrienos, generalmente de naturaleza proinflamatoria (LTB4, LTC4, LTD4, LTE4), sintetizados a partir del &#x000e1;cido graso araquid&#x000f3;nico 20:4 &#x003c9;6, un PUFA muy abundante en las carnes rojas. El SNP rs7913948 est&#x000e1; asociado con un riesgo aumentado de infarto de miocardio en individuos sin hipertensi&#x000f3;n arterial y diabetes mellitus. Los portadores del genotipo GG o AG tienen un mayor riesgo de aterosclerosis que los portadores del genotipo AA. Los PUFAs omega 3 de origen marino (20:5 &#x003c9;3 y 22:6 &#x003c9;3) ejercen un efecto beneficioso en este cuadro, debido a que act&#x000fa;an disminuyendo la producci&#x000f3;n de los mencionados leucotrienos inflamatorios al sustituir al &#x000e1;cido araquid&#x000f3;nico como sustratos
+<sup>
+<xref rid="B36" ref-type="bibr">36</xref>
+</sup>
+.
+</p><p><bold>Enzima convertidora de angiotensina I (ACE)</bold>: este gen est&#x000e1; involucrado en catalizar la conversi&#x000f3;n de angiotensina I a angiotensina II, un p&#x000e9;ptido fisiol&#x000f3;gicamente activo. La angiotensina II es un potente vasopresor y estimulante de la aldosterona que controla la presi&#x000f3;n arterial y el balance hidroelectrol&#x000ed;tico. El gen ACE, posee un polimorfismo que se distingue por la inserci&#x000f3;n (I) o deleci&#x000f3;n (D) de un segmento de 287 pb en el intr&#x000f3;n 16. Individuos homocigotos para el alelo D (genotipo DD), poseen aproximadamente el doble de carga enzim&#x000e1;tica comparado con individuos homocigotos para el alelo I (genotipo II), mientras que individuos heterocigotos ID, presentan niveles intermedios de la enzima, indicando codominancia. Si bien el rol del genotipo ID es a&#x000fa;n controvertido con respecto al riesgo de hipertensi&#x000f3;n arterial, el genotipo DD ha sido asociado con mayores niveles de enzima convertidora de angiotensina I, presi&#x000f3;n sangu&#x000ed;nea, sobrepeso y mayor riesgo
+cardiovascular. Algunos estudios han reportado que en el genotipo ID+II aumenta la presi&#x000f3;n arterial con el consumo de sal (hipertensi&#x000f3;n sensible a la sal), especialmente en personas con sobrepeso y mujeres, aunque estas observaciones son a&#x000fa;n controvertidas
+<sup><xref rid="B37" ref-type="bibr">37</xref>.
+<xref rid="B38" ref-type="bibr">38</xref>
+</sup>
+.
+</p></sec><sec><title>Genes asociados a obesidad</title><p>La obesidad es una enfermedad cr&#x000f3;nica sist&#x000e9;mica y de origen multifactorial, precedida por un largo per&#x000ed;odo de inflamaci&#x000f3;n cr&#x000f3;nica de bajo grado la cual se caracteriza por acumulaci&#x000f3;n excesiva de grasa o hipertrofia general del tejido adiposo en el cuerpo y se asocia a un gran n&#x000fa;mero de patolog&#x000ed;as tales como artrosis, apnea del sue&#x000f1;o, diabetes, c&#x000e1;ncer, ECV e h&#x000ed;gado graso no alcoh&#x000f3;lico. El tejido adiposo es un &#x000f3;rgano metab&#x000f3;licamente activo que secreta una gran cantidad de mediadores que no s&#x000f3;lo influencian el peso corporal, sino que tambi&#x000e9;n mantienen el proceso inflamatorio cr&#x000f3;nico y perturban la homeostasis endotelial, tales como desbalances en le s&#x000ed;ntesis de leptina, adiponectina, inhibidor del activador del plasmin&#x000f3;geno-1, prote&#x000ed;na C reactiva, ciertas prostaglandinas, leucotrienos, citoquinas cl&#x000e1;sicas y factores de crecimiento y quimiot&#x000e1;cticos, comprometidos en la regulaci&#x000f3;n de la presi&#x000f3;n arterial y la homeostasis vascular, dentro de muchas otras funciones
+<sup>
+<xref rid="B39" ref-type="bibr">39</xref>
+</sup>
+.
+</p><p><bold>Adiponectina (ADIPOQ)</bold>: este gen se expresa principalmente en tejido adiposo. La prote&#x000ed;na que codifica circula en plasma y est&#x000e1; relacionada a procesos hormonales y metab&#x000f3;licos. Estimula la oxidaci&#x000f3;n de &#x000e1;cidos grasos, reduce los triglic&#x000e9;ridos plasm&#x000e1;ticos y mejora el metabolismo de la glucosa mediante un aumento de la sensibilidad a la insulina. Mutaciones en este gen se asocian deficiencia de adiponectina, lo que a su vez repercute en el riesgo de obesidad, diabetes tipo 2 y ECV. Diferentes estudios han determinado varios SNP de ADIPOQ asociados a obesidad. La variante rs17300539 (cambio del nucle&#x000f3;tido G en el alelo ancestral por el nucle&#x000f3;tido A, -11391G-&#x0003e;A) se halla en el promotor del gen ADIPOQ. Mientras que los individuos homocigotos para el alelo G presentan mayor riesgo de desarrollar resistencia a la insulina, la presencia del alelo A se asocia a una protecci&#x000f3;n frente al incremento de peso
+<sup>
+<xref rid="B40" ref-type="bibr">40</xref>
+</sup>
+.
+</p><p>El SNP rs1501299 (276G-&#x0003e;T) se asocia con un aumento de los niveles de insulina plasm&#x000e1;tica, HOMA-IR (<italic toggle="yes">homeostatic model assessment-insulin</italic>, o modelo homeost&#x000e1;tico para evaluar la resistencia a la insulina) y obesidad, al igual que los SNP rs266729 (377C-&#x0003e;G) y rs2241766 45T-&#x0003e;G
+<sup><xref rid="B41" ref-type="bibr">41</xref>.
+<xref rid="B42" ref-type="bibr">42</xref>
+</sup>
+.
+</p><p><bold>Prote&#x000ed;na desacoplante 3 (UCP3)</bold>: este gen se expresa principalmente en m&#x000fa;sculo esquel&#x000e9;tico y en menor grado en grasa parda, con un rol importante en la regulaci&#x000f3;n del gasto energ&#x000e9;tico por la acci&#x000f3;n term&#x000f3;gena de las hormonas tiroideas. La UCP3 influye en el balance energ&#x000e9;tico y en el metabolismo lip&#x000ed;dico por su acci&#x000f3;n sobre el m&#x000fa;sculo esquel&#x000e9;tico. Si bien su expresi&#x000f3;n en m&#x000fa;sculo se reduce ante condiciones de ayuno, el aumento en la concentraci&#x000f3;n de PUFAs y ejercicio estimulan la activaci&#x000f3;n de UCP3. El SNP rs1800849 (55C-&#x0003e;T) tiene una alta prevalencia en las personas con obesidad y modula la respuesta metab&#x000f3;lica cuando se prescriben dietas hipocal&#x000f3;ricas. Par&#x000e1;metros como la presi&#x000f3;n arterial, colesterolemia, glucemia, resistencia a la insulina o los niveles de mol&#x000e9;culas que sintetizan el adipocito, como la adiponectina, resistina o leptina, mejoran tras la restricci&#x000f3;n diet&#x000e9;tica si existe ausencia de dicha mutaci&#x000f3;n. As&#x000ed;, la implementaci&#x000f3;n de dietas
+hipocal&#x000f3;ricas difiere seg&#x000fa;n genotipo. Portadores del alelo T presentan mejor respuesta a este tipo de intervenci&#x000f3;n alimentaria sin cambios en par&#x000e1;metros bioqu&#x000ed;micos, mientras que sujetos con dos alelos C presentan, adem&#x000e1;s del descenso de peso, mejoras en otros par&#x000e1;metros metab&#x000f3;licos como presi&#x000f3;n arterial, colesterolemia, glucemia, resistencia a la insulina o los niveles de mol&#x000e9;culas que sintetizan el adipocito, como la adiponectina, resistina o leptina
+<sup>
+<xref rid="B43" ref-type="bibr">43</xref>
+</sup>
+.
+</p><p>
+<bold>Gen asociado con la masa grasa y la obesidad (</bold>
+<italic toggle="yes">fat mass and obesity associated</italic>
+<bold>, FTO)</bold>: las funciones del gen FTO se relacionan con el control hipotal&#x000e1;mico de la saciedad, la hiperfagia y la ansiedad ante la restricci&#x000f3;n de comida, como as&#x000ed; tambi&#x000e9;n a mayor susceptibilidad a comportamientos adictivos. Uno de los SNP asociados a obesidad m&#x000e1;s estudiados y prevalentes en poblaci&#x000f3;n cauc&#x000e1;sica es el rs9939609 (cambio del nucle&#x000f3;tido T en el alelo ancestral por el nucle&#x000f3;tido A, 23525T-&#x0003e;A). Se ha demostrado que individuos portadores de &#x000e9;ste y otros SNPs hallados en la regi&#x000f3;n intr&#x000f3;nica del gen FTO son m&#x000e1;s propensos a padecer obesidad, a comer en exceso y a ingerir alimentos de mayor densidad energ&#x000e9;tica. Dado que los SNP de este gen se asocian a una mayor dificultad para lograr saciedad, se han implementado estrategias alimentarias como ser el incremento en la fibra dietaria y una mayor distribuci&#x000f3;n alimentaria a lo largo del d&#x000ed;a para mejorar los niveles de saciedad y as&#x000ed; estimular a la actividad f&#x000ed;sica
+<sup>
+<xref rid="B44" ref-type="bibr">44</xref>
+</sup>
+.
+</p><p><bold>Leptina (LEP)</bold>: el gen LEP codifica una prote&#x000ed;na (leptina) secretada por los adipocitos y participa en la regulaci&#x000f3;n del apetito, a trav&#x000e9;s de la se&#x000f1;alizaci&#x000f3;n en n&#x000fa;cleos del hipot&#x000e1;lamo sobre la cantidad de triglic&#x000e9;ridos que contienen los adipocitos, promoviendo la reducci&#x000f3;n de la ingesta energ&#x000e9;tica. Mutaciones en LEP pueden generar una prote&#x000ed;na truncada con niveles no detectables en suero, dando lugar a obesidad severa de inicio temprano. La obesidad est&#x000e1; relacionada con la resistencia a la leptina y el aumento de los niveles s&#x000e9;ricos de leptina. El SNP rs7799039, con el cambio del nucle&#x000f3;tido G en el alelo ancestral por el nucle&#x000f3;tido A, (2548G-&#x0003e;A) se asocia a resistencia a la leptina y desregulaci&#x000f3;n del comportamiento alimentario, por lo que el mayor aporte de fibra y fraccionamiento alimentario son fundamentales para el mantenimiento de un peso corporal normal
+<sup><xref rid="B45" ref-type="bibr">45</xref>.
+<xref rid="B46" ref-type="bibr">46</xref>
+</sup>
+.
+</p><p><bold>Receptor de leptina (LEPR)</bold>: la prote&#x000ed;na codificada por este gen es un receptor de leptina y est&#x000e1; involucrada en la regulaci&#x000f3;n del metabolismo lip&#x000ed;dico. Este receptor es muy abundante en ciertos n&#x000fa;cleos del hipot&#x000e1;lamo, regi&#x000f3;n de gran importancia en la regulaci&#x000f3;n del peso corporal. Aunque las variantes en este gen no son muy frecuentes, personas con alteraciones en LEPR presentan un fenotipo similar al descripto para los individuos con d&#x000e9;ficit de leptina caracterizado por obesidad e hiperfagia. Las variantes polim&#x000f3;rficas de LERP asociadas a obesidad m&#x000e1;s prevalentes en poblaciones cauc&#x000e1;sicas son los SNP rs1137100 (326A-&#x0003e;G) y rs1137101 (668A-&#x0003e;G). En ambos SNPs, la presencia del alelo G se ha relacionado con resistencia a la insulina, obesidad e hiperfagia
+<sup><xref rid="B47" ref-type="bibr">47</xref>.
+<xref rid="B48" ref-type="bibr">48</xref>
+</sup>
+.
+</p><p><bold>Receptor de melanocortina 4 (MC4R)</bold>: la prote&#x000ed;na codificada por este gen es un receptor de membrana de la familia de las melanocortinas. Este sistema es el principal regulador de la homeostasis energ&#x000e9;tica. MC4R desencadena efectos anorexig&#x000e9;nicos mediante su uni&#x000f3;n a melanocortinas derivadas de la proopiomelanocortina. Las mutaciones en MC4R son la causa gen&#x000e9;tica m&#x000e1;s com&#x000fa;n de obesidad en humanos. La p&#x000e9;rdida de funci&#x000f3;n del receptor MC4R incrementa la sensaci&#x000f3;n de apetito del portador, caracteriz&#x000e1;ndose por una hiperfagia. El SNP rs17782313 (cambio del nucle&#x000f3;tido T en el alelo ancestral por el nucle&#x000f3;tido C, 60183864T-&#x0003e;C) tiene una elevada prevalencia en poblaci&#x000f3;n cauc&#x000e1;sica, provoca una disminuci&#x000f3;n del n&#x000fa;mero de receptores MC4R hipotal&#x000e1;micos, causando incremento del apetito y disminuci&#x000f3;n de la sensaci&#x000f3;n de saciedad
+<sup>
+<xref rid="B49" ref-type="bibr">49</xref>
+</sup>
+. Se ha observado que una elevada a adherencia a un patr&#x000f3;n dietario de estilo mediterr&#x000e1;neo disminuye el riesgo de diabetes en portadores de este SNP, lo que indica que la adopci&#x000f3;n de un estilo de vida saludable mejora el perfil de riesgo de la poblaci&#x000f3;n MC4R deficientes
+<sup>
+<xref rid="B50" ref-type="bibr">50</xref>
+</sup>
+. Otro SNP estudiado es el rs2229616 (cambio del nucle&#x000f3;tido C en el alelo ancestral por el nucle&#x000f3;tido T, 307G-&#x0003e;A); tiene una baja frecuencia en la poblaci&#x000f3;n y se asocia a un efecto protector, reflejado por un menor per&#x000ed;metro abdominal, incremento del colesterol HDL y menores concentraciones de hemoglobina glicosilada
+<sup>
+<xref rid="B51" ref-type="bibr">51</xref>
+</sup>
+.
+</p></sec><sec><title>Genes asociados a diabetes</title><p>La diabetes mellitus constituye el tercer factor de riesgo en importancia como causa de muerte a nivel global. En la actualidad, no se define simplemente como un trastorno de la utilizaci&#x000f3;n de la glucosa, sino como un conjunto de enfermedades o s&#x000ed;ndromes metab&#x000f3;licos caracterizados por la aparici&#x000f3;n de hiperglucemia secundaria a defectos de la secreci&#x000f3;n de insulina, de la acci&#x000f3;n de la insulina o de ambas que afecta no s&#x000f3;lo al metabolismo hidrocarbonado, sino tambi&#x000e9;n al metabolismo proteico y lip&#x000ed;dico. La hiperglucemia sostenida puede dar lugar a complicaciones vasculares en diferentes &#x000f3;rganos, como los ojos, ri&#x000f1;ones, coraz&#x000f3;n, arterias, pies y p&#x000e9;rdidas progresivas neurocognitivas, entre otras
+<sup>
+<xref rid="B52" ref-type="bibr">52</xref>
+</sup>
+.
+</p><p><bold>Receptor adren&#x000e9;rgico &#x003b1;2A (ADRA2A)</bold>: los receptores adren&#x000e9;rgicos &#x003b1;2A incluyen tres subtipos hom&#x000f3;logos: alfa2A, alfa2B y el alfa2C. Estos receptores tienen un papel cr&#x000ed;tico en la regulaci&#x000f3;n de la liberaci&#x000f3;n de neurotransmisores desde los nervios sin&#x000e1;pticos y de neuronas adren&#x000e9;rgicas en el sistema nervioso central. ADRA2A codifica el receptor adren&#x000e9;rgico &#x003b1;2A. La activaci&#x000f3;n de los receptores adren&#x000e9;rgicos &#x003b1;2A suprime la secreci&#x000f3;n de insulina <italic toggle="yes">in vivo</italic>, lo que se asocia a intolerancia a la glucosa frecuentemente observada en pacientes con feocromocitoma (tumor suprarrenal). El SNP rs553668 de ADRA2A (790A-&#x0003e;G) ha sido asociado a una susceptibilidad de riesgo a desarrollar diabetes tipo 2 (DB2) en cauc&#x000e1;sicos y africanos-americanos, observ&#x000e1;ndose que los portadores del alelo A (AG y AA) presentaron m&#x000e1;s riesgo de desarrollar diabetes que el genotipo GG. Este SNP tambi&#x000e9;n ha sido asociado a mayor riesgo de hipertensi&#x000f3;n arterial
+<sup><xref rid="B53" ref-type="bibr">53</xref>.
+<xref rid="B54" ref-type="bibr">54</xref>
+</sup>
+.
+</p><p><bold>Receptor activado por proliferadores peroxisomales gamma (PPARG)</bold>: PPARG ha sido relacionado en la patog&#x000e9;nesis de numerosas patolog&#x000ed;as como obesidad, diabetes, ateroesclerosis y c&#x000e1;ncer. El PPARG existe como dos isoformas que difieren en su porci&#x000f3;n N terminal. El PPARG tipo 2 se encuentra en el tejido adiposo, en tanto que el tipo 1 se expresa m&#x000e1;s ampliamente en el cerebro, los tejidos vasculares, el intestino delgado y los tejidos linf&#x000e1;ticos. Los niveles de PPARG2 en mRNA son elevados en tejido adiposo de individuos obesos. El SNP rs1801282 (Pro-&#x0003e;Ala) es frecuente en el gen PPARG2 y se ha asociado con s&#x000ed;ndrome metab&#x000f3;lico, aunque otros estudios muestran resultados controvertidos
+<sup><xref rid="B55" ref-type="bibr">55</xref>.
+<xref rid="B56" ref-type="bibr">56</xref>
+</sup>
+. Sin embargo, en individuos con DB2, esta variante puede estar asociada con una menor secreci&#x000f3;n de insulina, elevadas concentraciones de colesterol s&#x000e9;rico total y tendencia a aumento en los niveles de hemoglobina glicosilada, que demandan mayor control metab&#x000f3;lico y de riesgo de complicaciones en sujetos con diagn&#x000f3;stico de diabetes
+<sup>
+<xref rid="B57" ref-type="bibr">57</xref>
+</sup>
+. En SNP rs13081389 (12289800A-&#x0003e;G) tambi&#x000e9;n ha sido vinculado al riesgo de desarrollar diabetes, pero no existe a&#x000fa;n evidencia concluyente sobre su interacci&#x000f3;n con la dieta
+<sup>
+<xref rid="B58" ref-type="bibr">58</xref>
+</sup>
+.
+</p><p>
+<bold>Factor de transcripci&#x000f3;n 7-tipo 2 (TCF7L2):</bold>
+este gen codifica un factor de transcripci&#x000f3;n que contiene un grupo de alta movilidad (<italic toggle="yes">high mobility group</italic> o HMG) que desempe&#x000f1;a un papel clave en la homeostasis de glucosa en sangre. Las variantes gen&#x000e9;ticas de este gen se asocian con un mayor riesgo de DB2 en diferentes poblaciones. En el SNP rs12255372 (483+9017G-&#x0003e;T) la presencia del alelo T (GT o TT) est&#x000e1; asociada a un aumento en el riesgo de DB2, como as&#x000ed; tambi&#x000e9;n de c&#x000e1;ncer de mama y pr&#x000f3;stata
+<sup>
+<xref rid="B59" ref-type="bibr">59</xref>
+</sup>
+. Estudios recientes muestran una interacci&#x000f3;n entre este SNP y los l&#x000ed;pidos dietarios, en donde los portadores del alelo T presentaron mayores concentraciones de HDL-c al disminuir el consumo de grasa total y de PUFAs que sus pares homocigotos GG
+<sup>
+<xref rid="B60" ref-type="bibr">60</xref>
+</sup>
+. Tambi&#x000e9;n se ha observado una asociaci&#x000f3;n entre el alelo de riesgo (T) y la incidencia de DB2, la cual aument&#x000f3; se asoci&#x000f3; inversamente con la ingesta de fibra
+<sup>
+<xref rid="B61" ref-type="bibr">61</xref>
+</sup>
+. Por otro lado, si bien el SNP rs7903146 (746C-&#x0003e;T) se vincula a mayor riesgo de DB2 y diabetes gestacional, la adhesi&#x000f3;n a un patr&#x000f3;n alimentario mediterr&#x000e1;neo reduce los efectos adversos de este SNP en factores de riesgo cardiovasculares (como el perfil lip&#x000ed;dico y la glucemia en ayunas) e infarto
+<sup>
+<xref rid="B62" ref-type="bibr">62</xref>
+</sup>
+.
+</p><p>El presente estudio posee algunas limitaciones. En primer lugar, los estudios incluidos presentaron una alta heterogeneidad que no permiti&#x000f3; la realizaci&#x000f3;n de un metaan&#x000e1;lisis. En segundo lugar, se encontr&#x000f3; poca consistencia en la publicaci&#x000f3;n de estudios de replicaci&#x000f3;n. Sin embargo, este trabajo ofrece un abordaje conceptual novedoso acerca de la nutrigen&#x000e9;tica y su influencia en la ECV, con una perspectiva de aplicaci&#x000f3;n en la cl&#x000ed;nica a trav&#x000e9;s del enfoque personalizado de la nutrici&#x000f3;n para la prevenci&#x000f3;n y terap&#x000e9;utica.</p><p>La tabla 1 presenta una s&#x000ed;ntesis de las posibles intervenciones diet&#x000e9;ticas a trav&#x000e9;s de la nutrigen&#x000e9;tica en los SNPs estudiados.</p><table-wrap position="float" id="t1"><label>Tabla 1</label><caption><title>Esquema de nutrici&#x000f3;n personalizada seg&#x000fa;n genotipado en enfermedad cardiovascular</title></caption><table frame="hsides" rules="groups" width="100%"><thead><tr><th rowspan="1" colspan="1">GEN</th><th colspan="2" rowspan="1">FUNCI&#x000d3;N</th><th rowspan="1" colspan="1">VARIANTE</th><th colspan="2" rowspan="1">GENOTIPO</th><th rowspan="1" colspan="1">ESTRATEGIA NUTRICIONAL</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">
+<p>Apolipoprote&#x000ed;na A1</p>
+<p>(APOA1)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo del HDL-c</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs670</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; GA; GG</p>
+<p>El alelo A se asocia con niveles m&#x000e1;s elevados de colesterol total, LDL-c</p>
+</td><td rowspan="1" colspan="1">
+<p>AA, AG: aumento de las concentraciones de HDL-c con ingestas mayores de AGPCL.</p>
+<p>GG: mejor perfil lip&#x000ed;dico por aumento de AGM.</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>Apolipoprote&#x000ed;na A4 (APOA4)</p>
+</td><td colspan="2" rowspan="2">
+<p>S&#x000ed;ntesis y aclaramiento de quilomicrones</p>
+</td><td rowspan="2" colspan="1">
+<p>SNP rs5110</p>
+</td><td colspan="2" rowspan="2">
+<p>TT; TG; GG</p>
+<p>El alelo G se asocia a niveles m&#x000e1;s elevados de colesterol y LDL-c</p>
+</td><td rowspan="1" colspan="1">
+<p>TT, TG: menores concentraciones de LDL-c en respuesta a la ingesta de colesterol total y efecto beneficioso en las concentraciones de HDL-c con una dieta rica en AGM.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>GG: control estricto de grasas saturadas, aumento de AGPCL.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="4" colspan="1">
+<p>Apolipoprote&#x000ed;na A5 (APO5)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo de triglic&#x000e9;ridos</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs662799</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AG; GG</p>
+<p>El alelo G se asocia a hipertrigliceridemia y cardiopat&#x000ed;a isqu&#x000e9;mica</p>
+</td><td rowspan="1" colspan="1">
+<p>GG, GA: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble.</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Efectos hemodin&#x000e1;mics</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs3135506</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GC; CC</p>
+</td><td rowspan="1" colspan="1">
+<p>GG; GC: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble.</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Metabolismos de triglic&#x000e9;ridos</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>El alelo G se asocia a hipertrigliceridemia</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td colspan="2" rowspan="1">
+<p>Metabolismo de los triglic&#x000e9;ridos</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs2075291</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GT; TT</p>
+</td><td rowspan="1" colspan="1">
+<p>GT, TT: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>La presencia del alelo T, se asocia mayor riesgo de hipertrigliceridemia</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="2" colspan="1">
+<p>Apolipoprote&#x000ed;na E</p>
+<p>(APOE)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo de quilomicrones y lipoprote&#x000ed;nas de muy baja densidad</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs429358</p>
+</td><td colspan="2" rowspan="2">
+<p>TT; TC; CC</p>
+<p>El alelo C se relaciona con enfermedad coronaria y dislipemia</p>
+</td><td rowspan="1" colspan="1">
+<p>CC, CT: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble. Aumento de AGPCL.</p>
+</td></tr><tr><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Metabolismo de los triglic&#x000e9;ridos</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs7412</p>
+</td><td colspan="2" rowspan="1">
+<p>TT; TC; CC</p>
+<p>La presencia del alelo C se relaciona con hipertrigliceridemia</p>
+</td><td rowspan="1" colspan="1">
+<p>CC, CT: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble. Aumento de AGPCL.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Paraoxonasa 1</p>
+<p>(PON1)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo de liproprote&#x000ed;nas</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs662</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AG; GG</p>
+<p>El alelo A se asocia a enfermedad coronaria y dislipemia</p>
+</td><td rowspan="1" colspan="1">
+<p>AA, AG: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble. Aumento de AGPCL.</p>
+<p>Aumento de alimentos ricos en polifenoles, antocianos y &#x000e1;cido oleico.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Metabolismo de liproprote&#x000ed;nas</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs854560</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AT; TT</p>
+<p>La presencia del alelo A se asocia a mayor riesgo de enfermedad cardiovascular, dislipemia</p>
+</td><td rowspan="1" colspan="1">
+<p>AA, AT: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble.</p>
+<p>Aumento de alimentos ricos en polifenoles, antocianos y &#x000e1;cido oleico.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Receptor activado por proliferadores peroxisomales alfa (PPARA)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo de lipoprote&#x000ed;nas, oxidaci&#x000f3;n de &#x000e1;cidos grasos</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1800206</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GC; CC</p>
+</td><td rowspan="1" colspan="1">
+<p>GG, GC: mejora en perfil lip&#x000ed;dico al aumentar AGPCL de la familia omega 3, mejoras en concentraciones de PCRus.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>El alelo G se asocia a hipertrigliceridemia</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Lipoprote&#x000ed;na lipasa</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo de lipoprote&#x000ed;nas</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs285</p>
+</td><td colspan="2" rowspan="1">
+<p>CC; CT; TT</p>
+</td><td rowspan="1" colspan="1">
+<p>TT: aumenta HDL-c al disminuir a menos del 30% del VET la grasa de la dieta.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>(LPL)</p>
+</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>La presencia del alelo T se asocia a mayor riesgo de dislipemia</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Proprote&#x000ed;na convertasa subtilisina/kexina tipo 9 (PCSK9)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo del colesterol</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs505151</p>
+</td><td colspan="2" rowspan="1">
+<p>CC; CG; GG</p>
+</td><td rowspan="1" colspan="1">
+<p>AG, GG: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble. Aumento de AGPCL.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Portadores del alelo G presentan valores mayores de l&#x000ed;pidos sangu&#x000ed;neos</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th colspan="2" rowspan="1">FACTORES DE RIESGO DE DISFUNCI&#x000d3;N ENDOTELIAL</th><td colspan="3" rowspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Interleuquina 6</p>
+</td><td colspan="2" rowspan="1">
+<p>Inflamaci&#x000f3;n aguda y cr&#x000f3;nica</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1800795</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GC; CC</p>
+</td><td rowspan="1" colspan="1">
+<p>GG, GC: control de ingesta de sodio. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, aumento de AGPCL omega 3.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>(IL-6)</p>
+</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>La presencia del alelo G se asocia a mayor producci&#x000f3;n de IL-6, con aumento en el riesgo de enfermedades de base inflamatoria</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>I</p>
+<p>nflamaci&#x000f3;n aguda y cr&#x000f3;nica</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1800796</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GC; CC</p>
+</td><td rowspan="1" colspan="1">
+<p>CC, CG: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, aumento de AGPCL omega 3.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>El alelo C se vincula con mayor riesgo de enfermedad coronaria y concentraciones plasm&#x000e1;ticas m&#x000e1;s elevadas de fibrin&#x000f3;geno</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Metilenetetrahidrofolato reductasa</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo del &#x000e1;cido f&#x000f3;lico</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1801133</p>
+</td><td colspan="2" rowspan="1">
+<p>CC; CT; TT</p>
+</td><td rowspan="1" colspan="1">
+<p>TT, CT: la suplementaci&#x000f3;n con &#x000e1;cido f&#x000f3;lico compensa el defecto.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>(MTHFR)</p>
+</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>La presencia del alelo T, especialmente en homocigotos TT, se asocia a una mayor concentraci&#x000f3;n s&#x000e9;rica de homociste&#x000ed;na</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x000d3;xido n&#x000ed;trico sintasa 3 (NOS3)</p>
+</td><td colspan="2" rowspan="1">
+<p>Vaosdilataci&#x000f3;n</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs rs1799983</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GT; TT</p>
+</td><td rowspan="1" colspan="1">
+<p>TT, GT: control de ingesta de sodio. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, aumento de AGPCL omega 3.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>El alelo T se asocia a menores formaciones de &#x000f3;xido n&#x000ed;trico con la consecuente vasoconstricci&#x000f3;n</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th colspan="7" rowspan="1">FACTORES DE RIESGO DE OBESIDAD</th></tr><tr><td rowspan="2" colspan="1">
+<p>Adiponectina</p>
+<p>(ADIPOQ)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo lip&#x000ed;dico y gluc&#x000ed;dico</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs17300539</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AG; GG</p>
+</td><td rowspan="1" colspan="1">
+<p>AG, GG: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble.</p>
+</td></tr><tr><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>La presencia del alelo A se asocia a una protecci&#x000f3;n frente al aumento de peso, mayor efectividad dietaria en obesidad.</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>El alelo G se asocia a riesgo de resistencia a la insulina</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Metabolismo lip&#x000ed;dico y gluc&#x000ed;dico</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1501299</p>
+</td><td colspan="2" rowspan="1">
+<p>TT; TG; GG</p>
+</td><td rowspan="1" colspan="1">
+<p>TG, GG: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Portadores del alelo T se asocian con un aumento de los niveles de insulina plasm&#x000e1;tica y HOMA-IR</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Metabolismo lip&#x000ed;dico y gluc&#x000ed;dico</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs266729</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GC; CC</p>
+</td><td rowspan="1" colspan="1">
+<p>GC, GG: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>La presencia del alelo G se asocia a aumento de la glucemia, insulinemia y disminuci&#x000f3;n de la adiponectina plasm&#x000e1;tica</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Metabolismo lip&#x000ed;dico y gluc&#x000ed;dico</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs2241766</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GT; TT</p>
+</td><td rowspan="1" colspan="1">
+<p>GG; GT: reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples y aumento en fibra soluble.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Presencia del alelo G se relaciona a riesgo de insulinorresistencia, obesidad, HOMA-IR e hipo-adiponectinemia</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Prote&#x000ed;na desacoplante 3 (UCP3)</p>
+</td><td colspan="2" rowspan="1">
+<p>Regulaci&#x000f3;n del gasto energ&#x000e9;tico y en el control del peso corporal</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1800849</p>
+</td><td colspan="2" rowspan="1">
+<p>CC; CT; TT</p>
+</td><td rowspan="1" colspan="1">
+<p>CC, CT: descenso de peso y mejora metab&#x000f3;lica general con dietas hipocal&#x000f3;ricas.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Portadores del alelo C presentan m&#x000e1;s riesgo de obesidad, dislipemia e insulinoresistencia</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Gen asociado con la masa grasa y la obesidad</p>
+</td><td colspan="2" rowspan="1">
+<p>Control hipotal&#x000e1;mico de la saciedad</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs9939609</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AT; TT</p>
+</td><td rowspan="1" colspan="1">
+<p>AA, AT: incremento en la fibra dietaria y una mayor fraccionamiento alimentario para mejorar los niveles de saciedad.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>(fat mass and obesity associated, FTO)</p>
+</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Presencia del alelo A se asocia obesidad, comer en exceso e ingerir alimentos con un elevado valor energ&#x000e9;tico</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Leptina</p>
+</td><td colspan="2" rowspan="1">
+<p>Regulaci&#x000f3;n del apetito</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs7799039</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AG; GG</p>
+</td><td rowspan="1" colspan="1">
+<p>AA, AG: mayor aporte de fibra y fraccionamiento alimentario.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>(LEP)</p>
+</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Portadores del alelo A presentan m&#x000e1;s riesgo de obesidad, niveles bajos de leptina</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Receptor de leptina (LEPR)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo lip&#x000ed;dico, regulaci&#x000f3;n de la actividad de leptina</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1137100</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GA; AA</p>
+</td><td rowspan="1" colspan="1">
+<p>GG, GA: mayor aporte de fibra soluble, AGPCL omega 3 y fraccionamiento alimentario. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Presencia del alelo G se relaciona a mayor riesgo de insulinorresistencia, obesidad e hiperfagia</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Metabolismo lip&#x000ed;dico, regulaci&#x000f3;n de la actividad de leptina</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1137101</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GA; AA</p>
+</td><td rowspan="1" colspan="1">
+<p>GG, GA: mayor aporte de fibra soluble, AGPCL omega 3 y fraccionamiento alimentario. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Presencia del alelo G se relaciona a mayor riesgo de insulinorresistencia, obesidad e hiperfagia</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Receptor de melanocortina 4</p>
+</td><td colspan="2" rowspan="1">
+<p>Homeostasis energ&#x000e9;tica</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs17782313</p>
+</td><td colspan="2" rowspan="1">
+<p>CC; CT; TT</p>
+</td><td rowspan="1" colspan="1">
+<p>CC, CT: mayor aporte de fibra soluble, AGPCL omega 3 y fraccionamiento alimentario. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>(MC4R)</p>
+</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Presencia del alelo C se asocia con incremento del apetito y una disminuci&#x000f3;n de la sensaci&#x000f3;n de saciedad</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Homeostasis energ&#x000e9;tica</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs2229616</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AG; GG</p>
+</td><td rowspan="1" colspan="1">
+<p>AG, GG: mayor aporte de fibra soluble, AGPCL omega 3 y fraccionamiento alimentario. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Presencia del alelo G se relaciona a mayor riesgo de obesidad y s&#x000ed;ndrome metab&#x000f3;lico.</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th colspan="7" rowspan="1">FACTORES DE RIESGO DE DIABETES</th></tr><tr><td rowspan="1" colspan="1">
+<p>Receptor adren&#x000e9;rgico &#x003b1;2A (ADRA2A)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo de glucosa</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs553668</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AG; GG</p>
+</td><td rowspan="1" colspan="1">
+<p>AA, AG: mayor aporte de fibra soluble. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Portadores del alelo A presentan m&#x000e1;s riesgo de desarrollar diabetes</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">
+<p>Receptor activado por proliferadores peroxisomales gamma (PPARG)</p>
+</td><td colspan="2" rowspan="1">
+<p>Metabolismo de glucosa y l&#x000ed;pidos</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs1801282</p>
+</td><td colspan="2" rowspan="1">
+<p>GG; GC; CC</p>
+</td><td rowspan="1" colspan="1">
+<p>GG, GC: mayor aporte de fibra soluble. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples. Aumento AGPCL omega 3.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Presencia del alelo G se asocia a mayor riesgo de s&#x000ed;ndrome metab&#x000f3;lico</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Metabolismo de glucosa y l&#x000ed;pidos</p>
+</td><td rowspan="1" colspan="1">
+<p>SNP rs13081389</p>
+</td><td colspan="2" rowspan="1">
+<p>AA; AG; GG</p>
+</td><td rowspan="1" colspan="1">
+<p>GG: mayor aporte de fibra soluble. Reducci&#x000f3;n en el aporte de grasas saturadas de origen animal, hidratos de carbono simples. Aumento AGPCL omega 3.</p>
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;</td><td colspan="2" rowspan="1">
+<p>Portadores del alelo G presentan mayor riesgo de s&#x000ed;ndrome metab&#x000f3;lico.</p>
+</td><td rowspan="1" colspan="1">&#x000a0;</td></tr></tbody></table><table-wrap-foot><p><abbrev>SNP</abbrev>: polimorfismo de nucle&#x000f3;tido &#x000fa;nico; <abbrev>AGPCL</abbrev>: &#x000e1;cidos grasos poliinsaturados de cadena larga; <abbrev>AGM</abbrev>: &#x000e1;cidos grasos monoinsaturados; <abbrev>PCRus</abbrev>: prote&#x000ed;na C reactiva ultrasensible; <abbrev>VET</abbrev>: valor energ&#x000e9;tico total.</p></table-wrap-foot></table-wrap></sec></sec><sec sec-type="conclusions"><title>CONCLUSI&#x000d3;N</title><p>La detecci&#x000f3;n temprana, junto con la prevenci&#x000f3;n y el tratamiento de todos los factores de riesgo de ECV, permiten la disminuci&#x000f3;n en la progresi&#x000f3;n de las anomal&#x000ed;as CV funcionales y estructurales cardiovasculares, como as&#x000ed; tambi&#x000e9;n las manifestaciones cl&#x000ed;nicas. Aproximadamente el 80% de las ECV pueden prevenirse a trav&#x000e9;s de un enfoque integral que involucre la combinaci&#x000f3;n de tratamientos espec&#x000ed;ficos, personalizados y de precisi&#x000f3;n con una nutrici&#x000f3;n &#x000f3;ptima, actividad f&#x000ed;sica, control del peso y la composici&#x000f3;n corporal y la reducci&#x000f3;n del consumo de tabaco.</p><p>En la patog&#x000e9;nesis de la ECV, la asociaci&#x000f3;n con SNPs se suma a la interacci&#x000f3;n con otros factores de riesgo relacionados al estilo de vida y del ambiente, complejizando a&#x000fa;n m&#x000e1;s este v&#x000ed;nculo. Si bien a trav&#x000e9;s de diversas investigaciones epidemiol&#x000f3;gicas se ha detectado un gran n&#x000fa;mero de genes candidatos y SNPs involucrados en las v&#x000ed;as etiopatog&#x000e9;nicas de la ECV son necesarios m&#x000e1;s estudios en grandes poblaciones y metaan&#x000e1;lisis que muestren de manera inequ&#x000ed;voca esta relaci&#x000f3;n. Por otro lado, los avances en las &#x000fa;ltimas d&#x000e9;cadas han permitido la obtenci&#x000f3;n de bases de datos gen&#x000e9;ticos y el descubrimiento de nuevas terap&#x000e9;uticas, modificando el enfoque cl&#x000e1;sico del tratamiento de la ECV e incorporando alternativas farmacol&#x000f3;gicas y nutricionales con efectos a corto y largo plazo, como la aplicaci&#x000f3;n de herramientas nutrigen&#x000e9;ticas. Aunque el camino de la gen&#x000f3;mica nutricional es a&#x000fa;n incipiente, las posibilidades son grandes, y la alimentaci&#x000f3;n cobra un valor determinante en la reducci&#x000f3;n del
+riesgo de la ECV y otras patolog&#x000ed;as.
+</p></sec></body><back><fn-group><fn fn-type="other"><p>
+<bold>Limitaciones de responsabilidad</bold>
+La responsabilidad del trabajo es exclusivamente de quienes colaboraron en la elaboraci&#x000f3;n del mismo.
+</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflictos de inter&#x000e9;s</bold>
+Ninguno
+</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo</bold>
+No posee
+</p></fn><fn fn-type="other"><p>
+<bold>Originalidad del trabajo</bold>
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.
+</p></fn><fn fn-type="other"><p>
+<bold>Cesi&#x000f3;n de derechos</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, ceden los derechos de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la Revista de la Facultad de Ciencias M&#x000e9;dicas y realizar las traducciones necesarias al idioma ingl&#x000e9;s.
+</p></fn><fn fn-type="equal"><p>
+<bold>Participaci&#x000f3;n de los autores</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, han trabajado en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, haci&#x000e9;ndose p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.
+</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xacur-Garc&#x000ed;a</surname><given-names>F</given-names></name>
+<name><surname>Castillo-Quan</surname><given-names>JI</given-names></name>
+<name><surname>Hern&#x000e1;ndez-Escalante</surname><given-names>VM</given-names></name>
+<name><surname>Laviada-Molina</surname><given-names>H</given-names></name>
+</person-group><article-title>Gen&#x000f3;mica nutricional: una aproximaci&#x000f3;n de la interacci&#x000f3;n genoma-ambiente</article-title><trans-title xml:lang="en">Nutritional genomics: an approach to the genome-environment interaction</trans-title><source>Rev Med Chil</source><year iso-8601-date="2008-11">2008</year><month>Nov</month><volume>136</volume><issue>11</issue><fpage>1460</fpage><lpage>7</lpage><comment>Spanish</comment><pub-id pub-id-type="doi">10.4067/s0034-98872008001100014</pub-id><pub-id pub-id-type="pmid">19301779</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Neeha</surname><given-names>VS</given-names></name>
+<name><surname>Kinth</surname><given-names>P</given-names></name>
+</person-group><article-title>Nutrigenomics research: a review</article-title><source>J Food Sci Technol</source><year iso-8601-date="2013-06">2013</year><month>Jun</month><volume>50</volume><issue>3</issue><fpage>415</fpage><lpage>28</lpage><pub-id pub-id-type="doi">10.1007/s13197-012-0775-z</pub-id><pub-id pub-id-type="pmid">24425937</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ferguson</surname><given-names>LR</given-names></name>
+<name><surname>De Caterina</surname><given-names>R</given-names></name>
+<name><surname>G&#x000f6;rman</surname><given-names>U</given-names></name>
+<name><surname>Allayee</surname><given-names>H</given-names></name>
+<name><surname>Kohlmeier</surname><given-names>M</given-names></name>
+<name><surname>Prasad</surname><given-names>C</given-names></name>
+<name><surname>Choi</surname><given-names>MS</given-names></name>
+<name><surname>Curi</surname><given-names>R</given-names></name>
+<name><surname>de Luis</surname><given-names>DA</given-names></name>
+<name><surname>Gil</surname><given-names>&#x000c1;</given-names></name>
+<name><surname>Kang</surname><given-names>JX</given-names></name>
+<name><surname>Martin</surname><given-names>RL</given-names></name>
+<name><surname>Milagro</surname><given-names>FI</given-names></name>
+<name><surname>Nicoletti</surname><given-names>CF</given-names></name>
+<name><surname>Nonino</surname><given-names>CB</given-names></name>
+<name><surname>Ordovas</surname><given-names>JM</given-names></name>
+<name><surname>Parslow</surname><given-names>VR</given-names></name>
+<name><surname>Portillo</surname><given-names>MP</given-names></name>
+<name><surname>Santos</surname><given-names>JL</given-names></name>
+<name><surname>Serhan</surname><given-names>CN</given-names></name>
+<name><surname>Simopoulos</surname><given-names>AP</given-names></name>
+<name><surname>Vel&#x000e1;zquez-Arellano</surname><given-names>A</given-names></name>
+<name><surname>Zulet</surname><given-names>MA</given-names></name>
+<name><surname>Martinez</surname><given-names>JA</given-names></name>
+</person-group><article-title>Guide and Position of the International Society of Nutrigenetics/Nutrigenomics on Personalised Nutrition: Part 1 - Fields of Precision Nutrition</article-title><source>J Nutrigenet Nutrigenomics</source><year>2016</year><volume>9</volume><issue>1</issue><fpage>12</fpage><lpage>27</lpage><pub-id pub-id-type="doi">10.1159/000445350</pub-id><pub-id pub-id-type="pmid">27169401</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gil Hern&#x000e1;ndez</surname><given-names>&#x000c1;</given-names></name>
+</person-group><article-title>Retos actuales de la investigaci&#x000f3;n en nutrici&#x000f3;n aplicada: &#x000bf;persona o poblaci&#x000f3;n?</article-title><trans-title xml:lang="en">Current challenges of nutrition applied research: &#x000bf;person or population?</trans-title><source>Nutr Hosp</source><year iso-8601-date="2018-06-12">2018</year><month>Jun</month><day>12</day><volume>35</volume><issue>Spec No4</issue><fpage>39</fpage><lpage>43</lpage><comment>Spanish</comment><pub-id pub-id-type="doi">10.20960/nh.2123</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Blanck</surname><given-names>HM</given-names></name>
+<name><surname>Bowman</surname><given-names>BA</given-names></name>
+<name><surname>Cooper</surname><given-names>GR</given-names></name>
+<name><surname>Myers</surname><given-names>GL</given-names></name>
+<name><surname>Miller</surname><given-names>DT</given-names></name>
+</person-group><article-title>Laboratory issues: use of nutritional biomarkers</article-title><source>J Nutr</source><year iso-8601-date="2003-03">2003</year><month>Mar</month><volume>133</volume><issue>Suppl 3</issue><fpage>888S</fpage><lpage>894S</lpage><pub-id pub-id-type="doi">10.1093/jn/133.3.888S</pub-id><pub-id pub-id-type="pmid">12612175</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Aljanabi</surname><given-names>SM</given-names></name>
+<name><surname>Martinez</surname><given-names>I</given-names></name>
+</person-group><article-title>Universal and rapid salt-extraction of high quality genomic DNA for PCR-based techniques</article-title><source>Nucleic Acids Res</source><year iso-8601-date="1997-11-15">1997</year><month>Nov</month><day>15</day><volume>25</volume><issue>22</issue><fpage>4692</fpage><lpage>3</lpage><pub-id pub-id-type="doi">10.1093/nar/25.22.4692</pub-id><pub-id pub-id-type="pmid">9358185</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de Vries</surname><given-names>PS</given-names></name>
+<name><surname>Sabater-Lleal</surname><given-names>M</given-names></name>
+<name><surname>Chasman</surname><given-names>DI</given-names></name>
+<name><surname>Trompet</surname><given-names>S</given-names></name>
+<name><surname>Ahluwalia</surname><given-names>TS</given-names></name>
+<name><surname>Teumer</surname><given-names>A</given-names></name>
+<name><surname>Kleber</surname><given-names>ME</given-names></name>
+<name><surname>Chen</surname><given-names>MH</given-names></name>
+<name><surname>Wang</surname><given-names>JJ</given-names></name>
+<name><surname>Attia</surname><given-names>JR</given-names></name>
+<name><surname>Marioni</surname><given-names>RE</given-names></name>
+<name><surname>Steri</surname><given-names>M</given-names></name>
+<name><surname>Weng</surname><given-names>LC</given-names></name>
+<name><surname>Pool</surname><given-names>R</given-names></name>
+<name><surname>Grossmann</surname><given-names>V</given-names></name>
+<name><surname>Brody</surname><given-names>JA</given-names></name>
+<name><surname>Venturini</surname><given-names>C</given-names></name>
+<name><surname>Tanaka</surname><given-names>T</given-names></name>
+<name><surname>Rose</surname><given-names>LM</given-names></name>
+<name><surname>Oldmeadow</surname><given-names>C</given-names></name>
+<name><surname>Mazur</surname><given-names>J</given-names></name>
+<name><surname>Basu</surname><given-names>S</given-names></name>
+<name><surname>Fr&#x000e5;nberg</surname><given-names>M</given-names></name>
+<name><surname>Yang</surname><given-names>Q</given-names></name>
+<name><surname>Ligthart</surname><given-names>S</given-names></name>
+<name><surname>Hottenga</surname><given-names>JJ</given-names></name>
+<name><surname>Rumley</surname><given-names>A</given-names></name>
+<name><surname>Mulas</surname><given-names>A</given-names></name>
+<name><surname>de Craen</surname><given-names>AJ</given-names></name>
+<name><surname>Grotevendt</surname><given-names>A</given-names></name>
+<name><surname>Taylor</surname><given-names>KD</given-names></name>
+<name><surname>Delgado</surname><given-names>GE</given-names></name>
+<name><surname>Kifley</surname><given-names>A</given-names></name>
+<name><surname>Lopez</surname><given-names>LM</given-names></name>
+<name><surname>Berentzen</surname><given-names>TL</given-names></name>
+<name><surname>Mangino</surname><given-names>M</given-names></name>
+<name><surname>Bandinelli</surname><given-names>S</given-names></name>
+<name><surname>Morrison</surname><given-names>AC</given-names></name>
+<name><surname>Hamsten</surname><given-names>A</given-names></name>
+<name><surname>Tofler</surname><given-names>G</given-names></name>
+<name><surname>de Maat</surname><given-names>MP</given-names></name>
+<name><surname>Draisma</surname><given-names>HH</given-names></name>
+<name><surname>Lowe</surname><given-names>GD</given-names></name>
+<name><surname>Zoledziewska</surname><given-names>M</given-names></name>
+<name><surname>Sattar</surname><given-names>N</given-names></name>
+<name><surname>Lackner</surname><given-names>KJ</given-names></name>
+<name><surname>V&#x000f6;lker</surname><given-names>U</given-names></name>
+<name><surname>McKnight</surname><given-names>B</given-names></name>
+<name><surname>Huang</surname><given-names>J</given-names></name>
+<name><surname>Holliday</surname><given-names>EG</given-names></name>
+<name><surname>McEvoy</surname><given-names>MA</given-names></name>
+<name><surname>Starr</surname><given-names>JM</given-names></name>
+<name><surname>Hysi</surname><given-names>PG</given-names></name>
+<name><surname>Hernandez</surname><given-names>DG</given-names></name>
+<name><surname>Guan</surname><given-names>W</given-names></name>
+<name><surname>Rivadeneira</surname><given-names>F</given-names></name>
+<name><surname>McArdle</surname><given-names>WL</given-names></name>
+<name><surname>Slagboom</surname><given-names>PE</given-names></name>
+<name><surname>Zeller</surname><given-names>T</given-names></name>
+<name><surname>Psaty</surname><given-names>BM</given-names></name>
+<name><surname>Uitterlinden</surname><given-names>AG</given-names></name>
+<name><surname>de Geus</surname><given-names>EJ</given-names></name>
+<name><surname>Stott</surname><given-names>DJ</given-names></name>
+<name><surname>Binder</surname><given-names>H</given-names></name>
+<name><surname>Hofman</surname><given-names>A</given-names></name>
+<name><surname>Franco</surname><given-names>OH</given-names></name>
+<name><surname>Rotter</surname><given-names>JI</given-names></name>
+<name><surname>Ferrucci</surname><given-names>L</given-names></name>
+<name><surname>Spector</surname><given-names>TD</given-names></name>
+<name><surname>Deary</surname><given-names>IJ</given-names></name>
+<name><surname>M&#x000e4;rz</surname><given-names>W</given-names></name>
+<name><surname>Greinacher</surname><given-names>A</given-names></name>
+<name><surname>Wild</surname><given-names>PS</given-names></name>
+<name><surname>Cucca</surname><given-names>F</given-names></name>
+<name><surname>Boomsma</surname><given-names>DI</given-names></name>
+<name><surname>Watkins</surname><given-names>H</given-names></name>
+<name><surname>Tang</surname><given-names>W</given-names></name>
+<name><surname>Ridker</surname><given-names>PM</given-names></name>
+<name><surname>Jukema</surname><given-names>JW</given-names></name>
+<name><surname>Scott</surname><given-names>RJ</given-names></name>
+<name><surname>Mitchell</surname><given-names>P</given-names></name>
+<name><surname>Hansen</surname><given-names>T</given-names></name>
+<name><surname>O'Donnell</surname><given-names>CJ</given-names></name>
+<name><surname>Smith</surname><given-names>NL</given-names></name>
+<name><surname>Strachan</surname><given-names>DP</given-names></name>
+<name><surname>Dehghan</surname><given-names>A</given-names></name>
+</person-group><article-title>Comparison of HapMap and 1000 Genomes Reference Panels in a Large-Scale Genome-Wide Association Study</article-title><source>PLoS One</source><year iso-8601-date="2017-01-20">2017</year><month>Jan</month><day>20</day><volume>12</volume><issue>1</issue><elocation-id>e0167742</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0167742</pub-id><pub-id pub-id-type="pmid">28107422</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="report"><person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group><source>Preventing chronic diseases: A vital investment</source><year>2005</year><comment>Disponible en:
+<ext-link xlink:href="http://www.who.int/chp/chronic_disease_report/full_report.pdf" ext-link-type="uri">http://www.who.int/chp/chronic_disease_report/full_report.pdf</ext-link>
+</comment></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Costantino</surname><given-names>S</given-names></name>
+<name><surname>Libby</surname><given-names>P</given-names></name>
+<name><surname>Kishore</surname><given-names>R</given-names></name>
+<name><surname>Tardif</surname><given-names>JC</given-names></name>
+<name><surname>El-Osta</surname><given-names>A</given-names></name>
+<name><surname>Paneni</surname><given-names>F</given-names></name>
+</person-group><article-title>Epigenetics and precision medicine in cardiovascular patients: from basic concepts to the clinical arena</article-title><source>Eur Heart J</source><year>2017</year><volume>39</volume><issue>47</issue><fpage>4150</fpage><lpage>4158</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehx568</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Myhrstad</surname><given-names>MC</given-names></name>
+<name><surname>Retterst&#x000f8;l</surname><given-names>K</given-names></name>
+<name><surname>Telle-Hansen</surname><given-names>VH</given-names></name>
+<name><surname>Ottestad</surname><given-names>I</given-names></name>
+<name><surname>Halvorsen</surname><given-names>B</given-names></name>
+<name><surname>Holven</surname><given-names>KB</given-names></name>
+<name><surname>Ulven</surname><given-names>SM</given-names></name>
+</person-group><article-title>Effect of marine n-3 fatty acids on circulating inflammatory markers in healthy subjects and subjects with cardiovascular risk factors</article-title><source>Inflamm Res</source><year iso-8601-date="2011-04">2011</year><month>Apr</month><volume>60</volume><issue>4</issue><fpage>309</fpage><lpage>19</lpage><pub-id pub-id-type="doi">10.1007/s00011-010-0302-5</pub-id><pub-id pub-id-type="pmid">21229287</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ordovas</surname><given-names>JM</given-names></name>
+<name><surname>Corella</surname><given-names>D</given-names></name>
+<name><surname>Cupples</surname><given-names>LA</given-names></name>
+<name><surname>Demissie</surname><given-names>S</given-names></name>
+<name><surname>Kelleher</surname><given-names>A</given-names></name>
+<name><surname>Coltell</surname><given-names>O</given-names></name>
+<name><surname>Wilson</surname><given-names>PW</given-names></name>
+<name><surname>Schaefer</surname><given-names>EJ</given-names></name>
+<name><surname>Tucker</surname><given-names>K</given-names></name>
+</person-group><article-title>Polyunsaturated fatty acids modulate the effects of the APOA1 G-A polymorphism on HDL-cholesterol concentrations in a sex-specific manner: the Framingham Study</article-title><source>Am J Clin Nutr</source><year iso-8601-date="2002-01">2002</year><month>Jan</month><volume>75</volume><issue>1</issue><fpage>38</fpage><lpage>46</lpage><pub-id pub-id-type="doi">10.1093/ajcn/75.1.38</pub-id><pub-id pub-id-type="pmid">11756058</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lopez-Miranda</surname><given-names>J</given-names></name>
+<name><surname>Ordovas</surname><given-names>JM</given-names></name>
+<name><surname>Espino</surname><given-names>A</given-names></name>
+<name><surname>Marin</surname><given-names>C</given-names></name>
+<name><surname>Salas</surname><given-names>J</given-names></name>
+<name><surname>Lopez-Segura</surname><given-names>F</given-names></name>
+<name><surname>Jimenez-Pereperez</surname><given-names>J</given-names></name>
+<name><surname>Perez-Jimenez</surname><given-names>F</given-names></name>
+</person-group><article-title>Influence of mutation in human apolipoprotein A-1 gene promoter on plasma LDL cholesterol response to dietary fat</article-title><source>Lancet</source><year iso-8601-date="1994-05-21">1994</year><month>May</month><day>21</day><volume>343</volume><issue>8908</issue><fpage>1246</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/s0140-6736(94)92149-0</pub-id><pub-id pub-id-type="pmid">7910273</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>von Eckardstein</surname><given-names>A</given-names></name>
+<name><surname>Funke</surname><given-names>H</given-names></name>
+<name><surname>Chirazi</surname><given-names>A</given-names></name>
+<name><surname>Chen-Haudenschild</surname><given-names>C</given-names></name>
+<name><surname>Schulte</surname><given-names>H</given-names></name>
+<name><surname>Sch&#x000f6;nfeld</surname><given-names>R</given-names></name>
+<name><surname>K&#x000f6;hler</surname><given-names>E</given-names></name>
+<name><surname>Schwarz</surname><given-names>S</given-names></name>
+<name><surname>Steinmetz</surname><given-names>A</given-names></name>
+<name><surname>Assmann</surname><given-names>G</given-names></name>
+</person-group><article-title>Sex-specific effects of the glutamine/histidine polymorphism in apo A-IV on HDL metabolism</article-title><source>Arterioscler Thromb</source><year iso-8601-date="1994-07">1994</year><month>Jul</month><volume>14</volume><issue>7</issue><fpage>1114</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1161/01.atv.14.7.1114</pub-id><pub-id pub-id-type="pmid">8018667</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jansen</surname><given-names>S</given-names></name>
+<name><surname>Lopez-Miranda</surname><given-names>J</given-names></name>
+<name><surname>Salas</surname><given-names>J</given-names></name>
+<name><surname>Ordovas</surname><given-names>JM</given-names></name>
+<name><surname>Castro</surname><given-names>P</given-names></name>
+<name><surname>Marin</surname><given-names>C</given-names></name>
+<name><surname>Ostos</surname><given-names>MA</given-names></name>
+<name><surname>Lopez-Segura</surname><given-names>F</given-names></name>
+<name><surname>Jimenez-Pereperez</surname><given-names>JA</given-names></name>
+<name><surname>Blanco</surname><given-names>A</given-names></name>
+<name><surname>Perez-Jimenez</surname><given-names>F</given-names></name>
+</person-group><article-title>Effect of 347-serine mutation in apoprotein A-IV on plasma LDL cholesterol response to dietary fat</article-title><source>Arterioscler Thromb Vasc Biol</source><year iso-8601-date="1997-08">1997</year><month>Aug</month><volume>17</volume><issue>8</issue><fpage>1532</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1161/01.atv.17.8.1532</pub-id><pub-id pub-id-type="pmid">9301632</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jang</surname><given-names>Y</given-names></name>
+<name><surname>Kim</surname><given-names>JY</given-names></name>
+<name><surname>Kim</surname><given-names>OY</given-names></name>
+<name><surname>Lee</surname><given-names>JE</given-names></name>
+<name><surname>Cho</surname><given-names>H</given-names></name>
+<name><surname>Ordovas</surname><given-names>JM</given-names></name>
+<name><surname>Lee</surname><given-names>JH</given-names></name>
+</person-group><article-title>The -1131T--&#x0003e;C polymorphism in the apolipoprotein A5 gene is associated with postprandial hypertriacylglycerolemia; elevated small, dense LDL concentrations; and oxidative stress in nonobese Korean men</article-title><source>Am J Clin Nutr</source><year iso-8601-date="2004-10">2004</year><month>Oct</month><volume>80</volume><issue>4</issue><fpage>832</fpage><lpage>40</lpage><pub-id pub-id-type="doi">10.1093/ajcn/80.4.832</pub-id><pub-id pub-id-type="pmid">15447887</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hubacek</surname><given-names>JA</given-names></name>
+<name><surname>Bohuslavova</surname><given-names>R</given-names></name>
+<name><surname>Skodova</surname><given-names>Z</given-names></name>
+<name><surname>Pitha</surname><given-names>J</given-names></name>
+<name><surname>Bobkova</surname><given-names>D</given-names></name>
+<name><surname>Poledne</surname><given-names>R</given-names></name>
+</person-group><article-title>Polymorphisms in the APOA1/C3/A4/A5 gene cluster and cholesterol responsiveness to dietary change</article-title><source>Clin Chem Lab Med</source><year>2007</year><volume>45</volume><issue>3</issue><fpage>316</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1515/CCLM.2007.056</pub-id><pub-id pub-id-type="pmid">17378725</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pullinger</surname><given-names>CR</given-names></name>
+<name><surname>Aouizerat</surname><given-names>BE</given-names></name>
+<name><surname>Movsesyan</surname><given-names>I</given-names></name>
+<name><surname>Durlach</surname><given-names>V</given-names></name>
+<name><surname>Sijbrands</surname><given-names>EJ</given-names></name>
+<name><surname>Nakajima</surname><given-names>K</given-names></name>
+<name><surname>Poon</surname><given-names>A</given-names></name>
+<name><surname>Dallinga-Thie</surname><given-names>GM</given-names></name>
+<name><surname>Hattori</surname><given-names>H</given-names></name>
+<name><surname>Green</surname><given-names>LL</given-names></name>
+<name><surname>Kwok</surname><given-names>PY</given-names></name>
+<name><surname>Havel</surname><given-names>RJ</given-names></name>
+<name><surname>Frost</surname><given-names>PH</given-names></name>
+<name><surname>Malloy</surname><given-names>MJ</given-names></name>
+<name><surname>Kane</surname><given-names>JP</given-names></name>
+</person-group><article-title>An apolipoprotein A-V gene SNP is associated with marked hypertriglyceridemia among Asian-American patients</article-title><source>J Lipid Res</source><year iso-8601-date="2008-08">2008</year><month>Aug</month><volume>49</volume><issue>8</issue><fpage>1846</fpage><lpage>54</lpage><pub-id pub-id-type="doi">10.1194/jlr.P800011-JLR200</pub-id><pub-id pub-id-type="pmid">18441017</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Patel</surname><given-names>A</given-names></name>
+<name><surname>Rees</surname><given-names>SD</given-names></name>
+<name><surname>Kelly</surname><given-names>MA</given-names></name>
+<name><surname>Bain</surname><given-names>SC</given-names></name>
+<name><surname>Barnett</surname><given-names>AH</given-names></name>
+<name><surname>Thalitaya</surname><given-names>D</given-names></name>
+<name><surname>Prasher</surname><given-names>VP</given-names></name>
+</person-group><article-title>Association of variants within APOE, SORL1, RUNX1, BACE1 and ALDH18A1 with dementia in Alzheimer's disease in subjects with Down syndrome</article-title><source>Neurosci Lett</source><year iso-8601-date="2011-01-07">2011</year><month>Jan</month><day>7</day><volume>487</volume><issue>2</issue><fpage>144</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1016/j.neulet.2010.10.010</pub-id><pub-id pub-id-type="pmid">20946940</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Atis</surname><given-names>O</given-names></name>
+<name><surname>Sahin</surname><given-names>S</given-names></name>
+<name><surname>Ceyhan</surname><given-names>K</given-names></name>
+<name><surname>Ozyurt</surname><given-names>H</given-names></name>
+<name><surname>Akbas</surname><given-names>A</given-names></name>
+<name><surname>Benli</surname><given-names>I</given-names></name>
+</person-group><article-title>The Distribution of Apolipoprotein E Gene Polymorphism and Apolipoprotein E Levels among Coronary Artery Patients Compared to Controls</article-title><source>Eurasian J Med</source><year iso-8601-date="2016-06">2016</year><month>Jun</month><volume>48</volume><issue>2</issue><fpage>90</fpage><lpage>4</lpage><pub-id pub-id-type="doi">10.5152/eurasianjmed.2015.25</pub-id><pub-id pub-id-type="pmid">27551170</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Minihane</surname><given-names>AM</given-names></name>
+<name><surname>Jofre-Monseny</surname><given-names>L</given-names></name>
+<name><surname>Olano-Martin</surname><given-names>E</given-names></name>
+<name><surname>Rimbach</surname><given-names>G</given-names></name>
+</person-group><article-title>ApoE genotype, cardiovascular risk and responsiveness to dietary fat manipulation</article-title><source>Proc Nutr Soc</source><year iso-8601-date="2007-05">2007</year><month>May</month><volume>66</volume><issue>2</issue><fpage>183</fpage><lpage>97</lpage><pub-id pub-id-type="doi">10.1017/S0029665107005435</pub-id><pub-id pub-id-type="pmid">17466101</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Villeneuve</surname><given-names>S</given-names></name>
+<name><surname>Brisson</surname><given-names>D</given-names></name>
+<name><surname>Marchant</surname><given-names>NL</given-names></name>
+<name><surname>Gaudet</surname><given-names>D</given-names></name>
+</person-group><article-title>The potential applications of Apolipoprotein E in personalized medicine</article-title><source>Front Aging Neurosci</source><year iso-8601-date="2014-07-08">2014</year><month>Jul</month><day>8</day><volume>6</volume><elocation-id>154</elocation-id><pub-id pub-id-type="doi">10.3389/fnagi.2014.00154</pub-id><pub-id pub-id-type="pmid">25071563</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rizzi</surname><given-names>F</given-names></name>
+<name><surname>Conti</surname><given-names>C</given-names></name>
+<name><surname>Dogliotti</surname><given-names>E</given-names></name>
+<name><surname>Terranegra</surname><given-names>A</given-names></name>
+<name><surname>Salvi</surname><given-names>E</given-names></name>
+<name><surname>Braga</surname><given-names>D</given-names></name>
+<name><surname>Ricca</surname><given-names>F</given-names></name>
+<name><surname>Lupoli</surname><given-names>S</given-names></name>
+<name><surname>Mingione</surname><given-names>A</given-names></name>
+<name><surname>Pivari</surname><given-names>F</given-names></name>
+<name><surname>Brasacchio</surname><given-names>C</given-names></name>
+<name><surname>Barcella</surname><given-names>M</given-names></name>
+<name><surname>Chittani</surname><given-names>M</given-names></name>
+<name><surname>D'Avila</surname><given-names>F</given-names></name>
+<name><surname>Turiel</surname><given-names>M</given-names></name>
+<name><surname>Lazzaroni</surname><given-names>M</given-names></name>
+<name><surname>Soldati</surname><given-names>L</given-names></name>
+<name><surname>Cusi</surname><given-names>D</given-names></name>
+<name><surname>Barlassina</surname><given-names>C</given-names></name>
+</person-group><article-title>Interaction between polyphenols intake and PON1 gene variants on markers of cardiovascular disease: a nutrigenetic observational study</article-title><source>J Transl Med</source><year iso-8601-date="2016-06-23">2016</year><month>Jun</month><day>23</day><volume>14</volume><issue>1</issue><elocation-id>186</elocation-id><pub-id pub-id-type="doi">10.1186/s12967-016-0941-6</pub-id><pub-id pub-id-type="pmid">27338244</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Estrada-Luna</surname><given-names>D</given-names></name>
+<name><surname>Mart&#x000ed;nez-Hinojosa</surname><given-names>E</given-names></name>
+<name><surname>Cancino-Diaz</surname><given-names>JC</given-names></name>
+<name><surname>Belefant-Miller</surname><given-names>H</given-names></name>
+<name><surname>L&#x000f3;pez-Rodr&#x000ed;guez</surname><given-names>G</given-names></name>
+<name><surname>Betanzos-Cabrera</surname><given-names>G</given-names></name>
+</person-group><article-title>Daily supplementation with fresh pomegranate juice increases paraoxonase 1 expression and activity in mice fed a high-fat diet</article-title><source>Eur J Nutr</source><year iso-8601-date="2018-02">2018</year><month>Feb</month><volume>57</volume><issue>1</issue><fpage>383</fpage><lpage>389</lpage><pub-id pub-id-type="doi">10.1007/s00394-017-1394-2</pub-id><pub-id pub-id-type="pmid">28243786</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Comba</surname><given-names>A</given-names></name>
+<name><surname>Lin</surname><given-names>YH</given-names></name>
+<name><surname>Eynard</surname><given-names>AR</given-names></name>
+<name><surname>Valentich</surname><given-names>MA</given-names></name>
+<name><surname>Fernandez-Zapico</surname><given-names>ME</given-names></name>
+<name><surname>Pasqualini</surname><given-names>ME</given-names></name>
+</person-group><article-title>Basic aspects of tumor cell fatty acid-regulated signaling and transcription factors</article-title><source>Cancer Metastasis Rev</source><year iso-8601-date="2011-12">2011</year><month>Dec</month><volume>30</volume><issue>3-4</issue><fpage>325</fpage><lpage>42</lpage><pub-id pub-id-type="doi">10.1007/s10555-011-9308-x</pub-id><pub-id pub-id-type="pmid">22048864</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tai</surname><given-names>ES</given-names></name>
+<name><surname>Corella</surname><given-names>D</given-names></name>
+<name><surname>Demissie</surname><given-names>S</given-names></name>
+<name><surname>Cupples</surname><given-names>LA</given-names></name>
+<name><surname>Coltell</surname><given-names>O</given-names></name>
+<name><surname>Schaefer</surname><given-names>EJ</given-names></name>
+<name><surname>Tucker</surname><given-names>KL</given-names></name>
+<name><surname>Ordovas</surname><given-names>JM</given-names></name>
+<collab>Framingham heart study</collab>
+</person-group><article-title>Polyunsaturated fatty acids interact with the PPARA-L162V polymorphism to affect plasma triglyceride and apolipoprotein C-III concentrations in the Framingham Heart Study</article-title><source>J Nutr</source><year iso-8601-date="2005-03">2005</year><month>Mar</month><volume>135</volume><issue>3</issue><fpage>397</fpage><lpage>403</lpage><pub-id pub-id-type="doi">10.1093/jn/135.3.397</pub-id><pub-id pub-id-type="pmid">15735069</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Caron-Dorval</surname><given-names>D</given-names></name>
+<name><surname>Paquet</surname><given-names>P</given-names></name>
+<name><surname>Paradis</surname><given-names>AM</given-names></name>
+<name><surname>Rudkowska</surname><given-names>I</given-names></name>
+<name><surname>Lemieux</surname><given-names>S</given-names></name>
+<name><surname>Couture</surname><given-names>P</given-names></name>
+<name><surname>Vohl</surname><given-names>MC</given-names></name>
+</person-group><article-title>Effect of the PPAR-Alpha L162V polymorphism on the cardiovascular disease risk factor in response to n-3 polyunsaturated fatty acids</article-title><source>J Nutrigenet Nutrigenomics</source><year>2008</year><volume>1</volume><issue>4</issue><fpage>205</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.1159/000137555</pub-id><pub-id pub-id-type="pmid">19776627</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Riestra</surname><given-names>P</given-names></name>
+<name><surname>L&#x000f3;pez-Sim&#x000f3;n</surname><given-names>L</given-names></name>
+<name><surname>Ortega</surname><given-names>H</given-names></name>
+<name><surname>Gorgojo</surname><given-names>L</given-names></name>
+<name><surname>Martin-Moreno</surname><given-names>JM</given-names></name>
+<name><surname>Schoppen</surname><given-names>S</given-names></name>
+<name><surname>de Oya</surname><given-names>M</given-names></name>
+<name><surname>Garc&#x000e9;s</surname><given-names>C</given-names></name>
+</person-group><article-title>Fat intake influences the effect of the hepatic lipase C-514T polymorphism on HDL-cholesterol levels in children</article-title><source>Exp Biol Med (Maywood)</source><year iso-8601-date="2009-07">2009</year><month>Jul</month><volume>234</volume><issue>7</issue><fpage>744</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.3181/0812-RM-373</pub-id><pub-id pub-id-type="pmid">19429860</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>G</given-names></name>
+<name><surname>Zhang</surname><given-names>B</given-names></name>
+<name><surname>Shi</surname><given-names>G</given-names></name>
+<name><surname>Weng</surname><given-names>W</given-names></name>
+<name><surname>Ma</surname><given-names>C</given-names></name>
+<name><surname>Song</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+</person-group><article-title>The associations between proprotein convertase subtilisin/kexin type 9 E670G polymorphism and the risk of coronary artery disease and serum lipid levels: a meta-analysis</article-title><source>Lipids Health Dis</source><year iso-8601-date="2015-11-17">2015</year><month>Nov</month><day>17</day><volume>14</volume><elocation-id>149</elocation-id><pub-id pub-id-type="doi">10.1186/s12944-015-0154-7</pub-id><pub-id pub-id-type="pmid">26576960</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abboud</surname><given-names>S</given-names></name>
+<name><surname>Karhunen</surname><given-names>PJ</given-names></name>
+<name><surname>L&#x000fc;tjohann</surname><given-names>D</given-names></name>
+<name><surname>Goebeler</surname><given-names>S</given-names></name>
+<name><surname>Luoto</surname><given-names>T</given-names></name>
+<name><surname>Friedrichs</surname><given-names>S</given-names></name>
+<name><surname>Lehtimaki</surname><given-names>T</given-names></name>
+<name><surname>Pandolfo</surname><given-names>M</given-names></name>
+<name><surname>Laaksonen</surname><given-names>R</given-names></name>
+</person-group><article-title>Proprotein convertase subtilisin/kexin type 9 (PCSK9) gene is a risk factor of large-vessel atherosclerosis stroke</article-title><source>PLoS One</source><year iso-8601-date="2007-10-17">2007</year><month>Oct</month><day>17</day><volume>2</volume><issue>10</issue><elocation-id>e1043</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0001043</pub-id><pub-id pub-id-type="pmid">17940607</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Das</surname><given-names>UN</given-names></name>
+<name><surname>Repossi</surname><given-names>G</given-names></name>
+<name><surname>Dain</surname><given-names>A</given-names></name>
+<name><surname>Eynard</surname><given-names>AR</given-names></name>
+</person-group><article-title>L-arginine, NO and asymmetrical dimethylarginine in hypertension and type 2 diabetes</article-title><source>Front Biosci (Landmark Ed)</source><year iso-8601-date="2011-01-01">2011</year><month>Jan</month><day>1</day><volume>16</volume><issue>1</issue><fpage>13</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.2741/3672</pub-id><pub-id pub-id-type="pmid">21196155</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Curti</surname><given-names>ML</given-names></name>
+<name><surname>Pires</surname><given-names>MM</given-names></name>
+<name><surname>Barros</surname><given-names>CR</given-names></name>
+<name><surname>Siqueira-Catania</surname><given-names>A</given-names></name>
+<name><surname>Rogero</surname><given-names>MM</given-names></name>
+<name><surname>Ferreira</surname><given-names>SR</given-names></name>
+</person-group><article-title>Associations of the TNF-alpha -308-G/A, IL6 -174-G/C and AdipoQ 45-T/G polymorphisms with inflammatory and metabolic responses to lifestyle intervention in Brazilians at high cardiometabolic risk</article-title><source>Diabetol Metab Syndr</source><year iso-8601-date="2012-11-24">2012</year><month>Nov</month><day>24</day><volume>4</volume><issue>1</issue><elocation-id>49</elocation-id><pub-id pub-id-type="doi">10.1186/1758-5996-4-49</pub-id><pub-id pub-id-type="pmid">23176569</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Terry</surname><given-names>CF</given-names></name>
+<name><surname>Loukaci</surname><given-names>V</given-names></name>
+<name><surname>Green</surname><given-names>FR</given-names></name>
+</person-group><article-title>Cooperative influence of genetic polymorphisms on interleukin 6 transcriptional regulation</article-title><source>J Biol Chem</source><year iso-8601-date="2000-06-16">2000</year><month>Jun</month><day>16</day><volume>275</volume><issue>24</issue><fpage>18138</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.1074/jbc.M000379200</pub-id><pub-id pub-id-type="pmid">10747905</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cook</surname><given-names>NR</given-names></name>
+<name><surname>Albert</surname><given-names>CM</given-names></name>
+<name><surname>Gaziano</surname><given-names>JM</given-names></name>
+<name><surname>Zaharris</surname><given-names>E</given-names></name>
+<name><surname>MacFadyen</surname><given-names>J</given-names></name>
+<name><surname>Danielson</surname><given-names>E</given-names></name>
+<name><surname>Buring</surname><given-names>JE</given-names></name>
+<name><surname>Manson</surname><given-names>JE</given-names></name>
+</person-group><article-title>A randomized factorial trial of vitamins C and E and beta carotene in the secondary prevention of cardiovascular events in women: results from the Women's Antioxidant Cardiovascular Study</article-title><source>Arch Intern Med</source><year iso-8601-date="2007-08-13">2007</year><month>Aug</month><day>13-27</day><volume>167</volume><issue>15</issue><fpage>1610</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1001/archinte.167.15.1610</pub-id><pub-id pub-id-type="pmid">17698683</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>&#x0017b;ur-Wyrozumska</surname><given-names>K</given-names></name>
+<name><surname>Pera</surname><given-names>J</given-names></name>
+<name><surname>Dziubek</surname><given-names>A</given-names></name>
+<name><surname>Sado</surname><given-names>M</given-names></name>
+<name><surname>Golenia</surname><given-names>A</given-names></name>
+<name><surname>S&#x00142;owik</surname><given-names>A</given-names></name>
+<name><surname>Dziedzic</surname><given-names>T</given-names></name>
+</person-group><article-title>Association between C677T polymorphism of MTHFR gene and risk of amyotrophic lateral sclerosis: Polish population study and a meta-analysis</article-title><source>Neurol Neurochir Pol</source><year>2017</year><season>Mar-Apr</season><volume>51</volume><issue>2</issue><fpage>135</fpage><lpage>139</lpage><pub-id pub-id-type="doi">10.1016/j.pjnns.2017.01.008</pub-id><pub-id pub-id-type="pmid">28187987</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Leeson</surname><given-names>CP</given-names></name>
+<name><surname>Hingorani</surname><given-names>AD</given-names></name>
+<name><surname>Mullen</surname><given-names>MJ</given-names></name>
+<name><surname>Jeerooburkhan</surname><given-names>N</given-names></name>
+<name><surname>Kattenhorn</surname><given-names>M</given-names></name>
+<name><surname>Cole</surname><given-names>TJ</given-names></name>
+<name><surname>Muller</surname><given-names>DP</given-names></name>
+<name><surname>Lucas</surname><given-names>A</given-names></name>
+<name><surname>Humphries</surname><given-names>SE</given-names></name>
+<name><surname>Deanfield</surname><given-names>JE</given-names></name>
+</person-group><article-title>Glu298Asp endothelial nitric oxide synthase gene polymorphism interacts with environmental and dietary factors to influence endothelial function</article-title><source>Circ Res</source><year iso-8601-date="2002-06-14">2002</year><month>Jun</month><day>14</day><volume>90</volume><issue>11</issue><fpage>1153</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1161/01.res.0000020562.07492.d4</pub-id><pub-id pub-id-type="pmid">12065317</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cipollina</surname><given-names>C</given-names></name>
+<name><surname>Salvatore</surname><given-names>SR</given-names></name>
+<name><surname>Muldoon</surname><given-names>MF</given-names></name>
+<name><surname>Freeman</surname><given-names>BA</given-names></name>
+<name><surname>Schopfer</surname><given-names>FJ</given-names></name>
+</person-group><article-title>Generation and dietary modulation of anti-inflammatory electrophilic omega-3 fatty acid derivatives</article-title><source>PLoS One</source><year iso-8601-date="2014-04-15">2014</year><month>Apr</month><day>15</day><volume>9</volume><issue>4</issue><elocation-id>e94836</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0094836</pub-id><pub-id pub-id-type="pmid">24736647</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L</given-names></name>
+<name><surname>Miyaki</surname><given-names>K</given-names></name>
+<name><surname>Araki</surname><given-names>J</given-names></name>
+<name><surname>Song</surname><given-names>Y</given-names></name>
+<name><surname>Kimura</surname><given-names>T</given-names></name>
+<name><surname>Omae</surname><given-names>K</given-names></name>
+<name><surname>Muramatsu</surname><given-names>M</given-names></name>
+</person-group><article-title>Interaction of angiotensin I-converting enzyme insertion-deletion polymorphism and daily salt intake influences hypertension in Japanese men</article-title><source>Hypertens Res</source><year iso-8601-date="2006-10">2006</year><month>Oct</month><volume>29</volume><issue>10</issue><fpage>751</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1291/hypres.29.751</pub-id><pub-id pub-id-type="pmid">17283861</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>J</given-names></name>
+<name><surname>Zhao</surname><given-names>M</given-names></name>
+<name><surname>Miao</surname><given-names>S</given-names></name>
+<name><surname>Xi</surname><given-names>B</given-names></name>
+</person-group><article-title>Polymorphisms of three genes (ACE, AGT and CYP11B2) in the renin-angiotensin-aldosterone system are not associated with blood pressure salt sensitivity: A systematic meta-analysis</article-title><source>Blood Press</source><year>2016</year><volume>25</volume><issue>2</issue><fpage>117</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.3109/08037051.2015.1110923</pub-id><pub-id pub-id-type="pmid">26556555</pub-id></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ely</surname><given-names>BR</given-names></name>
+<name><surname>Clayton</surname><given-names>ZS</given-names></name>
+<name><surname>McCurdy</surname><given-names>CE</given-names></name>
+<name><surname>Pfeiffer</surname><given-names>J</given-names></name>
+<name><surname>Minson</surname><given-names>CT</given-names></name>
+</person-group><article-title>Meta-inflammation and cardiometabolic disease in obesity: Can heat therapy help?</article-title><source>Temperature (Austin)</source><year iso-8601-date="2017-11-10">2017</year><month>Nov</month><day>10</day><volume>5</volume><issue>1</issue><fpage>9</fpage><lpage>21</lpage><pub-id pub-id-type="doi">10.1080/23328940.2017.1384089</pub-id><pub-id pub-id-type="pmid">29687041</pub-id></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goyenechea</surname><given-names>E</given-names></name>
+<name><surname>Collins</surname><given-names>LJ</given-names></name>
+<name><surname>Parra</surname><given-names>D</given-names></name>
+<name><surname>Abete</surname><given-names>I</given-names></name>
+<name><surname>Crujeiras</surname><given-names>AB</given-names></name>
+<name><surname>O'Dell</surname><given-names>SD</given-names></name>
+<name><surname>Mart&#x000ed;nez</surname><given-names>JA</given-names></name>
+</person-group><article-title>The - 11391 G/A polymorphism of the adiponectin gene promoter is associated with metabolic syndrome traits and the outcome of an energy-restricted diet in obese subjects</article-title><source>Horm Metab Res</source><year iso-8601-date="2009-01">2009</year><month>Jan</month><volume>41</volume><issue>1</issue><fpage>55</fpage><lpage>61</lpage><pub-id pub-id-type="doi">10.1055/s-0028-1087204</pub-id><pub-id pub-id-type="pmid">18949681</pub-id></element-citation></ref><ref id="B41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>JF</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Huang</surname><given-names>GH</given-names></name>
+<name><surname>Jiang</surname><given-names>HX</given-names></name>
+<name><surname>Hu</surname><given-names>BL</given-names></name>
+<name><surname>Qin</surname><given-names>SY</given-names></name>
+</person-group><article-title>Association of ADIPOQ polymorphisms with obesity risk: a meta-analysis</article-title><source>Hum Immunol</source><year iso-8601-date="2014-10">2014</year><month>Oct</month><volume>75</volume><issue>10</issue><fpage>1062</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1016/j.humimm.2014.09.004</pub-id><pub-id pub-id-type="pmid">25223469</pub-id></element-citation></ref><ref id="B42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lanas</surname><given-names>F</given-names></name>
+<name><surname>Ser&#x000f3;n</surname><given-names>P</given-names></name>
+<name><surname>Saavedra</surname><given-names>N</given-names></name>
+<name><surname>Ruedlinger</surname><given-names>J</given-names></name>
+<name><surname>Salazar</surname><given-names>L</given-names></name>
+</person-group><article-title>Genetic and Non-Genetic Determinants of Circulating Levels of Adiponectin in a Cohort of Chilean Subjects</article-title><source>Mol Diagn Ther</source><year iso-8601-date="2015-08">2015</year><month>Aug</month><volume>19</volume><issue>4</issue><fpage>197</fpage><lpage>204</lpage><pub-id pub-id-type="doi">10.1007/s40291-015-0146-3</pub-id><pub-id pub-id-type="pmid">26199115</pub-id></element-citation></ref><ref id="B43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Luis</surname><given-names>DA</given-names></name>
+<name><surname>Aller</surname><given-names>R</given-names></name>
+<name><surname>Izaola</surname><given-names>O</given-names></name>
+<name><surname>Gonzalez Sagrado</surname><given-names>M</given-names></name>
+<name><surname>Conde</surname><given-names>R</given-names></name>
+</person-group><article-title>Modulation of insulin concentrations and metabolic parameters in obese patients by -55CT polymorphism of the UCP3 gene secondary to two hypocaloric diets</article-title><source>Horm Metab Res</source><year iso-8601-date="2009-01">2009</year><month>Jan</month><volume>41</volume><issue>1</issue><fpage>62</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1055/s-0028-1087172</pub-id><pub-id pub-id-type="pmid">18825612</pub-id></element-citation></ref><ref id="B44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>ZC</given-names></name>
+<name><surname>JMao</surname><given-names>L</given-names></name>
+<name><surname>Shi</surname><given-names>YY</given-names></name>
+<name><surname>Chen</surname><given-names>JH</given-names></name>
+<name><surname>Wang</surname><given-names>LS</given-names></name>
+<name><surname>Cai</surname><given-names>W</given-names></name>
+</person-group><article-title>Effect of exercise combined with dietary intervention on obese children and adolescents associated with the FTO rs9939609 polymorphism</article-title><source>Eur Rev Med Pharmacol Sci</source><year iso-8601-date="2015-12">2015</year><month>Dec</month><volume>19</volume><issue>23</issue><fpage>4569</fpage><lpage>75</lpage><pub-id pub-id-type="pmid">26698254</pub-id></element-citation></ref><ref id="B45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dougkas</surname><given-names>A</given-names></name>
+<name><surname>Yaqoob</surname><given-names>P</given-names></name>
+<name><surname>Givens</surname><given-names>DI</given-names></name>
+<name><surname>Reynolds</surname><given-names>CK</given-names></name>
+<name><surname>Minihane</surname><given-names>AM</given-names></name>
+</person-group><article-title>The impact of obesity-related SNP on appetite and energy intake</article-title><source>Br J Nutr</source><year iso-8601-date="2013-09-28">2013</year><month>Sep</month><day>28</day><volume>110</volume><issue>6</issue><fpage>1151</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1017/S0007114513000147</pub-id><pub-id pub-id-type="pmid">23433430</pub-id></element-citation></ref><ref id="B46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eldosouky</surname><given-names>MK</given-names></name>
+<name><surname>Abd u Allah</surname><given-names>AM</given-names></name>
+<name><surname>Ab d Elmoneim</surname><given-names>A</given-names></name>
+<name><surname>Al-Ahmadi</surname><given-names>NS</given-names></name>
+</person-group><article-title>Correlation between serum leptin and its gene expression to the anthropometric measures in overweight and obese children</article-title><source>Cell Mol Biol (Noisy-le-grand)</source><year iso-8601-date="2018-01-31">2018</year><month>Jan</month><day>31</day><volume>64</volume><issue>1</issue><fpage>84</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.14715/cmb/2018.64.1.15</pub-id></element-citation></ref><ref id="B47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Phillips</surname><given-names>CM</given-names></name>
+<name><surname>Goumidi</surname><given-names>L</given-names></name>
+<name><surname>Bertrais</surname><given-names>S</given-names></name>
+<name><surname>Field</surname><given-names>MR</given-names></name>
+<name><surname>Ordovas</surname><given-names>JM</given-names></name>
+<name><surname>Cupples</surname><given-names>LA</given-names></name>
+<name><surname>Defoort</surname><given-names>C</given-names></name>
+<name><surname>Lovegrove</surname><given-names>JA</given-names></name>
+<name><surname>Drevon</surname><given-names>CA</given-names></name>
+<name><surname>Blaak</surname><given-names>EE</given-names></name>
+<name><surname>Gibney</surname><given-names>MJ</given-names></name>
+<name><surname>Kiec-Wilk</surname><given-names>B</given-names></name>
+<name><surname>Karlstrom</surname><given-names>B</given-names></name>
+<name><surname>Lopez-Miranda</surname><given-names>J</given-names></name>
+<name><surname>McManus</surname><given-names>R</given-names></name>
+<name><surname>Hercberg</surname><given-names>S</given-names></name>
+<name><surname>Lairon</surname><given-names>D</given-names></name>
+<name><surname>Planells</surname><given-names>R</given-names></name>
+<name><surname>Roche</surname><given-names>HM</given-names></name>
+</person-group><article-title>Leptin receptor polymorphisms interact with polyunsaturated fatty acids to augment risk of insulin resistance and metabolic syndrome in adults</article-title><source>J Nutr</source><year iso-8601-date="2010-02">2010</year><month>Feb</month><volume>140</volume><issue>2</issue><fpage>238</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.3945/jn.109.115329</pub-id><pub-id pub-id-type="pmid">20032477</pub-id></element-citation></ref><ref id="B48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Navarro</surname><given-names>P</given-names></name>
+<name><surname>de Dios</surname><given-names>O</given-names></name>
+<name><surname>Gavela-P&#x000e9;rez</surname><given-names>T</given-names></name>
+<name><surname>Soriano-Guillen</surname><given-names>L</given-names></name>
+<name><surname>Garc&#x000e9;s</surname><given-names>C</given-names></name>
+</person-group><article-title>Relationship between polymorphisms in the CRP, LEP and LEPR genes and high sensitivity C-reactive protein levels in Spanish children</article-title><source>Clin Chem Lab Med</source><year iso-8601-date="2017-10-26">2017</year><month>Oct</month><day>26</day><volume>55</volume><issue>11</issue><fpage>1690</fpage><lpage>1695</lpage><pub-id pub-id-type="doi">10.1515/cclm-2017-0134</pub-id><pub-id pub-id-type="pmid">28350535</pub-id></element-citation></ref><ref id="B49"><label>49</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khalilitehrani</surname><given-names>A</given-names></name>
+<name><surname>Qorbani</surname><given-names>M</given-names></name>
+<name><surname>Hosseini</surname><given-names>S</given-names></name>
+<name><surname>Pishva</surname><given-names>H</given-names></name>
+</person-group><article-title>The association of MC4R rs17782313 polymorphism with dietary intake in Iranian adults</article-title><source>Gene</source><year iso-8601-date="2015-06-01">2015</year><month>Jun</month><day>1</day><volume>563</volume><issue>2</issue><fpage>125</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.gene.2015.03.013</pub-id><pub-id pub-id-type="pmid">25769385</pub-id></element-citation></ref><ref id="B50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ortega-Azor&#x000ed;n</surname><given-names>C</given-names></name>
+<name><surname>Sorl&#x000ed;</surname><given-names>JV</given-names></name>
+<name><surname>Asensio</surname><given-names>EM</given-names></name>
+<name><surname>Coltell</surname><given-names>O</given-names></name>
+<name><surname>Mart&#x000ed;nez-Gonz&#x000e1;lez</surname><given-names>M&#x000c1;</given-names></name>
+<name><surname>Salas-Salvad&#x000f3;</surname><given-names>J</given-names></name>
+<name><surname>Covas</surname><given-names>MI</given-names></name>
+<name><surname>Ar&#x000f3;s</surname><given-names>F</given-names></name>
+<name><surname>Lapetra</surname><given-names>J</given-names></name>
+<name><surname>Serra-Majem</surname><given-names>L</given-names></name>
+<name><surname>G&#x000f3;mez-Gracia</surname><given-names>E</given-names></name>
+<name><surname>Fiol</surname><given-names>M</given-names></name>
+<name><surname>S&#x000e1;ez-Tormo</surname><given-names>G</given-names></name>
+<name><surname>Pint&#x000f3;</surname><given-names>X</given-names></name>
+<name><surname>Mu&#x000f1;oz</surname><given-names>MA</given-names></name>
+<name><surname>Ros</surname><given-names>E</given-names></name>
+<name><surname>Ordov&#x000e1;s</surname><given-names>JM</given-names></name>
+<name><surname>Estruch</surname><given-names>R</given-names></name>
+<name><surname>Corella</surname><given-names>D</given-names></name>
+</person-group><article-title>Associations of the FTO rs9939609 and the MC4R rs17782313 polymorphisms with type 2 diabetes are modulated by diet, being higher when adherence to the Mediterranean diet pattern is low</article-title><source>Cardiovasc Diabetol</source><year iso-8601-date="2012-11-06">2012</year><month>Nov</month><day>6</day><volume>11</volume><elocation-id>137</elocation-id><pub-id pub-id-type="doi">10.1186/1475-2840-11-137</pub-id><pub-id pub-id-type="pmid">23130628</pub-id></element-citation></ref><ref id="B51"><label>51</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Geller</surname><given-names>F</given-names></name>
+<name><surname>Reichwald</surname><given-names>K</given-names></name>
+<name><surname>Dempfle</surname><given-names>A</given-names></name>
+<name><surname>Illig</surname><given-names>T</given-names></name>
+<name><surname>Vollmert</surname><given-names>C</given-names></name>
+<name><surname>Herpertz</surname><given-names>S</given-names></name>
+<name><surname>Siffert</surname><given-names>W</given-names></name>
+<name><surname>Platzer</surname><given-names>M</given-names></name>
+<name><surname>Hess</surname><given-names>C</given-names></name>
+<name><surname>Gudermann</surname><given-names>T</given-names></name>
+<name><surname>Biebermann</surname><given-names>H</given-names></name>
+<name><surname>Wichmann</surname><given-names>HE</given-names></name>
+<name><surname>Sch&#x000e4;fer</surname><given-names>H</given-names></name>
+<name><surname>Hinney</surname><given-names>A</given-names></name>
+<name><surname>Hebebrand</surname><given-names>J</given-names></name>
+</person-group><article-title>Melanocortin-4 receptor gene variant I103 is negatively associated with obesity</article-title><source>Am J Hum Genet</source><year iso-8601-date="2004-03">2004</year><month>Mar</month><volume>74</volume><issue>3</issue><fpage>572</fpage><lpage>81</lpage><pub-id pub-id-type="doi">10.1086/382490</pub-id><pub-id pub-id-type="pmid">14973783</pub-id></element-citation></ref><ref id="B52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alam</surname><given-names>U</given-names></name>
+<name><surname>Asghar</surname><given-names>O</given-names></name>
+<name><surname>Azmi</surname><given-names>S</given-names></name>
+<name><surname>Malik</surname><given-names>RA</given-names></name>
+</person-group><article-title>General aspects of diabetes mellitus</article-title><source>Handb Clin Neurol</source><year>2014</year><volume>126</volume><fpage>211</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.1016/B978-0-444-53480-4.00015-1</pub-id><pub-id pub-id-type="pmid">25410224</pub-id></element-citation></ref><ref id="B53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bo</surname><given-names>S</given-names></name>
+<name><surname>Cassader</surname><given-names>M</given-names></name>
+<name><surname>Cavallo-Perin</surname><given-names>P</given-names></name>
+<name><surname>Durazzo</surname><given-names>M</given-names></name>
+<name><surname>Rosato</surname><given-names>R</given-names></name>
+<name><surname>Gambino</surname><given-names>R</given-names></name>
+</person-group><article-title>The rs553668 polymorphism of the ADRA2A gene predicts the worsening of fasting glucose values in a cohort of subjects without diabetes. A population-based study</article-title><source>Diabet Med</source><year iso-8601-date="2012-04">2012 Apr</year><volume>29</volume><issue>4</issue><fpage>549</fpage><lpage>52</lpage><pub-id pub-id-type="doi">10.1111/j.1464-5491.2011.03522.x</pub-id><pub-id pub-id-type="pmid">22061269</pub-id></element-citation></ref><ref id="B54"><label>54</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X</given-names></name>
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>He</surname><given-names>W</given-names></name>
+<name><surname>Lu</surname><given-names>Y</given-names></name>
+<name><surname>Ma</surname><given-names>D</given-names></name>
+<name><surname>Du</surname><given-names>T</given-names></name>
+<name><surname>Liu</surname><given-names>Q</given-names></name>
+<name><surname>Chen</surname><given-names>C</given-names></name>
+<name><surname>Yu</surname><given-names>X</given-names></name>
+</person-group><article-title>Association of the ADRA2A polymorphisms with the risk of type 2 diabetes: a meta-analysis</article-title><source>Clin Biochem</source><year iso-8601-date="2013-06">2013</year><month>Jun</month><volume>46</volume><issue>9</issue><fpage>722</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1016/j.clinbiochem.2013.02.004</pub-id><pub-id pub-id-type="pmid">23462695</pub-id></element-citation></ref><ref id="B55"><label>55</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>T&#x000f6;njes</surname><given-names>A</given-names></name>
+<name><surname>Stumvoll</surname><given-names>M</given-names></name>
+</person-group><article-title>The role of the Pro12Ala polymorphism in peroxisome proliferator-activated receptor gamma in diabetes risk</article-title><source>Curr Opin Clin Nutr Metab Care</source><year iso-8601-date="2007-07">2007</year><month>Jul</month><volume>10</volume><issue>4</issue><fpage>410</fpage><lpage>4</lpage><pub-id pub-id-type="doi">10.1097/MCO.0b013e3281e389d9</pub-id><pub-id pub-id-type="pmid">17563457</pub-id></element-citation></ref><ref id="B56"><label>56</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Montagnana</surname><given-names>M</given-names></name>
+<name><surname>Fava</surname><given-names>C</given-names></name>
+<name><surname>Nilsson</surname><given-names>PM</given-names></name>
+<name><surname>Engstr&#x000f6;m</surname><given-names>G</given-names></name>
+<name><surname>Hedblad</surname><given-names>B</given-names></name>
+<name><surname>Lippi</surname><given-names>G</given-names></name>
+<name><surname>Minuz</surname><given-names>P</given-names></name>
+<name><surname>Berglund</surname><given-names>G</given-names></name>
+<name><surname>Melander</surname><given-names>O</given-names></name>
+</person-group><article-title>The Pro12Ala polymorphism of the PPARG gene is not associated with the metabolic syndrome in an urban population of middle-aged Swedish individuals</article-title><source>Diabet Med</source><year iso-8601-date="2008-08">2008</year><month>Aug</month><volume>25</volume><issue>8</issue><fpage>902</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1111/j.1464-5491.2008.02510.x</pub-id><pub-id pub-id-type="pmid">18959602</pub-id></element-citation></ref><ref id="B57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Frederiksen</surname><given-names>L</given-names></name>
+<name><surname>Br&#x000f8;dbaek</surname><given-names>K</given-names></name>
+<name><surname>Fenger</surname><given-names>M</given-names></name>
+<name><surname>J&#x000f8;rgensen</surname><given-names>T</given-names></name>
+<name><surname>Borch-Johnsen</surname><given-names>K</given-names></name>
+<name><surname>Madsbad</surname><given-names>S</given-names></name>
+<name><surname>Urhammer</surname><given-names>SA</given-names></name>
+</person-group><article-title>Comment: studies of the Pro12Ala polymorphism of the PPAR-gamma gene in the Danish MONICA cohort: homozygosity of the Ala allele confers a decreased risk of the insulin resistance syndrome</article-title><source>J Clin Endocrinol Metab</source><year iso-8601-date="2002-08">2002</year><month>Aug</month><volume>87</volume><issue>8</issue><fpage>3989</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.1210/jcem.87.8.8732</pub-id><pub-id pub-id-type="pmid">12161548</pub-id></element-citation></ref><ref id="B58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Voight</surname><given-names>BF</given-names></name>
+<name><surname>Scott</surname><given-names>LJ</given-names></name>
+<name><surname>Steinthorsdottir</surname><given-names>V</given-names></name>
+<name><surname>Morris</surname><given-names>AP</given-names></name>
+<name><surname>Dina</surname><given-names>C</given-names></name>
+<name><surname>Welch</surname><given-names>RP</given-names></name>
+<name><surname>Zeggini</surname><given-names>E</given-names></name>
+<name><surname>Huth</surname><given-names>C</given-names></name>
+<name><surname>Aulchenko</surname><given-names>YS</given-names></name>
+<name><surname>Thorleifsson</surname><given-names>G</given-names></name>
+<name><surname>McCulloch</surname><given-names>LJ</given-names></name>
+<name><surname>Ferreira</surname><given-names>T</given-names></name>
+<name><surname>Grallert</surname><given-names>H</given-names></name>
+<name><surname>Amin</surname><given-names>N</given-names></name>
+<name><surname>Wu</surname><given-names>G</given-names></name>
+<name><surname>Willer</surname><given-names>CJ</given-names></name>
+<name><surname>Raychaudhuri</surname><given-names>S</given-names></name>
+<name><surname>McCarroll</surname><given-names>SA</given-names></name>
+<name><surname>Langenberg</surname><given-names>C</given-names></name>
+<name><surname>Hofmann</surname><given-names>OM</given-names></name>
+<name><surname>Dupuis</surname><given-names>J</given-names></name>
+<name><surname>Qi</surname><given-names>L</given-names></name>
+<name><surname>Segr&#x000e8;</surname><given-names>AV</given-names></name>
+<name><surname>van Hoek</surname><given-names>M</given-names></name>
+<name><surname>Navarro</surname><given-names>P</given-names></name>
+<name><surname>Ardlie</surname><given-names>K</given-names></name>
+<name><surname>Balkau</surname><given-names>B</given-names></name>
+<name><surname>Benediktsson</surname><given-names>R</given-names></name>
+<name><surname>Bennett</surname><given-names>AJ</given-names></name>
+<name><surname>Blagieva</surname><given-names>R</given-names></name>
+<name><surname>Boerwinkle</surname><given-names>E</given-names></name>
+<name><surname>Bonnycastle</surname><given-names>LL</given-names></name>
+<name><surname>Bengtsson Bostr&#x000f6;m</surname><given-names>K</given-names></name>
+<name><surname>Bravenboer</surname><given-names>B</given-names></name>
+<name><surname>Bumpstead</surname><given-names>S</given-names></name>
+<name><surname>Burtt</surname><given-names>NP</given-names></name>
+<name><surname>Charpentier</surname><given-names>G</given-names></name>
+<name><surname>Chines</surname><given-names>PS</given-names></name>
+<name><surname>Cornelis</surname><given-names>M</given-names></name>
+<name><surname>Couper</surname><given-names>DJ</given-names></name>
+<name><surname>Crawford</surname><given-names>G</given-names></name>
+<name><surname>Doney</surname><given-names>AS</given-names></name>
+<name><surname>Elliott</surname><given-names>KS</given-names></name>
+<name><surname>Elliott</surname><given-names>AL</given-names></name>
+<name><surname>Erdos</surname><given-names>MR</given-names></name>
+<name><surname>Fox</surname><given-names>CS</given-names></name>
+<name><surname>Franklin</surname><given-names>CS</given-names></name>
+<name><surname>Ganser</surname><given-names>M</given-names></name>
+<name><surname>Gieger</surname><given-names>C</given-names></name>
+<name><surname>Grarup</surname><given-names>N</given-names></name>
+<name><surname>Green</surname><given-names>T</given-names></name>
+<name><surname>Griffin</surname><given-names>S</given-names></name>
+<name><surname>Groves</surname><given-names>CJ</given-names></name>
+<name><surname>Guiducci</surname><given-names>C</given-names></name>
+<name><surname>Hadjadj</surname><given-names>S</given-names></name>
+<name><surname>Hassanali</surname><given-names>N</given-names></name>
+<name><surname>Herder</surname><given-names>C</given-names></name>
+<name><surname>Isomaa</surname><given-names>B</given-names></name>
+<name><surname>Jackson</surname><given-names>AU</given-names></name>
+<name><surname>Johnson</surname><given-names>PR</given-names></name>
+<name><surname>J&#x000f8;rgensen</surname><given-names>T</given-names></name>
+<name><surname>Kao</surname><given-names>WH</given-names></name>
+<name><surname>Klopp</surname><given-names>N</given-names></name>
+<name><surname>Kong</surname><given-names>A</given-names></name>
+<name><surname>Kraft</surname><given-names>P</given-names></name>
+<name><surname>Kuusisto</surname><given-names>J</given-names></name>
+<name><surname>Lauritzen</surname><given-names>T</given-names></name>
+<name><surname>Li</surname><given-names>M</given-names></name>
+<name><surname>Lieverse</surname><given-names>A</given-names></name>
+<name><surname>Lindgren</surname><given-names>CM</given-names></name>
+<name><surname>Lyssenko</surname><given-names>V</given-names></name>
+<name><surname>Marre</surname><given-names>M</given-names></name>
+<name><surname>Meitinger</surname><given-names>T</given-names></name>
+<name><surname>Midthjell</surname><given-names>K</given-names></name>
+<name><surname>Morken</surname><given-names>MA</given-names></name>
+<name><surname>Narisu</surname><given-names>N</given-names></name>
+<name><surname>Nilsson</surname><given-names>P</given-names></name>
+<name><surname>Owen</surname><given-names>KR</given-names></name>
+<name><surname>Payne</surname><given-names>F</given-names></name>
+<name><surname>Perry</surname><given-names>JR</given-names></name>
+<name><surname>Petersen</surname><given-names>AK</given-names></name>
+<name><surname>Platou</surname><given-names>C</given-names></name>
+<name><surname>Proen&#x000e7;a</surname><given-names>C</given-names></name>
+<name><surname>Prokopenko</surname><given-names>I</given-names></name>
+<name><surname>Rathmann</surname><given-names>W</given-names></name>
+<name><surname>Rayner</surname><given-names>NW</given-names></name>
+<name><surname>Robertson</surname><given-names>NR</given-names></name>
+<name><surname>Rocheleau</surname><given-names>G</given-names></name>
+<name><surname>Roden</surname><given-names>M</given-names></name>
+<name><surname>Sampson</surname><given-names>MJ</given-names></name>
+<name><surname>Saxena</surname><given-names>R</given-names></name>
+<name><surname>Shields</surname><given-names>BM</given-names></name>
+<name><surname>Shrader</surname><given-names>P</given-names></name>
+<name><surname>Sigurdsson</surname><given-names>G</given-names></name>
+<name><surname>Spars&#x000f8;</surname><given-names>T</given-names></name>
+<name><surname>Strassburger</surname><given-names>K</given-names></name>
+<name><surname>Stringham</surname><given-names>HM</given-names></name>
+<name><surname>Sun</surname><given-names>Q</given-names></name>
+<name><surname>Swift</surname><given-names>AJ</given-names></name>
+<name><surname>Thorand</surname><given-names>B</given-names></name>
+<name><surname>Tichet</surname><given-names>J</given-names></name>
+<name><surname>Tuomi</surname><given-names>T</given-names></name>
+<name><surname>van Dam</surname><given-names>RM</given-names></name>
+<name><surname>van Haeften</surname><given-names>TW</given-names></name>
+<name><surname>van Herpt</surname><given-names>T</given-names></name>
+<name><surname>van Vliet-Ostaptchouk</surname><given-names>JV</given-names></name>
+<name><surname>Walters</surname><given-names>GB</given-names></name>
+<name><surname>Weedon</surname><given-names>MN</given-names></name>
+<name><surname>Wijmenga</surname><given-names>C</given-names></name>
+<name><surname>Witteman</surname><given-names>J</given-names></name>
+<name><surname>Bergman</surname><given-names>RN</given-names></name>
+<name><surname>Cauchi</surname><given-names>S</given-names></name>
+<name><surname>Collins</surname><given-names>FS</given-names></name>
+<name><surname>Gloyn</surname><given-names>AL</given-names></name>
+<name><surname>Gyllensten</surname><given-names>U</given-names></name>
+<name><surname>Hansen</surname><given-names>T</given-names></name>
+<name><surname>Hide</surname><given-names>WA</given-names></name>
+<name><surname>Hitman</surname><given-names>GA</given-names></name>
+<name><surname>Hofman</surname><given-names>A</given-names></name>
+<name><surname>Hunter</surname><given-names>DJ</given-names></name>
+<name><surname>Hveem</surname><given-names>K</given-names></name>
+<name><surname>Laakso</surname><given-names>M</given-names></name>
+<name><surname>Mohlke</surname><given-names>KL</given-names></name>
+<name><surname>Morris</surname><given-names>AD</given-names></name>
+<name><surname>Palmer</surname><given-names>CN</given-names></name>
+<name><surname>Pramstaller</surname><given-names>PP</given-names></name>
+<name><surname>Rudan</surname><given-names>I</given-names></name>
+<name><surname>Sijbrands</surname><given-names>E</given-names></name>
+<name><surname>Stein</surname><given-names>LD</given-names></name>
+<name><surname>Tuomilehto</surname><given-names>J</given-names></name>
+<name><surname>Uitterlinden</surname><given-names>A</given-names></name>
+<name><surname>Walker</surname><given-names>M</given-names></name>
+<name><surname>Wareham</surname><given-names>NJ</given-names></name>
+<name><surname>Watanabe</surname><given-names>RM</given-names></name>
+<name><surname>Abecasis</surname><given-names>GR</given-names></name>
+<name><surname>Boehm</surname><given-names>BO</given-names></name>
+<name><surname>Campbell</surname><given-names>H</given-names></name>
+<name><surname>Daly</surname><given-names>MJ</given-names></name>
+<name><surname>Hattersley</surname><given-names>AT</given-names></name>
+<name><surname>Hu</surname><given-names>FB</given-names></name>
+<name><surname>Meigs</surname><given-names>JB</given-names></name>
+<name><surname>Pankow</surname><given-names>JS</given-names></name>
+<name><surname>Pedersen</surname><given-names>O</given-names></name>
+<name><surname>Wichmann</surname><given-names>HE</given-names></name>
+<name><surname>Barroso</surname><given-names>I</given-names></name>
+<name><surname>Florez</surname><given-names>JC</given-names></name>
+<name><surname>Frayling</surname><given-names>TM</given-names></name>
+<name><surname>Groop</surname><given-names>L</given-names></name>
+<name><surname>Sladek</surname><given-names>R</given-names></name>
+<name><surname>Thorsteinsdottir</surname><given-names>U</given-names></name>
+<name><surname>Wilson</surname><given-names>JF</given-names></name>
+<name><surname>Illig</surname><given-names>T</given-names></name>
+<name><surname>Froguel</surname><given-names>P</given-names></name>
+<name><surname>van Duijn</surname><given-names>CM</given-names></name>
+<name><surname>Stefansson</surname><given-names>K</given-names></name>
+<name><surname>Altshuler</surname><given-names>D</given-names></name>
+<name><surname>Boehnke</surname><given-names>M</given-names></name>
+<name><surname>McCarthy</surname><given-names>MI</given-names></name>
+<collab>MAGIC investigators</collab>
+<collab>GIANT Consortium</collab>
+</person-group><article-title>Twelve type 2 diabetes susceptibility loci identified through large-scale association analysis</article-title><source>Nat Genet</source><year iso-8601-date="2010-07">2010</year><month>Jul</month><volume>42</volume><issue>7</issue><fpage>579</fpage><lpage>89</lpage><pub-id pub-id-type="doi">10.1038/ng.609</pub-id><comment>Erratum in: Nat Genet. 2011 Apr;43(4):388</comment><pub-id pub-id-type="pmid">20581827</pub-id></element-citation></ref><ref id="B59"><label>59</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tong</surname><given-names>Y</given-names></name>
+<name><surname>Lin</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Yang</surname><given-names>J</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Liu</surname><given-names>H</given-names></name>
+<name><surname>Zhang</surname><given-names>B</given-names></name>
+</person-group><article-title>Association between TCF7L2 gene polymorphisms and susceptibility to type 2 diabetes mellitus: a large Human Genome Epidemiology (HuGE) review and meta-analysis</article-title><source>BMC Med Genet</source><year iso-8601-date="2009-02-19">2009</year><month>Feb</month><day>19</day><volume>10</volume><elocation-id>15</elocation-id><pub-id pub-id-type="doi">10.1186/1471-2350-10-15</pub-id><pub-id pub-id-type="pmid">19228405</pub-id></element-citation></ref><ref id="B60"><label>60</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bodhini</surname><given-names>D</given-names></name>
+<name><surname>Gaal</surname><given-names>S</given-names></name>
+<name><surname>Shatwan</surname><given-names>I</given-names></name>
+<name><surname>Ramya</surname><given-names>K</given-names></name>
+<name><surname>Ellahi</surname><given-names>B</given-names></name>
+<name><surname>Surendran</surname><given-names>S</given-names></name>
+<name><surname>Sudha</surname><given-names>V</given-names></name>
+<name><surname>Anjana</surname><given-names>MR</given-names></name>
+<name><surname>Mohan</surname><given-names>V</given-names></name>
+<name><surname>Lovegrove</surname><given-names>JA</given-names></name>
+<name><surname>Radha</surname><given-names>V</given-names></name>
+<name><surname>Vimaleswaran</surname><given-names>KS</given-names></name>
+</person-group><article-title>Interaction between TCF7L2 polymorphism and dietary fat intake on high density lipoprotein cholesterol</article-title><source>PLoS One</source><year iso-8601-date="2017-11-28">2017</year><month>Nov</month><day>28</day><volume>12</volume><issue>11</issue><elocation-id>e0188382</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0188382</pub-id><pub-id pub-id-type="pmid">29182660</pub-id></element-citation></ref><ref id="B61"><label>61</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hindy</surname><given-names>G</given-names></name>
+<name><surname>Mollet</surname><given-names>IG</given-names></name>
+<name><surname>Rukh</surname><given-names>G</given-names></name>
+<name><surname>Ericson</surname><given-names>U</given-names></name>
+<name><surname>Orho-Melander</surname><given-names>M</given-names></name>
+</person-group><article-title>Several type 2 diabetes-associated variants in genes annotated to WNT signaling interact with dietary fiber in relation to incidence of type 2 diabetes</article-title><source>Genes Nutr</source><year iso-8601-date="2016-03-21">2016</year><month>Mar</month><day>21</day><volume>11</volume><elocation-id>6</elocation-id><pub-id pub-id-type="doi">10.1186/s12263-016-0524-4</pub-id><pub-id pub-id-type="pmid">27551309</pub-id></element-citation></ref><ref id="B62"><label>62</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Corella</surname><given-names>D</given-names></name>
+<name><surname>Carrasco</surname><given-names>P</given-names></name>
+<name><surname>Sorl&#x000ed;</surname><given-names>JV</given-names></name>
+<name><surname>Estruch</surname><given-names>R</given-names></name>
+<name><surname>Rico-Sanz</surname><given-names>J</given-names></name>
+<name><surname>Mart&#x000ed;nez-Gonz&#x000e1;lez</surname><given-names>M&#x000c1;</given-names></name>
+<name><surname>Salas-Salvad&#x000f3;</surname><given-names>J</given-names></name>
+<name><surname>Covas</surname><given-names>MI</given-names></name>
+<name><surname>Coltell</surname><given-names>O</given-names></name>
+<name><surname>Ar&#x000f3;s</surname><given-names>F</given-names></name>
+<name><surname>Lapetra</surname><given-names>J</given-names></name>
+<name><surname>Serra-Majem</surname><given-names>L</given-names></name>
+<name><surname>Ruiz-Guti&#x000e9;rrez</surname><given-names>V</given-names></name>
+<name><surname>Warnberg</surname><given-names>J</given-names></name>
+<name><surname>Fiol</surname><given-names>M</given-names></name>
+<name><surname>Pint&#x000f3;</surname><given-names>X</given-names></name>
+<name><surname>Ortega-Azor&#x000ed;n</surname><given-names>C</given-names></name>
+<name><surname>Mu&#x000f1;oz</surname><given-names>M&#x000c1;</given-names></name>
+<name><surname>Mart&#x000ed;nez</surname><given-names>JA</given-names></name>
+<name><surname>G&#x000f3;mez-Gracia</surname><given-names>E</given-names></name>
+<name><surname>Gonz&#x000e1;lez</surname><given-names>JI</given-names></name>
+<name><surname>Ros</surname><given-names>E</given-names></name>
+<name><surname>Ordov&#x000e1;s</surname><given-names>JM</given-names></name>
+</person-group><article-title>Mediterranean diet reduces the adverse effect of the TCF7L2-rs7903146 polymorphism on cardiovascular risk factors and stroke incidence: a randomized controlled trial in a high-cardiovascular-risk population</article-title><source>Diabetes Care</source><year iso-8601-date="2013-11">2013</year><month>Nov</month><volume>36</volume><issue>11</issue><fpage>3803</fpage><lpage>11</lpage><pub-id pub-id-type="doi">10.2337/dc13-0955</pub-id><pub-id pub-id-type="pmid">23942586</pub-id></element-citation></ref></ref-list></back></article>

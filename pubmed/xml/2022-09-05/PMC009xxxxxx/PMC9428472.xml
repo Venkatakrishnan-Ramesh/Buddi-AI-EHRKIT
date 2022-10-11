@@ -1,0 +1,255 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="letter"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell J</journal-id><journal-id journal-id-type="iso-abbrev">Cell J</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>Cell Journal (Yakhteh)</journal-title></journal-title-group><issn pub-type="ppub">2228-5806</issn><issn pub-type="epub">2228-5814</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36043411</article-id><article-id pub-id-type="pmc">PMC9428472</article-id><article-id pub-id-type="other">Cell-J-24-424</article-id><article-id pub-id-type="doi">10.22074/cellj.2022.8487</article-id><article-categories><subj-group subj-group-type="heading"><subject>Letter to The Editor</subject><subj-group><subject>Virology</subject><subject>Biology</subject></subj-group></subj-group></article-categories><title-group><article-title>Hypertension in COVID-19, A Risk Factor for Infection or
+A Late Consequence? </article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Barekat</surname><given-names>Maryam</given-names></name><degrees>M.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="con1" ref-type="author-notes">#</xref></contrib><contrib contrib-type="author"><name><surname>Shahrbaf</surname><given-names>Mohammad Amin</given-names></name><degrees>M.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A2" ref-type="aff">2</xref><xref rid="con1" ref-type="author-notes">#</xref></contrib><contrib contrib-type="author"><name><surname>Rahi</surname><given-names>Kosar</given-names></name><degrees>M.Sc</degrees><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Vosough</surname><given-names>Massoud</given-names></name><degrees>M.D., Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A3" ref-type="aff">3</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><aff id="A1"><label>1</label>Department of Regenerative Medicine, Cell Science Research Center, Royan Institute for Stem Cell Biology and Technology, ACECR,
+Tehran, Iran</aff><aff id="A2"><label>2</label>Research and Development Department, Royan Stem Cell Technology Co, Tehran, Iran</aff><aff id="A3"><label>3</label>Experimental Cancer Medicine, Institution for Laboratory Medicine, Karolinska Institute, Stockholm, Sweden</aff></contrib-group><author-notes><corresp id="cor1">
+<label> *Corresponding Address:</label>
+<addr-line>P.O.Box: 16635-148</addr-line>
+<addr-line>Department of Regenerative Medicine</addr-line>
+<addr-line>Cell Science Research Center</addr-line>
+<institution>Royan Institute for
+Stem Cell Biology and Technology</institution>
+<addr-line>ACECR</addr-line>
+<addr-line>Tehran</addr-line>
+<country>Iran</country>
+Email:<email>masvos@royaninstitute.org</email>
+</corresp><fn id="con1"><label>#</label><p>These authors contributed equally to this work</p></fn></author-notes><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>27</day><month>7</month><year>2022</year></pub-date><volume>24</volume><issue>7</issue><fpage>424</fpage><lpage>426</lpage><history><date date-type="received"><day>27</day><month>2</month><year>2022</year></date><date date-type="accepted"><day>14</day><month>6</month><year>2022</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium,
+with the exception of commercial purposes, is permitted provided the original work is properly cited.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0) License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original
+work is properly cited. </license-p></license></permissions><abstract><p>There are a lot of data about the correlation of SARS-CoV-2 infection and hypertension (HTN), but most of them
+are in the increased risk of morbidity and mortality in patients with HTN. SARS-CoV-2 can interfere with host cells
+through the renin-angiotensin system (RAS) via the angiotensin-converting enzyme 2 (ACE2) receptor. RAS activation
+is associated with pro-inflammatory effects through the ACE/Ang II/ Angiotensin II type 1 receptor (AT1R) pathway
+or anti-inflammatory effects through ACE2/Ang1-7/Mas axis. In the current paper, we discuss the pathophysiology of
+newly diagnosed HTN and its effect on morbidity in patients with coronavirus disease 2019 (COVID-19). </p></abstract><kwd-group><kwd>COVID-19</kwd><kwd>Hypertension</kwd><kwd>Renin-Angiotensin-Aldosterone System</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Barekat M, Shahrbaf MA, Rahi K, Vosough M. Hypertension in COVID-19, a risk factor for infection or a late consequence? Cell J. 2022; 24(7): 424-
+426. doi: 10.22074/cellj.2022.8487.
+This open-access article has been published under the terms of the Creative Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0).</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Coronavirus disease 2019 (COVID-19), caused
+by severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2) firstly reported in Wuhan in 2019 (<xref rid="B1" ref-type="bibr">1</xref>),
+China, that caused more than 517 million confirmed
+cases and almost 6.2 million deaths until 6 May 2022
+(<xref rid="B2" ref-type="bibr">2</xref>). It is shown that cardiovascular diseases and risk
+factors such as hypertension (HTN) are associated
+with more severe symptoms in affected individuals
+including dyspnea, and hypoxia. These patients need
+intensive care unit (ICU) that represent the increased
+likelihood of morbidities, and even mortality (<xref rid="B3" ref-type="bibr">3</xref>).
+On the other hand, HTN may be a consequence of
+COVID-19, due to the over-activity of the reninangiotensin system (RAS) (<xref rid="B4" ref-type="bibr">4</xref>).
+</p><p>During the COVID-19 pandemic disease, especially
+during lockdown and quarantine, diagnostic and
+therapeutic interventions for HTN were reduced
+significantly, which deteriorates the long-term
+consequences of HTN and cardiovascular events (<xref rid="B5" ref-type="bibr">5</xref>,
+<xref rid="B6" ref-type="bibr">6</xref>). In addition, studies reported that the COVID-19
+pandemics has changed the treatment strategies of HTN
+in order to have a better management of this condition
+in patients (<xref rid="B7" ref-type="bibr">7</xref>). In this study, we review the association
+between COVID-19 and HTN as a risk factor for the
+infection, and a consequence of the infection.</p><sec><title>COVID-19 and RAS</title><p>SARS-CoV-2 penetrates host cells using surface
+spike protein through the angiotensin-converting
+enzyme 2 (ACE2) receptor that interferes with
+host cells via RAS (<xref rid="B8" ref-type="bibr">8</xref>). Recent studies showed that
+RAS over-activation might have pro-inflammatory,
+profibrotic, and vasoconstrictive effects by reactive
+oxygen species (ROS) production and cytokines release
+through ACE/Ang II/ Angiotensin II type 1 receptor
+(AT1
+R) pathway (<xref rid="B9" ref-type="bibr">9</xref>). However, RAS can act through
+an alternative pathway, the ACE2/Ang1-7/Mas axis,
+which is a counter-regulator of classic pathway causing
+anti-inflammatory effects (<xref rid="B10" ref-type="bibr">10</xref>). It was revealed that,
+the ACE2/Ang1-7/Mas axis, may be downregulated
+in COVID-19 infection due to eliminating ACE2
+expressing cells by virus. This issue may cause the over
+expression of ACE/Ang II/AT1
+R pathway (<xref rid="B11" ref-type="bibr">11</xref>). Since
+angiotensin II receptor blockers, ACE inhibitors, and
+mineralocorticoid receptor antagonists overexpressed
+the ACE2 receptor, it has been thought that these drugs
+can lessen the severity of the disease and cause ACE2/
+Ang1-7/Mas axis upregulation. These properties
+associated with beneficial effects on lung function.
+Therefore, these drugs should not be withheld during
+COVID-19 (<xref rid="B12" ref-type="bibr">12</xref>).</p></sec><sec><title>Inflammation</title><p>SARS-CoV-2 infection can induce cytokine storm
+via different mechanisms. The activation of Ang II,
+which promotes production of pro-inflammatory
+cytokines such as IL-6 and TNF-alpha causing an
+influx of inflammatory cells to the infected sites results in vascular injury, fibrosis and even thrombosis
+(<xref rid="B13" ref-type="bibr">13</xref>). In addition, SARS-CoV-2 infection can induce
+production of ROS, which stimulates the synthesis
+of NF-&#x003ba;B (<xref rid="B14" ref-type="bibr">14</xref>). This usually results in increment of
+cytokines and the cytokine storm (<xref rid="B15" ref-type="bibr">15</xref>). On the other
+hand, the role of inflammation in HTN has been
+investigated. It seems that systemic inflammation may
+cause arterial stiffness associated with elevating blood
+pressure until the rage of HTN (<xref rid="B16" ref-type="bibr">16</xref>). In fact, oxidative
+stress alongside chronic inflammation causes changing
+the arterial walls, increase in intima-media thickness,
+and endothelial dysfunction (<xref rid="B17" ref-type="bibr">17</xref>). </p><p>It was shown that endothelial dysfunction may
+be associated with essential HTN (<xref rid="B18" ref-type="bibr">18</xref>) and severe
+endothelial injury in the severe COVID-19 (<xref rid="B19" ref-type="bibr">19</xref>). It
+seems that endothelial dysfunction resulted from HTN,
+may exacerbate COVID-19 symptoms in patients
+with HTN; also, and in some patients without HTN,
+endothelial dysfunction resulted from COVID-19
+infection may develop HTN in near future.
+</p></sec><sec><title>Hypertension: a risk factor for COVID19 or its
+consequence?</title><p>The endothelial dysfunction caused by HTN may
+influence the outcome of COVID-19. In the evaluation
+of newly onset HTN in COVID-19, there are many
+of studies that supported this concept. In a study in
+late 2021 on 211 COVID-19 patients, new onset
+HTN was seen in 18 patients during a 30-day followup (<xref rid="B20" ref-type="bibr">20</xref>). In another study by Chen et al. (<xref rid="B4" ref-type="bibr">4</xref>) on 366
+patients, new onset HTN was observed in 190 patients
+without history of HTN, with high levels of Ang II and
+cardiac troponin. In addition, Bekbossynova et al. (<xref rid="B21" ref-type="bibr">21</xref>)
+observed a case of COVID-19 that was manifested as
+sudden HTN. However, conflicting results observed in
+a cohort study in China on more than 1,700 COVID-19
+patients with a six months follow-up, without reports
+of newly diagnosed HTN (<xref rid="B7" ref-type="bibr">7</xref>). </p><p>According to our explorations, there is a close
+relationship between HTN and COVID-19 infection.
+Each of them can induce and exacerbate the other one;
+although, more studies are needed to investigate new
+onset HTN after COVID-19.</p></sec><sec><title>How should we battle?</title><p>It was suggested that the mortality rate is similar in
+adjusted model analysis, in the context of beta blocker,
+ACEIs or ARBs consumption in COVID-19 patients
+(<xref rid="B22" ref-type="bibr">22</xref>). Furthermore, large scale studies reduced the
+uncertainties in the context of medication controversies
+in COVID-19 patients with HTN; however, further
+cohort studies are needed to confirm this hypothesis.</p></sec></sec><sec sec-type="conclusions"><title>Conclusion</title><p>According to our explorations, there is a close association
+between HTN and COVID-19 infection. Each of them can
+induce and exacerbate the other one; although, to have a
+better insight, more studies are needed to investigate new
+onset HTN after COVID-19.</p></sec></body><back><ack><title>Acknowledgements</title><p>There is no financial support and conflict of interest in
+this study.</p></ack><bio id="d64e240"><title>Authors&#x02019; Contributions</title><p>M.B., M.V.; Contributed to conception and design.
+M.A.S., K.R.; Drafted the manuscript, which was revised
+by M.B. and M.V. All authors read and approved the final
+manuscript.</p></bio><ref-list><ref id="B1"><label>1</label><element-citation publication-type="webpage"><comment>Available from: <uri xlink:href="https://covid19.who.int/">https://covid19. who.int/</uri> (13 May 2022).
+</comment></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shahrbaf</surname><given-names>MA</given-names></name>
+<name><surname>Hassan</surname><given-names>M</given-names></name>
+<name><surname>Vosough</surname><given-names>M</given-names></name>
+</person-group><article-title>COVID-19 and Hygiene Hypothesis: increment of the Inflammatory Bowel Diseases in next generation?</article-title><source>Expert Rev Gastroenterol Hepatol</source><year>2022</year><volume>16</volume><issue>1</issue><fpage>1</fpage><lpage>3</lpage><pub-id pub-id-type="pmid">34919489</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Savoia</surname><given-names>C</given-names></name>
+<name><surname>Volpe</surname><given-names>M</given-names></name>
+<name><surname>Kreutz</surname><given-names>R</given-names></name>
+</person-group><article-title>Hypertension, a moving target in COVID-19: current views and perspectives</article-title><source>Circ Res</source><year>2021</year><volume>128</volume><issue>7</issue><fpage>1062</fpage><lpage>1079</lpage><pub-id pub-id-type="pmid">33793331</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>G</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Gong</surname><given-names>Z</given-names></name>
+<name><surname>Xia</surname><given-names>H</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>X</given-names></name>
+<etal/>
+</person-group><article-title>Hypertension as a sequela in patients of SARS-CoV-2 infection</article-title><source>PLoS One</source><year>2021</year><volume>16</volume><issue>4</issue><fpage>e0250815</fpage><lpage>e0250815</lpage><pub-id pub-id-type="pmid">33909683</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Weber</surname><given-names>T</given-names></name>
+<name><surname>Amar</surname><given-names>J</given-names></name>
+<name><surname>de Backer</surname><given-names>T</given-names></name>
+<name><surname>Burkard</surname><given-names>T</given-names></name>
+<name><surname>van der Giet</surname><given-names>M</given-names></name>
+<name><surname>Gosse</surname><given-names>P</given-names></name>
+<etal/>
+</person-group><article-title>Covid-19 associated reduction in hypertension-related diagnostic and therapeutic procedures in Excellence Centers of the European Society of Hypertension</article-title><source>Blood Press</source><year>2022</year><volume>31</volume><issue>1</issue><fpage>71</fpage><lpage>79</lpage><pub-id pub-id-type="pmid">35465794</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Burnier</surname><given-names>M</given-names></name>
+<name><surname>Kjeldsen</surname><given-names>SE</given-names></name>
+<name><surname>Narkiewicz</surname><given-names>K</given-names></name>
+<name><surname>Egan</surname><given-names>B</given-names></name>
+<name><surname>Kreutz</surname><given-names>R</given-names></name>
+</person-group><article-title>Hypertension management during the COVID-19 pandemic: what can we learn for the future?</article-title><source>Blood Press</source><year>2022</year><volume>31</volume><issue>1</issue><fpage>47</fpage><lpage>49</lpage><pub-id pub-id-type="pmid">35426323</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>C</given-names></name>
+<name><surname>Huang</surname><given-names>L</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Ren</surname><given-names>L</given-names></name>
+<name><surname>Gu</surname><given-names>X</given-names></name>
+<etal/>
+</person-group><article-title>6-month consequences of COVID-19 in patients discharged from hospital: a cohort study</article-title><source>Lancet</source><year>2021</year><volume>397</volume><issue>10270</issue><fpage>220</fpage><lpage>232</lpage><pub-id pub-id-type="pmid">33428867</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J</given-names></name>
+<name><surname>Petitjean</surname><given-names>SJL</given-names></name>
+<name><surname>Koehler</surname><given-names>M</given-names></name>
+<name><surname>Zhang</surname><given-names>Q</given-names></name>
+<name><surname>Dumitru</surname><given-names>AC</given-names></name>
+<name><surname>Chen</surname><given-names>W</given-names></name>
+<etal/>
+</person-group><article-title>Molecular interaction and inhibition of SARS-CoV-2 binding to the ACE2 receptor</article-title><source>Nat Commun</source><year>2020</year><volume>11</volume><issue>1</issue><fpage>4541</fpage><lpage>4541</lpage><pub-id pub-id-type="pmid">32917884</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Benigni</surname><given-names>A</given-names></name>
+<name><surname>Cassis</surname><given-names>P</given-names></name>
+<name><surname>Remuzzi</surname><given-names>G</given-names></name>
+</person-group><article-title>Angiotensin II revisited: new roles in inflammation, immunology and aging</article-title><source>EMBO Mol Med</source><year>2010</year><volume>2</volume><issue>7</issue><fpage>247</fpage><lpage>257</lpage><pub-id pub-id-type="pmid">20597104</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Capettini</surname><given-names>LS</given-names></name>
+<name><surname>Montecucco</surname><given-names>F</given-names></name>
+<name><surname>Mach</surname><given-names>F</given-names></name>
+<name><surname>Stergiopulos</surname><given-names>N</given-names></name>
+<name><surname>Santos</surname><given-names>RA</given-names></name>
+<name><surname>da Silva</surname><given-names>RF</given-names></name>
+</person-group><article-title>Role of renin-angiotensin system in inflammation, immunity and aging</article-title><source>Curr Pharm Des</source><year>2012</year><volume>18</volume><issue>7</issue><fpage>963</fpage><lpage>970</lpage><pub-id pub-id-type="pmid">22283774</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Issa</surname><given-names>H</given-names></name>
+<name><surname>Eid</surname><given-names>AH</given-names></name>
+<name><surname>Berry</surname><given-names>B</given-names></name>
+<name><surname>Takhviji</surname><given-names>V</given-names></name>
+<name><surname>Khosravi</surname><given-names>A</given-names></name>
+<name><surname>Mantash</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>Combination of angiotensin (1-7) agonists and convalescent plasma as a new strategy to overcome angiotensin converting enzyme 2 (ACE2) inhibition for the treatment of COVID-19</article-title><source>Front Med (Lausanne)</source><year>2021</year><volume>8</volume><fpage>620990</fpage><lpage>620990</lpage><pub-id pub-id-type="pmid">33816521</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brojakowska</surname><given-names>A</given-names></name>
+<name><surname>Narula</surname><given-names>J</given-names></name>
+<name><surname>Shimony</surname><given-names>R</given-names></name>
+<name><surname>Bander</surname><given-names>J</given-names></name>
+</person-group><article-title>Clinical implications of SARS-CoV-2 interaction with renin angiotensin system: JACC review topic of the week</article-title><source>J Am Coll Cardiol</source><year>2020</year><volume>75</volume><issue>24</issue><fpage>3085</fpage><lpage>3095</lpage><pub-id pub-id-type="pmid">32305401</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tay</surname><given-names>MZ</given-names></name>
+<name><surname>Poh</surname><given-names>CM</given-names></name>
+<name><surname>R&#x000e9;nia</surname><given-names>L</given-names></name>
+<name><surname>MacAry</surname><given-names>PA</given-names></name>
+<name><surname>Ng</surname><given-names>LFP</given-names></name>
+</person-group><article-title>The trinity of COVID-19: immunity, inflammation and intervention</article-title><source>Nat Rev Immunol</source><year>2020</year><volume>20</volume><issue>6</issue><fpage>363</fpage><lpage>374</lpage><pub-id pub-id-type="pmid">32346093</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Shahriari-Felordi</surname><given-names>M</given-names></name>
+<name><surname>Alikhani</surname><given-names>HK</given-names></name>
+<name><surname>Hashemian</surname><given-names>SM</given-names></name>
+<name><surname>Hassan</surname><given-names>M</given-names></name>
+<name><surname>Vosough</surname><given-names>M</given-names></name>
+</person-group><source>Mini review ATF4 and GRP78 as novel molecular targets in ER-Stress modulation for critical COVID-19 patients.Mol Biol Rep</source><publisher-name>Mol Biol Rep</publisher-name><year>2022</year><fpage>1</fpage><lpage>5</lpage></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bhaskar</surname><given-names>S</given-names></name>
+<name><surname>Sinha</surname><given-names>A</given-names></name>
+<name><surname>Banach</surname><given-names>M</given-names></name>
+<name><surname>Mittoo</surname><given-names>S</given-names></name>
+<name><surname>Weissert</surname><given-names>R</given-names></name>
+<name><surname>Kass</surname><given-names>JS</given-names></name>
+<etal/>
+</person-group><article-title>Cytokine storm in COVID-19-immunopathological mechanisms, clinical considerations, and therapeutic approaches: the REPROGRAM consortium position paper</article-title><source>Front Immunol</source><year>2020</year><volume>11</volume><fpage>1648</fpage><lpage>1648</lpage><pub-id pub-id-type="pmid">32754159</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tomiyama</surname><given-names>H</given-names></name>
+<name><surname>Shiina</surname><given-names>K</given-names></name>
+<name><surname>Matsumoto-Nakano</surname><given-names>C</given-names></name>
+<name><surname>Ninomiya</surname><given-names>T</given-names></name>
+<name><surname>Komatsu</surname><given-names>S</given-names></name>
+<name><surname>Kimura</surname><given-names>K</given-names></name>
+<etal/>
+</person-group><article-title>The contribution of inflammation to the development of hypertension mediated by increased arterial stiffness</article-title><source>J Am Heart Assoc</source><year>2017</year><volume>6</volume><issue>7</issue><fpage>e005729</fpage><lpage>e005729</lpage><pub-id pub-id-type="pmid">28666991</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Castellon</surname><given-names>X</given-names></name>
+<name><surname>Bogdanova</surname><given-names>V</given-names></name>
+</person-group><article-title>Chronic inflammatory diseases and endothelial dysfunction</article-title><source>Aging Dis</source><year>2016</year><volume>7</volume><issue>1</issue><fpage>81</fpage><lpage>89</lpage><pub-id pub-id-type="pmid">26815098</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Faulkner</surname><given-names>JL</given-names></name>
+<name><surname>Belin de Chantem&#x000e8;le</surname><given-names>EJ</given-names></name>
+</person-group><article-title>Mineralocorticoid receptor and endothelial dysfunction in hypertension</article-title><source>Curr Hypertens Rep</source><year>2019</year><volume>21</volume><issue>10</issue><fpage>78</fpage><lpage>78</lpage><pub-id pub-id-type="pmid">31485760</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ruhl</surname><given-names>L</given-names></name>
+<name><surname>Pink</surname><given-names>I</given-names></name>
+<name><surname>K&#x000fc;hne</surname><given-names>JF</given-names></name>
+<name><surname>Beushausen</surname><given-names>K</given-names></name>
+<name><surname>Keil</surname><given-names>J</given-names></name>
+<name><surname>Christoph</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>Endothelial dysfunction contributes to severe COVID-19 in combination with dysregulated lymphocyte responses and cytokine networks</article-title><source>Signal Transduct Target Ther</source><year>2021</year><volume>6</volume><issue>1</issue><fpage>418</fpage><lpage>418</lpage><pub-id pub-id-type="pmid">34893580</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Akpek</surname><given-names>M</given-names></name>
+</person-group><source>Does COVID-19 cause hypertension?.Angiology</source><publisher-name>Angiology</publisher-name><year>2021</year><fpage>33197211053903</fpage><lpage>33197211053903</lpage></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bekbossynova</surname><given-names>M</given-names></name>
+<name><surname>Ainur</surname><given-names>T</given-names></name>
+</person-group><article-title>Hypertension as a manifestation of COVID-19 pneumonia</article-title><source>Clin Case Rep</source><year>2021</year><volume>9</volume><issue>9</issue><fpage>e04720</fpage><lpage>e04720</lpage><pub-id pub-id-type="pmid">34484759</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tadic</surname><given-names>M</given-names></name>
+<name><surname>Saeed</surname><given-names>S</given-names></name>
+<name><surname>Grassi</surname><given-names>G</given-names></name>
+<name><surname>Taddei</surname><given-names>S</given-names></name>
+<name><surname>Mancia</surname><given-names>G</given-names></name>
+<name><surname>Cuspidi</surname><given-names>C</given-names></name>
+</person-group><article-title>Hypertension and COVID-19: ongoing controversies</article-title><source>Front Cardiovasc Med</source><year>2021</year><volume>8</volume><fpage>639222</fpage><lpage>639222</lpage><pub-id pub-id-type="pmid">33681308</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,645 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Transl Vis Sci Technol</journal-id><journal-id journal-id-type="iso-abbrev">Transl Vis Sci Technol</journal-id><journal-id journal-id-type="publisher-id">TVST</journal-id><journal-title-group><journal-title>Translational Vision Science &#x00026; Technology</journal-title></journal-title-group><issn pub-type="epub">2164-2591</issn><publisher><publisher-name>The Association for Research in Vision and Ophthalmology</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36053140</article-id><article-id pub-id-type="pmc">PMC9440607</article-id><article-id pub-id-type="doi">10.1167/tvst.11.9.3</article-id><article-id pub-id-type="publisher-id">TVST-22-4522</article-id><article-categories><subj-group subj-group-type="heading"><subject>Retina</subject></subj-group><subj-group subj-group-type="category"><subject>Retina</subject></subj-group></article-categories><title-group><article-title>Visible Light Optical Coherence Tomography Reveals the Relationship of the Myoid and Ellipsoid to Band 2 in Humans</article-title><alt-title alt-title-type="runhead">Visible Light OCT and the Inner Segments</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Srinivasan</surname><given-names>Vivek J.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kho</surname><given-names>Aaron M.</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Chauhan</surname><given-names>Pooja</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><aff id="aff1"><label>1</label>Department of Ophthalmology, NYU Langone Health, New York, NY, USA</aff><aff id="aff2"><label>2</label>Department of Radiology, NYU Langone Health, New York, NY, USA</aff><aff id="aff3"><label>3</label>Tech4Health Institute, NYU Langone Health, New York, NY, USA</aff><aff id="aff4"><label>4</label>Department of Biomedical Engineering, University of California, Davis, CA, USA</aff></contrib-group><author-notes><corresp id="cor1">
+<label>*</label>
+<bold>Correspondence:</bold> Vivek J. Srinivasan, Department of Radiology and Department of Ophthalmology, NYU Langone Health, NYU Langone Health, 433 1st Ave, 10th Floor, New York, NY 10010, USA. e-mail: <email>vivek.srinivasan@nyulangone.org</email></corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>9</month><year>2022</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2022</year></pub-date><volume>11</volume><issue>9</issue><elocation-id>3</elocation-id><history><date date-type="accepted"><day>03</day><month>8</month><year>2022</year></date><date date-type="received"><day>27</day><month>3</month><year>2022</year></date></history><permissions><copyright-statement>Copyright 2022 The Authors</copyright-statement><copyright-year>2022</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="tvst-11-9-3.pdf"/><abstract><sec><title>Purpose</title><p>We employ visible light optical coherence tomography (OCT) to investigate the relationship between the myoid, ellipsoid, and band 2 in the living human retina. Rather than refute existing theories, we aim to reveal new bands and better delineate the structures at hand.</p></sec><sec><title>Methods</title><p>An upgraded spectral/Fourier domain visible light OCT prototype, with 1.0-&#x000b5;m axial resolution, imaged 13 eyes of 13 young adult human subjects (23&#x02013;40 years old) without a history of ocular pathology. The external limiting membrane (band 1) and band 2 edges were segmented. Reflectivity was examined along the inner segment (IS), defined as extending from band 1 to the band 2 center, and within band 2 itself.</p></sec><sec><title>Results</title><p>Images highlight a nearly continuously resolved extrafoveal internal limiting membrane, the peripheral single-cell thick ganglion cell layer, and the peripheral photoreceptor axonal fiber layer, a peripheral division of band 2 into bands 2a and 2b, and a reflectivity-based division of the IS into &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; zones.</p></sec><sec><title>Discussion</title><p>Topography and transverse intensity variations of the outermost band 2b suggest an association with rods. The &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; zone border is consistent with the myoid&#x02013;ellipsoid boundary, even recapitulating the well-documented distribution of mitochondria throughout the IS at the foveal center. Theories of outer retinal reflectivity in OCT must adequately explain these observations.</p></sec><sec><title>Translational Relevance</title><p>Findings support that band 2 does partially overlap with the ellipsoid in transversally averaged OCT images due to photoreceptor IS length dispersion but argue that the inner ellipsoid must be inner to band 2, as suggested by prior quantitative measurements.</p></sec></abstract><kwd-group><kwd>visible light optical coherence tomography</kwd><kwd>rods</kwd><kwd>cones</kwd><kwd>inner segment/outer segment junction</kwd><kwd>ellipsoid zone</kwd></kwd-group><counts><page-count count="14"/></counts></article-meta></front><body><sec sec-type="intro" id="sec1"><title>Introduction</title><p>Near-infrared optical coherence tomography (NIR OCT) is a mainstay of clinical ophthalmic imaging<xref rid="bib1" ref-type="bibr"><sup>1</sup></xref><sup>&#x02013;</sup><xref rid="bib5" ref-type="bibr"><sup>5</sup></xref> and vision science.<xref rid="bib6" ref-type="bibr"><sup>6</sup></xref> NIR OCT provides depth (axial) sectioning with a resolution of a few micrometers, depicting the layers of the retina with excellent detail. For instance, the integrity or intensity of outer retinal band 2 has proven to be a useful, objective biomarker for visual outcome in numerous retinal diseases.<xref rid="bib7" ref-type="bibr"><sup>7</sup></xref><sup>&#x02013;</sup><xref rid="bib16" ref-type="bibr"><sup>16</sup></xref> Yet, there is no clear consensus on whether band 2 represents the photoreceptor inner segment/outer segment (IS/OS) junction or the IS ellipsoid mitochondria. Quantitative measurements have not fully resolved this question. Measurements with commercial NIR OCT systems by Spaide and Curcio<xref rid="bib17" ref-type="bibr"><sup>17</sup></xref> have concluded that band 2 corresponds roughly to the outer third of the IS and may incorporate other features like the taper.<xref rid="bib18" ref-type="bibr"><sup>18</sup></xref><sup>,</sup><xref rid="bib19" ref-type="bibr"><sup>19</sup></xref> Yet measurements by Jonnal et al.<xref rid="bib20" ref-type="bibr"><sup>20</sup></xref> of band 2 width in single cones with NIR adaptive optics OCT are far too thin to represent the ellipsoid. This debate<xref rid="bib17" ref-type="bibr"><sup>17</sup></xref><sup>,</sup><xref rid="bib20" ref-type="bibr"><sup>20</sup></xref> could be aided by the revelation of novel, alternative reflectivity signatures that delineate the ellipsoid or more clear depiction of reflectivity within band 2. Yet, aspects of retinal anatomy at the micrometer scale<xref rid="bib21" ref-type="bibr"><sup>21</sup></xref><sup>,</sup><xref rid="bib22" ref-type="bibr"><sup>22</sup></xref> remain too fine to be resolved by even the highest-resolution NIR OCT systems.<xref rid="bib23" ref-type="bibr"><sup>23</sup></xref><sup>&#x02013;</sup><xref rid="bib25" ref-type="bibr"><sup>25</sup></xref></p><p>In OCT, axial resolution is proportional to the square of the central wavelength. Thus, shorter wavelengths yield finer axial resolution. The intrinsic advantages of visible light, with a shorter wavelength than NIR light, for ultra-high-resolution OCT<xref rid="bib26" ref-type="bibr"><sup>26</sup></xref> have long been appreciated,<xref rid="bib27" ref-type="bibr"><sup>27</sup></xref> and visible light OCT retinal imaging was first demonstrated over a decade ago.<xref rid="bib28" ref-type="bibr"><sup>28</sup></xref><sup>,</sup><xref rid="bib29" ref-type="bibr"><sup>29</sup></xref> Yet a number of technical challenges, including longitudinal chromatic aberration,<xref rid="bib30" ref-type="bibr"><sup>30</sup></xref> depth-dependent dispersion,<xref rid="bib31" ref-type="bibr"><sup>31</sup></xref> spectral shape,<xref rid="bib32" ref-type="bibr"><sup>32</sup></xref> and light exposure,<xref rid="bib32" ref-type="bibr"><sup>32</sup></xref> if not directly addressed in system design, result in suboptimal visible light OCT image quality in the living retina, comparable to or worse than NIR OCT. Recently, with solutions to these challenges,<xref rid="bib30" ref-type="bibr"><sup>30</sup></xref><sup>&#x02013;</sup><xref rid="bib32" ref-type="bibr"><sup>32</sup></xref> quality of visible light OCT images has exceeded that of NIR OCT in some respects,<xref rid="bib33" ref-type="bibr"><sup>33</sup></xref><sup>,</sup><xref rid="bib34" ref-type="bibr"><sup>34</sup></xref> and new measurements in the inner<xref rid="bib35" ref-type="bibr"><sup>35</sup></xref> and outer<xref rid="bib36" ref-type="bibr"><sup>36</sup></xref> retina are now possible. Here we present visible light OCT imaging of the normal human retina from the foveal center to peripheral eccentricities of &#x0003e;10 mm (&#x0003e;33 degrees). Topographic imaging with improved quality enables tracking band changes with eccentricity, revealing five features. Specifically, in the inner retina, visible light OCT visualizes a nearly continuous extrafoveal inner limiting membrane (ILM), the peripheral single-cell-thick retinal ganglion cell layer (GCL), and the peripheral Henle's fiber layer (HFL) inner to the outer nuclear layer (ONL). In the outer retina, visible light OCT reveals a peripheral division in band 2 and a reflectivity-based division of the IS that parallels the known myoid&#x02013;ellipsoid division. The last two findings are investigated in more detail in a larger cohort of 12 subjects, and implications for the ongoing debate on band 2 origins<xref rid="bib17" ref-type="bibr"><sup>17</sup></xref><sup>,</sup><xref rid="bib20" ref-type="bibr"><sup>20</sup></xref> are discussed at length.</p></sec><sec sec-type="methods" id="sec2"><title>Methods</title><sec id="sec2-1"><title>System</title><p>Spectral/Fourier domain visible light OCT, with a 1.0-&#x000b5;m axial resolution, was performed. Relative to previous reports,<xref rid="bib32" ref-type="bibr"><sup>32</sup></xref> the system (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S1</xref>) was updated by improving the efficiency of the grating light valve spatial light modulator (GLV-SLM) spectral shaping arm and adapting a light-emitting diode (LED) fixation array for widefield montaging. External fixation with an LED array and corrective lens for the fellow eye (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S1</xref>) achieved eccentricities in excess of 30 degrees. Subjects provided informed consent according to a human subject protocol approved by the institutional review board, in accordance with the principles of the Declaration of Helsinki. All subjects were aligned using a red-shifted spectrum with an incident power of 20 microwatts and imaged using the full spectrum without pharmacologic mydriasis with an incident power of 125 microwatts.</p></sec><sec id="sec2-2"><title>Scan Protocols</title><sec id="sec2-2-1"><title>Widefield Protocol for Montaging</title><p>First, the right eye of a single 28-year-old male subject was imaged along the horizontal meridian from the fovea to the periphery. Widefield montaging was employed to reveal topography. At each fixation, a series of 100 frames was acquired with a fast scanning (x) axis range of 4.5 mm with 1024 axial scans per frame and a slow scanning (y) axis range of 0.2 mm. The x axis was along the horizontal meridian. The imaging speed was 30 kHz.</p></sec><sec id="sec2-2-2"><title>Radial-Raster Protocol</title><p>For more extensive layer analysis, an additional 12 eyes from 12 subjects were imaged (range 23&#x02013;40 years, six females and six males, seven left eyes and five right eyes). This cohort was chosen to ensure a relatively homogeneous population without confounds of age-related IS changes.<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> To acquire topographical information, we acquired six raster scans with 30 frames each, with a total offset of 150 &#x000b5;m along the slow axis of the raster, as described previously,<xref rid="bib35" ref-type="bibr"><sup>35</sup></xref><sup>,</sup><xref rid="bib36" ref-type="bibr"><sup>36</sup></xref> angled at intervals of 30 degrees in a 5-mm diameter radial spoke pattern aimed at the foveolar center, as defined below. Note that decentration of the spoke pattern center enabled us to access larger eccentricities.<xref rid="bib35" ref-type="bibr"><sup>35</sup></xref><sup>,</sup><xref rid="bib36" ref-type="bibr"><sup>36</sup></xref> The imaging speed was 30 kHz.</p></sec></sec><sec id="sec2-3"><title>Image Analysis</title><sec id="sec2-3-1"><title>Processing</title><p>Processing included reference subtraction,<xref rid="bib38" ref-type="bibr"><sup>38</sup></xref> resampling to linear vacuum wavenumber space,<xref rid="bib38" ref-type="bibr"><sup>38</sup></xref> approximate depth-independent dispersion compensation,<xref rid="bib38" ref-type="bibr"><sup>38</sup></xref> Fourier transformation,<xref rid="bib38" ref-type="bibr"><sup>38</sup></xref> coarse motion correction, spatially dependent dispersion compensation,<xref rid="bib39" ref-type="bibr"><sup>39</sup></xref> fine motion correction, and intensity averaging along the slow axis, to yield a high-quality image for each fixation. High-quality images were flattened to remove tilt (slope) and curvature, then montaged across fixations.</p><p>The dynamic range of our images exceeded 50&#x000a0;dB, making it difficult to appreciate and evaluate all relevant features from a single displayed image. Therefore, images were displayed simultaneously on a logarithmic scale (log) for optimal visualization across layers, a contrast-enhanced logarithmic scale with saturation thresholds chosen explicitly to visualize the boundary between HFL and the ONL, and a square root scale to visualize the inner retina. Visibility of inner retinal features was taken as the consensus of two expert readers who viewed images sequentially. To visualize a subtle reflectivity-based division in the IS, vessel deshadowing was performed by dividing the OCT image by the median intensity across depth (z) within the ONL at each and every transverse (x,y) position, as shown in <xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Figure S2</xref>.</p></sec><sec id="sec2-3-2"><title>Segmentation</title><p>For the high-quality images generated by the radial-raster protocol, we performed a global eccentricity correction, defining the foveolar center as the position of minimal distance between the ILM and band 2.<xref rid="bib40" ref-type="bibr"><sup>40</sup></xref> Band 2 edges were first delineated using a previously described algorithm,<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> where layer edges were defined by zero crossings of the second derivative of the OCT image intensity. While the inner edge of band 2 is unambiguous, the algorithm did not explicitly detect the outer edge of the constituent band 2a or band 2b, just an edge that may correspond with either (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S3</xref>A), depending on the particular subject phenotype. The external limiting membrane (ELM, also known as band 1) was detected as a local maximum immediately inner to band 2. OCT intensity, defined as the modulus squared of the Fourier transform of the spectral interference pattern, was background corrected to remove the bias caused by additive noise. Then, either IS or band 2 reflectivity was analyzed, as described in the next two sections.</p></sec><sec id="sec2-3-3"><title>IS Reflectivity</title><p>To enable consistent comparisons across varying IS thicknesses, at each transverse position, the IS intensity was linearly interpolated onto a thickness percentage abscissa axis, with 0% representing the ELM (band 1) and 100% representing the center of band 2, which was taken as the halfway point between the inner and outer band 2 edge. According to the arguments of Jonnal et al.,<xref rid="bib20" ref-type="bibr"><sup>20</sup></xref> the band 2 thickness in transversally averaged OCT images arises from variability, or dispersion, of IS length between cells. Thus, we can consider the distance from our designated IS outer boundary to the ELM as roughly the median IS length. The IS thickness percentage axis has 1% increments. Percentages less than 0% and greater than 100% corresponded to the ONL and the nominal OS, respectively. Images were divided into transverse regions of 250 &#x000b5;m (0.83 degrees), and IS intensities were averaged on the IS percentage thickness axis across each region. To ensure consistent weighting of regions, each region was normalized to the median ONL intensity immediately inner to the ELM within the region (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S3</xref>B). This normalization mitigated the effects of vessel shadows.</p><p>Analysis of the IS reflectivity presents unique challenges arising from low signal-to-noise ratios. We found that the low reflectivity of the IS necessitated some form of quality control prior to averaging regional profiles. Therefore, we rejected regions with a signal-to-noise ratio (SNR) of 1.5 or less, where SNR was defined as the mean noise-corrected IS intensity divided by the noise background level. We also rejected regions where the background-corrected, ONL-normalized intensity was less than 0, a result that likely resulted from excessive noise. Overall, these quality control measures resulted in analyzing 78% of all regions.</p></sec><sec id="sec2-3-4"><title>Band 2 Reflectivity</title><p>To enable consistent band 2 comparisons, at each transverse position, axial reflectivity profiles were aligned according to the inner segmented edge of band 2 at a depth of 0 &#x000b5;m. Images were divided into transverse regions of 250 &#x000b5;m (0.83 degrees), and band 2 intensities were averaged on an absolute depth axis, across each region. To ensure consistent weighting across regions, each region was normalized to the band 2 peak. This analysis compounded many photoreceptors across regions and subjects, and results should be interpreted accordingly.<xref rid="bib20" ref-type="bibr"><sup>20</sup></xref> The fovea was excluded to confine this analysis to regions with a significant rod density.<xref rid="bib41" ref-type="bibr"><sup>41</sup></xref></p><p>We used the full width at 15% of the maximum of band 2 as a measure of the outer reflectivity shoulder of band 2. In this analysis, we rejected regions where the intensity stayed above 15% of the maximum for a depth of 15 &#x000b5;m outer to the band 2 peak. This resulted in analyzing the band 2 width of 94% of all regions. For every other analysis, all regions were included.</p></sec><sec id="sec2-3-5"><title>Cross-Correlation</title><p>To investigate band 2, a noise-corrected transverse cross-correlation matrix of the flattened volumetric OCT intensity data sets, displayed as an image, was employed to examine associations between various axial positions in the outer retina. The cross-correlation was based on the pairwise correlation of en face images at all combinations of axial positions or depths. We assumed that axial positions that were anatomically associated would exhibit a higher correlation coefficient, as suggested previously.<xref rid="bib42" ref-type="bibr"><sup>42</sup></xref> The correlation was taken prior to any image averaging and thus reflected speckle-level correspondence between layers.</p></sec></sec></sec><sec sec-type="results" id="sec3"><title>Results</title><p>Images in the montaged series of a single subject (<xref rid="fig1" ref-type="fig">Figs. 1</xref><xref rid="fig2" ref-type="fig"><sup>2</sup></xref><xref rid="fig3" ref-type="fig"><sup>3</sup></xref>&#x02013;<xref rid="fig4" ref-type="fig">4</xref>) depicted subtle features of inner retinal organization across eccentricities. In the fovea and parafovea (<xref rid="fig1" ref-type="fig">Fig. 1</xref>A), the ILM was visible and clearly resolvable from the nerve fiber layer even in the absence of a specular reflection (<xref rid="fig1" ref-type="fig">Fig. 1</xref>B). The GCL and HFL were distinguished (<xref rid="fig1" ref-type="fig">Fig. 1</xref>B). Band 2 was monolithic (<xref rid="fig1" ref-type="fig">Fig. 1</xref>C). The hyporeflective IS space between bands 1 and 2 showed a subtle reflectivity division (<xref rid="fig1" ref-type="fig">Fig. 1</xref>D). We designated the inner more reflective region as &#x0201c;m&#x0201d; and the outer less reflective region as &#x0201c;e,&#x0201d; which appeared as a broad nadir around the IS midpoint. The reasons for these designations will be clarified in the Discussion. The &#x0201c;m&#x0201d; region was absent or at least very thin in the foveola.</p><fig position="float" id="fig1"><label>Figure 1.</label><caption><p>(A) Logarithmic image of central macula (range shown as a <italic toggle="yes">red arrow</italic> under composite) in a 28-year-old man. (B) The extrafoveal ILM, GCL, and HFL-ONL boundary are visualized. (C) Monolithic band 2 inner to band 3. (D) Myoid (m) and ellipsoid (e) zones. log, logarithmic scale; log (CE), contrast-enhanced logarithmic scale; sqrt, square root scale. <italic toggle="yes">B</italic><italic toggle="yes">lue box</italic> is deshadowed by normalizing to the median ONL intensity at each transverse position.</p></caption><graphic xlink:href="tvst-11-9-3-f001" position="float"/></fig><fig position="float" id="fig2"><label>Figure 2.</label><caption><p>(A) Logarithmic image of nasal fovea to near periphery (range shown as a <italic toggle="yes">red arrow</italic> under composite) in a 28-year-old man. (B) The extrafoveal ILM, a peripherally thinning GCL, and a peripherally thinning HFL<xref rid="bib43" ref-type="bibr"><sup>43</sup></xref> are visualized. (C) Splitting of band 2 into 2a and 2b. (D) Myoid (m) and ellipsoid (e) zones. <italic toggle="yes">B</italic><italic toggle="yes">lue box</italic> is deshadowed by normalizing to the median ONL intensity at each transverse position.</p></caption><graphic xlink:href="tvst-11-9-3-f002" position="float"/></fig><fig position="float" id="fig3"><label>Figure 3.</label><caption><p>(A) Logarithmic image of temporal perifovea to midperiphery (range shown as a <italic toggle="yes">red arrow</italic> under composite) in a 28-year-old man. (B) The ILM is distinct across nearly the entire image. The GCL thins peripherally to less than 10 &#x000b5;m. HFL thins peripherally, transitioning to a hyporeflective peripheral HFL. (C) Bands 2a and 2b persist, while band 3 diminishes peripherally, as predicted by prior studies.<xref rid="bib44" ref-type="bibr"><sup>44</sup></xref> (D) Myoid (m) and ellipsoid (e) zones persist. <italic toggle="yes">B</italic><italic toggle="yes">lue box</italic> is deshadowed by normalizing to the median ONL intensity at each transverse position.</p></caption><graphic xlink:href="tvst-11-9-3-f003" position="float"/></fig><fig position="float" id="fig4"><label>Figure 4.</label><caption><p>(A) Logarithmic image of nasal mid to far periphery, temporal to the optic nerve head (range shown as a <italic toggle="yes">red arrow</italic> under composite) in a 28-year-old man. (B) Note that the ILM is distinct across nearly the entire image. A uniform GCL of less than 10 &#x000b5;m in thickness and a uniformly thin HFL are apparent. C) Bands 2a and 2b persist. (D) Myoid (m) and ellipsoid (e) zones are barely visible. <italic toggle="yes">B</italic><italic toggle="yes">lue box</italic> is deshadowed by normalizing to the median ONL intensity at each transverse position.</p></caption><graphic xlink:href="tvst-11-9-3-f004" position="float"/></fig><p>In the perifovea and near periphery (<xref rid="fig2" ref-type="fig">Fig. 2</xref>A), the ILM remained visible and clearly resolved (<xref rid="fig2" ref-type="fig">Fig. 2</xref>B). The GCL and HFL were distinguished and both thinned with eccentricity (<xref rid="fig2" ref-type="fig">Fig. 2</xref>B). Band 2 was no longer monolithic (<xref rid="fig2" ref-type="fig">Fig. 2</xref>C) as two bands were revealed within band 2 starting around 2 to 3 mm eccentricity. The conventional foveal band 2 continued as band 2a, while a thicker region of mottled reflectivity between bands 2 and 3 coalesced to form adjacent band 2b (<xref rid="fig2" ref-type="fig">Fig. 2</xref>C). The &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; zones remained present (<xref rid="fig2" ref-type="fig">Fig. 2</xref>D).</p><p>Continuing in the near to midperiphery (<xref rid="fig3" ref-type="fig">Fig. 3</xref>A), the ILM remained well separated and clearly resolved (<xref rid="fig3" ref-type="fig">Fig. 3</xref>B). The GCL and HFL were resolved even as they continued to thin with eccentricity (<xref rid="fig3" ref-type="fig">Fig. 3</xref>B). The thin peripheral HFL band was less reflective than even the ONL. Bands 2a and 2b remained well separated (<xref rid="fig3" ref-type="fig">Fig. 3</xref>C), even as band 3 diminished. The &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; zones remained present (<xref rid="fig3" ref-type="fig">Fig. 3</xref>D).</p><p>Continuing in the mid to far periphery (<xref rid="fig4" ref-type="fig">Fig. 4</xref>A), the ILM remained well separated and clearly resolved (<xref rid="fig4" ref-type="fig">Fig. 4</xref>B) and remained so up to the highest imaged eccentricity of 12.5 mm (data not shown). The peripheral GCL and HFL stopped thinning appreciably but remained resolved (<xref rid="fig4" ref-type="fig">Fig. 4</xref>B). The GCL was resolved up to 12.5 mm, while HFL was resolved up to 11 mm eccentricity. Bands 2a and 2b remained well separated (<xref rid="fig4" ref-type="fig">Fig. 4</xref>C) and remained so up to 12.5 mm. The &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; zones were discerned up to about 10 mm (<xref rid="fig4" ref-type="fig">Fig. 4</xref>D) but not beyond, as visualization was limited by low peripheral SNR.</p><p>The subject characteristics and visibility of inner retinal features for the radial-raster scan protocol are summarized in the&#x000a0;<xref rid="tbl1" ref-type="table">Table</xref>. The outer retinal observations, specifically band 2 splitting and &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; zones, were analyzed in more detail, as described next.</p><table-wrap position="float" content-type="6col" id="tbl1"><label>Table.</label><caption><p>Summary of Subject Characteristics and Visibility of Inner Retinal Features for the Radial-Raster Scan Protocol</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1">Subject Characteristics</th><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1"/><th align="center" colspan="3" rowspan="1">% of Images With Visible Features</th></tr><tr><th rowspan="1" colspan="1">Age, y</th><th rowspan="1" colspan="1">Eye</th><th rowspan="1" colspan="1">Sex</th><th rowspan="1" colspan="1">ILM</th><th rowspan="1" colspan="1">GCL</th><th rowspan="1" colspan="1">HFL</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">23</td><td rowspan="1" colspan="1">R</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">67</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">83</td></tr><tr><td rowspan="1" colspan="1">23</td><td rowspan="1" colspan="1">R</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td></tr><tr><td rowspan="1" colspan="1">24</td><td rowspan="1" colspan="1">R</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td></tr><tr><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">L</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">17</td></tr><tr><td rowspan="1" colspan="1">26</td><td rowspan="1" colspan="1">L</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">33</td></tr><tr><td rowspan="1" colspan="1">27</td><td rowspan="1" colspan="1">L</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td></tr><tr><td rowspan="1" colspan="1">27</td><td rowspan="1" colspan="1">R</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">50</td></tr><tr><td rowspan="1" colspan="1">27</td><td rowspan="1" colspan="1">L</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">83</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td></tr><tr><td rowspan="1" colspan="1">28</td><td rowspan="1" colspan="1">L</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">30</td><td rowspan="1" colspan="1">L</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td></tr><tr><td rowspan="1" colspan="1">33</td><td rowspan="1" colspan="1">R</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">100</td></tr><tr><td rowspan="1" colspan="1">40</td><td rowspan="1" colspan="1">L</td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">67</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">67</td></tr></tbody></table></table-wrap><p>Outside the foveola, a stereotyped IS reflectivity pattern was evident at all eccentricities (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S4</xref>), with the inner &#x0201c;m&#x0201d; zone being more reflective than the outer &#x0201c;e&#x0201d; zone. These findings were validated by pooling data across 12 eyes by eccentricity (<xref rid="fig5" ref-type="fig">Figs. 5</xref>A, <xref rid="fig5" ref-type="fig">5</xref>B, <xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S4</xref>). IS length (<xref rid="fig5" ref-type="fig">Fig. 5</xref>C), taken as the distance between the band 1 (ELM) peak and the band 2 center, agrees quantitatively with an accepted scale model of outer retinal morphology (34 &#x000b5;m in the fovea and 29 &#x000b5;m in the perifovea).<xref rid="bib17" ref-type="bibr"><sup>17</sup></xref> Note that the limited ability to segment bands 2a and 2b individually precluded independent quantification of rod and cone IS length.</p><fig position="float" id="fig5"><label>Figure 5.</label><caption><p>Eccentricity-wise analysis of IS reflectivity in 12 eyes of 12 subjects. (A) ONL-normalized IS intensity, color coded by eccentricity (<italic toggle="yes">inset</italic>) with respect to the foveal center (&#x0201c;x&#x0201d;), shows a drop in reflectivity between the &#x0201c;m&#x0201d; zone and the inner &#x0201c;e&#x0201d; zone. (B) Averaged eccentricity-wise image of the reflectivity between the band 1 peak (ELM, <italic toggle="yes">green line</italic>) and the band 2 center (<italic toggle="yes">gray line</italic>). The reflectivity pattern shows a distinct feature at 0 mm eccentricity, with the drop in reflectivity between &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; shifting internally, nearly to the ELM, in the foveola. (C) IS length versus eccentricity. Note that these IS measurements exceed those reported previously by NIR OCT<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> due to the younger cohort age and different definition of the IS outer boundary in this study.</p></caption><graphic xlink:href="tvst-11-9-3-f005" position="float"/></fig><p>Outer to the &#x0201c;m&#x0201d; zone, the intensity increased precipitously again at around 75% of the nominal IS length. This increase was likely related to the designation of the IS outer edge as the midpoint of band 2, which has a peak reflectivity of up to several hundred times that of the rest of the IS. Again, according to Jonnal et al.,<xref rid="bib20" ref-type="bibr"><sup>20</sup></xref> the increase in intensity may be related to the fact that some of the ISs that contribute to the OCT image are shorter, increasing reflectivity at an axial location that still falls squarely within the IS of other photoreceptors that contribute to the OCT image.</p><p>Next, moving to band 2, the cross-correlation matrix showed that band 2a is associated or correlated with band 3 (<xref rid="fig6" ref-type="fig">Fig. 6</xref>), referred to as the cone outer segment tips (COST) or cone interdigitation zone (CIZ). On the other hand, band 2b was not associated with band 2a or band 3, although it was weakly associated band 4, whose innermost hyperreflective subband is the rod outer segment tips (ROST) or rod interdigitation zone (RIZ) (<xref rid="fig6" ref-type="fig">Fig. 6</xref>). Visually, the intensity of band 2b in high-quality images appeared to track the intensity of the ROST/RIZ band, and both increased toward the near periphery (<xref rid="fig2" ref-type="fig">Fig. 2</xref>).</p><fig position="float" id="fig6"><label>Figure 6.</label><caption><p>Image showing outer retinal bands (A) and normalized cross-correlation matrix (B) near the macular edge (3 mm eccentricity) show an association between bands 2a and 3. On the other hand, band 2b is not associated (not positively correlated) with band 2a or band 3. Instead, band 2b shows a weak correlation with band 4.</p></caption><graphic xlink:href="tvst-11-9-3-f006" position="float"/></fig><p>Evidence of bands 2a and 2b was found near the macular edge (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S5</xref>), including an alternative phenotype where band 2b appeared as an axial plateau or shoulder, extending outer to the higher band 2a peak, without a clear division between them (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S6</xref>). Across subjects, band 2b separated and broadened in the perifovea. These findings were validated by pooling data across 12 eyes by eccentricity (<xref rid="fig7" ref-type="fig">Figs. 7</xref>A,&#x000a0;<xref rid="fig7" ref-type="fig">7</xref>B, <xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S5</xref>). Band 2 width (<xref rid="fig7" ref-type="fig">Fig. 7</xref>C), taken as the full width at 15% of the maximum (inset), supported broadening with eccentricity, starting in the perifovea.</p><fig position="float" id="fig7"><label>Figure 7.</label><caption><p>Eccentricity-wise analysis of band 2 reflectivity in 12 eyes of 12 subjects. Regional profiles were aligned according to the band 2 inner edge at 0 &#x000b5;m for this analysis. Note that these profiles average over many photoreceptors both within and across subjects. (A) Peak-normalized band 2 intensity, color coded by eccentricity (<italic toggle="yes">inset</italic>) with respect to the foveal center (&#x0201c;x&#x0201d;), shows a shoulder, denoted as 2b, that grows with eccentricity. (B) Averaged eccentricity-wise image of the band 2 reflectivity. Starting in the perifovea, the 2b shoulder extends more prominently outer to the 2a peak. (C) Band 2 full width at 15% of the maximum (<italic toggle="yes">inset</italic>) versus eccentricity shows corresponding broadening starting in the perifovea. Note that the fovea was excluded from this analysis to focus on rod-related effects.</p></caption><graphic xlink:href="tvst-11-9-3-f007" position="float"/></fig></sec><sec sec-type="discussion" id="sec4"><title>Discussion</title><p>Here, aided by the latest technical advances in visible light OCT, we imaged five features of note in the human retina. Although new outer retinal bands were similarly revealed with the advent of high-speed ultra-high resolution OCT 15 years ago,<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> their origins are still being debated today.<xref rid="bib11" ref-type="bibr"><sup>11</sup></xref> In light of this historical precedent for controversy, we cannot expect to provide a definitive origin for all reported bands, particularly those in the outer retina. Instead, we present the following discussion as a starting point for future investigation.</p><sec id="sec4-1"><title>Inner Retinal Findings</title><p>First, the ILM, a retinal M&#x000fc;ller cell basement membrane that borders the vitreous, was nearly continuously visualized by visible light OCT outside the fovea, even in the absence of a specular reflection. The presence of a clearly resolved extrafoveal ILM improves upon ultra-high-resolution NIR OCT,<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> which occasionally visualizes the extrafoveal ILM. The absence of a clearly resolved ILM in the fovea may be explained by ILM thinning from a nominal thickness of 1.5 &#x000b5;m in the macula to a fraction of a micrometer in the fovea, as reported previously.<xref rid="bib45" ref-type="bibr"><sup>45</sup></xref> Better visualization of the intimate relationship between the ILM and the retina could facilitate planning of surgical procedures such as ILM peels.<xref rid="bib46" ref-type="bibr"><sup>46</sup></xref></p><p>Second, the peripheral GCL was clearly visualized by visible light OCT to more than 10 mm eccentricity, where it is only a single cell thick.<xref rid="bib47" ref-type="bibr"><sup>47</sup></xref> GCL analysis is typically limited to 3 mm eccentricity,<xref rid="bib1" ref-type="bibr"><sup>1</sup></xref> and imaging of the GCL at more than 6 mm eccentricity was not possible with the Spectralis (Heidelberg Engineering, Vista, CA).<xref rid="bib44" ref-type="bibr"><sup>44</sup></xref> This capability to image the GCL more peripherally may enable more accurate assessments of peripheral defects in glaucoma.</p><p>Third, a hyporeflective peripheral HFL was clearly visualized as a continuation of the macular HFL.<xref rid="bib48" ref-type="bibr"><sup>48</sup></xref> HFL contains oblique axons of photoreceptors, whose cell bodies are displaced laterally from their synapses, as well as M&#x000fc;ller cell processes.<xref rid="bib49" ref-type="bibr"><sup>49</sup></xref><sup>,</sup><xref rid="bib50" ref-type="bibr"><sup>50</sup></xref> As this displacement decreases with eccentricity, HFL thins. The peripheral continuation of HFL at 3 mm nasal eccentricity is on the order of 10 &#x000b5;m thick,<xref rid="bib51" ref-type="bibr"><sup>51</sup></xref> as it should consist mostly of short and straight rod axons<xref rid="bib52" ref-type="bibr"><sup>52</sup></xref> and M&#x000fc;ller cell processes.<xref rid="bib49" ref-type="bibr"><sup>49</sup></xref><sup>,</sup><xref rid="bib50" ref-type="bibr"><sup>50</sup></xref><sup>,</sup><xref rid="bib53" ref-type="bibr"><sup>53</sup></xref> HFL is not observed histologically at 13 mm temporal eccentricity.<xref rid="bib51" ref-type="bibr"><sup>51</sup></xref> We hypothesize that the peripheral HFL is uniformly less reflective than even the ONL due to the vertical, or axial, axon orientation,<xref rid="bib48" ref-type="bibr"><sup>48</sup></xref><sup>,</sup><xref rid="bib52" ref-type="bibr"><sup>52</sup></xref> while the macular HFL exhibits variable reflectivity depending on the local orientation of light relative to the axon.<xref rid="bib48" ref-type="bibr"><sup>48</sup></xref> Changes in the peripheral HFL could accompany photoreceptor loss.<xref rid="bib54" ref-type="bibr"><sup>54</sup></xref></p><p>Overall, while the inner retinal findings are encouraging, HFL can be visualized with directional reflectance, and the ILM can be visualized with a specular reflection on commercial NIR OCT systems. Thus, we devote the bulk of our discussion below to the outer retinal findings.</p></sec><sec id="sec4-2"><title>IS &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; Zones</title><p>We observed a very subtle reflectivity division in the IS, which we label as myoid (&#x0201c;m&#x0201d;) and inner ellipsoid (&#x0201c;e&#x0201d;). The putative myoid length, taken as the distance from band 1 (ELM) to the downward reflectivity step, generally agrees with histology, even depicting mitochondria extending into the myoid in the foveola (<xref rid="fig1" ref-type="fig">Fig. 1</xref> and&#x000a0;<xref rid="fig5" ref-type="fig">Fig. 5</xref>B), which has been visualized by cytochrome C immunostaining (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S7</xref>)<xref rid="bib55" ref-type="bibr"><sup>55</sup></xref> and electron microscopy.<xref rid="bib56" ref-type="bibr"><sup>56</sup></xref> If mitochondria did indeed account for band 2 scattering, we would expect band 2 to broaden and shift interiorly to band 1, where mitochondria redistribute in the foveola.<xref rid="bib56" ref-type="bibr"><sup>56</sup></xref> On the contrary, band 2 is farthest from band 1 in the foveola<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> (<xref rid="fig5" ref-type="fig">Fig. 5</xref>C).</p><p>According to Jonnal et al.,<xref rid="bib20" ref-type="bibr"><sup>20</sup></xref> measuring the ellipsoid length from transversally averaged OCT images is fraught with complications related to dispersion of IS length between photoreceptors, often depicted by ex vivo light microscopy (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S8</xref>)<xref rid="bib52" ref-type="bibr"><sup>52</sup></xref> and adaptive optics OCT.<xref rid="bib20" ref-type="bibr"><sup>20</sup></xref><sup>,</sup><xref rid="bib57" ref-type="bibr"><sup>57</sup></xref> In particular, the inner edge of band 2 delineates the IS/OS for the shortest IS in the averaged OCT image, and caution should be exercised in measuring ellipsoid length from our OCT images, which are transversally averaged and without adaptive optics. This argues that our earlier study,<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> which placed the outer IS boundary at the inner edge of band 2, may underestimate IS length. In light of these concerns, we opted to place the outer boundary of the ellipsoid, and thus the IS as well, at the center of band 2. This difference, along with a younger cohort, has led to longer IS length estimations in the present study, in better agreement with histology.<xref rid="bib17" ref-type="bibr"><sup>17</sup></xref> With this validation of our outer IS boundary definition, we conclude that the &#x0201c;e&#x0201d; zone represents the inner ellipsoid, whereas the ellipsoids of cells with longer ISs extend into band 2. Further comment is warranted here to address possible skepticism. Critically, we found that defining the outer IS boundary according to our earlier study<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> did not appreciably change the IS reflectivity profiles (data not shown). So even if one questions our definition of the outer IS boundary and IS length measurements, the parallels between the observed IS reflectivity division and mitochondrial distribution, discussed in the previous paragraph, remain.</p><p>The proposed myoid (&#x0201c;m&#x0201d;) and inner ellipsoid zone (&#x0201c;e&#x0201d;) labels provide a plausible alternative for the prevailing designation of band 2 as the ellipsoid zone (EZ). Nonetheless, numerous questions arise. For instance, the inner ellipsoid, which is densely packed with mitochondria,<xref rid="bib58" ref-type="bibr"><sup>58</sup></xref> is apparently less reflective than even the myoid, which has fewer mitochondria. How can this be, given that mitochondria are well accepted as light scatterers?<xref rid="bib59" ref-type="bibr"><sup>59</sup></xref> We know that packing effects<xref rid="bib60" ref-type="bibr"><sup>60</sup></xref> can cause a paradoxical reduction in scattering with higher scatterer concentration. The simplest model of packing, or dependent scattering, predicts that scattering increases up to a 50% volume fraction and decreases thereafter. Cone ellipsoid mitochondrial volume fraction is estimated as 74% to 85% in the macaque,<xref rid="bib56" ref-type="bibr"><sup>56</sup></xref> which is likely in the regime of dependent scattering. Backscattering may also be reduced due to the axially elongated mitochondrial shape.<xref rid="bib61" ref-type="bibr"><sup>61</sup></xref> Interestingly, our observed nadir in IS reflectivity occurs in the part of the ellipsoid where mitochondria are most tightly packed and elongated along the axial direction.<xref rid="bib61" ref-type="bibr"><sup>61</sup></xref> Along these lines, a recent study has supported that the interaction of light with the ellipsoid can be understood from the aggregate refractive properties of tightly packed mitochondria.<xref rid="bib62" ref-type="bibr"><sup>62</sup></xref> Ultimately, it is important to remember that refractive index fluctuations,<xref rid="bib63" ref-type="bibr"><sup>63</sup></xref> not particle densities per se, cause light scattering.</p></sec><sec id="sec4-3"><title>Peripheral Band 2 Division</title><p>We observed a peripheral division of band 2 into two hyperreflective bands (2a and 2b). Here we consider three alternative hypotheses for the outermost one, band 2b: (1) the S cone IS/OS, (2) the COST/CIZ, and (3) the rod IS/OS or rod EZ.</p><p>First, band 2b may correspond to the short-wavelength cone (S cone) IS/OS (hypothesis 1). In support of this hypothesis, a 6- to 10-&#x000b5;m outward displacement of the hyperreflective S cone IS/OS junction from the M and L cone IS/OS junction is routinely observed on adaptive optics OCT.<xref rid="bib6" ref-type="bibr"><sup>6</sup></xref><sup>,</sup><xref rid="bib64" ref-type="bibr"><sup>64</sup></xref><sup>,</sup><xref rid="bib65" ref-type="bibr"><sup>65</sup></xref> However, S cones cannot plausibly account for the prominent split we observed in band 2 in the peripheral retina, where S cone density is significantly diminished in adults.<xref rid="bib66" ref-type="bibr"><sup>66</sup></xref> Thus, we are forced to reject the S cone IS/OS hypothesis in the peripheral retina (although we acknowledge that an occasional band 2 split in the parafovea, seen in visible light OCT images published elsewhere,<xref rid="bib35" ref-type="bibr"><sup>35</sup></xref> may be related to the S cone IS/OS).</p><p>Second, band 2b may correspond to the COST or CIZ (hypothesis 2). In support of this hypothesis, the cone outer segments are indeed shorter in the periphery.<xref rid="bib67" ref-type="bibr"><sup>67</sup></xref> However, the split between centers of our bands 2a and 2b is at most around 7.5 &#x000b5;m; histology<xref rid="bib67" ref-type="bibr"><sup>67</sup></xref> does not support such short cone outer segments. Moreover, if band 2b were the COST/CIZ, the lack of correlation between bands 2b and 2a (cone IS/OS or EZ), seen in&#x000a0;<xref rid="fig6" ref-type="fig">Figure 6</xref>, would violate the established principle that the proximal and distal reflections from the same photoreceptor outer segments should correlate.<xref rid="bib42" ref-type="bibr"><sup>42</sup></xref> Finally, band 2b and band 3 are observed to coexist together over a certain eccentricity range. We do not find any support in the literature that COST/CIZ stratifies into two distinct layers anywhere in the retina. Thus, we are forced to reject the COST/CIZ hypothesis.</p><p>Third, band 2b may correspond to the rod IS/OS or EZ (hypothesis 3). In support of this hypothesis, we know that the rod IS/OS generates reflectivity, as clearly demonstrated in the rod-dominated mouse retina.<xref rid="bib68" ref-type="bibr"><sup>68</sup></xref> In further support, band 2b does not correlate with band 2a or the more distal band 3, suggesting a noncone origin (<xref rid="fig6" ref-type="fig">Fig. 6</xref>). On the other hand, there is only a weak correlation between band 2b and the distal ROST/RIZ band. This seemingly argues against hypothesis 3; however, we believe that the high correlation between cone bands (2a and 3) in&#x000a0;<xref rid="fig6" ref-type="fig">Figure 6</xref> is driven by waveguiding and the ability to illuminate a single cone at a time. We may not expect as strong a speckle-level correlation between rod bands due to the large number of rods illuminated at once by our &#x0223c;6-&#x000b5;m diameter visible light OCT beam. Despite the weak speckle-level correlation, we do observe that both band 2b and the rod OST or rod IZ band increase in intensity to around 4 to 4.5 mm eccentricity (<xref rid="fig2" ref-type="fig">Fig. 2</xref>), coinciding with the ring of maximal rod density.<xref rid="bib41" ref-type="bibr"><sup>41</sup></xref><sup>,</sup><xref rid="bib69" ref-type="bibr"><sup>69</sup></xref></p><p>Hypothesis 3 is also supported by in vivo imaging and ex vivo histologic studies. Adaptive optics OCT human studies have either explicitly attempted to localize the rod IS/OS<sup>70</sup> or shown that rod IS are longer than those of cones,<xref rid="bib71" ref-type="bibr"><sup>71</sup></xref> suggesting the presence of a distinct rod IS/OS band. The peripheral emergence of band 2b, coinciding with the steep increase in rod density,<xref rid="bib41" ref-type="bibr"><sup>41</sup></xref> was supported by our pooled analysis across subjects (<xref rid="fig7" ref-type="fig">Fig. 7</xref>). A previous adaptive optics study noted a reflectivity &#x0201c;shoulder&#x0201d; distal to the cone IS/OS.<xref rid="bib70" ref-type="bibr"><sup>70</sup></xref> This reflectivity shoulder may be caused by a band 2b that is not fully resolved. As pointed out previously,<xref rid="bib72" ref-type="bibr"><sup>72</sup></xref> histologic micrographs show that the rod IS are longer than those of the cones in the peripheral primate retina.<xref rid="bib52" ref-type="bibr"><sup>52</sup></xref><sup>,</sup><xref rid="bib73" ref-type="bibr"><sup>73</sup></xref><sup>&#x02013;</sup><xref rid="bib75" ref-type="bibr"><sup>75</sup></xref> This difference is quantified in <xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Figure S8</xref> in a 54-year-old human donor eye, providing anatomic support for this hypothesis. Given all the evidence, as reflected in our modified anatomic model (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S9</xref>), of the three explanations for band 2b, we find the rod IS/OS or EZ hypothesis to be the most compelling. The peripheral histologic separation between rod and cone IS lengths (<xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S8</xref>) suggests that band 2b is the rod IS/OS, rather than the rod EZ, which is intrinsically thicker and would not present as clearly separate axially from the cone EZ.</p></sec><sec id="sec4-4"><title>Study Strengths and Limitations</title><p>A strength of this study is the high-definition images, providing true micrometer-scale axial resolution that clearly visualizes details such as the band 2 division, and the &#x0201c;m&#x0201d; and &#x0201c;e&#x0201d; zones. A weakness of this study is the lack of cellular resolution in the transverse direction. Thus, we are able to distinguish rod and cone contributions only by axially displaced substructures and variations with eccentricity but not by resolving cells. For instance, dispersion of myoid lengths among photoreceptors<xref rid="bib52" ref-type="bibr"><sup>52</sup></xref> in the averaged image may create the observed gradual myoid&#x02013;inner ellipsoid reflectivity transition, as opposed to a clearly demarcated one. This feature warrants further investigation. Distribution of myoid organelles and optical properties also warrants further investigation. Another weakness of this study is that ONL normalization and rescaling of the abscissa were employed when comparing IS reflectivity across subjects at a given eccentricity. Yet the features in question were observed in individual images even without the application of such procedures (e.g., <xref rid="tvst-11-9-3_s001" ref-type="supplementary-material">Supplementary Fig. S2</xref>B). Another weakness of this study is that, for obvious ethical reasons, corresponding histology could not be obtained in the eyes that were imaged in vivo. Yet, with recent history as a guide, we may envision pathways to validate new bands. For instance, while the ROST band was initially inferred without transverse cellular resolution,<xref rid="bib37" ref-type="bibr"><sup>37</sup></xref> adaptive optics OCT with transverse cellular resolution eventually confirmed that the ROST band displays the rod mosaic.<xref rid="bib76" ref-type="bibr"><sup>76</sup></xref><sup>,</sup><xref rid="bib77" ref-type="bibr"><sup>77</sup></xref> A similar study of the reported band 2b remains for future work. Another limitation of the study and visible light OCT in general is the stimulation of the retina by the visible imaging beam, which may change band structure.<xref rid="bib78" ref-type="bibr"><sup>78</sup></xref> Finally, our quality control measures required us to discard some data. We believe that averaging more images with pupil dilation could improve the SNR in the future.</p></sec></sec><sec sec-type="conclusions" id="sec5"><title>Conclusions</title><p>This study provides two new findings of relevance to the interpretation of clinical NIR OCT. First, the reflectivity pattern within the IS convincingly replicates the topography of the myoid&#x02013;ellipsoid boundary. This suggests that the ellipsoid must begin inner to band 2, although the ellipsoids of longer cones and rods may well extend into bands 2a and 2b, respectively. This result motivates future studies in mitochondrial retinopathies.<xref rid="bib79" ref-type="bibr"><sup>79</sup></xref> Second, we show that band 2 is not a monolithic band in the periphery. Our suggestion of a rod-associated band 2b and cone-associated band 2a, which are not resolved by commercial NIR OCT instruments, would nicely explain findings that both rods and cones contribute to clinical band 2.<xref rid="bib80" ref-type="bibr"><sup>80</sup></xref><sup>&#x02013;</sup><xref rid="bib82" ref-type="bibr"><sup>82</sup></xref> This result motivates future studies in retinitis pigmentosa, aging, and age-related macular degeneration where rods are selectively vulnerable.<xref rid="bib83" ref-type="bibr"><sup>83</sup></xref> However, whether band 2b corresponds to the rod IS/OS or a different anatomic feature altogether is not known. We anticipate that further studies in a wider range of subjects and improvements in visible light OCT image quality will bring more clarity to these issues.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="tvst-11-9-3_s001" position="float" content-type="local-data"><caption><title>Supplement 1</title></caption><media xlink:href="tvst-11-9-3_s001.pdf" id="d64e1084" position="anchor"/></supplementary-material></sec></body><back><ack><title>Acknowledgments</title><p>The authors thank Tingwei Zhang for technical assistance and Ravi Jonnal for helpful scientific discussions.</p><p>Supported by the National Institutes of Health (NS094681, EB029747, EY015387, EY031469) and Research to Prevent Blindness.</p><p content-type="COI-statement">Disclosure: <bold>V</bold><bold>.</bold><bold>J. Srinivasan</bold>, Optovue, Inc. (F); <bold>A</bold><bold>.</bold><bold>M. Kho</bold>, None; <bold>P</bold><bold>.</bold>
+<bold>Chauhan</bold>, None</p></ack><ref-list><title>References</title><ref id="bib1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hood</surname>
+<given-names>DC</given-names></string-name>, <string-name><surname>Raza</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>de Moraes</surname>
+<given-names>CGV</given-names></string-name>, <string-name><surname>Liebmann</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Ritch</surname>
+<given-names>R</given-names></string-name></person-group>. <article-title>Glaucomatous damage of the macula</article-title>. <source><italic toggle="yes">Prog Retin Eye Res</italic></source>. <year>2013</year>; <volume>32</volume>: <fpage>1</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">22995953</pub-id></mixed-citation></ref><ref id="bib2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Parrish</surname>
+<given-names>RK</given-names><suffix>2nd</suffix></string-name>, <string-name><surname>Greenfield</surname>
+<given-names>DS</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Predictive factors for the rate of visual field progression in the Advanced Imaging for Glaucoma Study</article-title>. <source><italic toggle="yes">Am J Ophthalmol</italic></source>. <year>2019</year>; <volume>202</volume>: <fpage>62</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">30794787</pub-id></mixed-citation></ref><ref id="bib3"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>de Barros Garcia</surname>
+<given-names>JMB</given-names></string-name>, <string-name><surname>Isaac</surname>
+<given-names>DLC</given-names></string-name>, <string-name><surname>Avila</surname>
+<given-names>M.</given-names></string-name></person-group>
+<article-title>Diabetic retinopathy and OCT angiography: clinical findings and future perspectives</article-title>. <source><italic toggle="yes">Int J Retina Vitreous</italic></source>. <year>2017</year>; <volume>3</volume>: <fpage>14</fpage>.<pub-id pub-id-type="pmid">28293432</pub-id></mixed-citation></ref><ref id="bib4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Venhuizen</surname>
+<given-names>FG</given-names></string-name>, <string-name><surname>van Ginneken</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>van Asten</surname>
+<given-names>F</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Automated staging of age-related macular degeneration using optical coherence tomography</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2017</year>; <volume>58</volume>: <fpage>2318</fpage>&#x02013;<lpage>2328</lpage>.<pub-id pub-id-type="pmid">28437528</pub-id></mixed-citation></ref><ref id="bib5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jung</surname>
+<given-names>JJ</given-names></string-name>, <string-name><surname>Chen</surname>
+<given-names>CY</given-names></string-name>, <string-name><surname>Mrejen</surname>
+<given-names>S</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>The incidence of neovascular subtypes in newly diagnosed neovascular age-related macular degeneration</article-title>. <source><italic toggle="yes">Am J Ophthalmol</italic></source>. <year>2014</year>; <volume>158</volume>: <fpage>769</fpage>&#x02013;<lpage>779</lpage>.e762.<pub-id pub-id-type="pmid">25034111</pub-id></mixed-citation></ref><ref id="bib6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Miller</surname>
+<given-names>DT</given-names></string-name>, <string-name><surname>Kurokawa</surname>
+<given-names>K.</given-names></string-name></person-group>
+<article-title>Cellular-scale imaging of transparent retinal structures and processes using adaptive optics optical coherence tomography</article-title>. <source><italic toggle="yes">Annu Rev Vis Sci</italic></source>. <year>2020</year>; <volume>6</volume>: <fpage>115</fpage>&#x02013;<lpage>148</lpage>.<pub-id pub-id-type="pmid">32609578</pub-id></mixed-citation></ref><ref id="bib7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wu</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Ayton</surname>
+<given-names>LN</given-names></string-name>, <string-name><surname>Guymer</surname>
+<given-names>RH</given-names></string-name>, <string-name><surname>Luu</surname>
+<given-names>CD.</given-names></string-name></person-group>
+<article-title>Second reflective band intensity in age-related macular degeneration</article-title>. <source><italic toggle="yes">Ophthalmology</italic></source>. <year>2013</year>; <volume>120</volume>: <fpage>1307</fpage>&#x02013;<lpage>1308</lpage>.e1301.<pub-id pub-id-type="pmid">23732057</pub-id></mixed-citation></ref><ref id="bib8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wu</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Ayton</surname>
+<given-names>LN</given-names></string-name>, <string-name><surname>Guymer</surname>
+<given-names>RH</given-names></string-name>, <string-name><surname>Luu</surname>
+<given-names>CD.</given-names></string-name></person-group>
+<article-title>Relationship between the second reflective band on optical coherence tomography and multifocal electroretinography in age-related macular degeneration</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2013</year>; <volume>54</volume>: <fpage>2800</fpage>&#x02013;<lpage>2806</lpage>.<pub-id pub-id-type="pmid">23532524</pub-id></mixed-citation></ref><ref id="bib9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sundaram</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Wilde</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Aboshiha</surname>
+<given-names>J</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Retinal structure and function in achromatopsia: implications for gene therapy</article-title>. <source><italic toggle="yes">Ophthalmology</italic></source>. <year>2014</year>; <volume>121</volume>: <fpage>234</fpage>&#x02013;<lpage>245</lpage>.<pub-id pub-id-type="pmid">24148654</pub-id></mixed-citation></ref><ref id="bib10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Oishi</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Shimozono</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Mandai</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Hata</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Nishida</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Kurimoto</surname>
+<given-names>Y.</given-names></string-name></person-group>
+<article-title>Recovery of photoreceptor outer segments after anti-VEGF therapy for age-related macular degeneration</article-title>. <source><italic toggle="yes">Graefes Arch Clin Exp Ophthalmol</italic></source>. <year>2013</year>; <volume>251</volume>: <fpage>435</fpage>&#x02013;<lpage>440</lpage>.<pub-id pub-id-type="pmid">22576370</pub-id></mixed-citation></ref><ref id="bib11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yao</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Son</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Kim</surname>
+<given-names>T-H</given-names></string-name>, <string-name><surname>Le</surname>
+<given-names>D.</given-names></string-name></person-group>
+<article-title>Interpretation of anatomic correlates of outer retinal bands in optical coherence tomography</article-title>. <source><italic toggle="yes">Exp Biol Med</italic></source>. <year>2021</year>; <volume>246</volume>(<issue>20</issue>): <fpage>2140</fpage>&#x02013;<lpage>2150</lpage>.</mixed-citation></ref><ref id="bib12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Aizawa</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Mitamura</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Baba</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Hagiwara</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Ogata</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Yamamoto</surname>
+<given-names>S.</given-names></string-name></person-group>
+<article-title>Correlation between visual function and photoreceptor inner/outer segment junction in patients with retinitis pigmentosa</article-title>. <source><italic toggle="yes">Eye</italic></source>. <year>2009</year>; <volume>23</volume>: <fpage>304</fpage>&#x02013;<lpage>308</lpage>.<pub-id pub-id-type="pmid">18188175</pub-id></mixed-citation></ref><ref id="bib13"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Baba</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Yamamoto</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Arai</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Correlation of visual recovery and presence of photoreceptor inner/outer segment junction in optical coherence images after successful macular hole repair</article-title>. <source><italic toggle="yes">Retina</italic></source>. <year>2008</year>; <volume>28</volume>: <fpage>453</fpage>&#x02013;<lpage>458</lpage>.<pub-id pub-id-type="pmid">18327138</pub-id></mixed-citation></ref><ref id="bib14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mitamura</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Aizawa</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Baba</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Hagiwara</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Yamamoto</surname>
+<given-names>S.</given-names></string-name></person-group>
+<article-title>Correlation between retinal sensitivity and photoreceptor inner/outer segment junction in patients with retinitis pigmentosa</article-title>. <source><italic toggle="yes">Br J Ophthalmol</italic></source>. <year>2009</year>; <volume>93</volume>: <fpage>126</fpage>&#x02013;<lpage>127</lpage>.<pub-id pub-id-type="pmid">19098050</pub-id></mixed-citation></ref><ref id="bib15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ota</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Tsujikawa</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Murakami</surname>
+<given-names>T</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Foveal photoreceptor layer in eyes with persistent cystoid macular edema associated with branch retinal vein occlusion</article-title>. <source><italic toggle="yes">Am J Ophthalmol</italic></source>. <year>2008</year>; <volume>145</volume>: <fpage>273</fpage>&#x02013;<lpage>280</lpage>.e271.<pub-id pub-id-type="pmid">18045566</pub-id></mixed-citation></ref><ref id="bib16"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Spaide</surname>
+<given-names>RF</given-names></string-name>, <string-name><surname>Koizumi</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Freund</surname>
+<given-names>KB.</given-names></string-name></person-group>
+<article-title>Photoreceptor outer segment abnormalities as a cause of blind spot enlargement in acute zonal occult outer retinopathy&#x02013;complex diseases</article-title>. <source><italic toggle="yes">Am J Ophthalmol</italic></source>. <year>2008</year>; <volume>146</volume>: <fpage>111</fpage>&#x02013;<lpage>120</lpage>.<pub-id pub-id-type="pmid">18439564</pub-id></mixed-citation></ref><ref id="bib17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Spaide</surname>
+<given-names>RF</given-names></string-name>, <string-name><surname>Curcio</surname>
+<given-names>CA.</given-names></string-name></person-group>
+<article-title>Anatomical correlates to the bands seen in the outer retina by optical coherence tomography: literature review and model</article-title>. <source><italic toggle="yes">Retina</italic></source>. <year>2011</year>; <volume>31</volume>: <fpage>1609</fpage>&#x02013;<lpage>1619</lpage>.<pub-id pub-id-type="pmid">21844839</pub-id></mixed-citation></ref><ref id="bib18"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ross</surname>
+<given-names>DH</given-names></string-name>, <string-name><surname>Clark</surname>
+<given-names>ME</given-names></string-name>, <string-name><surname>Godara</surname>
+<given-names>P</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>RefMoB, a reflectivity feature model-based automated method for measuring four outer retinal hyperreflective bands in optical coherence tomography</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2015</year>; <volume>56</volume>: <fpage>4166</fpage>&#x02013;<lpage>4176</lpage>.<pub-id pub-id-type="pmid">26132776</pub-id></mixed-citation></ref><ref id="bib19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Litts</surname>
+<given-names>KM</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Freund</surname>
+<given-names>KB</given-names></string-name>, <string-name><surname>Curcio</surname>
+<given-names>CA.</given-names></string-name></person-group>
+<article-title>Optical coherence tomography and histology of age-related macular degeneration support mitochondria as reflectivity sources</article-title>. <source><italic toggle="yes">Retina</italic></source>. <year>2018</year>; <volume>38</volume>: <fpage>445</fpage>&#x02013;<lpage>461</lpage>.<pub-id pub-id-type="pmid">29210936</pub-id></mixed-citation></ref><ref id="bib20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jonnal</surname>
+<given-names>RS</given-names></string-name>, <string-name><surname>Kocaoglu</surname>
+<given-names>OP</given-names></string-name>, <string-name><surname>Zawadzki</surname>
+<given-names>RJ</given-names></string-name>, <string-name><surname>Lee</surname>
+<given-names>SH</given-names></string-name>, <string-name><surname>Werner</surname>
+<given-names>JS</given-names></string-name>, <string-name><surname>Miller</surname>
+<given-names>DT.</given-names></string-name></person-group>
+<article-title>The cellular origins of the outer retinal bands in optical coherence tomography images</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2014</year>; <volume>55</volume>: <fpage>7904</fpage>&#x02013;<lpage>7918</lpage>.<pub-id pub-id-type="pmid">25324288</pub-id></mixed-citation></ref><ref id="bib21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bermond</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Wobbe</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Tarau</surname>
+<given-names>IS</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Autofluorescent granules of the human retinal pigment epithelium: phenotypes, intracellular distribution, and age-related topography</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2020</year>; <volume>61</volume>: <fpage>35</fpage>.</mixed-citation></ref><ref id="bib22"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Koontz</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Hendrickson</surname>
+<given-names>AE.</given-names></string-name></person-group>
+<article-title>Stratified distribution of synapses in the inner plexiform layer of primate retina</article-title>. <source><italic toggle="yes">J Comp Neurol</italic></source>. <year>1987</year>; <volume>263</volume>: <fpage>581</fpage>&#x02013;<lpage>592</lpage>.<pub-id pub-id-type="pmid">3667989</pub-id></mixed-citation></ref><ref id="bib23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tanna</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Dubis</surname>
+<given-names>AM</given-names></string-name>, <string-name><surname>Ayub</surname>
+<given-names>N</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Retinal imaging using commercial broadband optical coherence tomography</article-title>. <source><italic toggle="yes">Br J Ophthalmol</italic></source>. <year>2010</year>; <volume>94</volume>: <fpage>372</fpage>&#x02013;<lpage>376</lpage>.<pub-id pub-id-type="pmid">19770161</pub-id></mixed-citation></ref><ref id="bib24"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Szkulmowski</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Gorczynska</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Szlag</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Sylwestrzak</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Kowalczyk</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Wojtkowski</surname>
+<given-names>M.</given-names></string-name></person-group>
+<article-title>Efficient reduction of speckle noise in optical coherence tomography</article-title>. <source><italic toggle="yes">Opt Express</italic></source>. <year>2012</year>; <volume>20</volume>: <fpage>1337</fpage>&#x02013;<lpage>1359</lpage>.<pub-id pub-id-type="pmid">22274479</pub-id></mixed-citation></ref><ref id="bib25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lee</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Chen</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Moult</surname>
+<given-names>EM</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>High-speed, ultrahigh-resolution spectral-domain OCT with extended imaging range using reference arm length matching</article-title>. <source><italic toggle="yes">Transl Vis Sci Technol</italic></source>. <year>2020</year>; <volume>9</volume>: <fpage>12</fpage>.</mixed-citation></ref><ref id="bib26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Povazay</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Bizheva</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Unterhuber</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Submicrometer axial resolution optical coherence tomography</article-title>. <source><italic toggle="yes">Opt Lett</italic></source>. <year>2002</year>; <volume>27</volume>: <fpage>1800</fpage>&#x02013;<lpage>1802</lpage>.<pub-id pub-id-type="pmid">18033368</pub-id></mixed-citation></ref><ref id="bib27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Povazay</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Alexander</surname>
+<given-names>AA</given-names></string-name>, <string-name><surname>Angelika</surname>
+<given-names>U</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Visible light optical coherence tomography</article-title>. <source><italic toggle="yes">Proc SPIE</italic></source>. <year>2002</year>; <volume>4619</volume>: <fpage>90</fpage>&#x02013;<lpage>94</lpage>.</mixed-citation></ref><ref id="bib28"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Hu</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Knighton</surname>
+<given-names>RW</given-names></string-name>, <string-name><surname>Huang</surname>
+<given-names>X-R</given-names></string-name>, <string-name><surname>Puliafito</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Jiao</surname>
+<given-names>S.</given-names></string-name></person-group>
+<article-title>Dual-band spectral-domain optical coherence tomography for in vivo imaging the spectral contrasts of the retinal nerve fiber layer</article-title>. <source><italic toggle="yes">Opt Express</italic></source>. <year>2011</year>; <volume>19</volume>: <fpage>19653</fpage>&#x02013;<lpage>19659</lpage>.<pub-id pub-id-type="pmid">21996906</pub-id></mixed-citation></ref><ref id="bib29"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yi</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Chen</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Shu</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Fawzi</surname>
+<given-names>AA</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>HF.</given-names></string-name></person-group>
+<article-title>Human retinal imaging using visible-light optical coherence tomography guided by scanning laser ophthalmoscopy</article-title>. <source><italic toggle="yes">Biomed Opt Express</italic></source>. <year>2015</year>; <volume>6</volume>: <fpage>3701</fpage>&#x02013;<lpage>3713</lpage>.<pub-id pub-id-type="pmid">26504622</pub-id></mixed-citation></ref><ref id="bib30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chong</surname>
+<given-names>SP</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Kho</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Bernucci</surname>
+<given-names>MT</given-names></string-name>, <string-name><surname>Dubra</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Srinivasan</surname>
+<given-names>VJ.</given-names></string-name></person-group>
+<article-title>Ultrahigh resolution retinal imaging by visible light OCT with longitudinal achromatization</article-title>. <source><italic toggle="yes">Biomed Opt Express</italic></source>. <year>2018</year>; <volume>9</volume>: <fpage>1477</fpage>&#x02013;<lpage>1491</lpage>.<pub-id pub-id-type="pmid">29675296</pub-id></mixed-citation></ref><ref id="bib31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kho</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Srinivasan</surname>
+<given-names>VJ.</given-names></string-name></person-group>
+<article-title>Compensating spatially dependent dispersion in visible light OCT</article-title>. <source><italic toggle="yes">Opt Lett</italic></source>. <year>2019</year>; <volume>44</volume>: <fpage>775</fpage>&#x02013;<lpage>778</lpage>.<pub-id pub-id-type="pmid">30767984</pub-id></mixed-citation></ref><ref id="bib32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zhang</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Kho</surname>
+<given-names>AM</given-names></string-name>, <string-name><surname>Srinivasan</surname>
+<given-names>VJ.</given-names></string-name></person-group>
+<article-title>Improving visible light OCT of the human retina with rapid spectral shaping and axial tracking</article-title>. <source><italic toggle="yes">Biomed Opt Express</italic></source>. <year>2019</year>; <volume>10</volume>: <fpage>2918</fpage>&#x02013;<lpage>2931</lpage>.<pub-id pub-id-type="pmid">31259062</pub-id></mixed-citation></ref><ref id="bib33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Pi</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Hormel</surname>
+<given-names>TT</given-names></string-name>, <string-name><surname>Wei</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Cepurna</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Morrison</surname>
+<given-names>JC</given-names></string-name>, <string-name><surname>Jia</surname>
+<given-names>Y.</given-names></string-name></person-group>
+<article-title>Imaging retinal structures at cellular-level resolution by visible-light optical coherence tomography</article-title>. <source><italic toggle="yes">Opt Lett</italic></source>. <year>2020</year>; <volume>45</volume>: <fpage>2107</fpage>&#x02013;<lpage>2110</lpage>.<pub-id pub-id-type="pmid">32236080</pub-id></mixed-citation></ref><ref id="bib34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Baker</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Subramanian</surname>
+<given-names>ML</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Simultaneous visible light optical coherence tomography and near infrared OCT angiography in retinal pathologies: a case study</article-title>. <source><italic toggle="yes">Exp Biol Med (Maywood)</italic></source>. <year>2022</year>; <volume>247</volume>: <fpage>377</fpage>&#x02013;<lpage>384</lpage>.<pub-id pub-id-type="pmid">34904454</pub-id></mixed-citation></ref><ref id="bib35"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zhang</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Kho</surname>
+<given-names>AM</given-names></string-name>, <string-name><surname>Srinivasan</surname>
+<given-names>VJ.</given-names></string-name></person-group>
+<article-title>In vivo morphometry of inner plexiform layer (IPL) stratification in the human retina with visible light optical coherence tomography</article-title>. <source><italic toggle="yes">Front Cell Neurosci</italic></source>. <year>2021</year>; <volume>15</volume>: <fpage>655096</fpage>.<pub-id pub-id-type="pmid">33994948</pub-id></mixed-citation></ref><ref id="bib36"><label>36.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zhang</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Kho</surname>
+<given-names>AM</given-names></string-name>, <string-name><surname>Yiu</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Srinivasan</surname>
+<given-names>VJ.</given-names></string-name></person-group>
+<article-title>Visible light optical coherence tomography (OCT) quantifies subcellular contributions to outer retinal band 4</article-title>. <source><italic toggle="yes">Transl Vis Sci Technol</italic></source>. <year>2021</year>; <volume>10</volume>: <fpage>30</fpage>&#x02013;<lpage>30</lpage>.</mixed-citation></ref><ref id="bib37"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Srinivasan</surname>
+<given-names>VJ</given-names></string-name>, <string-name><surname>Monson</surname>
+<given-names>BK</given-names></string-name>, <string-name><surname>Wojtkowski</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Characterization of outer retinal morphology with high-speed, ultrahigh-resolution optical coherence tomography</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2008</year>; <volume>49</volume>: <fpage>1571</fpage>&#x02013;<lpage>1579</lpage>.<pub-id pub-id-type="pmid">18385077</pub-id></mixed-citation></ref><ref id="bib38"><label>38.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wojtkowski</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Srinivasan</surname>
+<given-names>VJ</given-names></string-name>, <string-name><surname>Ko</surname>
+<given-names>TH</given-names></string-name>, <string-name><surname>Fujimoto</surname>
+<given-names>JG</given-names></string-name>, <string-name><surname>Kowalczyk</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Duker</surname>
+<given-names>JS.</given-names></string-name></person-group>
+<article-title>Ultrahigh-resolution, high-speed, Fourier domain optical coherence tomography and methods for dispersion compensation</article-title>. <source><italic toggle="yes">Opt Express</italic></source>. <year>2004</year>; <volume>12</volume>: <fpage>2404</fpage>&#x02013;<lpage>2422</lpage>.<pub-id pub-id-type="pmid">19475077</pub-id></mixed-citation></ref><ref id="bib39"><label>39.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kho</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Srinivasan</surname>
+<given-names>VJ.</given-names></string-name></person-group>
+<article-title>Compensating spatially dependent dispersion in visible light OCT</article-title>. <source><italic toggle="yes">Optics Lett</italic></source>. <year>2019</year>; <volume>44</volume>: <fpage>775</fpage>&#x02013;<lpage>778</lpage>.</mixed-citation></ref><ref id="bib40"><label>40.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zhang</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Kho</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Yiu</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Srinivasan</surname>
+<given-names>VJ.</given-names></string-name></person-group>
+<article-title>Visible light optical coherence tomography (OCT) depicts subcellular contributions to outer retinal band 4</article-title>. <source><italic toggle="yes">Transl Vis Sci Technol</italic></source>. <year>2021</year>; <volume>10</volume>(<issue>3</issue>): <fpage>30</fpage>.</mixed-citation></ref><ref id="bib41"><label>41.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Curcio</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Sloan</surname>
+<given-names>KR</given-names></string-name>, <string-name><surname>Kalina</surname>
+<given-names>RE</given-names></string-name>, <string-name><surname>Hendrickson</surname>
+<given-names>AE.</given-names></string-name></person-group>
+<article-title>Human photoreceptor topography</article-title>. <source><italic toggle="yes">J Comp Neurol</italic></source>. <year>1990</year>; <volume>292</volume>: <fpage>497</fpage>&#x02013;<lpage>523</lpage>.<pub-id pub-id-type="pmid">2324310</pub-id></mixed-citation></ref><ref id="bib42"><label>42.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Cense</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Rha</surname>
+<given-names>J</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>High-speed volumetric imaging of cone photoreceptors with adaptive optics spectral-domain optical coherence tomography</article-title>. <source><italic toggle="yes">Opt Express</italic></source>. <year>2006</year>; <volume>14</volume>: <fpage>4380</fpage>&#x02013;<lpage>4394</lpage>.<pub-id pub-id-type="pmid">19096730</pub-id></mixed-citation></ref><ref id="bib43"><label>43.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lujan</surname>
+<given-names>BJ</given-names></string-name>, <string-name><surname>Roorda</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Croskrey</surname>
+<given-names>JA</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Directional optical coherence tomography provides accurate outer nuclear layer and Henle fiber layer measurements</article-title>. <source><italic toggle="yes">Retina</italic></source>. <year>2015</year>; <volume>35</volume>: <fpage>1511</fpage>&#x02013;<lpage>1520</lpage>.<pub-id pub-id-type="pmid">25829348</pub-id></mixed-citation></ref><ref id="bib44"><label>44.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mori</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Kanno</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Gehlbach</surname>
+<given-names>PL.</given-names></string-name></person-group>
+<article-title>Retinochoroidal morphology described by wide-field montage imaging of spectral domain optical coherence tomography</article-title>. <source><italic toggle="yes">Retina</italic></source>. <year>2016</year>; <volume>36</volume>: <fpage>375</fpage>&#x02013;<lpage>384</lpage>.<pub-id pub-id-type="pmid">26241154</pub-id></mixed-citation></ref><ref id="bib45"><label>45.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yamada</surname>
+<given-names>E.</given-names></string-name>
+</person-group>
+<article-title>Some structural features of the fovea centralis in the human retina</article-title>. <source><italic toggle="yes">Arch Ophthalmol</italic></source>. <year>1969</year>; <volume>82</volume>: <fpage>151</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">4183671</pub-id></mixed-citation></ref><ref id="bib46"><label>46.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Spiteri Cornish</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Lois</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Scott</surname>
+<given-names>NW</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Vitrectomy with internal limiting membrane peeling versus no peeling for idiopathic full-thickness macular hole</article-title>. <source><italic toggle="yes">Ophthalmology</italic></source>. <year>2014</year>; <volume>121</volume>: <fpage>649</fpage>&#x02013;<lpage>655</lpage>.<pub-id pub-id-type="pmid">24314837</pub-id></mixed-citation></ref><ref id="bib47"><label>47.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Remington</surname>
+<given-names>LA</given-names></string-name>, <string-name><surname>Goodwin</surname>
+<given-names>D.</given-names></string-name></person-group>
+<source><italic toggle="yes">Clinical Anatomy of the Visual System E-Book</italic></source>. <publisher-loc>St. Louis, MO</publisher-loc>: <publisher-name>Elsevier Health Sciences</publisher-name>; <year>2011</year>.</mixed-citation></ref><ref id="bib48"><label>48.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lujan</surname>
+<given-names>BJ</given-names></string-name>, <string-name><surname>Roorda</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Knighton</surname>
+<given-names>RW</given-names></string-name>, <string-name><surname>Carroll</surname>
+<given-names>J.</given-names></string-name></person-group>
+<article-title>Revealing Henle's fiber layer using spectral domain optical coherence tomography</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2011</year>; <volume>52</volume>: <fpage>1486</fpage>&#x02013;<lpage>1492</lpage>.<pub-id pub-id-type="pmid">21071737</pub-id></mixed-citation></ref><ref id="bib49"><label>49.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kolb</surname>
+<given-names>H.</given-names></string-name>
+</person-group>
+<article-title>Simple anatomy of the retina</article-title>. In: <person-group person-group-type="editor"><string-name><surname>Kolb</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Fernandez</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Nelson</surname>
+<given-names>R</given-names></string-name></person-group>, eds. <source><italic toggle="yes">Webvision: The Organization of the Retina and Visual System</italic></source><italic toggle="yes">.</italic>
+<publisher-loc>Salt Lake City</publisher-loc>: <publisher-name>University of Utah Health Sciences Center</publisher-name>; <year>1995</year>.</mixed-citation></ref><ref id="bib50"><label>50.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perry</surname>
+<given-names>VH</given-names></string-name>, <string-name><surname>Cowey</surname>
+<given-names>A.</given-names></string-name></person-group>
+<article-title>The lengths of the fibres of Henle in the retina of macaque monkeys: implications for vision</article-title>. <source><italic toggle="yes">Neuroscience</italic></source>. <year>1988</year>; <volume>25</volume>: <fpage>225</fpage>&#x02013;<lpage>236</lpage>.<pub-id pub-id-type="pmid">3393279</pub-id></mixed-citation></ref><ref id="bib51"><label>51.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Quinn</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Csincsik</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Flynn</surname>
+<given-names>E</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>The clinical relevance of visualising the peripheral retina</article-title>. <source><italic toggle="yes">Prog Retin Eye Res</italic></source>. <year>2019</year>; <volume>68</volume>: <fpage>83</fpage>&#x02013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">30316018</pub-id></mixed-citation></ref><ref id="bib52"><label>52.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cuenca</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Ortuno-Lizaran</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Sanchez-Saez</surname>
+<given-names>X</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Interpretation of OCT and OCTA images from a histological approach: clinical and experimental implications</article-title>. <source><italic toggle="yes">Prog Retin Eye Res</italic></source>. <year>2020</year>; <volume>77</volume>: <fpage>100828</fpage>.<pub-id pub-id-type="pmid">31911236</pub-id></mixed-citation></ref><ref id="bib53"><label>53.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bringmann</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Pannicke</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Grosche</surname>
+<given-names>J</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Muller cells in the healthy and diseased retina</article-title>. <source><italic toggle="yes">Prog Retin Eye Res</italic></source>. <year>2006</year>; <volume>25</volume>: <fpage>397</fpage>&#x02013;<lpage>424</lpage>.<pub-id pub-id-type="pmid">16839797</pub-id></mixed-citation></ref><ref id="bib54"><label>54.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Menghini</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Lujan</surname>
+<given-names>BJ</given-names></string-name>, <string-name><surname>Zayit-Soudry</surname>
+<given-names>S</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Correlation of outer nuclear layer thickness with cone density values in patients with retinitis pigmentosa and healthy subjects</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2015</year>; <volume>56</volume>: <fpage>372</fpage>&#x02013;<lpage>381</lpage>.</mixed-citation></ref><ref id="bib55"><label>55.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cuenca</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Ortuno-Lizaran</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Pinilla</surname>
+<given-names>I.</given-names></string-name></person-group>
+<article-title>Cellular characterization of OCT and outer retinal bands using specific immunohistochemistry markers and clinical implications</article-title>. <source><italic toggle="yes">Ophthalmology</italic></source>. <year>2018</year>; <volume>125</volume>: <fpage>407</fpage>&#x02013;<lpage>422</lpage>.<pub-id pub-id-type="pmid">29037595</pub-id></mixed-citation></ref><ref id="bib56"><label>56.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hoang</surname>
+<given-names>QV</given-names></string-name>, <string-name><surname>Linsenmeier</surname>
+<given-names>RA</given-names></string-name>, <string-name><surname>Chung</surname>
+<given-names>CK</given-names></string-name>, <string-name><surname>Curcio</surname>
+<given-names>CA.</given-names></string-name></person-group>
+<article-title>Photoreceptor inner segments in monkey and human retina: mitochondrial density, optics, and regional variation</article-title>. <source><italic toggle="yes">Vis Neurosci</italic></source>. <year>2002</year>; <volume>19</volume>: <fpage>395</fpage>&#x02013;<lpage>407</lpage>.<pub-id pub-id-type="pmid">12511073</pub-id></mixed-citation></ref><ref id="bib57"><label>57.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ji</surname>
+<given-names>Q</given-names></string-name>, <string-name><surname>Miller</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Bernucci</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Liu</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Crowell</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Miller</surname>
+<given-names>DT.</given-names></string-name></person-group>
+<article-title>Revealing spectral cone types from structural differences as obtained by AO-OCT imaging in human subjects</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2022</year>; <volume>63</volume>: <fpage>1477</fpage>&#x02013;<lpage>1477</lpage>.</mixed-citation></ref><ref id="bib58"><label>58.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Dowling</surname>
+<given-names>JE.</given-names></string-name>
+</person-group>
+<article-title>Foveal receptors of the monkey retina: fine structure</article-title>. <source><italic toggle="yes">Science</italic></source>. <year>1965</year>; <volume>147</volume>: <fpage>57</fpage>&#x02013;<lpage>59</lpage>.<pub-id pub-id-type="pmid">14224526</pub-id></mixed-citation></ref><ref id="bib59"><label>59.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wilson</surname>
+<given-names>JD</given-names></string-name>, <string-name><surname>Bigelow</surname>
+<given-names>CE</given-names></string-name>, <string-name><surname>Calkins</surname>
+<given-names>DJ</given-names></string-name>, <string-name><surname>Foster</surname>
+<given-names>TH.</given-names></string-name></person-group>
+<article-title>Light scattering from intact cells reports oxidative-stress-induced mitochondrial swelling</article-title>. <source><italic toggle="yes">Biophys J</italic></source>. <year>2005</year>; <volume>88</volume>: <fpage>2929</fpage>&#x02013;<lpage>2938</lpage>.<pub-id pub-id-type="pmid">15653724</pub-id></mixed-citation></ref><ref id="bib60"><label>60.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Twersky</surname>
+<given-names>V.</given-names></string-name>
+</person-group>
+<article-title>Acoustic bulk parameters in distributions of pair-correlated scatterers</article-title>. <source><italic toggle="yes">J Acoustic Soc Am</italic></source>. <year>1978</year>; <volume>64</volume>: <fpage>1710</fpage>&#x02013;<lpage>1719</lpage>.</mixed-citation></ref><ref id="bib61"><label>61.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hayes</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Tracey-White</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Kam</surname>
+<given-names>JH</given-names></string-name>, <string-name><surname>Powner</surname>
+<given-names>MB</given-names></string-name>, <string-name><surname>Jeffery</surname>
+<given-names>G.</given-names></string-name></person-group>
+<article-title>The 3D organisation of mitochondria in primate photoreceptors</article-title>. <source><italic toggle="yes">Sci Rep</italic></source>. <year>2021</year>; <volume>11</volume>: <fpage>18863</fpage>.<pub-id pub-id-type="pmid">34552195</pub-id></mixed-citation></ref><ref id="bib62"><label>62.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ball</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Chen</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Li</surname>
+<given-names>W.</given-names></string-name></person-group>
+<article-title>Mitochondria in cone photoreceptors act as microlenses to enhance photon delivery and confer directional sensitivity to light</article-title>. <source><italic toggle="yes">Sci Adv</italic></source>. <year>2022</year>; <volume>8</volume>: <fpage>eabn2070</fpage>.<pub-id pub-id-type="pmid">35235359</pub-id></mixed-citation></ref><ref id="bib63"><label>63.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yi</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Backman</surname>
+<given-names>V.</given-names></string-name></person-group>
+<article-title>Imaging a full set of optical scattering properties of biological tissue by inverse spectroscopic optical coherence tomography</article-title>. <source><italic toggle="yes">Opt Lett</italic></source>. <year>2012</year>; <volume>37</volume>: <fpage>4443</fpage>&#x02013;<lpage>4445</lpage>.<pub-id pub-id-type="pmid">23114323</pub-id></mixed-citation></ref><ref id="bib64"><label>64.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Pandiyan</surname>
+<given-names>VP</given-names></string-name>, <string-name><surname>Jiang</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Kuchenbecker</surname>
+<given-names>JA</given-names></string-name>, <string-name><surname>Sabesan</surname>
+<given-names>R.</given-names></string-name></person-group>
+<article-title>Reflective mirror-based line-scan adaptive optics OCT for imaging retinal structure and function</article-title>. <source><italic toggle="yes">Biomed Opt Express</italic></source>. <year>2021</year>; <volume>12</volume>: <fpage>5865</fpage>&#x02013;<lpage>5880</lpage>.<pub-id pub-id-type="pmid">34692221</pub-id></mixed-citation></ref><ref id="bib65"><label>65.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Valente</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Azimipour</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Zawadzki</surname>
+<given-names>RJ</given-names></string-name>, <string-name><surname>Werner</surname>
+<given-names>JS</given-names></string-name>, <string-name><surname>Jonnal</surname>
+<given-names>R.</given-names></string-name></person-group>
+<article-title>Investigating the morphology of possible S-cones using adaptive optics functional OCT</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2019</year>; <volume>60</volume>: <fpage>4595</fpage>&#x02013;<lpage>4595</lpage>.</mixed-citation></ref><ref id="bib66"><label>66.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cornish</surname>
+<given-names>EE</given-names></string-name>, <string-name><surname>Hendrickson</surname>
+<given-names>AE</given-names></string-name>, <string-name><surname>Provis</surname>
+<given-names>JM.</given-names></string-name></person-group>
+<article-title>Distribution of short-wavelength-sensitive cones in human fetal and postnatal retina: early development of spatial order and density profiles</article-title>. <source><italic toggle="yes">Vis Res</italic></source>. <year>2004</year>; <volume>44</volume>: <fpage>2019</fpage>&#x02013;<lpage>2026</lpage>.<pub-id pub-id-type="pmid">15149835</pub-id></mixed-citation></ref><ref id="bib67"><label>67.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hendrickson</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Drucker</surname>
+<given-names>D.</given-names></string-name></person-group>
+<article-title>The development of parafoveal and mid-peripheral human retina</article-title>. <source><italic toggle="yes">Behav Brain Res</italic></source>. <year>1992</year>; <volume>49</volume>: <fpage>21</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">1388798</pub-id></mixed-citation></ref><ref id="bib68"><label>68.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Huber</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Beck</surname>
+<given-names>SC</given-names></string-name>, <string-name><surname>Grimm</surname>
+<given-names>C</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Spectral domain optical coherence tomography in mouse models of retinal degeneration</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2009</year>; <volume>50</volume>: <fpage>5888</fpage>&#x02013;<lpage>5895</lpage>.<pub-id pub-id-type="pmid">19661229</pub-id></mixed-citation></ref><ref id="bib69"><label>69.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jonas</surname>
+<given-names>JB</given-names></string-name>, <string-name><surname>Schneider</surname>
+<given-names>U</given-names></string-name>, <string-name><surname>Naumann</surname>
+<given-names>GO.</given-names></string-name></person-group>
+<article-title>Count and density of human retinal photoreceptors</article-title>. <source><italic toggle="yes">Graefes Arch Clin Exp Ophthalmol</italic></source>. <year>1992</year>; <volume>230</volume>: <fpage>505</fpage>&#x02013;<lpage>510</lpage>.<pub-id pub-id-type="pmid">1427131</pub-id></mixed-citation></ref><ref id="bib70"><label>70.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jonnal</surname>
+<given-names>RS</given-names></string-name>, <string-name><surname>Gorczynska</surname>
+<given-names>IM</given-names></string-name>, <string-name><surname>Werner</surname>
+<given-names>JS.</given-names></string-name></person-group>
+<article-title>Locating the rod IS/OS using AO-OCT</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2016</year>; <volume>57</volume>: <fpage>4641</fpage>&#x02013;<lpage>4641</lpage>.<pub-id pub-id-type="pmid">27603725</pub-id></mixed-citation></ref><ref id="bib71"><label>71.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wells-Gray</surname>
+<given-names>EM</given-names></string-name>, <string-name><surname>Choi</surname>
+<given-names>SS</given-names></string-name>, <string-name><surname>Zawadzki</surname>
+<given-names>RJ</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Volumetric imaging of rod and cone photoreceptor structure with a combined adaptive optics-optical coherence tomography-scanning laser ophthalmoscope</article-title>. <source><italic toggle="yes">J Biomed Opt</italic></source>. <year>2018</year>; <volume>23</volume>: <fpage>1</fpage>&#x02013;<lpage>15</lpage>.</mixed-citation></ref><ref id="bib72"><label>72.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jonnal</surname>
+<given-names>RS</given-names></string-name>, <string-name><surname>Kocaoglu</surname>
+<given-names>OP</given-names></string-name>, <string-name><surname>Zawadzki</surname>
+<given-names>RJ</given-names></string-name>, <string-name><surname>Lee</surname>
+<given-names>SH</given-names></string-name>, <string-name><surname>Werner</surname>
+<given-names>JS</given-names></string-name>, <string-name><surname>Miller</surname>
+<given-names>DT.</given-names></string-name></person-group>
+<article-title>Author response: outer retinal bands</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2015</year>; <volume>56</volume>: <fpage>2507</fpage>&#x02013;<lpage>2510</lpage>.<pub-id pub-id-type="pmid">26066597</pub-id></mixed-citation></ref><ref id="bib73"><label>73.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bird</surname>
+<given-names>A.</given-names></string-name>
+</person-group>
+<article-title>How to keep photoreceptors alive</article-title>. <source><italic toggle="yes">Proc Natl Acad Sci</italic></source>. <year>2007</year>; <volume>104</volume>: <fpage>2033</fpage>&#x02013;<lpage>2034</lpage>.<pub-id pub-id-type="pmid">17284591</pub-id></mixed-citation></ref><ref id="bib74"><label>74.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fisher</surname>
+<given-names>SK</given-names></string-name>, <string-name><surname>Anderson</surname>
+<given-names>DH</given-names></string-name>, <string-name><surname>Erickson</surname>
+<given-names>PA</given-names></string-name>, <string-name><surname>Gu&#x000e9;rin</surname>
+<given-names>CJ</given-names></string-name>, <string-name><surname>Lewis</surname>
+<given-names>GP</given-names></string-name>, <string-name><surname>Linberg</surname>
+<given-names>KA.</given-names></string-name></person-group>
+<article-title>Light and electron microscopy of vertebrate photoreceptors: including a technique for electron microscopic autoradiography</article-title>. In: <person-group person-group-type="editor"><string-name><surname>Hargrave</surname>
+<given-names>PA</given-names></string-name></person-group>, ed. <source><italic toggle="yes">Methods in Neurosciences</italic></source>. <publisher-loc>San Diego, CA</publisher-loc>: <publisher-name>Academic Press</publisher-name>; <year>1993</year>: <fpage>3</fpage>&#x02013;<lpage>36</lpage>.</mixed-citation></ref><ref id="bib75"><label>75.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fine</surname>
+<given-names>BS</given-names></string-name>, <string-name><surname>Zimmerman</surname>
+<given-names>LE.</given-names></string-name></person-group>
+<article-title>Observations on the rod and cone layer of the human retina: a light and electron microscopic study</article-title>. <source><italic toggle="yes">Invest Ophthalmol</italic></source>. <year>1963</year>; <volume>2</volume>: <fpage>446</fpage>&#x02013;<lpage>459</lpage>.<pub-id pub-id-type="pmid">14069754</pub-id></mixed-citation></ref><ref id="bib76"><label>76.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lee</surname>
+<given-names>SH</given-names></string-name>, <string-name><surname>Werner</surname>
+<given-names>JS</given-names></string-name>, <string-name><surname>Zawadzki</surname>
+<given-names>RJ.</given-names></string-name></person-group>
+<article-title>Improved visualization of outer retinal morphology with aberration cancelling reflective optical design for adaptive optics&#x02014;optical coherence tomography</article-title>. <source><italic toggle="yes">Biomed Opt Express</italic></source>. <year>2013</year>; <volume>4</volume>: <fpage>2508</fpage>&#x02013;<lpage>2517</lpage>.<pub-id pub-id-type="pmid">24298411</pub-id></mixed-citation></ref><ref id="bib77"><label>77.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Kocaoglu</surname>
+<given-names>OP</given-names></string-name>, <string-name><surname>Miller</surname>
+<given-names>DT.</given-names></string-name></person-group>
+<article-title>3D imaging of retinal pigment epithelial cells in the living human retina</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2016</year>; <volume>57</volume>: <fpage>OCT533</fpage>&#x02013;<lpage>OCT543</lpage>.<pub-id pub-id-type="pmid">27472277</pub-id></mixed-citation></ref><ref id="bib78"><label>78.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Messner</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Aranha Dos Santos</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Stegmann</surname>
+<given-names>H</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Quantification of intrinsic optical signals in the outer human retina using optical coherence tomography</article-title>. <source><italic toggle="yes">Ann N Y Acad Sci</italic></source>. <year>2022</year>; <volume>1510</volume>: <fpage>145</fpage>&#x02013;<lpage>157</lpage>.<pub-id pub-id-type="pmid">34893981</pub-id></mixed-citation></ref><ref id="bib79"><label>79.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Birtel</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>von Landenberg</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Gliem</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Mitochondrial retinopathy</article-title>. <source><italic toggle="yes">Ophthalmol Retina</italic></source>. <year>2022</year>; <volume>6</volume>: <fpage>65</fpage>&#x02013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">34257060</pub-id></mixed-citation></ref><ref id="bib80"><label>80.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hood</surname>
+<given-names>DC</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Ramachandran</surname>
+<given-names>R</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>The inner segment/outer segment border seen on optical coherence tomography is less intense in patients with diminished cone function</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2011</year>; <volume>52</volume>: <fpage>9703</fpage>&#x02013;<lpage>9709</lpage>.<pub-id pub-id-type="pmid">22110066</pub-id></mixed-citation></ref><ref id="bib81"><label>81.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Birch</surname>
+<given-names>DG</given-names></string-name>, <string-name><surname>Wen</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Locke</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Hood</surname>
+<given-names>DC.</given-names></string-name></person-group>
+<article-title>Rod sensitivity, cone sensitivity, and photoreceptor layer thickness in retinal degenerative diseases</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2011</year>; <volume>52</volume>: <fpage>7141</fpage>&#x02013;<lpage>7147</lpage>.<pub-id pub-id-type="pmid">21810977</pub-id></mixed-citation></ref><ref id="bib82"><label>82.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sun</surname>
+<given-names>LW</given-names></string-name>, <string-name><surname>Johnson</surname>
+<given-names>RD</given-names></string-name>, <string-name><surname>Langlo</surname>
+<given-names>CS</given-names></string-name>, <etal>et al</etal>.</person-group>
+<article-title>Assessing photoreceptor structure in retinitis pigmentosa and Usher syndrome</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2016</year>; <volume>57</volume>: <fpage>2428</fpage>&#x02013;<lpage>2442</lpage>.<pub-id pub-id-type="pmid">27145477</pub-id></mixed-citation></ref><ref id="bib83"><label>83.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Curcio</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Owsley</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Jackson</surname>
+<given-names>GR.</given-names></string-name></person-group>
+<article-title>Spare the rods, save the cones in aging and age-related maculopathy</article-title>. <source><italic toggle="yes">Invest Ophthalmol Vis Sci</italic></source>. <year>2000</year>; <volume>41</volume>: <fpage>2015</fpage>&#x02013;<lpage>2018</lpage>.<pub-id pub-id-type="pmid">10892836</pub-id></mixed-citation></ref></ref-list></back></article>

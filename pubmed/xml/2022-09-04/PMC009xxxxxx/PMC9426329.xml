@@ -1,0 +1,477 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700458</article-id><article-id pub-id-type="pmc">PMC9426329</article-id><article-id pub-id-type="publisher-id">35412</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.35412</article-id><article-categories><subj-group subj-group-type="heading"><subject>Art&#x000ed;culos Originales</subject></subj-group></article-categories><title-group><article-title>Cirug&#x000ed;a colorrectal laparosc&#x000f3;pica mano asistida: experiencia con una t&#x000e9;cnica original</article-title><trans-title-group xml:lang="en"><trans-title>Hand-assisted laparoscopic surgery: experience with an original technique</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Cirurgia colorretal laparosc&#x000f3;pica m&#x000e3;o assistida: experi&#x000ea;ncia com uma t&#x000e9;cnica original</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Vaccaro</surname><given-names>Carlos</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>carlos.vaccaro@hospitalitaliano.org.ar</email></contrib><contrib contrib-type="author"><name><surname>Gonzalez</surname><given-names>Marcos</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>marcos.gonzalez@hospitalitaliano.org.ar</email></contrib><contrib contrib-type="author"><name><surname>Ruffa</surname><given-names>Tatiana</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>tatiana.ruffa@hospitalitaliano.org.ar</email></contrib><contrib contrib-type="author"><name><surname>Campana</surname><given-names>Juan Pablo</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>juan.campana@hospitalitaliano.org.ar</email></contrib><contrib contrib-type="author"><name><surname>Mentz</surname><given-names>Ricardo</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>ricardo.mentz@hospitalitaliano.org.ar</email></contrib><contrib contrib-type="author"><name><surname>Poggi</surname><given-names>Catalina</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>catalina.poggi@hospitalitaliano.org.ar</email></contrib><contrib contrib-type="author"><name><surname>Rubinstein</surname><given-names>Fernando</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>frubinstein@iecs.org.ar</email></contrib><contrib contrib-type="author"><name><surname>Marcello</surname><given-names>Peter W</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><email>peter.w.marcello@lahey.org</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Secci&#x000f3;n de Cirug&#x000ed;a Colorrectal, Servicio de Cirug&#x000ed;a General, Hospital Italiano de Buenos Aires</institution>
+<city>Buenos Aires</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Instituto de Medicina Traslacional e Ingenier&#x000ed;a Biom&#x000e9;dica (IMTIB)</institution>
+<city>Buenos Aires</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Instituto de Efectividad Cl&#x000ed;nica y Sanitaria</institution>
+<city>Buenos Aires</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff4">
+<label>4</label>
+<institution>Secci&#x000f3;n de Cirug&#x000ed;a de Colon y Recto, Lahey Hospital and Medical Center</institution>
+<city>Burlington</city>
+<state>Massachusetts</state>
+<addr-line>01803</addr-line>
+<country country="US">USA</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>150</fpage><lpage>155</lpage><history><date date-type="received" iso-8601-date="2021-11-01"><day>01</day><month>11</month><year>2021</year></date><date date-type="accepted" iso-8601-date="2022-04-22"><day>22</day><month>4</month><year>2022</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/35412/37748">https://revistas.unc.edu.ar/index.php/med/article/view/35412/37748</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/35412/37687">https://revistas.unc.edu.ar/index.php/med/article/view/35412/37687</self-uri><abstract abstract-type="section"><title>Resumen</title><sec><title>Introducci&#x000f3;n:</title><p>La cirug&#x000ed;a colorrectal laparosc&#x000f3;pica mano asistida (CLMA) es un abordaje alternativo a la laparoscopia directa (LD) que requiere de un dispositivo espec&#x000ed;fico para mantener el neumoperitoneo. Nuestro grupo describi&#x000f3; una t&#x000e9;cnica original de doble guante como alternativa a este dispositivo. El objetivo del presente trabajo fue analizar los resultados de esta t&#x000e9;cnica compar&#x000e1;ndola con la t&#x000e9;cnica de LD.</p></sec><sec><title>M&#x000e9;todos:</title><p>Se analiz&#x000f3; una serie consecutiva de pacientes sometidos a cirug&#x000ed;as colorrectales laparosc&#x000f3;picas entre 2004 y 2020 en el Hospital Italiano de Bs, As, Argentina. Se realiz&#x000f3; un modelo de regresi&#x000f3;n m&#x000fa;ltiple de selecci&#x000f3;n progresiva y apareamiento por puntaje de propensi&#x000f3;n para analizar los resultados perioperatorios</p></sec><sec><title>Resultados:</title><p>Los casos de CLMA (n=458) y LD (n=1692) fueron demogr&#x000e1;ficamente similares. CLMA se asoci&#x000f3; a un menor tiempo operatorio (170,3 vs 206,9 minutos, p&#x0003c;0.001). Dicha reducci&#x000f3;n fue m&#x000e1;s marcada en obesos (44.1 min), pacientes grandes (37.5 min), cirug&#x000ed;as complejas (33.8 min) y en procedimientos realizados por cirujanos no entrenados (57,6 vs 31,6 minutos, p&#x0003c;0.001). CLMA result&#x000f3; tener menor &#x000ed;ndice de conversi&#x000f3;n (5% vs 9.9%, p&#x0003c;0.001) con una raz&#x000f3;n de probabilidades ajustada de 0,45. No se hallaron diferencias en cuanto a estad&#x000ed;a hospitalaria, morbimortalidad y readmisi&#x000f3;n.
+</p></sec><sec><title>Conclusi&#x000f3;n:</title><p>CLMA con doble guante es comparable a la LD manteniendo un tiempo operatorio reducido y bajo &#x000ed;ndice de conversi&#x000f3;n, particularmente en pacientes obesos sometidos a procedimientos complejos.</p></sec></abstract><trans-abstract xml:lang="en" abstract-type="section"><title>Abstract</title><sec><title>Introduction:</title><p>Hand-assisted laparoscopic colorectal surgery (HALS) is an alternative to straight laparoscopic approach (SL) that requires the use of a specific device to maintain the pneumoperitoneum. Our group has described an original double glove technique to replace it. Our purpose was to compare perioperative outcomes of patients undergoing HALS using this original technique vs SL.</p></sec><sec><title>Methods:</title><p>Retrospective review of a prospective database including patients who underwent elective laparoscopic colorectal resections between 2004 to 2020 at the Hospital Italiano, Argentina. Logistic regression analysis, propensity score matching, and inverse probability weighting were used to estimate adjusted treatment effects for perioperative outcomes.</p></sec><sec><title>Results:</title><p>HALS (n=458) and SL (n=1692) cases were demographically similar. HALS was associated with a shorter operative time (170.3 vs 206.9 minutes, p&#x0003c;0.001). Such difference was even more pronounced in obese (44.1 min), large patients (37.5 min), complex procedures (33.8 min) and surgeries carried out by non-trained surgeons (57,6 vs 31,6 minutes, p&#x0003c;0.001). Hand-assisted was associated with a lower conversion rate (5% vs 9.9%, p&#x0003c;0.001) with an adjusted odds ratio of 0.45 (95%CI 0.28-0.73). No difference in hospital stay, morbidity, and readmission rates was found.
+</p></sec><sec><title>Conclusion:</title><p>HALS with double-glove technique is comparable to SL in terms of postoperative outcomes keeping reduced operative time and conversion rates, especially in obese patients undergoing complex procedures.</p></sec></trans-abstract><trans-abstract xml:lang="pt" abstract-type="section"><title>Resumo</title><sec><title>Introdu&#x000e7;&#x000e3;o:</title><p>A cirurgiacolorretal laparosc&#x000f3;pica assistida pela m&#x000e3;o (CLMA) &#x000e9; umaabordagem alternativa para a laparoscopia direta (LD) que requerum dispositivo espec&#x000ed;fico para manter o pneumoperit&#x000f4;nio. Nosso grupo descreveuuma t&#x000e9;cnica original de luva dupla como alternativa a esse dispositivo. O objetivo do presente trabalhofoianalisar os resultados desta t&#x000e9;cnica comparando-a com a t&#x000e9;cnica LD.</p></sec><sec><title>M&#x000e9;todos:</title><p>Umas&#x000e9;rie consecutiva de pacientes submetidos a cirurgiascolorretais laparosc&#x000f3;picas entre 2004 e 2020 no Hospital Italiano de Bs, As, Argentina foianalisada. Um modelo de regress&#x000e3;om&#x000fa;ltipla de sele&#x000e7;&#x000e3;oprogressiva e correspond&#x000ea;ncia de escore de propens&#x000e3;ofoi realizado para analisar os resultados perioperat&#x000f3;rios.</p></sec><sec><title>Resultados:</title><p>Os casos de CLMA (n = 458) e LD (n = 1692) foramdemograficamentesemelhantes. CLMA foiassociado a um tempo operat&#x000f3;riomais curto (170,3 vs 206,9 minutos, p&#x0003c;0,001). Essaredu&#x000e7;&#x000e3;ofoimais acentuada em obesos (44,1 min), pacientes grandes (37,5 min), cirurgias complexas (33,8 min) e emprocedimentos realizados por cirurgi&#x000f5;esn&#x000e3;otreinados (57,6 vs 31,6 minutos, p&#x0003c;0,001). CLMA acaboutendoumataxa de convers&#x000e3;omaisbaixa (5% vs 9,9%, p&#x0003c;0,001) comumodds ratio ajustado de 0,45. N&#x000e3;oforam encontradas diferen&#x000e7;asem termos de interna&#x000e7;&#x000e3;o, morbimortalidade e readmiss&#x000e3;o.
+</p></sec><sec><title>Conclus&#x000e7;&#x000e3;o:</title><p>CLMA comluvas duplas &#x000e9; compar&#x000e1;velao LD, mantendoum tempo operat&#x000f3;rioreduzido e umabaixataxa de convers&#x000e3;o, principalmente em pacientes obesos submetidos a procedimentos complexos.</p></sec></trans-abstract><kwd-group><title>Palabras clave</title><kwd>cirug&#x000ed;a colorrectal</kwd><kwd>laparoscop&#x000ed;a</kwd><kwd>resultados</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>colorectal surgery</kwd><kwd>laparoscopy</kwd><kwd>outcomes</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>cirurgiacolorretal</kwd><kwd>laparoscopia</kwd><kwd>resultados</kwd></kwd-group><counts><fig-count count="0"/><table-count count="6"/><equation-count count="0"/><ref-count count="18"/><page-count count="6"/></counts></article-meta></front><body><boxed-text position="float"><p>En relaci&#x000f3;n con la laparoscopia directa (LD), la cirug&#x000ed;a laparosc&#x000f3;pica mano asistida (CLMA) requiere un dispositivo adicional para mantener el neumoperitoneo. A continuaci&#x000f3;n, analizamos los resultados con una t&#x000e9;cnica original que excluye cualquier costo adicional.</p></boxed-text><boxed-text position="float"><sec><title>Conceptos clave</title><p>CLMA con doble guante es comparable a la LD manteniendo un tiempo operatorio reducido y bajo &#x000ed;ndice de conversi&#x000f3;n. No se hallaron diferencias en cuanto a estad&#x000ed;a hospitalaria, morbimortalidad y readmisi&#x000f3;n.</p></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCION</title><p>Los m&#x000fa;ltiples beneficios de la cirug&#x000ed;a m&#x000ed;nimamente invasiva en la patolog&#x000ed;a colorrectal hacen que el abordaje laparosc&#x000f3;pico sea el est&#x000e1;ndar de cuidado en la mayor&#x000ed;a de las resecciones colorrectales electivas. Sin embargo, a diferencia de otros procedimientos su adopci&#x000f3;n en centros de bajo volumen es relativamente m&#x000e1;s limitada
+<sup><xref rid="B1" ref-type="bibr">1</xref>,
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+, debido a la complejidad asociada con la disecci&#x000f3;n en m&#x000fa;ltiples cuadrantes, la manipulaci&#x000f3;n de un &#x000f3;rgano m&#x000f3;vil grande, el control de los vasos sangu&#x000ed;neos y la necesidad de una anastomosis. Esta complejidad explica no s&#x000f3;lo la relativa baja adopci&#x000f3;n, sino tambi&#x000e9;n la alta tasa de conversi&#x000f3;n en centros no especializados
+<sup><xref rid="B3" ref-type="bibr">3</xref>,
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+.
+</p><p>La cirug&#x000ed;a laparosc&#x000f3;pica mano asistida (CLMA) es una alternativa no solo para simplificar la implementaci&#x000f3;n del abordaje miniinvasivo sino tambi&#x000e9;n para reducir las tasas de conversi&#x000f3;n y ampliar indicaciones. Numerosos estudios han demostrado que en relaci&#x000f3;n a laparoscopia directa, la mano asistida no s&#x000f3;lo conserva la ventajas del abordaje m&#x000ed;nimamente invasivo sino que se asocia a una disminuci&#x000f3;n del tiempo quir&#x000fa;rgico y la conversi&#x000f3;n a cirug&#x000ed;a abierta
+<sup>
+<xref rid="B5" ref-type="bibr">5-7</xref>
+</sup>
+.
+</p><p>Una potencial desventaja en relaci&#x000f3;n a la LD es la necesidad de mantener el neumoperitoneo con dispositivos dise&#x000f1;ados para tal fin lo cual implica un costo agregado. En el a&#x000f1;o 2016 hemos publicado una t&#x000e9;cnica original que reemplaza estos dispositivos por un doble guante
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+. El objetivo de este estudio es evaluar una serie consecutiva de cirug&#x000ed;a laparosc&#x000f3;pica mano asistida con esta variante t&#x000e9;cnica compar&#x000e1;ndola con una serie de LD.
+</p></sec><sec sec-type="materials|methods"><title>MATERIALES Y M&#x000c9;TODOS</title><p>Se utiliz&#x000f3; una base de datos prospectiva para identificar pacientes consecutivos sometidos a resecci&#x000f3;n colorrectal laparosc&#x000f3;pica desde marzo de 2004 hasta noviembre de 2020 en el Hospital Italiano de Buenos Aires, Argentina.</p><p>Todos las cirug&#x000ed;as fueron realizadas o supervisadas por un cirujano colorrectal. En ambas t&#x000e9;cnicas se realiz&#x000f3; la movilizaci&#x000f3;n del colon y la ligadura de los principales vasos. La disecci&#x000f3;n fue realizada utilizando abordajes de medial a lateral o de lateral a medial de acuerdo con la elecci&#x000f3;n del cirujano. En los casos de LD, la incisi&#x000f3;n del sitio de extracci&#x000f3;n vari&#x000f3; a lo largo del tiempo y seg&#x000fa;n la preferencia del cirujano, incluyendo incisi&#x000f3;n mediana, transversa o de Pfannenstiel. En CLMA, se utilizaron sistem&#x000e1;ticamente incisiones medianas supraumbilicales o infraumbilicales para resecciones derecha e izquierda, respectivamente. Para la colectom&#x000ed;a derecha se realiz&#x000f3; anastomosis extracorp&#x000f3;rea manual, mientras que para colectom&#x000ed;as izquierdas y resecciones anteriores se realiz&#x000f3; una t&#x000e9;cnica de doble engrapado intracorp&#x000f3;reo con el uso de sutura mec&#x000e1;nica circular. Un estoma de derivaci&#x000f3;n (colostom&#x000ed;a o ileostom&#x000ed;a) se realiz&#x000f3; de forma rutinaria en las anastomosis colorrectales
+ubicadas a &#x0003c;6 cm del borde anal. Para la introducci&#x000f3;n de la mano y el mantenimiento del neumoperitoneo en la cirug&#x000ed;a mano asistida, se implement&#x000f3; una t&#x000e9;cnica de doble guante descripta originalmente por nuestro grupo que consiste en introducir la mano derecha a trav&#x000e9;s de una incisi&#x000f3;n media utilizando un doble guante adaptado en un separador Alexis&#x000ae; (Applied Medical Co) de tama&#x000f1;o mediano (5-9 cm) colocado encima o debajo del ombligo para colectom&#x000ed;as derecha o izquierda respectivamente. La mano con los dos guantes se introduce en la cavidad abdominal y la mu&#x000f1;equera del segundo guante se ajusta al anillo exterior del separador. El tama&#x000f1;o inicial de la incisi&#x000f3;n fue 1 cm menor que el tama&#x000f1;o del guante del cirujano. Mayores detalles est&#x000e1;n disponibles en la publicaci&#x000f3;n original
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+.
+</p><p>Se analizaron datos demogr&#x000e1;ficos, intraoperatorios y post operatorios inmediatos (hasta 30 d&#x000ed;as postoperatorios). Las variables intraoperatorias consideradas fueron tiempo total del procedimiento y conversi&#x000f3;n (definida como la extensi&#x000f3;n de la incisi&#x000f3;n m&#x000e1;s de lo necesario para la extracci&#x000f3;n de la pieza). Los resultados postoperatorios incluyen estad&#x000ed;a hospitalaria, readmisi&#x000f3;n y morbimortalidad hasta los 30 d&#x000ed;as. La colectom&#x000ed;a total, la resecci&#x000f3;n de colon sincr&#x000f3;nica y la resecci&#x000f3;n anterior baja fueron consideradas cirug&#x000ed;as complejas.</p><p>Las variables continuas se expresaron mediante la mediana o media y el IC del 95% y se compararon mediante la prueba t de Student o la prueba U de Mann-Whitney seg&#x000fa;n la distribuci&#x000f3;n. Las variables categ&#x000f3;ricas se compararon con la prueba de Chi-cuadrado. Utilizamos un modelo de regresi&#x000f3;n lineal m&#x000fa;ltiple de selecci&#x000f3;n progresiva con errores est&#x000e1;ndar robustos y regresi&#x000f3;n log&#x000ed;stica para ajustar las variables asociadas con la tasa de conversi&#x000f3;n y los tiempos operatorios. Se estimaron las diferencias medias ajustadas y la raz&#x000f3;n de probabilidades ajustada con su IC del 95%. Dado que la intervenci&#x000f3;n no se asign&#x000f3; al azar, tambi&#x000e9;n utilizamos un apareamiento por puntaje de propensi&#x000f3;n (PS) y la ponderaci&#x000f3;n de probabilidad inversa (IPW) para estimar los efectos ajustados del tratamiento. La bondad de ajuste del modelo log&#x000ed;stico se evalu&#x000f3; con la prueba de Hosmer Lemeshow (p = 0,62) y la gr&#x000e1;fica de calibraci&#x000f3;n y discriminaci&#x000f3;n con el &#x000c1;rea Bajo la Curva (0,73). El an&#x000e1;lisis estad&#x000ed;stico se
+realiz&#x000f3; con el NCSS 2021 (Statistical System, J.L. Hintze, Kaysville, UT).
+</p><p>El estudio cont&#x000f3; con la aprobaci&#x000f3;n del Comit&#x000e9; de &#x000c9;tica de Protocolos de Investigaci&#x000f3;n Institucional (CEPI) de nuestra instituci&#x000f3;n.</p></sec><sec sec-type="results"><title>RESULTADOS</title><p>En el periodo analizado 3625 pacientes se sometieron a una resecci&#x000f3;n colorrectal electiva. De estos, a 2150 (59%) pacientes (edad media 64,4 a&#x000f1;os, 51,4% hombres) se les realiz&#x000f3; una resecci&#x000f3;n laparosc&#x000f3;pica (CLMA=458, LD=1692). Ambos grupos fueron similares demogr&#x000e1;ficamente (<xref rid="t1" ref-type="table">Tabla 1</xref>) con una mayor proporci&#x000f3;n de colectom&#x000ed;as izquierdas en el grupo CLMA (<xref rid="t2" ref-type="table">Tabla 2</xref>). El tama&#x000f1;o medio de la incisi&#x000f3;n fue mayor en el grupo CLMA (6,1 cm IC 95% 5,8-6,3, frente a 5,5 cm, IC 95% 5,1-5,3) pero CLMA se asoci&#x000f3; con una menor mediana de tr&#x000f3;cares (3, IC 95% 3-3 frente a 4, IC 95%: 4-4, p &#x0003c;0,001). La participaci&#x000f3;n de los residentes supervisados fue similar en ambos grupos (MD: 24%, LD: 22,6%, p =0,53).
+</p><table-wrap position="float" id="t1"><label>Tabla 1</label><caption><title>Caracter&#x000ed;sticas demogr&#x000e1;ficas seg&#x000fa;n tipo de abordaje laparosc&#x000f3;pico</title></caption><table frame="hsides" rules="groups" border="1" cellspacing="0" cellpadding="0"><thead><tr><td align="center" rowspan="1" colspan="1">&#x000a0;</td><th rowspan="1" colspan="1">Total (n=2150)</th><th rowspan="1" colspan="1">CLMA (n=458)</th><th rowspan="1" colspan="1">LD (n=1692)</th><th rowspan="1" colspan="1">p</th></tr></thead><tbody><tr><th scope="row" align="left" rowspan="1" colspan="1">Sexo masculino</th><td align="center" rowspan="1" colspan="1">1105 (51,4)</td><td align="center" rowspan="1" colspan="1">224 (48,9)</td><td align="center" rowspan="1" colspan="1">881 (52,1)</td><td align="center" rowspan="1" colspan="1">0,23</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Edad, media (95% IC)</th><td align="center" rowspan="1" colspan="1">64,4 (63,8-65,0)</td><td align="center" rowspan="1" colspan="1">67,3 (66-68,5)</td><td align="center" rowspan="1" colspan="1">63,6 (62,9-64,3)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Obesidad (IMC &#x0003e;30kg/m2)</th><td align="center" rowspan="1" colspan="1">435 (20,2)</td><td align="center" rowspan="1" colspan="1">104 (22,7)</td><td align="center" rowspan="1" colspan="1">331 (19,5)</td><td align="center" rowspan="1" colspan="1">0,13</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">ASC
+<sup>
+<xref rid="tf1" ref-type="table-fn">a</xref>
+</sup>
+(95% IC), m2
+</th><td align="center" rowspan="1" colspan="1">1,8 (1,82-1,84)</td><td align="center" rowspan="1" colspan="1">1,83(1,81-1,85)</td><td align="center" rowspan="1" colspan="1">1,8 (1,82-1,84)</td><td align="center" rowspan="1" colspan="1">0,83</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">ASA
+<sup>
+<xref rid="tf2" ref-type="table-fn">b</xref>
+</sup>
+Clasificaci&#x000f3;n
+</th><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td rowspan="5" colspan="1">0,23</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">I</th><td align="center" rowspan="1" colspan="1">121 (5,6)</td><td align="center" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">104</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">II</th><td align="center" rowspan="1" colspan="1">1504 (69,9)</td><td align="center" rowspan="1" colspan="1">323</td><td align="center" rowspan="1" colspan="1">1181</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">III IV</th><td align="center" rowspan="1" colspan="1">500 (23,3) 25 (1,2)</td><td align="center" rowspan="1" colspan="1">112 6</td><td align="center" rowspan="1" colspan="1">388 19</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">IV</th><td align="center" rowspan="1" colspan="1">25 (1,2)</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">19</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Cirug&#x000ed;a previa</th><td align="center" rowspan="1" colspan="1">1071 (49,8)</td><td align="center" rowspan="1" colspan="1">223 (48,7)</td><td align="center" rowspan="1" colspan="1">848 (50,1)</td><td align="center" rowspan="1" colspan="1">0,58</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Enfermedad maligna</th><td align="center" rowspan="1" colspan="1">1552 (72,2)</td><td align="center" rowspan="1" colspan="1">347 (75,8)</td><td align="center" rowspan="1" colspan="1">1205 (71,2)</td><td align="center" rowspan="1" colspan="1">0,05</td></tr></tbody></table><table-wrap-foot><p>Los valores entre par&#x000e9;ntesis son porcentajes, excepto que se aclare lo contrario.</p><fn id="tf1"><label>a</label><p>&#x000c1;rea de superficie corporal</p></fn><fn id="tf2"><label>b</label><p>American Society of Anesthesiologist.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="t2"><label>Tabla 2</label><caption><title>Caracter&#x000ed;sticas quir&#x000fa;rgicas seg&#x000fa;n tipo de abordaje m&#x000ed;nimamente invasivo</title></caption><table frame="hsides" rules="groups" border="1" cellspacing="0" cellpadding="0"><thead><tr><td align="center" rowspan="1" colspan="1">&#x000a0;</td><th rowspan="1" colspan="1">Total</th><th rowspan="1" colspan="1">CLMA</th><th rowspan="1" colspan="1">LD</th><th rowspan="1" colspan="1">p</th></tr></thead><tbody><tr><th scope="row" align="left" rowspan="1" colspan="1">
+<p>Tipo de cirug&#x000ed;a, n</p>
+<p>Colectom&#x000ed;a derecha</p>
+<p>Colectom&#x000ed;a izquierda</p>
+<p>Resecci&#x000f3;n anterior</p>
+<p>Colectom&#x000ed;a total</p>
+<p>Miscelaneas
+<sup>
+<xref rid="tf6" ref-type="table-fn">a</xref>
+</sup>
+</p>
+</th><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>645 (30)</p>
+<p>712 (33,1)</p>
+<p>549 (25,5)</p>
+<p>62 (2,9)</p>
+<p>182 (8,5)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>154 (33,6)</p>
+<p>172 (37,6)</p>
+<p>106 (23,1)</p>
+<p>8 (1,8)</p>
+<p>18 (3,9)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>491 (29)</p>
+<p>540 (31,9)</p>
+<p>443 (26,2)</p>
+<p>54 (3,2)</p>
+<p>164 (9,7)</p>
+</td><td align="center" rowspan="1" valign="middle" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Procedimiento adicional</th><td align="center" rowspan="1" colspan="1">300 (13,9)</td><td align="center" rowspan="1" colspan="1">57 (12,5)</td><td align="center" rowspan="1" colspan="1">243 (14,4)</td><td align="center" rowspan="1" colspan="1">0,29</td></tr></tbody></table><table-wrap-foot><p>Los valores entre par&#x000e9;ntesis corresponden a porcentajes excepto que se aclare lo contrario.</p><fn id="tf6"><label>a</label><p>Incluye proctectom&#x000ed;a, operaci&#x000f3;n de Hartmann, colectom&#x000ed;a transversa, resecci&#x000f3;n abdominoperineal, colectom&#x000ed;as sincr&#x000f3;nicas y resecciones parciales, segmentarias.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="t3"><label>Tabla 3</label><caption><title>Tiempo operatorio estratificado por entrenamiento, IMC, complejidad quir&#x000fa;rgica y ASC</title></caption><table frame="hsides" rules="groups" border="1" cellspacing="0" cellpadding="0"><tbody><tr><th rowspan="1" colspan="1">Co-variables</th><th rowspan="1" colspan="1">LD n (95% IC)</th><th rowspan="1" colspan="1">CLMA n (95% IC)</th><th rowspan="1" colspan="1">Diferencia significativa LD vs CLMA (95% IC)</th></tr></tbody><tbody><tr><td align="center" rowspan="1" colspan="1">
+<p>Entrenamiento</p>
+<p>Residente</p>
+<p>supervisado</p>
+<p>Cirujano colorrectal</p>
+<p>Diferencia significativa (95%)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>230,50 (223-237)</p>
+<p>201,70 (198-206)</p>
+<p>28,80 (20-37),</p>
+<p>p&#x0003c;0,001</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>172,87 (156-189)</p>
+<p>170,07 (164-175)</p>
+<p>-2,8 (-16- -21), p: 0,77</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>&#x000a0;</p>
+<p>57,62 (34,19-81,05),</p>
+<p>p&#x0003c;0,001</p>
+<p>31,63 (24,54-38,72), p&#x0003c;0,001</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>Obesidad (IMC &#x0003e;30kg/m2)</p>
+<p>No</p>
+<p>Si</p>
+<p>Diferencia significativa (95%)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>202,39 (198-295)</p>
+<p>225,51 (217-234)</p>
+<p>-23,02 (-31-14),</p>
+<p>p&#x0003c;0,001</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>166,97 (161-172)</p>
+<p>181,49 (170-192)</p>
+<p>-14,41 (-26-2,8),</p>
+<p>p&#x0003c;0,05</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>35,51 (28,12-42,90),</p>
+<p>p&#x0003c;0,001 44,01</p>
+<p>(27,82-60,22),</p>
+<p>p&#x0003c;0,001</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>Cirug&#x000ed;a compleja
+<sup>
+<xref rid="tf4" ref-type="table-fn">a</xref>
+</sup>
+</p>
+<p>No</p>
+<p>Si</p>
+<p>Diferencia significativa (95%)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>191,386 (187-194)</p>
+<p>23,.23 (233-245)</p>
+<p>-47,84 (-54- -41),</p>
+<p>p&#x0003c;0,001</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>156,79 (151,92-161,66)</p>
+<p>205,39 (195,1-215,68)</p>
+<p>-48,59 (-58,68- -38,51),</p>
+<p>p&#x0003c;0,001</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>&#x000a0;</p>
+<p>34,58 (27,54-41,63), p&#x0003c;0,001</p>
+<p>33,83 (20,15-47,52), p&#x0003c;0,001</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>&#x000c1;rea de superficie corporal (m<sup>2</sup>)
+</p>
+<p>&#x0003c;1.8</p>
+<p>&#x0003e;=1.8 Diferencia significativa (95%)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>193,04 (188-197)</p>
+<p>218,29 (213-222)</p>
+<p>-25,24 (-31- -18),</p>
+<p>p&#x0003c;0,001</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>158,82 (152-165)</p>
+<p>180,76 (173-187)</p>
+<p>-21,94 (-31 - -12), p&#x0003c;0,001</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>&#x000a0;</p>
+<p>34,22 (25-43), p&#x0003c;0,001</p>
+<p>37,52(27-47), p&#x0003c;0,001</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="tf4"><label>a</label><p>Colectom&#x000ed;a total, colectom&#x000ed;as sincr&#x000f3;nicas y resecci&#x000f3;n anterior baja</p></fn></table-wrap-foot></table-wrap><p>El tiempo operatorio medio fue de 199,1 (rango 60-540) minutos con una reducci&#x000f3;n de 36,7 a favor de la CLMA (170,3 frente a 206,9, p &#x0003c;0,001). Tras estratificar por nivel de formaci&#x000f3;n, IMC, complejidad quir&#x000fa;rgica y &#x000e1;rea de superficie corporal (ASC)
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+, las diferencias fueron a&#x000fa;n mayores en procedimientos complejos o realizados por un residente supervisado y en pacientes obesos o de tama&#x000f1;o grande (tabla 3). En comparaci&#x000f3;n con LD, CLMA fue 44,1 (IC 95% 27,8-60,2) minutos m&#x000e1;s cortos en pacientes obesos, 37,5 (IC 95% 27,8-47,2) en pacientes grandes y 33,8 (IC 95% 20,1-47,5) minutos m&#x000e1;s cortos en procedimientos complejos (p &#x0003c;0,001 para todos). La reducci&#x000f3;n de tiempo operatorio en el grupo CLMA fue mayor en los procedimientos realizados por residentes supervisados (57,6 vs 31,6, p &#x0003c;0,001). CLMA se asoci&#x000f3; con un tiempo quir&#x000fa;rgico m&#x000e1;s corto despu&#x000e9;s de ajustar por sexo, edad, &#x000ed;ndice de masa corporal, complejidad quir&#x000fa;rgica y participaci&#x000f3;n de los residentes (diferencia de tiempo ajustada media = 30,8 minutos, IC 95% 25,3-36,4) (<xref rid="t4" ref-type="table">Tabla 4</xref>).
+</p><table-wrap position="float" id="t4"><label>Tabla 4</label><caption><title>Tiempos quir&#x000fa;rgicos y diferencias de medias ajustadas mediante an&#x000e1;lisis multivariado seg&#x000fa;n factores de riesgo</title></caption><table frame="hsides" rules="groups" border="1" cellspacing="0" cellpadding="0"><thead><tr><th rowspan="1" colspan="1">Factores de riesgo</th><th rowspan="1" colspan="1">LD</th><th rowspan="1" colspan="1">CLMA</th><th rowspan="1" colspan="1">Diferencia de medias ajustadas</th><th rowspan="1" colspan="1">P</th></tr></thead><tbody><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>Sin factores de riesgo</p>
+</th><td align="center" rowspan="1" colspan="1">169,9 (165,6 -174,2)</td><td align="center" rowspan="1" colspan="1">139,5 (134,2-144,9)</td><td align="center" rowspan="1" colspan="1">30,8 (25,3 - 36,4)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>Residente supervisado</p>
+</th><td align="center" rowspan="1" colspan="1">202,5 (195,6 - 209,5)</td><td align="center" rowspan="1" colspan="1">172,1 (163,9 - 180,4)</td><td align="center" rowspan="1" colspan="1">32,6 (25,5 - 39,7)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>Cirug&#x000ed;a compleja
+<sup>
+<xref rid="tf5" ref-type="table-fn">a</xref>
+</sup>
+</p>
+</th><td align="center" rowspan="1" colspan="1">219,7 (213,8 - 225,6)</td><td align="center" rowspan="1" colspan="1">189,3 (182,5 - 196,1)</td><td align="center" rowspan="1" colspan="1">49,8 (43,9 - 55,6)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>Obesidad (IMC&#x0003e;30kg/m2)</p>
+</th><td align="center" rowspan="1" colspan="1">182,7 (174,7 - 190,6)</td><td align="center" rowspan="1" colspan="1">152,3 (144 - 160,5)</td><td align="center" rowspan="1" colspan="1">12,7 (5,5 - 19,9)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>ASC</p>
+</th><td align="center" rowspan="1" colspan="1">192,3 (187,5 - 197,1)</td><td align="center" rowspan="1" colspan="1">161,9 (156,1 - 167,7)</td><td align="center" rowspan="1" colspan="1">22,3 (17,1 - 27,6)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr></tbody></table><table-wrap-foot><p>Los valores entre par&#x000e9;ntesis son intervalos de confianza (IC 95%)</p><fn id="tf5"><label>a</label><p>Colectom&#x000ed;a total, colectom&#x000ed;as sincr&#x000f3;nicas y resecci&#x000f3;n anterior baja.</p></fn></table-wrap-foot></table-wrap><p>En relaci&#x000f3;n a la conversi&#x000f3;n, CLMA se asoci&#x000f3; con una tasa significativamente menor (5%, IC del 95%: 2,8-7,3% frente al 9,9%, IC del 95%: 8,5-11,3%; p &#x0003c;0,001) con una raz&#x000f3;n de probabilidades de 0,40 (IC del 95%: 0,25-0,65). El an&#x000e1;lisis multivariado ajustado por sexo, edad, complejidad de la cirug&#x000ed;a, entrenamiento, &#x000ed;ndice de masa corporal y &#x000e1;rea de superficie corporal, estim&#x000f3; una raz&#x000f3;n de probabilidades de 0,45 (IC del 95%: 0,28 a 0,73) (<xref rid="t5" ref-type="table">Tabla 5</xref>) y un ajuste del efecto de tratamiento del 4,9% (IC del 95%: 2,3 a 7,5 %). La <xref rid="t6" ref-type="table">Tabla 6</xref> muestra las tasas de conversi&#x000f3;n estratificadas por grado de entrenamiento del cirujano, complejidad quir&#x000fa;rgica, &#x000ed;ndice masa corporal y &#x000e1;rea de superficie corporal.
+</p><table-wrap position="float" id="t5"><label>Tabla 5</label><caption><title>Odds ratio de conversi&#x000f3;n ajustado por an&#x000e1;lisis multivariado</title></caption><table frame="hsides" rules="groups" border="1" cellspacing="0" cellpadding="0"><tbody><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">Variables</th><th rowspan="1" colspan="1">Raz&#x000f3;n de productos cruzados (95% CI)</th><th rowspan="1" colspan="1">p</th></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">CLMA</th><td align="center" rowspan="1" colspan="1">0,45 (0,28 - 0,73)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">Cirug&#x000ed;a compleja</th><td align="center" rowspan="1" colspan="1">3,36 (2,45 - 4,60)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">Cirujano entrenado</th><td align="center" rowspan="1" colspan="1">2,43 (1,68 - 3,50)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0,001</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">Obesidad</th><td align="center" rowspan="1" colspan="1">1,14 (0,74 - 1,75)</td><td align="center" rowspan="1" colspan="1">0,54</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">Edad</th><td align="center" rowspan="1" colspan="1">1,01 (1 - 1,02)</td><td align="center" rowspan="1" colspan="1">0,03</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">Sexo</th><td align="center" rowspan="1" colspan="1">1,58 (1,04 - 2,4)</td><td align="center" rowspan="1" colspan="1">0,03</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">ASC</th><td align="center" rowspan="1" colspan="1">3,89 (1,46 - 10,38)</td><td align="center" rowspan="1" colspan="1">0,01</td></tr></tbody></table></table-wrap><table-wrap position="float" id="t6"><label>Tabla 6</label><caption><title>Tasa de conversi&#x000f3;n seg&#x000fa;n nivel de entrenamiento, complejidad quir&#x000fa;rgica, IMC y ASC (an&#x000e1;lisis univariado)</title></caption><table frame="hsides" rules="groups" border="1" cellspacing="0" cellpadding="0"><thead><tr><td align="center" rowspan="1" colspan="1">&#x000a0;</td><th rowspan="1" colspan="1">CLMA</th><th rowspan="1" colspan="1">LD</th><th rowspan="1" colspan="1">p</th></tr></thead><tbody><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>Cirujano entrenado</p>
+<p>No</p>
+<p>Si</p>
+</th><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>1 (3,1)</p>
+<p>19 (4,5)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>50 (16,1)</p>
+<p>122 (8,8)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>0,04</p>
+<p>0,003</p>
+</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>IMC</p>
+<p>Sin obesidad</p>
+<p>Obeso</p>
+</th><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>15 (4,2)</p>
+<p>5 (4,8)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>124 (9,1)</p>
+<p>48 (14,4)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>0,003</p>
+<p>0,008</p>
+</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>Cirug&#x000ed;a compleja</p>
+<p>No</p>
+<p>Si</p>
+</th><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>4 (1,2)</p>
+<p>16 (12,6)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>82 (7,2)</p>
+<p>90 (16,3)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>&#x0003c;0,001</p>
+<p>0,3</p>
+</td></tr><tr><th scope="row" style="text-align:left;" rowspan="1" colspan="1">
+<p>ASC</p>
+<p>&#x0003c;1,8</p>
+<p>&#x0003e;=1,8</p>
+</th><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>4 (1,8)</p>
+<p>16 (6,7)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>47 (6,2)</p>
+<p>125 (13,4)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x000a0;</p>
+<p>0,009</p>
+<p>0,005</p>
+</td></tr></tbody></table><table-wrap-foot><p>Los valores entre par&#x000e9;ntesis son porcentajes excepto que se aclare con contrario.</p></table-wrap-foot></table-wrap><p>La mediana de la estad&#x000ed;a hospitalaria fue la misma en ambos grupos (CLMA 4 d&#x000ed;as, IC del 95% 4-4 frente a LD 4 d&#x000ed;as IC del 95% 3-4). No se encontraron diferencias despu&#x000e9;s de ajustar por edad, sexo, IMC, ASC, complejidad quir&#x000fa;rgica y participaci&#x000f3;n de los residentes. En el an&#x000e1;lisis univariado, la tasa de reingreso fue menor en el grupo CLMA en comparaci&#x000f3;n con el grupo LD (3,9% vs 6,6%, p = 0,04), pero no se encontr&#x000f3; asociaci&#x000f3;n despu&#x000e9;s de ajustar por complejidad quir&#x000fa;rgica, edad, sexo y obesidad. Las tasas de morbilidad fueron similares en ambos grupos (CLMA: 18,7 vs. LD: 22,1, p = 0,10) incluso despu&#x000e9;s de ajustar por edad, sexo, IMC, complejidad quir&#x000fa;rgica y participaci&#x000f3;n de los residentes. Se observaron tasas similares de reintervenci&#x000f3;n (CLMA: 3,3% frente a LD: 5,4%, p = 0,06) y de dehiscencia anastom&#x000f3;tica (CLMA 1,1% frente a LD 2,4%, p = 0,08) entre los dos grupos. Las tasas de mortalidad fueron bajas en ambos abordajes (0,2% en CLMA frente a 0,1%, p = 0,6).</p></sec><sec sec-type="discussion"><title>DISCUSI&#x000d3;N</title><p>El presente estudio es el primer reporte de pacientes operados con una t&#x000e9;cnica original para mantener el neumoperitoneo durante la laparoscopia mano asistida. Con esta modificaci&#x000f3;n, cuya ventaja principal es el ahorro de material no reutilizable, se logr&#x000f3; mantener las ventajas de la cirug&#x000ed;a m&#x000ed;nimamente invasiva reportadas con los dispositivos cl&#x000e1;sicos. Adicionalmente, comparado con la laparoscopia directa, este abordaje se asoci&#x000f3; con un menor tiempo operatorio y una menor tasa de conversi&#x000f3;n, especialmente en cirug&#x000ed;as complejas. Un hallazgo original adicional es la asociaci&#x000f3;n de mejores resultados en pacientes de gran talla (&#x000e1;rea de superficie corporal igual o mayor a 1,8)
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+. Al considerar cirug&#x000ed;as complejas, las ventajas de CLMA con respecto al tiempo operatorio y la tasa de conversi&#x000f3;n fueron a&#x000fa;n m&#x000e1;s evidentes cuando los procedimientos fueron realizados por cirujanos laparosc&#x000f3;picos menos entrenados.
+</p><p>Varios centros de referencia han informado que la implementaci&#x000f3;n de CLMA permite la expansi&#x000f3;n de las indicaciones manteniendo las ventajas del abordaje m&#x000ed;nimamente invasivo. Una serie de 258 pacientes bien emparejados sometidos a CLMA (n = 109) y LD (n = 149) en la Cl&#x000ed;nica Mayo
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+, mostr&#x000f3; que aunque una proporci&#x000f3;n significativamente mayor de pacientes con CLMA se sometieron a procedimientos complejos, no hubo diferencias en tasas de conversi&#x000f3;n (15% vs 11%, p = 0,44) y complicaciones. En el estudio aleatorizado de Marcello et al (47 CLMA, 48 LD)
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+, CLMA result&#x000f3; en un tiempo operatorio significativamente m&#x000e1;s corto, especialmente entre los procedimientos complejos (colectom&#x000ed;a sigmoidea: 175 &#x000b1; 58 frente a 208 &#x000b1; 55, p = 0,021; colectom&#x000ed;a total: 127 &#x000b1; 31 vs.184 &#x000b1; 72; p = 0,015). Asimismo, una revisi&#x000f3;n Cochrane
+<sup>
+<xref rid="B11" ref-type="bibr">11</xref>
+</sup>
+que incluy&#x000f3; 3 ensayos aleatorizados
+<sup>
+<xref rid="B5" ref-type="bibr">5-7</xref>
+</sup>
+tambi&#x000e9;n demostr&#x000f3; una disminuci&#x000f3;n en las tasas de conversi&#x000f3;n y una tendencia hacia un tiempo operatorio m&#x000e1;s corto en el grupo CLMA. Benlice et al
+<sup>
+<xref rid="B12" ref-type="bibr">12</xref>
+</sup>
+compararon 4656 LD y 3187 CLMA de una base de datos nacional de EE. UU. y encontraron un tiempo operatorio ligeramente m&#x000e1;s largo en el grupo LD (178 &#x000b1; 86 vs 171 &#x000b1; 84 minutos, p &#x0003c;0,001) y tasas de morbilidad e &#x000ed;leo ligeramente m&#x000e1;s altas en el grupo CLMA. Los autores concluyen que ambos abordajes son &#x000fa;tiles en la cirug&#x000ed;a colorrectal y pueden complementarse en casos dif&#x000ed;ciles. En la presente serie, la estratificaci&#x000f3;n por complejidad mostr&#x000f3; tasas de conversi&#x000f3;n similares (12,6% vs 16,3%, p = 0,30), aunque CLMA se asoci&#x000f3; con una reducci&#x000f3;n significativa en el tiempo operatorio (33,8 IC 95%: 20,15-47,52 minutos, p &#x0003c;0,001).
+</p><p>La reducci&#x000f3;n constante del tiempo quir&#x000fa;rgico descrito en la bibliograf&#x000ed;a podr&#x000ed;a explicarse por el hecho de que la CLMA es una t&#x000e9;cnica m&#x000e1;s sencilla de aprender e implementar que la LD
+<sup>
+<xref rid="B13" ref-type="bibr">13</xref>
+</sup>
+. La introducci&#x000f3;n de una mano restaura la propiocepci&#x000f3;n y ayuda con la retracci&#x000f3;n y exposici&#x000f3;n. En nuestro estudio, la participaci&#x000f3;n de los residentes no modific&#x000f3; el tiempo operatorio y las tasas de conversi&#x000f3;n, incluso en casos complejos. Aunque los beneficios de los procedimientos m&#x000ed;nimamente invasivos son particularmente marcados en los pacientes obesos, la obesidad es un reconocido factor de dificultad
+<sup><xref rid="B9" ref-type="bibr">9</xref>,
+<xref rid="B14" ref-type="bibr">14-15</xref>
+</sup>
+. En nuestro estudio, en esta subpoblaci&#x000f3;n CLMA se asoci&#x000f3; con una menor tasa de conversi&#x000f3;n (4,8% vs 14,4%, p = 0,008) y una reducci&#x000f3;n de 44 minutos en el tiempo quir&#x000fa;rgico en comparaci&#x000f3;n con LD. El &#x000e1;rea de superficie corporal es otra caracter&#x000ed;stica potencialmente asociada a mayor dificultad t&#x000e9;cnica
+<sup><xref rid="B9" ref-type="bibr">9</xref>,
+<xref rid="B16" ref-type="bibr">16</xref>
+</sup>
+. En una serie de 916 pacientes consecutivos sometidos a resecci&#x000f3;n colorrectal laparosc&#x000f3;pica electiva, aquellos con un ASC &#x02265;1,8 m<sup>2</sup> tuvieron una tasa de conversi&#x000f3;n m&#x000e1;s alta que aquellos con ASC &#x0003c;1,8 m<sup>2</sup> [13,9% frente a 5,3%, OR: 2,35 (IC del 95%: 1,45-3,86; p &#x0003c; 0,001)]. En el an&#x000e1;lisis multivariado, la ASC se asoci&#x000f3; con la conversi&#x000f3;n (OR: 2, IC del 95%: 1,1-3,7, p = 0,02) y un tiempo quir&#x000fa;rgico m&#x000e1;s prolongado despu&#x000e9;s de ajustar por sexo, edad, obesidad, localizaci&#x000f3;n de la enfermedad (recto frente a colon) y tipo de abordaje laparosc&#x000f3;pico
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+. En nuestra serie, los pacientes con un ASC &#x02265;1,8 m<sup>2</sup> se asociaron no solo con un tiempo operatorio m&#x000e1;s prolongado tanto en CLMA como en LD (22 y 25 minutos, respectivamente), sino tambi&#x000e9;n con un mayor &#x000ed;ndice de conversi&#x000f3;n al ajustarlo por tipo de abordaje. En consecuencia, consideramos que, en este subgrupo, CLMA puede ofrecer beneficios adicionales.
+</p><p>Por otro lado, CLMA se ha asociado con costos incrementados de suministros de quir&#x000f3;fano (USD 3,476 frente a USD 3,167) sin diferencia en los costos globales de hospitalizaci&#x000f3;n (USD 8,521 frente a USD 8,373)
+<sup>
+<xref rid="B17" ref-type="bibr">17</xref>
+</sup>
+. La principal raz&#x000f3;n es probablemente el uso de un dispositivo espec&#x000ed;fico para introducir la mano manteniendo el neumoperitoneo. En este estudio, el mantenimiento del neumoperitoneo se logra mediante una t&#x000e9;cnica de doble guante descrita originalmente por nuestro grupo
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+, la cual requiere &#x000fa;nicamente el retractor Alexis, tambi&#x000e9;n utilizado en LD. La ausencia de costos adicionales relacionados con el dispositivo, as&#x000ed; como con la reducci&#x000f3;n de tiempo operatorio y las tasas de conversi&#x000f3;n, se asociar&#x000ed;an a una reducci&#x000f3;n en el costo total.
+</p><p>Considerando las limitaciones de este estudio, la falta de aleatorizaci&#x000f3;n podr&#x000ed;a implicar un sesgo de selecci&#x000f3;n. Sin embargo, ambos grupos fueron similares desde el punto de vista demogr&#x000e1;fico y el an&#x000e1;lisis estad&#x000ed;stico incluy&#x000f3; estratificaci&#x000f3;n, an&#x000e1;lisis multivariado y, lo que es m&#x000e1;s importante, un emparejamiento por puntuaci&#x000f3;n de propensi&#x000f3;n (una t&#x000e9;cnica de emparejamiento estad&#x000ed;stico que intenta estimar el efecto de una intervenci&#x000f3;n teniendo en cuenta las covariables que predicen la recepci&#x000f3;n del tratamiento)
+<sup>
+<xref rid="B18" ref-type="bibr">18</xref>
+</sup>
+.
+</p></sec><sec sec-type="conclusions"><title>CONCLUSIONES</title><p>La CLMA con t&#x000e9;cnica de doble guante es comparable al LD en t&#x000e9;rminos de resultados posoperatorios, manteniendo un tiempo operatorio reducido y menores tasas de conversi&#x000f3;n, especialmente en pacientes obesos o grandes que se someten a procedimientos complejos. En los pa&#x000ed;ses en desarrollo debe considerarse la potencial reducci&#x000f3;n del costo asociado con la t&#x000e9;cnica del doble guante.</p></sec></body><back><fn-group><fn fn-type="equal"><p>
+<bold>Limitaciones de responsabilidad:</bold>
+La responsabilidad del trabajo es exclusivamente de quienes colaboraron en la elaboraci&#x000f3;n del mismo.
+</p><p>Los autores Carlos A. Vaccaro y Marcos Gonzalez contribuyeron de igual forma al desarrollo de este manuscrito.</p><p>Este estudio ha sido aprobado por el Comit&#x000e9; de &#x000c9;tica de Protocolos de Investigaci&#x000f3;n Institucional (CEPI) del Hospital Italiano de Buenos Aires (Buenos Aires, Argentina).</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflicto de inter&#x000e9;s:</bold>
+Ninguno
+</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo:</bold>
+La presente investigaci&#x000f3;n no cont&#x000f3; con fuentes de financiaci&#x000f3;n.
+</p></fn><fn fn-type="other"><p>
+<bold>Originalidad del trabajo:</bold>
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.
+</p></fn><fn fn-type="other"><p>
+<bold>Cesi&#x000f3;n de derechos:</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, ceden los derechos de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la Revista de la Facultad de Ciencias M&#x000e9;dicas y realizar las traducciones necesarias al idioma ingl&#x000e9;s.
+</p></fn><fn fn-type="other"><p>
+<bold>Participaci&#x000f3;n de los autores</bold>
+Quienes participaron en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, son p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.
+</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Reames</surname><given-names>BN</given-names></name>
+<name><surname>Sheetz</surname><given-names>KH</given-names></name>
+<name><surname>Waits</surname><given-names>SA</given-names></name>
+<name><surname>Dimick</surname><given-names>JB</given-names></name>
+<name><surname>Regenbogen</surname><given-names>SE</given-names></name>
+</person-group><article-title>Geographic variation in use of laparoscopic colectomy for colon cancer</article-title><source>J Clin Oncol</source><year iso-8601-date="2014-11-10">2014</year><month>Nov</month><day>10</day><volume>32</volume><issue>32</issue><fpage>3667</fpage><lpage>72</lpage><pub-id pub-id-type="doi">10.1200/JCO.2014.57.1588</pub-id><pub-id pub-id-type="pmid">25287826</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yeo</surname><given-names>H</given-names></name>
+<name><surname>Niland</surname><given-names>J</given-names></name>
+<name><surname>Milne</surname><given-names>D</given-names></name>
+<name><surname>ter Veer</surname><given-names>A</given-names></name>
+<name><surname>Bekaii-Saab</surname><given-names>T</given-names></name>
+<name><surname>Farma</surname><given-names>JM</given-names></name>
+<etal/>
+</person-group><article-title>Incidence of minimally invasive colorectal cancer surgery at National Comprehensive Cancer Network centers</article-title><source>J Natl Cancer Inst</source><year iso-8601-date="2015-01">2015</year><month>Jan</month><volume>107</volume><issue>1</issue><elocation-id>362</elocation-id><pub-id pub-id-type="doi">10.1093/jnci/dju362</pub-id><pub-id pub-id-type="pmid">25527640</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alnasser</surname><given-names>M</given-names></name>
+<name><surname>Schneider</surname><given-names>EB</given-names></name>
+<name><surname>Gearhart</surname><given-names>SL</given-names></name>
+<name><surname>Wick</surname><given-names>EC</given-names></name>
+<name><surname>Fang</surname><given-names>SH</given-names></name>
+<name><surname>Haider</surname><given-names>AH</given-names></name>
+<etal/>
+</person-group><article-title>National disparities in laparoscopic colorectal procedures for colon cancer</article-title><source>Surg Endosc</source><year iso-8601-date="2014-01">2014</year><month>Jan</month><volume>28</volume><issue>1</issue><fpage>49</fpage><lpage>57</lpage><pub-id pub-id-type="doi">10.1007/s00464-013-3160-8</pub-id><pub-id pub-id-type="pmid">24002916</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Clapp</surname><given-names>B</given-names></name>
+<name><surname>Klingsporn</surname><given-names>W</given-names></name>
+<name><surname>Harper</surname><given-names>B</given-names></name>
+<name><surname>Swinney</surname><given-names>IL</given-names></name>
+<name><surname>Dodoo</surname><given-names>C</given-names></name>
+<name><surname>Davis</surname><given-names>B</given-names></name>
+<etal/>
+</person-group><article-title>Utilization of Laparoscopic Colon Surgery in the Texas Inpatient Public Use Data File (PUDF)</article-title><source>JSLS [Internet]</source><year iso-8601-date="2019-07">2019</year><month>Jul</month><volume>23</volume><issue>3</issue><elocation-id>e2019.00032</elocation-id><pub-id pub-id-type="doi">10.4293/JSLS.2019.00032</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marcello</surname><given-names>PW</given-names></name>
+<name><surname>Fleshman</surname><given-names>JW</given-names></name>
+<name><surname>Milsom</surname><given-names>JW</given-names></name>
+<name><surname>Read</surname><given-names>TE</given-names></name>
+<name><surname>Arnell</surname><given-names>TD</given-names></name>
+<name><surname>Birnbaum</surname><given-names>EH</given-names></name>
+<etal/>
+</person-group><article-title>Hand-assisted laparoscopic vs. laparoscopic colorectal surgery: a multicenter, prospective, randomized trial</article-title><source>Dis Colon Rectum</source><year iso-8601-date="2008-06">2008</year><month>Jun</month><volume>51</volume><issue>6</issue><fpage>818</fpage><lpage>26</lpage><pub-id pub-id-type="doi">10.1007/s10350-008-9269-5</pub-id><pub-id pub-id-type="pmid">18418653</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Targarona</surname><given-names>EM</given-names></name>
+<name><surname>Gracia</surname><given-names>E</given-names></name>
+<name><surname>Garriga</surname><given-names>J</given-names></name>
+<name><surname>Mart&#x000ed;nez-Bru</surname><given-names>C</given-names></name>
+<name><surname>Cort&#x000e9;s</surname><given-names>M</given-names></name>
+<name><surname>Boluda</surname><given-names>R</given-names></name>
+<etal/>
+</person-group><article-title>Prospective randomized trial comparing conventional laparoscopic colectomy with hand-assisted laparoscopic colectomy</article-title><source>Surgical Endoscopy And Other Interventional Techniques</source><year iso-8601-date="2002-02-01">2002</year><month>Feb</month><day>1</day><volume>16</volume><issue>2</issue><fpage>234</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">11967670</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><article-title>Hand-assisted laparoscopic surgery vs standard laparoscipic surgery for colorectal disease</article-title><source>Surg Endosc</source><year>2000</year><volume>14</volume><fpage>896</fpage><lpage>901</lpage><pub-id pub-id-type="doi">10.1007/s004640000324</pub-id><pub-id pub-id-type="pmid">11080399</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vaccarezza</surname><given-names>H</given-names></name>
+<name><surname>Sahovaler</surname><given-names>A</given-names></name>
+<name><surname>Im</surname><given-names>V</given-names></name>
+<name><surname>Rossi</surname><given-names>G</given-names></name>
+<name><surname>Vaccaro</surname><given-names>CA</given-names></name>
+</person-group><article-title>Hand&#x02010;assisted laparoscopic colorectal surgery with double&#x02010;glove technique</article-title><source>Surgical [Internet]</source><year>2016</year><pub-id pub-id-type="doi">10.1111/1744-1633.12190</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vaccaro</surname><given-names>CA</given-names></name>
+<name><surname>Vaccarezza</surname><given-names>H</given-names></name>
+<name><surname>Rossi</surname><given-names>GL</given-names></name>
+<name><surname>Mentz</surname><given-names>R</given-names></name>
+<name><surname>Im</surname><given-names>VM</given-names></name>
+<name><surname>Quintana</surname><given-names>GO</given-names></name>
+<etal/>
+</person-group><article-title>Body surface area: a new predictor factor for conversion and prolonged operative time in laparoscopic colorectal surgery</article-title><source>Dis Colon Rectum</source><year iso-8601-date="2012-11">2012</year><month>Nov</month><volume>55</volume><issue>11</issue><fpage>1153</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1097/DCR.0b013e3182686230</pub-id><pub-id pub-id-type="pmid">23044676</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hassan</surname><given-names>I</given-names></name>
+<name><surname>You</surname><given-names>YN</given-names></name>
+<name><surname>Cima</surname><given-names>RR</given-names></name>
+<name><surname>Larson</surname><given-names>DW</given-names></name>
+<name><surname>Dozois</surname><given-names>EJ</given-names></name>
+<name><surname>Barnes</surname><given-names>SA</given-names></name>
+<etal/>
+</person-group><article-title>Hand-assisted versus laparoscopic-assisted colorectal surgery: Practice patterns and clinical outcomes in a minimally-invasive colorectal practice</article-title><source>Surg Endosc</source><year iso-8601-date="2008-03">2008</year><month>Mar</month><volume>22</volume><issue>3</issue><fpage>739</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.1007/s00464-007-9477-4</pub-id><pub-id pub-id-type="pmid">17704883</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Moloo</surname><given-names>H</given-names></name>
+<name><surname>Haggar</surname><given-names>F</given-names></name>
+<name><surname>Coyle</surname><given-names>D</given-names></name>
+<name><surname>Hutton</surname><given-names>B</given-names></name>
+<name><surname>Duhaime</surname><given-names>S</given-names></name>
+<name><surname>Mamazza</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>Hand assisted laparoscopic surgery versus conventional laparoscopy for colorectal surgery</article-title><source>Cochrane Database Syst Rev</source><year iso-8601-date="2010-10-06">2010</year><month>Oct</month><day>6</day><issue>10</issue><elocation-id>CD006585</elocation-id><pub-id pub-id-type="doi">10.1002/14651858.CD006585.pub2</pub-id><pub-id pub-id-type="pmid">20927747</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Benlice</surname><given-names>C</given-names></name>
+<name><surname>Costedio</surname><given-names>M</given-names></name>
+<name><surname>Kessler</surname><given-names>H</given-names></name>
+<name><surname>Remzi</surname><given-names>FH</given-names></name>
+<name><surname>Gorgun</surname><given-names>E</given-names></name>
+</person-group><article-title>Comparison of straight vs hand-assisted laparoscopic colectomy: an assessment from the NSQIP procedure-targeted cohort</article-title><source>Am J Surg</source><year iso-8601-date="2016-09">2016</year><month>Sep</month><volume>212</volume><issue>3</issue><fpage>406</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.1016/j.amjsurg.2016.01.026</pub-id><pub-id pub-id-type="pmid">27083065</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stein</surname><given-names>S</given-names></name>
+<name><surname>Whelan</surname><given-names>RL</given-names></name>
+</person-group><article-title>The controversy regarding hand-assisted colorectal resection</article-title><source>Surg Endosc</source><year iso-8601-date="2007-12">2007</year><month>Dec</month><volume>21</volume><issue>12</issue><fpage>2123</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1007/s00464-007-9693-y</pub-id><pub-id pub-id-type="pmid">17987249</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fung</surname><given-names>A</given-names></name>
+<name><surname>Trabulsi</surname><given-names>N</given-names></name>
+<name><surname>Morris</surname><given-names>M</given-names></name>
+<name><surname>Garfinkle</surname><given-names>R</given-names></name>
+<name><surname>Saleem</surname><given-names>A</given-names></name>
+<name><surname>Wexner</surname><given-names>SD</given-names></name>
+<etal/>
+</person-group><article-title>Laparoscopic colorectal cancer resections in the obese: a systematic review</article-title><source>Surg Endosc</source><year iso-8601-date="2017-05">2017</year><month>May</month><volume>31</volume><issue>5</issue><fpage>2072</fpage><lpage>88</lpage><pub-id pub-id-type="doi">10.1007/s00464-016-5209-y</pub-id><pub-id pub-id-type="pmid">27778169</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heneghan</surname><given-names>HM</given-names></name>
+<name><surname>Martin</surname><given-names>ST</given-names></name>
+<name><surname>Kiran</surname><given-names>RP</given-names></name>
+<name><surname>Khoury</surname><given-names>W</given-names></name>
+<name><surname>Stocchi</surname><given-names>L</given-names></name>
+<name><surname>Remzi</surname><given-names>FH</given-names></name>
+<etal/>
+</person-group><article-title>Laparoscopic Colorectal Surgery for Obese Patients: Decreased Conversions with the Hand-Assisted Technique</article-title><source>Journal of Gastrointestinal Surgery [Internet]</source><year>2013</year><volume>17</volume><fpage>548</fpage><lpage>54</lpage><pub-id pub-id-type="doi">10.1007/s11605-012-2089-x</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vaccaro</surname><given-names>CA</given-names></name>
+<name><surname>Rossi</surname><given-names>GL</given-names></name>
+<name><surname>Quintana</surname><given-names>GO</given-names></name>
+<name><surname>Soriano</surname><given-names>ER</given-names></name>
+<name><surname>Vaccarezza</surname><given-names>H</given-names></name>
+<name><surname>Rubinstein</surname><given-names>F</given-names></name>
+</person-group><article-title>Laparoscopic colorectal resections: a simple predictor model and a stratification risk for conversion to open surgery</article-title><source>Dis Colon Rectum</source><year iso-8601-date="2014-07">2014</year><month>Jul</month><volume>57</volume><issue>7</issue><fpage>869</fpage><lpage>74</lpage><pub-id pub-id-type="doi">10.1097/DCR.0000000000000137</pub-id><pub-id pub-id-type="pmid">24901688</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ozturk</surname><given-names>E</given-names></name>
+<name><surname>Kiran</surname><given-names>RP</given-names></name>
+<name><surname>Geisler</surname><given-names>DP</given-names></name>
+<name><surname>Hull</surname><given-names>TL</given-names></name>
+<name><surname>Vogel</surname><given-names>JD</given-names></name>
+</person-group><article-title>Hand-assisted laparoscopic colectomy: benefits of laparoscopic colectomy at no extra cost</article-title><source>J Am Coll Surg</source><year iso-8601-date="2009-08">2009</year><month>Aug</month><volume>209</volume><issue>2</issue><fpage>242</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/j.jamcollsurg.2009.03.024</pub-id><pub-id pub-id-type="pmid">19632601</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rubin</surname><given-names>DB</given-names></name>
+</person-group><article-title>Causal inference using potential outcomes: design, modeling, decisions</article-title><source>J Am Stat Assoc</source><year>2005</year><volume>100</volume><fpage>322</fpage><lpage>31</lpage><pub-id pub-id-type="doi">10.1198/016214504000001880</pub-id></element-citation></ref></ref-list></back></article>

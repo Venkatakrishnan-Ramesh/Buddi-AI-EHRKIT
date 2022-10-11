@@ -1,0 +1,822 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="case-report"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ther Adv Neurol Disord</journal-id><journal-id journal-id-type="iso-abbrev">Ther Adv Neurol Disord</journal-id><journal-id journal-id-type="publisher-id">TAN</journal-id><journal-id journal-id-type="hwp">sptan</journal-id><journal-title-group><journal-title>Therapeutic Advances in Neurological Disorders</journal-title></journal-title-group><issn pub-type="ppub">1756-2856</issn><issn pub-type="epub">1756-2864</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmc">PMC9437258</article-id><article-id pub-id-type="doi">10.1177/17562864221102842</article-id><article-id pub-id-type="publisher-id">10.1177_17562864221102842</article-id><article-categories><subj-group subj-group-type="heading"><subject>Case Series</subject></subj-group></article-categories><title-group><article-title>Hyperacute treatment of childhood stroke in Lyme neuroborreliosis:
+report of two cases and systematic review of the literature</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3327-3550</contrib-id><name><surname>Philipps</surname><given-names>Joerg</given-names></name><xref rid="corresp1-17562864221102842" ref-type="corresp"/><aff id="aff1-17562864221102842">Department of Neurology and Neurogeriatrics,
+Johannes Wesling Klinikum Minden, Ruhr-University Bochum, Hans-Nolte-Str. 1,
+D-32429 Minden, Germany</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Conceptualization">Conceptualization</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Methodology">Methodology</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_original_draft">Writing original draft</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Erdlenbruch</surname><given-names>Bernhard</given-names></name><aff id="aff2-17562864221102842">Department of Pediatrics, Johannes Wesling
+Klinikum Minden, Ruhr-University Bochum, Minden, Germany</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Methodology">Methodology</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Supervision">Supervision</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Kuschnerow</surname><given-names>Michael</given-names></name><aff id="aff3-17562864221102842">Department of Diagnostic and Interventional
+Radiology, Johannes Wesling Klinikum Minden, Ruhr-University Bochum, Minden,
+Germany</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Conceptualization">Conceptualization</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Methodology">Methodology</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_original_draft">Writing original draft</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Jagoda</surname><given-names>Sunil</given-names></name><aff id="aff4-17562864221102842">Department of Anesthesiology and Intensive
+Care, Johannes Wesling Klinikum Minden, Ruhr-University Bochum, Minden,
+Germany</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Methodology">Methodology</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_original_draft">Writing original draft</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Salihaj</surname><given-names>Blerta</given-names></name><aff id="aff5-17562864221102842">Department of Neurology and Neurogeriatrics,
+Johannes Wesling Klinikum Minden, Ruhr-University Bochum, Minden,
+Germany</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_original_draft">Writing original draft</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Glahn</surname><given-names>Joerg</given-names></name><aff id="aff6-17562864221102842">Department of Neurology and Neurogeriatrics,
+Johannes Wesling Klinikum Minden, Ruhr-University Bochum, Minden,
+Germany</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Supervision">Supervision</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Schellinger</surname><given-names>Peter Dieter</given-names></name><aff id="aff7-17562864221102842">Department of Neurology and Neurogeriatrics,
+Johannes Wesling Klinikum Minden, Ruhr-University Bochum, Minden,
+Germany</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Conceptualization">Conceptualization</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Methodology">Methodology</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Supervision">Supervision</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_original_draft">Writing original draft</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib></contrib-group><author-notes><corresp id="corresp1-17562864221102842">
+<email>joerg.philipps@rub.de</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection"><year>2022</year></pub-date><volume>15</volume><elocation-id>17562864221102842</elocation-id><history><date date-type="received"><day>17</day><month>2</month><year>2022</year></date><date date-type="accepted"><day>5</day><month>5</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s), 2022</copyright-statement><copyright-year>2022</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>The safety and efficacy of hyperacute reperfusion therapies in childhood stroke
+due to focal cerebral arteriopathy (FCA) with an infectious and inflammatory
+component is unknown. Lyme neuroborreliosis (LNB) is reported as a rare cause of
+childhood stroke. Intravenous thrombolysis (IVT) and endovascular therapy (EVT)
+have not been reported in LNB-associated stroke in children. We report two
+children with acute stroke associated with LNB who underwent hyperacute stroke
+treatment. A systematic review of the literature was performed to identify case
+reports of LNB-associated childhood stroke over the last 20&#x02009;years. Patient 1
+received IVT within 73&#x02009;min after onset of acute hemiparesis and dysarthria;
+medulla oblongata infarctions were diagnosed on magnetic resonance imaging
+(MRI). Patient 2 received successful EVT 6.5&#x02009;hr after onset of progressive
+tetraparesis, coma, and decerebrate posturing caused by basilar artery occlusion
+with bilateral pontomesencephalic infarctions. Both patients exhibited a
+lymphocytic cerebrospinal fluid (CSF) pleocytosis and elevated antibody index
+(AI) to <italic toggle="yes">Borrelia burgdorferi</italic>. Antibiotic treatment, steroids,
+and platelet inhibitors including tirofiban infusion in patient 2 were
+administered. No side effects were observed. On follow-up, patient 1 showed good
+recovery and patient 2 was asymptomatic. In the literature, 12 cases of
+LNB-associated childhood stroke were reported. LNB-associated infectious and
+inflammatory FCA is not a medical contraindication for reperfusion therapies in
+acute childhood stroke. Steroids are discussed controversially in inflammatory
+FCA due to LNB. Intensified antiplatelet regimes may be considered; secondary
+prophylaxis with acetyl-salicylic acid (ASA) is recommended because of a high
+risk of early stroke recurrence.</p></abstract><kwd-group><kwd>acute treatment</kwd><kwd>childhood stroke</kwd><kwd>endovascular treatment</kwd><kwd>focal cerebral arteriopathy</kwd><kwd>intravenous thrombolysis</kwd><kwd>Lyme neuroborreliosis</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="award1-17562864221102842"><funding-source id="funding1-17562864221102842">
+<institution-wrap><institution>Open Access Publication Funds of the Ruhr-University
+Bochum</institution><institution-id/></institution-wrap>
+</funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2022</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-17562864221102842"><title>Introduction</title><p>Childhood arterial ischemic stroke (AIS) is frequently associated with focal cerebral
+arteriopathy (FCA).<sup>
+<xref rid="bibr1-17562864221102842" ref-type="bibr">1</xref>
+</sup> Lyme disease, the symptomatic arthropod-borne infection with <italic toggle="yes">Borrelia
+burgdorferi</italic> sensu lato, may present with various manifestations in the
+peripheral and central nervous system (CNS), including meningovascular involvement,
+that are denoted as Lyme neuroborreliosis (LNB). Although a rare event,
+cerebrovascular manifestations of LNB have been reported as potential cause of
+childhood AIS, especially in European regions with high prevalence of
+<italic toggle="yes">Borrelia garinii</italic>.<sup>
+<xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>
+</sup> Management of childhood AIS due to LNB consists of early antibiotic
+treatment, usually a third-generation cephalosporine.<sup><xref rid="bibr3-17562864221102842" ref-type="bibr">3</xref>,<xref rid="bibr4-17562864221102842" ref-type="bibr">4</xref></sup> Platelet inhibition with
+acetyl-salicylic acid (ASA) as secondary prevention and steroids as treatment of
+inflammatory arteriopathy have been discussed in the literature.<sup><xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>,<xref rid="bibr5-17562864221102842" ref-type="bibr">5</xref></sup> The safety and efficacy of
+intravenous thrombolysis (IVT) and endovascular therapy (EVT) in the setting of
+childhood FCA, especially with an infectious and inflammatory component, is unknown.<sup>
+<xref rid="bibr1-17562864221102842" ref-type="bibr">1</xref>
+</sup> We present two cases of hyperacute stroke treatment of childhood AIS due to
+LNB-associated FCA. Feasibility, benefits, and potential risks of hyperacute
+treatment of LNB-associated childhood stroke are discussed, and a review of case
+reports with a focus on acute treatment is provided.</p></sec><sec id="section2-17562864221102842"><title>Methods</title><sec id="section3-17562864221102842"><title>Patients</title><p>Two children treated at the Johannes-Wesling-Klinikum Minden, University Hospital
+of the Ruhr-University Bochum, Germany, in 2020 and 2021 are reported.
+Consensus-based clinical case report (CARE) guidelines were applied to present
+the two case reports.<sup>
+<xref rid="bibr6-17562864221102842" ref-type="bibr">6</xref>
+</sup> The patients&#x02019; legal representatives (parents) provided written informed
+consent to the publication. Further institutional approval was waived in
+accordance with German ethical regulations on case reports.</p></sec><sec id="section4-17562864221102842"><title>Literature review</title><p>A systematic review of the online database MEDLINE/PubMed using the search
+algorithm [(neuroborreliosis OR Lyme OR LNB) AND stroke AND treatment AND
+(children OR child) AND case AND report, year&#x02004;&#x0003e;&#x02004;2001] was carried out.
+References in each identified article were reviewed to find additional published
+case reports. The identified articles were further processed according to the
+preferred reporting items for systematic reviews and meta-anlyses (PRISMA) checklist<sup>
+<xref rid="bibr7-17562864221102842" ref-type="bibr">7</xref>
+</sup> in order to identify original case reports of childhood AIS as
+manifestations of LNB in the last 20&#x02009;years.</p></sec></sec><sec sec-type="results" id="section5-17562864221102842"><title>Results</title><sec id="section6-17562864221102842"><title>Case description 1</title><p>A 13-year-old boy presented 30&#x02009;min after symptom onset with a sudden weakness of
+the right side and slurred speech. In the 3&#x02009;weeks before, he had complained
+about headache, mild flu-like symptoms, fatigue, and myalgia. Neurological
+examination revealed a right directional nystagmus, dysarthria, brachiofacial
+hemiparesis, hemihypesthesia, and extensor plantar sign on the right side. The
+pediatric National Institute of Health stroke scale score (pedNIHSS) was 10.
+Emergency laboratory examinations were normal.</p><p>Cerebral magnetic resonance imaging [MRI; DWI/ADC (diffusion-weighted
+imaging/apparent diffusion coefficient), FLAIR (fluid-attenuated inversion
+recovery, SWI (susceptibility weighted imaging), and TOF (time-of-flight)
+angiography] showed a hyperintense area on DWI with ADC restriction in the
+medulla oblongata on the left side; FLAIR and SWI were normal. Imaging was
+affected by metal artifacts generated by the patient&#x02019;s orthodontic braces.</p><p>Systemic IVT was started 73&#x02009;min after onset of symptoms in the MRI with a total
+dose of 45&#x02009;mg alteplase in 1&#x02009;h (0.9&#x02009;mg/kg, 10% as initial bolus). Door-to-needle
+time was 43&#x02009;min. Extracranial duplex sonography and transcranial color-coded
+duplex sonography (TCCS) revealed a slightly reduced flow velocity in the left
+vertebral artery (extracranial v2 segment and intracranial v4 segment) and a
+reduced diameter of the left vertebral artery compatible with congenital
+hypoplasia of the left vertebral artery. Flow in the extra- and intracerebral
+blood vessels was otherwise normal.</p><p>Follow-up MRI (DWI/ADC, T1, FLAIR, SWI, and gadolinium-enhanced MR-angiography)
+on day 1 (after removal of the braces) showed a hyperintense area on DWI with
+ADC restriction and very subtle hyperintensity in FLAIR in the medulla oblongata
+on the left side. Gadolinium-enhanced MR-angiography revealed a minimum
+irregularity in the diameter of the proximal basilar artery (BA) and a reduced
+diameter of the left vertebral artery (<xref rid="fig1-17562864221102842" ref-type="fig">Figure 1</xref>). Axial T1 weighted images of
+the neck showed no signs of dissection. PedNIHSS 24&#x02009;h after IVT was 10.</p><fig position="float" id="fig1-17562864221102842"><label>Figure 1.</label><caption><p>Patient 1, MRI on day 1: DWI (a), ADC (b), FLAIR-MRI (c), and
+gadolinium-enhanced MR-angiography (d): DWI-hyperintensity, ADC
+restriction in the left medulla oblongata, and minimum irregularity in
+the diameter of the proximal basilar artery (arrow).</p></caption><graphic xlink:href="10.1177_17562864221102842-fig1" position="float"/></fig><p>Lumbar puncture on day 2 yielded a lymphocytic cerebrospinal fluid (CSF)
+pleocytosis, elevated protein, and intrathecal <italic toggle="yes">B. burgdorferi</italic>
+IgG antibody synthesis (see <xref rid="table1-17562864221102842" ref-type="table">Table 1</xref>). Other pathogens were
+excluded [severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),
+Tick-borne encephalitis (TBE), Varicella-Zoster Virus (VZV), herpes simplex
+virus (HSV), Epstein&#x02013;Barr virus (EBV), cytomegalovirus (CMV), <italic toggle="yes">Treponema
+pallidum, Mycobacterium tuberculosis</italic>, human immunodeficiency virus
+(HIV), Parainfluenza Virus, Parvovirus B19, Candida, Mycoplasma,
+<italic toggle="yes">Listeria monocytogenes</italic>]. Antibiotic treatment was started
+with cefotaxime (6&#x02009;g/day for 14&#x02009;days), acyclovir, and ampicillin being stopped
+after negative results for HSV/VZV and <italic toggle="yes">L. monocytogenes</italic>. A
+steroid pulse of 500&#x02009;mg methylprednisolone was administered for 5&#x02009;days, then
+50&#x02009;mg of prednisolone were given per os and tapered over a period of 1&#x02009;month.
+ASA 100&#x02009;mg daily was administered continuously.</p><table-wrap position="float" id="table1-17562864221102842"><label>Table 1.</label><caption><p>LNB-related CSF and serum laboratory results.</p></caption><alternatives><graphic xlink:href="10.1177_17562864221102842-table1" position="float"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Parameter</th><th align="left" rowspan="1" colspan="1">Normal value</th><th align="left" rowspan="1" colspan="1">Unit</th><th align="left" rowspan="1" colspan="1">Patient 1, day 2</th><th align="left" rowspan="1" colspan="1">Patient 1, day 18</th><th align="left" rowspan="1" colspan="1">Patient 2, day 0</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">CSF cell count</td><td rowspan="1" colspan="1">(&#x0003c;4)</td><td rowspan="1" colspan="1">[/&#x000b5;l]</td><td rowspan="1" colspan="1">155</td><td rowspan="1" colspan="1">36</td><td rowspan="1" colspan="1">45</td></tr><tr><td rowspan="1" colspan="1">CSF cytology</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">[% lymphomonocytes/granulocytes/plasma cells]</td><td rowspan="1" colspan="1">100/0/0</td><td rowspan="1" colspan="1">97/3/0</td><td rowspan="1" colspan="1">95/1/4</td></tr><tr><td rowspan="1" colspan="1">CSF protein</td><td rowspan="1" colspan="1">(&#x0003c;450)</td><td rowspan="1" colspan="1">[mg/l]</td><td rowspan="1" colspan="1">1070.7</td><td rowspan="1" colspan="1">325.8</td><td rowspan="1" colspan="1">413.5</td></tr><tr><td rowspan="1" colspan="1">CSF lactate</td><td rowspan="1" colspan="1">(&#x0003c;2.1)</td><td rowspan="1" colspan="1">[mmol/l]</td><td rowspan="1" colspan="1">2.67</td><td rowspan="1" colspan="1">2.17</td><td rowspan="1" colspan="1">1.68</td></tr><tr><td rowspan="1" colspan="1">IgG intrathecal fraction</td><td rowspan="1" colspan="1">(&#x0003c;5)</td><td rowspan="1" colspan="1">[%]</td><td rowspan="1" colspan="1">46</td><td rowspan="1" colspan="1">45</td><td rowspan="1" colspan="1">25</td></tr><tr><td rowspan="1" colspan="1">IgM intrathecal fraction</td><td rowspan="1" colspan="1">(&#x0003c;5)</td><td rowspan="1" colspan="1">[%]</td><td rowspan="1" colspan="1">63</td><td rowspan="1" colspan="1">65</td><td rowspan="1" colspan="1">90</td></tr><tr><td rowspan="1" colspan="1">Albumin quotient</td><td rowspan="1" colspan="1">(L/S&#x02009;&#x000d7;&#x02009;10&#x000b3;, &#x0003c;4.9)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">13.7</td><td rowspan="1" colspan="1">3.7</td><td rowspan="1" colspan="1">5.8</td></tr><tr><td rowspan="1" colspan="1">CSF CXCL13</td><td rowspan="1" colspan="1">(&#x0003c;30)</td><td rowspan="1" colspan="1">[pg/ml]</td><td rowspan="1" colspan="1">311.50</td><td rowspan="1" colspan="1">Not controlled</td><td rowspan="1" colspan="1">452.90</td></tr><tr><td rowspan="1" colspan="1">B.b.-specific AI IgG</td><td rowspan="1" colspan="1">(&#x0003c;1.5)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">40.5</td><td rowspan="1" colspan="1">7.9</td><td rowspan="1" colspan="1">25.0</td></tr><tr><td rowspan="1" colspan="1">B.b.-specific AI IgM</td><td rowspan="1" colspan="1">(&#x0003c;1.5)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">n.d.</td><td rowspan="1" colspan="1">n.d.</td><td rowspan="1" colspan="1">47.0</td></tr><tr><td rowspan="1" colspan="1">B.b. (VlsE) AI IgG</td><td rowspan="1" colspan="1">(&#x0003c;1.5)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">40.2</td><td rowspan="1" colspan="1">8.0</td><td rowspan="1" colspan="1">17.3</td></tr><tr><td rowspan="1" colspan="1">Serum B.b. AB IgG</td><td rowspan="1" colspan="1">(&#x0003c;20)</td><td rowspan="1" colspan="1">[U/ml]</td><td rowspan="1" colspan="1">911</td><td rowspan="1" colspan="1">3632</td><td rowspan="1" colspan="1">61</td></tr><tr><td rowspan="1" colspan="1">Serum B.b. AB IgM</td><td rowspan="1" colspan="1">(&#x0003c;20)</td><td rowspan="1" colspan="1">[U/ml]</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">27</td></tr><tr><td rowspan="1" colspan="1">Serum VlsE AB IgG</td><td rowspan="1" colspan="1">(&#x0003c;10)</td><td rowspan="1" colspan="1">[U/ml]</td><td rowspan="1" colspan="1">399</td><td rowspan="1" colspan="1">1425</td><td rowspan="1" colspan="1">110</td></tr><tr><td rowspan="1" colspan="1">B.b.-specific bands detected in immunoblot<sup>
+<xref rid="table-fn3-17562864221102842" ref-type="table-fn">a</xref>
+</sup></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">IgG: p43, p14, Osp17, OspC, VlsE</td><td rowspan="1" colspan="1">Not controlled</td><td rowspan="1" colspan="1">IgM: p41, OspC; IgG: VlsE</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-17562864221102842"><p>AB, antibody; AI, antibody index; B.b., <italic toggle="yes">Borrelia
+burgdorferi</italic>; CSF, cerebrospinal fluid; LNB, Lyme
+neuroborreliosis; n.d., not detectable.</p></fn><fn id="table-fn2-17562864221102842"><p>AI calculations (using the Q-Lim ratio) and B.b. serodiagnosis
+(standard two-tier testing, enzyme immunoassay followed by
+immunoblot) were performed by an accredited microbiology laboratory
+according to the current guidelines.<sup>
+<xref rid="bibr3-17562864221102842" ref-type="bibr">3</xref>
+</sup></p></fn><fn id="table-fn3-17562864221102842"><label>a</label><p>Microarray immunoblot (ViraChip<sup>&#x000ae;</sup>, Viramed Biotech,
+Germany).</p></fn></table-wrap-foot></table-wrap><p>On day 3, dysarthria worsened and a marked dysphagia developed. Hiccup occurred
+constantly, hemiparesis and nystagmus were unchanged, and pedNIHSS was 12. He
+developed a febrile episode and an ampicillin rash.</p><p>A third MRI showed a new right side medulla oblongata infarct; the left side
+medulla oblongata DWI/FLAIR lesion was slightly larger than in the second MRI.
+In a control lumbar puncture on day 18, there was a mild lymphomonocytic
+pleocytosis and normal protein; <italic toggle="yes">B. burgdorferi</italic>-specific
+antibody index (AI) was again positive (<xref rid="table1-17562864221102842" ref-type="table">Table 1</xref>). Further extensive laboratory
+examinations, including thrombophilia, were normal. Transesophageal
+echocardiography and electrocardiogram were normal. The patient and his family
+live in northern Germany, frequent hiking tours in the forest were reported, but
+no tick bites or erythema were recorded.</p><p>PedNIHSS on day 7 was 9; dysarthria and dysphagia slowly improved. On discharge
+to neurological rehabilitation, he was able to feed without a nasogastric tube
+but unable to walk. On follow-up 9&#x02009;months later, he was able to walk unaided,
+pedNIHSS was 2, modified Rankin Scale (mRS) 2, and Barthel Index 95.
+Extracranial duplex sonography and TCCS were unchanged showing hypoplasia of the
+left vertebral artery and were otherwise normal. Platelet inhibition with ASA
+100&#x02009;mg/day was the only ongoing medication. He is able to live with his family
+and attend his former school.</p></sec><sec id="section7-17562864221102842"><title>Case description 2</title><p>A 6-year-old boy with a history of headache and fatigue for 4&#x02009;weeks and vertigo
+on the day of admission presented to the emergency department with a worsening
+impairment of consciousness, beginning 2&#x02009;h before. He was unable to speak and
+could not walk. Neurological examination revealed a progressive coma (worst
+Glasgow coma scale (GCS) 7, pedNIHSS 32), a rotating downbeat nystagmus, left
+ptosis, anisocoria, severe dysarthria, left hemiparesis, and then tetraplegia
+with bilateral extensor plantar sign. The patient exhibited intermittent
+decerebrate posturing. The accompanying father reported a family history of a
+heterozygous factor V Leiden mutation.</p><p>Cranial computed tomography (CCT) showed a hyperdense BA sign and was otherwise
+normal. Brain MRI including diffusion-weighted and ADC maps, three-dimensional
+TOF MR-angiography, SWI, and FLAIR images revealed acute bilateral
+pontomesencephalic DWI hyperintensities/ADC restrictions caused by extensive
+thrombotic occlusion (<xref rid="fig2-17562864221102842" ref-type="fig">Figure
+2(a)&#x02013;(c)</xref>) of the BA. Thrombus formation was visualized in DWI and
+FLAIR sequences as a hyperintense signal in the BA (<xref rid="fig2-17562864221102842" ref-type="fig">Figure 2(b)</xref> and (<xref rid="fig2-17562864221102842" ref-type="fig">d</xref>)) and as a blooming artifact
+(susceptibility vessel sign) in SWI images (<xref rid="fig2-17562864221102842" ref-type="fig">Figure 2(e)</xref>).</p><fig position="float" id="fig2-17562864221102842"><label>Figure 2.</label><caption><p>Patient 2, MRI on admission: time-of-flight MR-angiography (a), DWI (b),
+ADC (c), FLAIR (d), and SWI (e) images: basilar artery occlusion, acute
+bilateral pontomesencephalic infarctions in DWI/ADC but not in FLAIR
+images. Thrombus is visualized in FLAIR sequences as a hyperintense
+signal in the basilar artery and as a blooming artifact (arrow) in SWI
+images.</p></caption><graphic xlink:href="10.1177_17562864221102842-fig2" position="float"/></fig><p>Three-dimensional rotational digital subtraction angiography (3D-R-DSA) confirmed
+total BA occlusion. EVT was successfully performed (Thrombolysis in cerebral
+infarction scale TICI 3) using a 5F femoral access, an aspiration catheter as
+first-line approach, and an Embotrap III<sup>&#x000ae;</sup> stent retriever. Small
+fragments of a thrombus were retrieved after three attempts within the stent
+retriever after injection of 5&#x02009;mg alteplase into the proximal end of the
+thrombus. Door-to-groin time was 3.5&#x02009;h; recanalization and reappearance of
+pontine branches were achieved 6.5&#x02009;h after onset of symptoms (<xref rid="fig3-17562864221102842" ref-type="fig">Figure 3</xref>). After EVT and
+a final rotational scan to exclude a periprocedural hematoma, ASA 100&#x02009;mg IV
+(intravenous) was given.</p><fig position="float" id="fig3-17562864221102842"><label>Figure 3.</label><caption><p>Patient 2: EVT with recanalization of the basilar artery (TICI 3) 6.5&#x02009;h
+after onset of symptoms. Angiography in lateral (a) and
+posterior&#x02013;anterior (b) view.</p></caption><graphic xlink:href="10.1177_17562864221102842-fig3" position="float"/></fig><p>Lumbar puncture had been performed directly before MRI and CSF showed a
+lymphomonocytic pleocytosis; protein was normal. IgG and IgM AI for <italic toggle="yes">B.
+burgdorferi</italic> were elevated (<xref rid="table1-17562864221102842" ref-type="table">Table 1</xref>). Polymerase chain reaction
+(PCR) for HSV, VZV, and <italic toggle="yes">L. monocytogenes</italic> was negative. Further
+laboratory examinations including Factor V Leiden mutation were normal.
+Transthoracal echocardiography and electrocardiogram were normal. Living in
+northern Germany, frequent playing in the forest and multiple tick bites without
+erythema were reported.</p><p>Parallel to EVT, antibiotic treatment with cefotaxime, acyclovir, and ampicillin
+was started, and dexamethasone 4&#x02009;mg IV was administered. Cefotaxime (3&#x02009;&#x000d7;&#x02009;1.3&#x02009;g
+IV) continued for 16&#x02009;days, dexamethasone was stopped on day 3, prednisolone
+30&#x02009;mg p.o. was given for 12&#x02009;days, and then tapered over a period of 4&#x02009;weeks.</p><p>A follow-up MRI 7&#x02009;h after EVT showed regression of pontomesencephalic DWI/ADC
+lesions on the left but progression on the right side. Subtle bilateral
+pontomesencephalic hyperintensities in FLAIR maps were visible. Subtotal BA
+reocclusion and stenosis of the left posterior cerebral artery (PCA; P1 segment)
+were detected on TOF-MR-angiography (MRA) (<xref rid="fig4-17562864221102842" ref-type="fig">Figure 4</xref>). TCCS revealed a highly
+reduced and turbulent, but orthograde flow in the BA; a high resistance index in
+both vertebral arteries (extra- and intracranial); and an elevated flow velocity
+in the PCA (P1 segment). After interdisciplinary discussion of treating
+neurologist, pediatrician, interventional neuroradiologist, and parents, the
+decision was made against a second attempt of EVT. Instead, an off-label therapy
+with IV tirofiban (Aggrastat<sup>&#x000ae;</sup> 0.4&#x02009;&#x000b5;g/kg/min for 30&#x02009;min, then
+0.1&#x02009;&#x000b5;g/kg/min for 72&#x02009;h) was started.</p><fig position="float" id="fig4-17562864221102842"><label>Figure 4.</label><caption><p>Patient 2: time-of-flight MR-angiography: subtotal basilar artery
+reocclusion. The vertebral arteries and the top of the basilary are
+still visible (in contrast to <xref rid="fig2-17562864221102842" ref-type="fig">Figure 2(a)</xref>).</p></caption><graphic xlink:href="10.1177_17562864221102842-fig4" position="float"/></fig><p>The patient was extubated 6&#x02009;h after the second MRI and was able to communicate
+and move all extremities. He complained of double vision, and showed a left
+ptosis and a left side ataxia. After using a walking frame for children, he was
+able to walk unaided on day 5; on day 10, the pedNIHSS was 0. A third MRI on day
+8 revealed stable bilateral pontomesencephalic hyperintensities, very subtle on
+FLAIR images, reduced flow in the proximal BA, and stenosis of the left P1
+segment. Extracranial duplex sonography and TCCS results gradually improved
+showing a normalized flow profile in both vertebral arteries and a reduced flow
+in the BA. Signs of stenosis in the PCA and flow abnormalities in the BA
+completely resolved on day 14; the patient was asymptomatic. He was discharged
+with a medication of ASA 50&#x02009;mg/day and prednisolone 15&#x02009;mg/day. Steroids had been
+tapered as scheduled in week 5, ASA 50&#x02009;mg/day continued. On follow-up visits
+6&#x02009;weeks and 5&#x02009;months after stroke, the patient was asymptomatic (pedNIHSS 0, mRS
+0, Barthel 100); extracranial duplex sonography and TCCS were normal. The
+patient lives with his family and can carry out all normal activities.</p></sec><sec id="section8-17562864221102842"><title>Review of the literature</title><p>The systematic review of the online database MEDLINE/PubMed yielded 11 articles.
+Two articles not matching exactly the area of interest were excluded. The
+remaining articles contained 12 original case reports of LNB-associated
+childhood AIS.<sup><xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>,<xref rid="bibr8-17562864221102842" ref-type="bibr">8</xref><xref rid="bibr9-17562864221102842" ref-type="bibr"/><xref rid="bibr10-17562864221102842" ref-type="bibr"/><xref rid="bibr11-17562864221102842" ref-type="bibr"/><xref rid="bibr12-17562864221102842" ref-type="bibr"/><xref rid="bibr13-17562864221102842" ref-type="bibr"/><xref rid="bibr14-17562864221102842" ref-type="bibr"/>&#x02013;<xref rid="bibr15-17562864221102842" ref-type="bibr">15</xref></sup> Hyperacute reperfusion
+therapies are not reported. The main characteristics of the published cases are
+summarized in <xref rid="table2-17562864221102842" ref-type="table">Table
+2</xref>.</p><table-wrap position="float" id="table2-17562864221102842"><label>Table 2.</label><caption><p>Stroke characteristics and treatment of published case reports of
+LNB-associated childhood AIS in the last 20&#x02009;years.</p></caption><alternatives><graphic xlink:href="10.1177_17562864221102842-table2" position="float"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Author(s)</th><th align="left" rowspan="1" colspan="1">Sex<break/>Age</th><th align="left" rowspan="1" colspan="1">Stroke symptoms</th><th align="left" rowspan="1" colspan="1">Vascular pathology</th><th align="left" rowspan="1" colspan="1">Antibiotic treatment</th><th align="left" rowspan="1" colspan="1">Secondary prophylaxis</th><th align="left" rowspan="1" colspan="1">Steroid treatment</th><th align="left" rowspan="1" colspan="1">Outcome</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Klingebiel <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr8-17562864221102842" ref-type="bibr">8</xref>
+</sup></td><td rowspan="1" colspan="1">Female<break/>6&#x02009;years</td><td rowspan="1" colspan="1">Hemiparesis</td><td rowspan="1" colspan="1">ICA, ACA stenosis<break/>MCA branch occlusion</td><td rowspan="1" colspan="1">Ceftriaxone<break/>100&#x02009;mg/kg/day, 14&#x02009;days
+pseudo-cholelithiasis, then cefotaxime 7&#x02009;days</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">Hemiparesis concentration deficit after 6&#x02009;months
+asymptomatic</td></tr><tr><td rowspan="1" colspan="1">Cox <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr9-17562864221102842" ref-type="bibr">9</xref>
+</sup></td><td rowspan="1" colspan="1">Female<break/>12&#x02009;years</td><td rowspan="1" colspan="1">Hemiparesis<break/>Facial paresis</td><td rowspan="1" colspan="1">ACA, MCA stenosis</td><td rowspan="1" colspan="1">Ceftriaxone 2&#x02009;g/day<break/>30&#x02009;days</td><td rowspan="1" colspan="1">ASA<break/>38&#x02009;mg/day</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">No follow-up reported</td></tr><tr><td rowspan="1" colspan="1">R&#x000e9;nard <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr10-17562864221102842" ref-type="bibr">10</xref>
+</sup></td><td rowspan="1" colspan="1">Male<break/>11&#x02009;years</td><td rowspan="1" colspan="1">Hemiparesis<break/>Ataxia<break/>Aphasia</td><td rowspan="1" colspan="1">BA, MCA irregularity</td><td rowspan="1" colspan="1">Ceftriaxone for 21&#x02009;days</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">No follow-up reported</td></tr><tr><td rowspan="1" colspan="1">Lebas <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr11-17562864221102842" ref-type="bibr">11</xref>
+</sup></td><td rowspan="1" colspan="1">Male<break/>8&#x02009;years</td><td rowspan="1" colspan="1">Somnolence<break/>Hemiparesis</td><td rowspan="1" colspan="1">BA irregularity enhancement of vessel wall</td><td rowspan="1" colspan="1">Ceftriaxone for 28&#x02009;days</td><td rowspan="1" colspan="1">Oral antiplatelet</td><td rowspan="1" colspan="1">Methylprednisolone 30&#x02009;mg/kg pulses 3&#x02009;days</td><td rowspan="1" colspan="1">Asymptomatic</td></tr><tr><td rowspan="1" colspan="1">Kohns <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr12-17562864221102842" ref-type="bibr">12</xref>
+</sup></td><td rowspan="1" colspan="1">Female<break/>5&#x02009;years</td><td rowspan="1" colspan="1">Hemiparesis<break/>Vertigo</td><td rowspan="1" colspan="1">MCA stenosis</td><td rowspan="1" colspan="1">Ceftriaxone 35&#x02009;mg/kg/day<break/>14&#x02009;days</td><td rowspan="1" colspan="1">ASA<break/>3&#x02009;mg/kg/day</td><td rowspan="1" colspan="1">Methylprednisolone 20&#x02009;mg/kg pulses 3&#x02009;days</td><td rowspan="1" colspan="1">Asymptomatic</td></tr><tr><td rowspan="1" colspan="1">Kurian <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr13-17562864221102842" ref-type="bibr">13</xref>
+</sup></td><td rowspan="1" colspan="1">Male<break/>12&#x02009;years</td><td rowspan="1" colspan="1">Facial paresis<break/>Hemiparesis</td><td rowspan="1" colspan="1">BA, MCA, ACA stenosis, enhancement of vessel wall</td><td rowspan="1" colspan="1">Ceftriaxone for 4&#x02009;weeks</td><td rowspan="1" colspan="1">ASA<break/>3&#x02009;mg/kg/day<break/>1&#x02009;year</td><td rowspan="1" colspan="1">Prednisone 2&#x02009;mg/kg/day<break/>4&#x02009;weeks</td><td rowspan="1" colspan="1">Asymptomatic</td></tr><tr><td rowspan="1" colspan="1">Allen and Jungbluth<sup>
+<xref rid="bibr14-17562864221102842" ref-type="bibr">14</xref>
+</sup></td><td rowspan="1" colspan="1">Male<break/>15&#x02009;years</td><td rowspan="1" colspan="1">Leg weakness<break/>Ataxia<break/>Facial palsy</td><td rowspan="1" colspan="1">Stenosis posterior circulation</td><td rowspan="1" colspan="1">Ceftriaxone for 21&#x02009;days</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">Mild hemiplegia, abducens, and facial nerve palsy</td></tr><tr><td rowspan="1" colspan="1">Wittwer <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr15-17562864221102842" ref-type="bibr">15</xref>
+</sup></td><td rowspan="1" colspan="1">Female<break/>5&#x02009;years</td><td rowspan="1" colspan="1">Wallenberg syndrome</td><td rowspan="1" colspan="1">None observed</td><td rowspan="1" colspan="1">Ceftriaxone for 6&#x02009;weeks</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">Improvement</td></tr><tr><td rowspan="1" colspan="1">Monteventi <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>
+</sup></td><td rowspan="1" colspan="1">Male<break/>12&#x02009;years</td><td rowspan="1" colspan="1">Confusion<break/>Hemiparesis</td><td rowspan="1" colspan="1">BA, PCA, MCA, ACA stenosis, enhancement of vessel wall</td><td rowspan="1" colspan="1">Ceftriaxone 2&#x02009;g/day<break/>28&#x02009;days</td><td rowspan="1" colspan="1">ASA 100&#x02009;mg/day<break/>6&#x02009;months</td><td rowspan="1" colspan="1">Prednisone 2&#x02009;mg/kg/day<break/>28&#x02009;days</td><td rowspan="1" colspan="1">Asymptomatic</td></tr><tr><td rowspan="1" colspan="1">Monteventi <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>
+</sup></td><td rowspan="1" colspan="1">Male<break/>8&#x02009;years</td><td rowspan="1" colspan="1">Wallenberg syndrome</td><td rowspan="1" colspan="1">None observed</td><td rowspan="1" colspan="1">Ceftriaxone 2&#x02009;g/day<break/>21&#x02009;days</td><td rowspan="1" colspan="1">ASA 100&#x02009;mg/day<break/>6&#x02009;months</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">No follow-up reported</td></tr><tr><td rowspan="1" colspan="1">Monteventi <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>
+</sup></td><td rowspan="1" colspan="1">Male<break/>9&#x02009;years</td><td rowspan="1" colspan="1">Paresthesia<break/>Tremor</td><td rowspan="1" colspan="1">BA, VA stenosis</td><td rowspan="1" colspan="1">Ceftriaxone 2&#x02009;g/day<break/>14&#x02009;days</td><td rowspan="1" colspan="1">ASA 150&#x02009;mg/day<break/>8&#x02009;months</td><td rowspan="1" colspan="1">Prednisone 50&#x02009;mg/day<break/>5&#x02009;days tapered</td><td rowspan="1" colspan="1">Asymptomatic</td></tr><tr><td rowspan="1" colspan="1">Monteventi <italic toggle="yes">et al.</italic><sup>
+<xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>
+</sup></td><td rowspan="1" colspan="1">Male<break/>13&#x02009;years</td><td rowspan="1" colspan="1">Wallenberg syndrome</td><td rowspan="1" colspan="1">VA stenosis</td><td rowspan="1" colspan="1">Ceftriaxone 2&#x02009;g/day<break/>14&#x02009;days</td><td rowspan="1" colspan="1">ASA 100&#x02009;mg/day</td><td rowspan="1" colspan="1">None</td><td rowspan="1" colspan="1">Sensory hemisyndrome</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn4-17562864221102842"><p>ACA, anterior cerebral artery; AIS, arterial ischemic stroke; ASA,
+acetyl-salicylic acid; BA, basilar artery; ICA, internal carotid
+artery; LNB, Lyme neuroborreliosis; MCA, middle cerebral artery;
+PCA, posterior cerebral artery; VA, vertebral artery.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion" id="section9-17562864221102842"><title>Discussion</title><p>We report two children with acute posterior circulation stroke associated with
+European LNB who underwent hyperacute stroke treatment. Both patients live in an
+endemic area (northern Germany) for <italic toggle="yes">B. burgdorferi</italic> sensu lato with
+a high prevalence of <italic toggle="yes">B. garinii</italic> in tick nymphs,<sup>
+<xref rid="bibr16-17562864221102842" ref-type="bibr">16</xref>
+</sup> the latter being the predominant <italic toggle="yes">B. burgdorferi</italic> genotype in
+children with LNB.<sup>
+<xref rid="bibr17-17562864221102842" ref-type="bibr">17</xref>
+</sup> They experienced headache and fatigue; patient 1 reported myalgia in the
+weeks before admission. These otherwise unexplained symptoms, the lymphocytic CSF
+pleocytosis, and elevated AI for <italic toggle="yes">B. burgdorferi</italic> (<xref rid="table1-17562864221102842" ref-type="table">Table 1</xref>) led to the
+diagnosis of definite LNB according to the current guidelines.<sup><xref rid="bibr3-17562864221102842" ref-type="bibr">3</xref>,<xref rid="bibr4-17562864221102842" ref-type="bibr">4</xref></sup> Although CNS manifestations can
+occur in early and late LNB, the presence of symptoms for less than 6&#x02009;months and the
+elevated CSF CXCL 13 (Chemokine Ligand 13) confirm the diagnosis of an early stage
+of LNB. Extensive diagnostic workup excluded other reasons for AIS; thus, childhood
+AIS due to LNB-associated FCA was the final diagnosis.</p><sec id="section10-17562864221102842"><title>Antibiotic treatment</title><p>Both children were treated with the third-generation cephalosporine cefotaxime as
+soon as the diagnosis of LNB was suspected. They presented as early LNB with
+LNB-associated stroke and received 14 (patient 1) and 16 (patient 2) days of IV
+antibiotic treatment. Duration of treatment ranged from 14&#x02009;days to 6&#x02009;weeks in
+the literature. Current guidelines<sup><xref rid="bibr3-17562864221102842" ref-type="bibr">3</xref>,<xref rid="bibr4-17562864221102842" ref-type="bibr">4</xref></sup> recommend an early
+antibiotic treatment with an IV third-generation cephalosporine or IV penicillin
+G for childhood LNB and a treatment duration between 14&#x02009;days (early LNB) and
+21&#x02009;days (late LNB). Oral doxycycline is an alternative for children over the age
+of 8&#x02009;years. All cases (12/12) found in the literature were treated with an IV
+third-generation cephalosporine, mostly ceftriaxone, none with doxycycline.</p></sec><sec id="section11-17562864221102842"><title>Acute thrombolytic and endovascular treatment</title><p>In both patients, the diagnosis of ischemic stroke was based on MRI in the
+hyperacute phase showing the specific combination of DWI hyperintensity/ADC
+restriction without signal abnormalities in FLAIR and SWI. As frequently
+observed in hyperacute stroke, the DWI/ADC restrictions do not completely
+represent the clinical picture. Patient 1 received IVT within the time window
+and dosage approved for adult stroke patients. The diagnosis of LNB was not
+suspected at the time of IVT; CSF examination (<xref rid="table1-17562864221102842" ref-type="table">Table 1</xref>) was done on day 2. Side
+effects of IVT were not observed. A clinical deterioration of 2&#x02009;points in
+pedNIHSS can be attributed to stroke progression confirmed on follow-up MRI,
+although a febrile episode may as well have contributed to the clinical
+deterioration. Follow-up showed an incomplete recovery with persisting
+hemiparesis with significant impairment of hand function resulting in a pedNIHSS
+of 2, mRS 2, and Barthel Index 95. There are no randomized, controlled trials
+regarding IVT in acute childhood stroke; the TIPS Thrombolysis in pediatric
+stroke (TIPS) trial<sup>
+<xref rid="bibr18-17562864221102842" ref-type="bibr">18</xref>
+</sup> had to be stopped because of low recruitment. In the absence of clinical
+trial data, expert opinion supports the use of the adult dosage of 0.9&#x02009;mg/kg for IVT.<sup>
+<xref rid="bibr19-17562864221102842" ref-type="bibr">19</xref>
+</sup> Developmental differences in plasminogen levels suggest that equivalent
+dosages might even be higher in children than in adults; thus, applying the
+regular dose of alteplase might err on the safe rather than the dangerous side
+with regard to hemorrhage risk.<sup>
+<xref rid="bibr18-17562864221102842" ref-type="bibr">18</xref>
+</sup> Recent retrospective data illustrate a very low risk of symptomatic
+intracranial hemorrhage (sICH) sICH following IVT in childhood AIS.<sup><xref rid="bibr20-17562864221102842" ref-type="bibr">20</xref>,<xref rid="bibr21-17562864221102842" ref-type="bibr">21</xref></sup></p><p>Patient 2 received acute EVT, intra-arterial thrombolysis, and an intensified
+antiplatelet therapy with IV tirofiban continued for 3&#x02009;days after early and
+partial BA reocclusion. LNB was considered the most likely diagnosis at the time
+of EVT; antibiotic and anti-inflammatory treatments were started simultaneously.
+There were no side effects of EVT, alteplase injection into the thrombus, and
+tirofiban therapy. Follow-up examination showed a complete recovery in spite of
+imaging proof of subtle changes on FLAIR images corresponding to the initial
+pontine DWI lesions.</p><p>EVT was considered safe and effective in a childhood subgroup analysis of the
+Multicenter randomized clinical trial of endovascular treatment for acute
+ischemic stroke in the Netherlands (MR CLEAN) study<sup>
+<xref rid="bibr22-17562864221102842" ref-type="bibr">22</xref>
+</sup> and in a recent case-based review.<sup>
+<xref rid="bibr23-17562864221102842" ref-type="bibr">23</xref>
+</sup> In the retrospective international multicenter Save ChildS Study,<sup>
+<xref rid="bibr24-17562864221102842" ref-type="bibr">24</xref>
+</sup> the safety of EVT in children was comparable to EVT results in clinical
+trials for adults. No complications were reported, including six children with
+FCA. In a single-center cohort in the United States,<sup>
+<xref rid="bibr1-17562864221102842" ref-type="bibr">1</xref>
+</sup> intracranial arteriopathy was found in 37% of cases; none of them
+received IVT or EVT. In a case series of children who underwent thrombolytic
+treatment including a review of the literature,<sup>
+<xref rid="bibr25-17562864221102842" ref-type="bibr">25</xref>
+</sup> stroke etiology included cardiogenic and paradoxical embolism,
+spontaneous artery dissection, and stroke of unknown etiology. Children with
+infectious AIS are not reported. Correspondingly, hyperacute treatment (IVT or
+EVT) was not reported in the 12 cases with LNB-associated childhood AIS found in
+the literature. A major factor affecting eligibility for hyperacute stroke
+therapy in children is the presence of medical contraindications, accounting for
+up to one-third of non-administered IVTs and EVTs.<sup>
+<xref rid="bibr1-17562864221102842" ref-type="bibr">1</xref>
+</sup> Inflammatory FCA in theory may increase the risk of bleeding
+complications during EVT.<sup>
+<xref rid="bibr26-17562864221102842" ref-type="bibr">26</xref>
+</sup> Secondary vasculitis is mentioned among the exclusion criteria for IVT in
+the TIPS study.<sup>
+<xref rid="bibr18-17562864221102842" ref-type="bibr">18</xref>
+</sup> The previous AHA scientific statement<sup>
+<xref rid="bibr27-17562864221102842" ref-type="bibr">27</xref>
+</sup> on treatment of childhood AIS classified LNB as an infectious (thus
+secondary) vasculitis. The current American Heart Association (AHA) scientific statement<sup>
+<xref rid="bibr19-17562864221102842" ref-type="bibr">19</xref>
+</sup> introduces the more descriptive term of FCA-i (focal cerebral
+arteriopathy inflammation type), denoting an infectious or parainfectious
+process leading to localized vessel inflammation and secondary thrombus
+formation and stroke.<sup>
+<xref rid="bibr28-17562864221102842" ref-type="bibr">28</xref>
+</sup> However, it does not mention LNB in this context. In addition to
+inflammation of the vessel wall, thrombosis of the affected vessels has been
+discussed in LNB.<sup>
+<xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>
+</sup> This was observed in patient 2, as thrombotic BA occlusion led to a
+hyperdense BA sign in CCT and to a blooming artifact (susceptibility vessel sign)<sup>
+<xref rid="bibr29-17562864221102842" ref-type="bibr">29</xref>
+</sup> on SWI images. The rapid clinical improvement after successful EVT with
+TICI 3 recanalization and reappearance of pontine branches would not have been
+observed had vessel inflammation been the only cause of BA occlusion.</p><p>In LNB, both in children and in adults, there is no clear semantic
+differentiation between infectious cerebral vasculitis and FCA-i.<sup>
+<xref rid="bibr13-17562864221102842" ref-type="bibr">13</xref>
+</sup> In contrast to childhood stroke, in adults there is high-quality evidence
+(double-blind, placebo-controlled studies) for IVT, EVT, and the combination of
+both. Although acute reperfusion therapies have not been reported in
+LNB-associated stroke in adults,<sup>
+<xref rid="bibr5-17562864221102842" ref-type="bibr">5</xref>
+</sup> both IVT and EVT can be administered following current guidelines
+providing clear recommendations that are mostly independent of the putative
+stroke etiology in the acute phase.</p></sec><sec id="section12-17562864221102842"><title>Platelet inhibition</title><p>Both patients reported in the present study received an early secondary stroke
+prophylaxis with ASA, ongoing until follow-up. Before administration of ASA, ICH
+as a potential complication of IVT and EVT with local alteplase injection was
+excluded. In the literature, ASA was given in 8/12 of reported cases with
+LNB-associated childhood stroke. Bleeding complications are not mentioned in the
+LNB cases reported in the literature. Platelet inhibition with ASA is
+recommended in childhood AIS, with a maintenance for 2&#x02009;years to cover the period
+of most likely stroke recurrence.<sup>
+<xref rid="bibr19-17562864221102842" ref-type="bibr">19</xref>
+</sup> This recommendation should generally be followed in LNB-associated AIS,
+as childhood AIS due to intracranial FCA is reported to have a high risk of recurrence.<sup>
+<xref rid="bibr30-17562864221102842" ref-type="bibr">30</xref>
+</sup> In addition, extracranial duplex sonography and TCCS should be performed
+at outpatient follow-up visits to detect recurrence of FCA or residual long-term
+vascular pathology that may warrant a longer duration of platelet
+inhibition.</p><p>In patient 2, partial BA reocclusion occurred in spite of prompt platelet
+inhibition with ASA, and antibiotic and anti-inflammatory treatments. Vessel
+patency was restored following platelet inhibitory therapy with the Glycoprotein
+IIb/IIIa antagonist tirofiban. This treatment attempt for progressive thrombotic
+stroke has been described in non-controlled case series in adults<sup>
+<xref rid="bibr31-17562864221102842" ref-type="bibr">31</xref>
+</sup> and appeared to be safe in combination with EVT in a multicenter cohort study.<sup>
+<xref rid="bibr32-17562864221102842" ref-type="bibr">32</xref>
+</sup> A recent meta-analysis suggests that tirofiban does not increase the risk
+of sICH in adult stroke patients treated with EVT.<sup>
+<xref rid="bibr33-17562864221102842" ref-type="bibr">33</xref>
+</sup> Treatment of progressive thrombotic vessel occlusion with tirofiban in
+childhood AIS has not been reported in the literature and is not mentioned in
+current guidelines. Currently, there is no approved indication for tirofiban in
+stroke treatment. This treatment should be administered only after careful
+interdisciplinary consultation and discussion of potential complications such as
+bleeding and thrombocytopenia with the patient&#x02018;s legal representatives. In the
+present case, the rationale was to rapidly reverse and prevent further
+rethrombosis triggered by the inflamed vessel wall, as thrombectomy alone does
+not resolve the underlying cause of thrombus formation in inflammatory or
+infectious FCA.</p></sec><sec id="section13-17562864221102842"><title>Anti-inflammatory treatment</title><p>The two cases of childhood vertebrobasilar stroke due to early LNB described in
+the present report exhibit features of LNB-associated infectious and
+inflammatory FCA as described in the literature. Patient 1 showed a minimum
+irregularity in the diameter of the proximal BA. However, the localization of
+infarctions in the left and later right medulla oblongata is suggestive of local
+vascular pathology in medullary branches of the BA. Patient 2 showed total BA
+occlusion and later reocclusion and stenosis of the left PCA (P1 segment); FCA
+of the BA, and PCA is supported by MR-angiography and TCCS. 9/12 of reported
+cases showed involvement of the posterior circulation, a feature discussed as a
+predominantly basal leptomeningeal obliterative inflammatory vasculopathy (endarteritis).<sup>
+<xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>
+</sup> All case reports published in the last 20&#x02009;years agree on the
+inflammatory, vasculitic, or arteritic origin<sup>
+<xref rid="bibr34-17562864221102842" ref-type="bibr">34</xref>
+</sup> of FCA leading to stroke observed in LNB. A closer look reveals
+considerable uncertainty in the concept of LNB-associated vasculitis. Although
+perivascular inflammatory infiltrates without vessel wall necrosis have been
+described in histopathological specimens,<sup>
+<xref rid="bibr35-17562864221102842" ref-type="bibr">35</xref>
+</sup> and focal MRI enhancement of the vessel wall as a controversial sign of
+vasculitis was observed in 3/12 of reported cases,<sup><xref rid="bibr2-17562864221102842" ref-type="bibr">2</xref>,<xref rid="bibr11-17562864221102842" ref-type="bibr">11</xref>,<xref rid="bibr15-17562864221102842" ref-type="bibr">15</xref></sup> these observations do not
+fulfill strict criteria of vasculitis. In a larger review of 88 LNB-associated
+strokes in adults, only 4 patients are reported to have biopsy-proven cerebral
+vasculitis, without histopathological details.<sup>
+<xref rid="bibr5-17562864221102842" ref-type="bibr">5</xref>
+</sup> As biopsy with demonstration of fibrinoid necrosis or inflammatory
+infiltrate of all layers of the vessel wall is the diagnostic gold standard of
+cerebral vasculitis,<sup>
+<xref rid="bibr36-17562864221102842" ref-type="bibr">36</xref>
+</sup> a general classification of LNB-associated stroke as cerebral vasculitis
+is speculative. Further research on the pathophysiology of LNB-associated stroke
+is needed. The present cases show features of FCA but not the typically
+multifocal, beaded signs of vasculitic arteriopathy seen in most forms of
+cerebral vasculitis. The LNB-associated strokes in the presented cases can be
+attributed to a treatable FCA of infectious and inflammatory origin (FCA-i), and
+thrombotic vessel occlusion. This eventually thrombotic pathogenesis of stroke
+in LNB is in line with the original microscopical findings of Miklossy, who
+described &#x02018;complete obstruction of some leptomeningeal vessels by organized
+thrombus, leading to small medullary infarcts. Only in a few of (the examined
+posterior circulation vessels) was partial lymphocytic infiltration of the
+vessel wall also seen&#x02019;.<sup>
+<xref rid="bibr35-17562864221102842" ref-type="bibr">35</xref>
+</sup></p><p>As a consequence of this uncertainty in the pathogenetic classification of
+LNB-associated stroke and since steroids could impair the immune response, the
+use of steroids is controversial. Suppression of the immune response in
+infectious diseases may both prevent tissue damage and facilitate spreading of
+the infectious agent, depending strongly on the specific mechanisms of disease.
+Thus, in the absence of clinical trial data, the use of steroids in LNB based on
+speculative mechanisms of disease cannot be generally recommended. If steroid
+treatment is initiated, it should be tapered rapidly and long-term steroid
+medication should be avoided. This is reflected in the literature, as steroids
+in addition to antibiotic therapy were given in 5/12 of reported cases only. The
+European Federation of Neurological Societies (EFNS) guidelines do not discuss
+anti-inflammatory treatment for LNB-associated stroke; for LNB, in general, it
+does not support the use of steroids because of the lack of sufficient data.<sup>
+<xref rid="bibr4-17562864221102842" ref-type="bibr">4</xref>
+</sup> The current German guidelines on LNB discuss steroids for LNB-associated
+vasculitis as class IV evidence without a clear recommendation.<sup>
+<xref rid="bibr3-17562864221102842" ref-type="bibr">3</xref>
+</sup></p></sec><sec id="section14-17562864221102842"><title>Limitations</title><p>The present study has clear limitations as only two cases are presented.
+Comparison to the published literature is limited as most case reports were
+published in a period of changing awareness of acute childhood AIS and of
+hyperacute treatment possibilities.</p></sec></sec><sec sec-type="conclusions" id="section15-17562864221102842"><title>Conclusion</title><p>On the level of case-based considerations, LNB-associated FCA should not be
+considered a medical contraindication for reperfusion therapies such as IVT and EVT
+in childhood AIS. As the etiology of AIS is usually unknown in the hyperacute phase,
+the decision should rather be in favor of IVT and EVT, even if LNB is suspected on
+admission. Early antibiotic treatment is indicated. An anti-inflammatory treatment
+attempt with steroids is discussed controversially in inflammatory FCA due to LNB.
+Given the high risk of rethrombosis after successful reperfusion therapy of
+inflammatory FCA, intensified antiplatelet regimes may be considered and early
+secondary prophylaxis with ASA is recommended.</p></sec></body><back><ack><p>We thank T. Eller, Bad Salzuflen, D for his support and advice in the Borrelia
+burgdorferi&#x02013;specific cerebrospinal fluid (CSF) diagnostic.</p></ack><fn-group><fn fn-type="other"><p><bold>Consent for publication:</bold> Written informed consent for publication was obtained from both patients&#x02019; legal
+representatives. The need for further institutional approval was waived in
+accordance with German ethical regulations on case reports.</p></fn><fn fn-type="con"><p><bold>Author contributions:</bold>
+<bold>Joerg Philipps:</bold> Conceptualization; Investigation; Methodology;
+Writing &#x02013; original draft; Writing &#x02013; review &#x00026; editing.</p><p><bold>Bernhard Erdlenbruch:</bold> Investigation; Methodology; Supervision;
+Writing &#x02013; review &#x00026; editing.</p><p><bold>Michael Kuschnerow:</bold> Conceptualization; Investigation; Methodology;
+Writing &#x02013; original draft; Writing &#x02013; review &#x00026; editing.</p><p><bold>Sunil Jagoda:</bold> Investigation; Methodology; Writing &#x02013; original draft;
+Writing &#x02013; review &#x00026; editing.</p><p><bold>Blerta Salihaj:</bold> Investigation; Writing &#x02013; original draft; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>J&#x000f6;rg Glahn:</bold> Investigation; Supervision; Writing &#x02013; review &#x00026;
+editing.</p><p><bold>Peter Dieter Schellinger:</bold> Conceptualization; Investigation;
+Methodology; Supervision; Writing &#x02013; original draft; Writing &#x02013; review &#x00026;
+editing.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Joerg Philipps <inline-graphic xlink:href="10.1177_17562864221102842-img1.jpg"/>
+<ext-link xlink:href="https://orcid.org/0000-0003-3327-3550" ext-link-type="uri">https://orcid.org/0000-0003-3327-3550</ext-link></p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The authors disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: We acknowledge support
+by the Open Access Publication Funds of the Ruhr-University Bochum.</p></fn><fn fn-type="COI-statement"><p><bold>Conflict of interest statement:</bold> The authors declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-17562864221102842"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hutchinson</surname><given-names>ML</given-names></name>
+<name><surname>Beslow</surname><given-names>LA</given-names></name>
+<name><surname>Shih</surname><given-names>EK</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Endovascular and thrombolytic treatment eligibility in childhood
+arterial ischemic stroke</article-title>. <source>Eur J Paediatr
+Neurol</source>
+<year>2021</year>; <volume>34</volume>:
+<fpage>99</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">34454335</pub-id></mixed-citation></ref><ref id="bibr2-17562864221102842"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Monteventi</surname><given-names>O</given-names></name>
+<name><surname>Steinlin</surname><given-names>M</given-names></name>
+<name><surname>Regenyi</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Pediatric stroke related to Lyme neuroborreliosis: data from the
+Swiss NeuroPaediatric Stroke Registry and literature review</article-title>.
+<source>Eur J Paediatr Neurol</source>
+<year>2018</year>; <volume>22</volume>:
+<fpage>113</fpage>&#x02013;<lpage>121</lpage>.<pub-id pub-id-type="pmid">29208342</pub-id></mixed-citation></ref><ref id="bibr3-17562864221102842"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rauer</surname><given-names>S</given-names></name>
+<name><surname>Kastenbauer</surname><given-names>S</given-names></name>
+<name><surname>Hofmann</surname><given-names>H</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Guidelines for diagnosis and treatment in neurology &#x02013; Lyme
+neuroborreliosis</article-title>. <source>Ger Med Sci</source>
+<year>2020</year>; <volume>18</volume>: Doc03.</mixed-citation></ref><ref id="bibr4-17562864221102842"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mygland</surname><given-names>A</given-names></name>
+<name><surname>Ljostad</surname><given-names>U</given-names></name>
+<name><surname>Fingerle</surname><given-names>V</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>EFNS guidelines on the diagnosis and management of European Lyme
+neuroborreliosis</article-title>. <source>Eur J Neurol</source>
+<year>2010</year>; <volume>17</volume>: <fpage>8</fpage>&#x02013;<lpage>16</lpage>,
+e1&#x02013;e4.<pub-id pub-id-type="pmid">19930447</pub-id></mixed-citation></ref><ref id="bibr5-17562864221102842"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Garkowski</surname><given-names>A</given-names></name>
+<name><surname>Zajkowska</surname><given-names>J</given-names></name>
+<name><surname>Zajkowska</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Cerebrovascular manifestations of Lyme neuroborreliosis &#x02013; a
+systematic review of published cases</article-title>. <source>Front
+Neurol</source>
+<year>2017</year>; <volume>8</volume>: <fpage>146</fpage>.<pub-id pub-id-type="pmid">28473801</pub-id></mixed-citation></ref><ref id="bibr6-17562864221102842"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gagnier</surname><given-names>JJ</given-names></name>
+<name><surname>Kienle</surname><given-names>G</given-names></name>
+<name><surname>Altman</surname><given-names>DG</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>The CARE guidelines: consensus-based clinical case reporting
+guideline development</article-title>. <source>Glob Adv Health Med</source>
+<year>2013</year>; <volume>2</volume>:
+<fpage>38</fpage>&#x02013;<lpage>43</lpage>.</mixed-citation></ref><ref id="bibr7-17562864221102842"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Moher</surname><given-names>D</given-names></name>
+<name><surname>Liberati</surname><given-names>A</given-names></name>
+<name><surname>Tetzlaff</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Preferred reporting items for systematic reviews and
+meta-analyses: the PRISMA statement</article-title>. <source>BMJ</source>
+<year>2009</year>; <volume>339</volume>: <fpage>b2535</fpage>.<pub-id pub-id-type="pmid">19622551</pub-id></mixed-citation></ref><ref id="bibr8-17562864221102842"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Klingebiel</surname><given-names>R</given-names></name>
+<name><surname>Benndorf</surname><given-names>G</given-names></name>
+<name><surname>Schmitt</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Large cerebral vessel occlusive disease in Lyme
+neuroborreliosis</article-title>. <source>Neuropediatrics</source>
+<year>2002</year>; <volume>33</volume>:
+<fpage>37</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">11930275</pub-id></mixed-citation></ref><ref id="bibr9-17562864221102842"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cox</surname><given-names>MG</given-names></name>
+<name><surname>Wolfs</surname><given-names>TF</given-names></name>
+<name><surname>Lo</surname><given-names>TH</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Neuroborreliosis causing focal cerebral arteriopathy in a
+child</article-title>. <source>Neuropediatrics</source>
+<year>2005</year>; <volume>36</volume>:
+<fpage>104</fpage>&#x02013;<lpage>107</lpage>.<pub-id pub-id-type="pmid">15822023</pub-id></mixed-citation></ref><ref id="bibr10-17562864221102842"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>R&#x000e9;nard</surname><given-names>C</given-names></name>
+<name><surname>Marignier</surname><given-names>S</given-names></name>
+<name><surname>Gillet</surname><given-names>Y</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>[Acute hemiparesis revealing a neuroborreliosis in a
+child]</article-title>. <source>Arch Pediatr</source>
+<year>2008</year>; <volume>15</volume>:
+<fpage>41</fpage>&#x02013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">18155890</pub-id></mixed-citation></ref><ref id="bibr11-17562864221102842"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lebas</surname><given-names>A</given-names></name>
+<name><surname>Toulgoat</surname><given-names>F</given-names></name>
+<name><surname>Saliou</surname><given-names>G</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Stroke due to Lyme neuroborreliosis: changes in vessel wall
+contrast enhancement</article-title>. <source>J Neuroimaging</source>
+<year>2012</year>; <volume>22</volume>:
+<fpage>210</fpage>&#x02013;<lpage>212</lpage>.<pub-id pub-id-type="pmid">21122000</pub-id></mixed-citation></ref><ref id="bibr12-17562864221102842"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kohns</surname><given-names>M</given-names></name>
+<name><surname>Karenfort</surname><given-names>M</given-names></name>
+<name><surname>Schaper</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Transient ischaemic attack in a 5-year-old girl due to focal
+vasculitis in neuroborreliosis</article-title>. <source>Cerebrovasc
+Dis</source>
+<year>2013</year>; <volume>35</volume>:
+<fpage>184</fpage>&#x02013;<lpage>185</lpage>.<pub-id pub-id-type="pmid">23429243</pub-id></mixed-citation></ref><ref id="bibr13-17562864221102842"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kurian</surname><given-names>M</given-names></name>
+<name><surname>Pereira</surname><given-names>VM</given-names></name>
+<name><surname>Vargas</surname><given-names>MI</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Stroke-like phenomena revealing multifocal cerebral vasculitis in
+pediatric Lyme neuroborreliosis</article-title>. <source>J Child
+Neurol</source>
+<year>2015</year>; <volume>30</volume>:
+<fpage>1226</fpage>&#x02013;<lpage>1229</lpage>.<pub-id pub-id-type="pmid">25316727</pub-id></mixed-citation></ref><ref id="bibr14-17562864221102842"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Allen</surname><given-names>NM</given-names></name>
+<name><surname>Jungbluth</surname><given-names>H</given-names></name>
+</person-group>. <article-title>Lyme neuroborreliosis: a potentially preventable
+cause of stroke</article-title>. <source>J Pediatr</source>
+<year>2016</year>; <volume>170</volume>: 334&#x02013;334.e1.</mixed-citation></ref><ref id="bibr15-17562864221102842"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wittwer</surname><given-names>B</given-names></name>
+<name><surname>Pelletier</surname><given-names>S</given-names></name>
+<name><surname>Ducrocq</surname><given-names>X</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Cerebrovascular events in Lyme neuroborreliosis</article-title>.
+<source>J Stroke Cerebrovasc Dis</source>
+<year>2015</year>; <volume>24</volume>:
+<fpage>1671</fpage>&#x02013;<lpage>1678</lpage>.<pub-id pub-id-type="pmid">26002071</pub-id></mixed-citation></ref><ref id="bibr16-17562864221102842"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Estrada-Pena</surname><given-names>A</given-names></name>
+<name><surname>Cutler</surname><given-names>S</given-names></name>
+<name><surname>Potkonjak</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>An updated meta-analysis of the distribution and prevalence of
+Borrelia burgdorferi s.l. in ticks in Europe</article-title>. <source>Int J
+Health Geogr</source>
+<year>2018</year>; <volume>17</volume>: <fpage>41</fpage>.<pub-id pub-id-type="pmid">30514310</pub-id></mixed-citation></ref><ref id="bibr17-17562864221102842"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Barstad</surname><given-names>B</given-names></name>
+<name><surname>Quarsten</surname><given-names>H</given-names></name>
+<name><surname>Tveitnes</surname><given-names>D</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Direct molecular detection and genotyping of Borrelia burgdorferi
+Sensu Lato in cerebrospinal fluid of children with Lyme
+neuroborreliosis</article-title>. <source>J Clin Microbiol</source>
+<year>2018</year>; <volume>56</volume>: e01868-17.</mixed-citation></ref><ref id="bibr18-17562864221102842"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rivkin</surname><given-names>MJ</given-names></name>
+<name><surname>deVeber</surname><given-names>G</given-names></name>
+<name><surname>Ichord</surname><given-names>RN</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Thrombolysis in pediatric stroke study</article-title>.
+<source>Stroke</source>
+<year>2015</year>; <volume>46</volume>:
+<fpage>880</fpage>&#x02013;<lpage>885</lpage>.<pub-id pub-id-type="pmid">25613306</pub-id></mixed-citation></ref><ref id="bibr19-17562864221102842"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ferriero</surname><given-names>DM</given-names></name>
+<name><surname>Fullerton</surname><given-names>HJ</given-names></name>
+<name><surname>Bernard</surname><given-names>TJ</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Management of stroke in neonates and children: a scientific
+statement from the American Heart Association/American Stroke
+Association</article-title>. <source>Stroke</source>
+<year>2019</year>; <volume>50</volume>:
+<fpage>e51</fpage>&#x02013;<lpage>e96</lpage>.<pub-id pub-id-type="pmid">30686119</pub-id></mixed-citation></ref><ref id="bibr20-17562864221102842"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Amlie-Lefond</surname><given-names>C</given-names></name>
+<name><surname>Shaw</surname><given-names>DWW</given-names></name>
+<name><surname>Cooper</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Risk of intracranial hemorrhage following intravenous tPA
+(tissue-type plasminogen activator) for acute stroke is low in
+children</article-title>. <source>Stroke</source>
+<year>2020</year>; <volume>51</volume>:
+<fpage>542</fpage>&#x02013;<lpage>548</lpage>.<pub-id pub-id-type="pmid">31842706</pub-id></mixed-citation></ref><ref id="bibr21-17562864221102842"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Olivieri</surname><given-names>M</given-names></name>
+<name><surname>Sorg</surname><given-names>AL</given-names></name>
+<name><surname>Weinberger</surname><given-names>R</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Recanalization strategies in childhood stroke in
+Germany</article-title>. <source>Sci Rep</source>
+<year>2021</year>; <volume>11</volume>: <fpage>13314</fpage>.<pub-id pub-id-type="pmid">34172782</pub-id></mixed-citation></ref><ref id="bibr22-17562864221102842"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>van Es</surname><given-names>ACGM</given-names></name>
+<name><surname>Hunfeld</surname><given-names>MAW</given-names></name>
+<name><surname>van den Wijngaard</surname><given-names>I</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Endovascular treatment for acute ischemic stroke in children:
+experience from the MR CLEAN Registry</article-title>.
+<source>Stroke</source>
+<year>2021</year>; <volume>52</volume>:
+<fpage>781</fpage>&#x02013;<lpage>788</lpage>.<pub-id pub-id-type="pmid">33617341</pub-id></mixed-citation></ref><ref id="bibr23-17562864221102842"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>LR</given-names></name>
+<name><surname>Harrar</surname><given-names>D</given-names></name>
+<name><surname>Drocton</surname><given-names>G</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Mechanical thrombectomy for acute ischemic stroke: considerations
+in children</article-title>. <source>Stroke</source>
+<year>2020</year>; <volume>51</volume>:
+<fpage>3174</fpage>&#x02013;<lpage>3181</lpage>.<pub-id pub-id-type="pmid">32912096</pub-id></mixed-citation></ref><ref id="bibr24-17562864221102842"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sporns</surname><given-names>PB</given-names></name>
+<name><surname>Kemmling</surname><given-names>A</given-names></name>
+<name><surname>Hanning</surname><given-names>U</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Thrombectomy in childhood stroke</article-title>. <source>J Am
+Heart Assoc</source>
+<year>2019</year>; <volume>8</volume>: <fpage>e011335</fpage>.<pub-id pub-id-type="pmid">30803281</pub-id></mixed-citation></ref><ref id="bibr25-17562864221102842"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Arnold</surname><given-names>M</given-names></name>
+<name><surname>Steinlin</surname><given-names>M</given-names></name>
+<name><surname>Baumann</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Thrombolysis in childhood stroke: report of 2 cases and review of
+the literature</article-title>. <source>Stroke</source>
+<year>2009</year>; <volume>40</volume>:
+<fpage>801</fpage>&#x02013;<lpage>807</lpage>.<pub-id pub-id-type="pmid">19118242</pub-id></mixed-citation></ref><ref id="bibr26-17562864221102842"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bigi</surname><given-names>S</given-names></name>
+<name><surname>Dulcey</surname><given-names>A</given-names></name>
+<name><surname>Gralla</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Feasibility, safety, and outcome of recanalization treatment in
+childhood stroke</article-title>. <source>Ann Neurol</source>
+<year>2018</year>; <volume>83</volume>:
+<fpage>1125</fpage>&#x02013;<lpage>1132</lpage>.<pub-id pub-id-type="pmid">29679441</pub-id></mixed-citation></ref><ref id="bibr27-17562864221102842"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Roach</surname><given-names>ES</given-names></name>
+<name><surname>Golomb</surname><given-names>MR</given-names></name>
+<name><surname>Adams</surname><given-names>R</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Management of stroke in infants and children: a scientific
+statement from a Special Writing Group of the American Heart Association
+Stroke Council and the Council on Cardiovascular Disease in the
+Young</article-title>. <source>Stroke</source>
+<year>2008</year>; <volume>39</volume>:
+<fpage>2644</fpage>&#x02013;<lpage>2691</lpage>.<pub-id pub-id-type="pmid">18635845</pub-id></mixed-citation></ref><ref id="bibr28-17562864221102842"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gerstl</surname><given-names>L</given-names></name>
+<name><surname>Bonfert</surname><given-names>MV</given-names></name>
+<name><surname>Heinen</surname><given-names>F</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Childhood arterial ischaemic stroke: clinical presentation, risk
+factors and management</article-title>. <source>Hamostaseologie</source>
+<year>2020</year>; <volume>40</volume>:
+<fpage>165</fpage>&#x02013;<lpage>173</lpage>.<pub-id pub-id-type="pmid">32325521</pub-id></mixed-citation></ref><ref id="bibr29-17562864221102842"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Naggara</surname><given-names>O</given-names></name>
+<name><surname>Raymond</surname><given-names>J</given-names></name>
+<name><surname>Domingo Ayllon</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>T2* &#x02018;susceptibility vessel sign&#x02019; demonstrates clot location and
+length in acute ischemic stroke</article-title>. <source>PLoS ONE</source>
+<year>2013</year>; <volume>8</volume>: <fpage>e76727</fpage>.<pub-id pub-id-type="pmid">24146915</pub-id></mixed-citation></ref><ref id="bibr30-17562864221102842"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bohmer</surname><given-names>M</given-names></name>
+<name><surname>Niederstadt</surname><given-names>T</given-names></name>
+<name><surname>Heindel</surname><given-names>W</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Impact of childhood arterial ischemic stroke standardized
+classification and diagnostic evaluation classification on further course of
+arteriopathy and recurrence of childhood stroke</article-title>.
+<source>Stroke</source>. Epub ahead of print <day>7</day>
+<month>December</month>
+<year>2018</year>. DOI: <pub-id pub-id-type="doi">10.1161/STROKEAHA.118.023060.</pub-id></mixed-citation></ref><ref id="bibr31-17562864221102842"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mangiafico</surname><given-names>S</given-names></name>
+<name><surname>Cellerini</surname><given-names>M</given-names></name>
+<name><surname>Nencini</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Intravenous tirofiban with intra-arterial urokinase and
+mechanical thrombolysis in stroke: preliminary experience in 11
+cases</article-title>. <source>Stroke</source>
+<year>2005</year>; <volume>36</volume>:
+<fpage>2154</fpage>&#x02013;<lpage>2158</lpage>.<pub-id pub-id-type="pmid">16141418</pub-id></mixed-citation></ref><ref id="bibr32-17562864221102842"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>L</given-names></name>
+<name><surname>Jian</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>The safety and efficiency of tirofiban in acute ischemic stroke
+patients treated with mechanical thrombectomy: a multicenter retrospective
+cohort study</article-title>. <source>Biochem Res Int</source>
+<year>2020</year>; <volume>2020</volume>:
+<fpage>5656173</fpage>.<pub-id pub-id-type="pmid">32399299</pub-id></mixed-citation></ref><ref id="bibr33-17562864221102842"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>Z</given-names></name>
+<name><surname>Xu</surname><given-names>C</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Safety and efficacy of tirofiban in acute ischemic stroke
+patients receiving endovascular treatment: a meta-analysis</article-title>.
+<source>Cerebrovasc Dis</source>
+<year>2020</year>; <volume>49</volume>:
+<fpage>442</fpage>&#x02013;<lpage>450</lpage>.<pub-id pub-id-type="pmid">32731250</pub-id></mixed-citation></ref><ref id="bibr34-17562864221102842"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Parikh</surname><given-names>NS</given-names></name>
+<name><surname>Merkler</surname><given-names>AE</given-names></name>
+<name><surname>Iadecola</surname><given-names>C</given-names></name>
+</person-group>. <article-title>Inflammation, autoimmunity, infection, and
+stroke: epidemiology and lessons from therapeutic
+intervention</article-title>. <source>Stroke</source>
+<year>2020</year>; <volume>51</volume>:
+<fpage>711</fpage>&#x02013;<lpage>718</lpage>.<pub-id pub-id-type="pmid">32078460</pub-id></mixed-citation></ref><ref id="bibr35-17562864221102842"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Miklossy</surname><given-names>J</given-names></name>
+<name><surname>Kuntzer</surname><given-names>T</given-names></name>
+<name><surname>Bogousslavsky</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>
+<article-title>Meningovascular form of neuroborreliosis: similarities between
+neuropathological findings in a case of Lyme disease and those occurring in
+tertiary neurosyphilis</article-title>. <source>Acta Neuropathol</source>
+<year>1990</year>; <volume>80</volume>:
+<fpage>568</fpage>&#x02013;<lpage>572</lpage>.<pub-id pub-id-type="pmid">2251916</pub-id></mixed-citation></ref><ref id="bibr36-17562864221102842"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Berlit</surname><given-names>P</given-names></name>
+</person-group>. <article-title>Diagnosis and treatment of cerebral
+vasculitis</article-title>. <source>Ther Adv Neurol Disord</source>
+<year>2010</year>; <volume>3</volume>:
+<fpage>29</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">21180634</pub-id></mixed-citation></ref></ref-list></back></article>

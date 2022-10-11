@@ -1,0 +1,735 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700475</article-id><article-id pub-id-type="pmc">PMC9426337</article-id><article-id pub-id-type="publisher-id">27984</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.27984</article-id><article-categories><subj-group subj-group-type="heading"><subject>Art&#x000ed;culos Originales</subject></subj-group></article-categories><title-group><article-title>Apoplej&#x000ed;a hipofisaria en pacientes pedi&#x000e1;tricos: revisi&#x000f3;n sistem&#x000e1;tica</article-title><trans-title-group xml:lang="en"><trans-title>Pituitary apoplexy in pediatric patients: systematic review</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Infarto da hip&#x000f3;fise em pacientes pedi&#x000e1;tricos: revis&#x000e3;o sistem&#x000e1;tica</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-7498-5346</contrib-id><name><surname>Pic&#x000f3;n Jaimes</surname><given-names>Yelson Alejandro</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>ypicon@unab.edu.co</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0001-6013-3997</contrib-id><name><surname>Orozco Chinome</surname><given-names>Javier Esteban</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>efeso17@yahoo.es</email></contrib><contrib contrib-type="author"><name><surname>L&#x000f3;pez Cepeda</surname><given-names>Daniela</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>danilopcep@hotmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0003-3544-7593</contrib-id><name><surname>Quintana P&#x000e1;jaro</surname><given-names>Loraine</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>lorainequintanap@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0001-7724-479X</contrib-id><name><surname>Galindo-Vel&#x000e1;squez</surname><given-names>Hather</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>haerandres@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-6277-3768</contrib-id><name><surname>Ramos-Villegas</surname><given-names>Yancarlos</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>y-rv@hotmail.com</email></contrib><contrib contrib-type="author"><name><surname>Ripoll-Zapata</surname><given-names>Vanessa</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>vane-078@hotmail.com</email></contrib><contrib contrib-type="author"><name><surname>Morales-N&#x000fa;&#x000f1;ez</surname><given-names>Mar&#x000ed;a Ang&#x000e9;lica</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>mangelicam16@hotmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-4180-6962</contrib-id><name><surname>Moscote Salazar</surname><given-names>Luis Rafael</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>rafaelmoscote21@gmail.com</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Universidad Pedro de Valdivia</institution>
+<city>Valdivia</city>
+<country country="CL">Chile</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Asociaci&#x000f3;n Chilena de Seguridad</institution>
+<city>Santiago de Chile</city>
+<country country="CL">Chile</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Universidad de Cartagena</institution>
+<city>Cartagena</city>
+<country country="CO">Colombia</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>141</fpage><lpage>145</lpage><history><date date-type="received" iso-8601-date="2020-03-21"><day>21</day><month>3</month><year>2020</year></date><date date-type="accepted" iso-8601-date="2021-09-20"><day>20</day><month>9</month><year>2021</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/27984/37736">https://revistas.unc.edu.ar/index.php/med/article/view/27984/37736</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/27984/37471">https://revistas.unc.edu.ar/index.php/med/article/view/27984/37471</self-uri><abstract abstract-type="section"><title>Resumen</title><sec><title>Introducci&#x000f3;n:</title><p>La necrosis o hemorragia asociada a tumores hipofisarios es una complicaci&#x000f3;n infrecuente. El t&#x000e9;rmino apoplej&#x000ed;a hipofisaria est&#x000e1; relacionado con el desarrollo de un proceso inflamatorio que conduce a irritaci&#x000f3;n men&#x000ed;ngea y de las zonas periselares. Sea cual sea el mecanismo (hemorragia o infarto), la extensi&#x000f3;n de la hemorragia y la necrosis producir&#x000e1; un aumento de la presi&#x000f3;n intraselar que, a su vez, conducir&#x000e1; a una compresi&#x000f3;n m&#x000e1;s o menos pronunciada de las estructuras vecinas, explicando as&#x000ed; el amplio espectro cl&#x000ed;nico.</p></sec><sec><title>M&#x000e9;todos:</title><p>Realizamos una revisi&#x000f3;n sistem&#x000e1;tica de casos publicados a nivel internacional. Se realiz&#x000f3; el an&#x000e1;lisis de 8 casos publicados en la literatura, 5 casos en poblaci&#x000f3;n pedi&#x000e1;trica masculina (62.5%), y 3 casos del g&#x000e9;nero femenino (37.5%).</p></sec><sec><title>Resultados:</title><p>La media de edad fue de 12,8 a&#x000f1;os (DE &#x000b1;2.5). Las manifestaciones cl&#x000ed;nicas abarcaron: cefalea, alteraci&#x000f3;n en la visi&#x000f3;n, n&#x000e1;useas y v&#x000f3;mitos, fiebre, compromiso de pares craneales y en menor medida compromiso del estado de conciencia. El 75% (n=6) de los pacientes curs&#x000f3; con cefalea, el 16.6% de localizaci&#x000f3;n frontal, 16.6% acompa&#x000f1;ado de dolor retroorbitario, y un 66.6% no especificaron la localizaci&#x000f3;n. Por otro lado, solo el 37.5% de los pacientes presentaron n&#x000e1;useas y/o v&#x000f3;mitos. Mientras que un 25% ingresaron con fiebre y un 12.5% (n=1) tuvieron cambios en el estado de conciencia.</p></sec><sec><title>Conclusi&#x000f3;n:</title><p>La apoplej&#x000ed;a hipofisaria es una patolog&#x000ed;a que requiere un abordaje multidisciplinario a nivel pedi&#x000e1;trico. El manejo dirigido por neurocirug&#x000ed;a y endocrinolog&#x000ed;a pedi&#x000e1;trica permitir&#x000e1; ofrecer a nuestros pacientes el mejor tratamiento disponible basado en la evidencia.</p></sec></abstract><trans-abstract xml:lang="en" abstract-type="section"><title>Abstract</title><sec><title>Introduction:</title><p>Necrosis or hemorrhage associated with pituitary tumors is an infrequent complication. The term pituitary apoplexy is related to the development of an inflammatory process that leads to irritation of the meningeal and periselar areas. Regardless of the mechanism (hemorrhage or infarction), the extent of the hemorrhage and necrosis will produce an increase in intraselar pressure which, in turn, will lead to a more or less pronounced compression of neighboring structures, thus explaining the broad spectrum clinical.</p></sec><sec><title>Methods:</title><p>We carried out a systematic review of cases published internationally. The analysis of 8 cases published in the literature was carried out, 5 cases in the male pediatric population (62.5%), and 3 cases of the female gender (37.5%).</p></sec><sec><title>Results:</title><p>The mean age was 12.8 years (SD &#x000b1; 2.5). The clinical manifestations included: headache, impaired vision, nausea and vomiting, fever, cranial nerve involvement, and, to a lesser extent, compromise of consciousness. Seventy-five percent (n = 6) of the patients had a headache, 16.6% had a frontal location, 16.6% accompanied by retroorbital pain, and 66.6% did not specify the location. On the other hand, only 37.5% of the patients had nausea and/or vomiting. While 25% were admitted with fever and 12.5%(n = 1) had changes in the state of consciousness.</p></sec><sec><title>Conclusion:</title><p>Pituitary apoplexy is a pathology that requires a multidisciplinary approach at the pediatric level. Management directed by pediatric neurosurgery and endocrinology will allow us to offer our patients the best, evidence-based treatment available.</p></sec></trans-abstract><trans-abstract xml:lang="pt" abstract-type="section"><title>Resumo</title><sec><title>Introdu&#x000e7;&#x000e3;o:</title><p>A necrose ou hemorragia associada a tumores hipofis&#x000e1;rios &#x000e9; umacomplica&#x000e7;&#x000e3;opoucofrequente. O termo apoplexiahipofis&#x000e1;ria est&#x000e1; relacionado aodesenvolvimento de umprocessoinflamat&#x000f3;rio que leva &#x000e0; irrita&#x000e7;&#x000e3;o das &#x000e1;reas men&#x000ed;ngea e periselar. Qualquer que seja o mecanismo (hemorragia ou infarto), a extens&#x000e3;o da hemorragia e necrose produzir&#x000e1;um aumento da press&#x000e3;ointrasselar que, por sua vez, levar&#x000e1; a umacompress&#x000e3;omaisou menos pronunciada das estruturasvizinhas, explicando assim o amplo espectro cl&#x000ed;nico.</p></sec><sec><title>M&#x000e9;todos:</title><p>Realizamos umarevis&#x000e3;o sistem&#x000e1;tica de casos publicados internacionalmente. Foi realizada a an&#x000e1;lise de 8 casos publicados na literatura, sendo 5 casos na popula&#x000e7;&#x000e3;o pedi&#x000e1;trica masculina (62.5%) e 3 casos do sexo feminino (37.5%).</p></sec><sec><title>Resultados:</title><p>A m&#x000e9;dia de idadefoi de 12,8 anos (DP &#x000b1; 2.5). As manifesta&#x000e7;&#x000f5;es cl&#x000ed;nicas inclu&#x000ed;ram: cefaleia, vis&#x000e3;oprejudicada, n&#x000e1;useas e v&#x000f4;mitos, febre, envolvimento de nervos cranianos e, em menor grau, comprometimento da consci&#x000ea;ncia. Setenta e cinco por cento (n = 6) dos pacientes apresentavamcefaleia, 16.6% de localiza&#x000e7;&#x000e3;o frontal, 16.6% acompanhada de dorretroorbital e 66.6% n&#x000e3;oespecificaram a localiza&#x000e7;&#x000e3;o. Por outro lado, apenas 37.5% dos pacientes apresentaram n&#x000e1;useas e / ouv&#x000f4;mitos. Enquanto 25% foram internados comfebre e 12,5% (n = 1) apresentaramaltera&#x000e7;&#x000e3;o do estado de consci&#x000ea;ncia.</p></sec><sec><title>Conclus&#x000e7;&#x000e3;o:</title><p>A apoplexiahipofis&#x000e1;ria &#x000e9; umapatologia que requerabordagem multidisciplinar emn&#x000ed;vel pedi&#x000e1;trico. O manejo dirigido pela neurocirurgia e endocrinologia pedi&#x000e1;trica nos permitir&#x000e1; ofereceraosnossos pacientes o melhortratamentodispon&#x000ed;velcom base emevid&#x000ea;ncias.</p></sec></trans-abstract><kwd-group><title>Palabras clave</title><kwd>enfermedades de la hip&#x000f3;fisis</kwd><kwd>hip&#x000f3;fisis</kwd><kwd>apoplej&#x000ed;a hipofisaria</kwd><kwd>neurocirug&#x000ed;a</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>diseases</kwd><kwd>pituitary gland</kwd><kwd>pituitary apoplexy</kwd><kwd>neurosurgery</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>doen&#x000e7;as da hip&#x000f3;fise</kwd><kwd>hip&#x000f3;fise</kwd><kwd>apoplexiahipofis&#x000e1;ria</kwd><kwd>neurocirurgia</kwd></kwd-group><counts><fig-count count="3"/><table-count count="2"/><equation-count count="0"/><ref-count count="20"/><page-count count="5"/></counts></article-meta></front><body><boxed-text position="float"><p>Se llev&#x000f3; a cabo una revisi&#x000f3;n sistem&#x000e1;tica de la literatura para comparar los hallazgos de casos de infartos hipofisiarios en ni&#x000f1;os. Se identific&#x000f3; como motivo de consulta principalmente las molestias visuales y el dolor de cabeza, aunque otros hallazgos como las n&#x000e1;useas y los v&#x000f3;mitos tambi&#x000e9;n estuvieron presentes. El m&#x000e9;todo de diagn&#x000f3;stico ideal es la realizaci&#x000f3;n de la resonancia magn&#x000e9;tica, pero si esta no est&#x000e1; disponible, la tomograf&#x000ed;a puede brindar informaci&#x000f3;n &#x000fa;til sobre la causa de la patolog&#x000ed;a. En cuanto al tratamiento, depende de los hallazgos en las im&#x000e1;genes y aunque puede ser quir&#x000fa;rgico, se recomienda el uso de medicamentos cortico esteroides en todos los casos.</p></boxed-text><boxed-text position="float"><sec><title>Conceptos claves</title><p>La apoplej&#x000ed;a hipofisaria se produce por hemorragia espont&#x000e1;nea o infarto de un adenoma hipofisario. Aunque las neoplasias hipofisarias son infrecuentes en la poblaci&#x000f3;n pedi&#x000e1;trica, pueden presentar este tipo de complicaciones. Este trabajo pone de manifiesto una patolog&#x000ed;a poco sospechada en la edad pedi&#x000e1;trica y se realiza una revisi&#x000f3;n de los conocimientos al d&#x000ed;a de la fecha.</p></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCI&#x000d3;N</title><p>La apoplej&#x000ed;a hipofisaria es un s&#x000ed;ndrome cl&#x000ed;nico que surge por hemorragia o infarto en la gl&#x000e1;ndula pituitaria; esto puede darse secundario a tumores pituitarios, tratamiento m&#x000e9;dico o hemorragia postparto (s&#x000ed;ndrome de Sheehan). Las neoplasias de la gl&#x000e1;ndula pituitaria son muy raras en las etapas de ni&#x000f1;ez y adolescencia, con aproximadamente un caso cada 1 000 000 de individuos; menos del 10% de las neoplasias hipofisarias se presentan en esta poblaci&#x000f3;n
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+. La mayor&#x000ed;a de estos tumores son craneofaringiomas (80-90%) y el porcentaje restante son adenomas. Los adenomas se pueden clasificar seg&#x000fa;n su tama&#x000f1;o, la c&#x000e9;lula predominante o su funci&#x000f3;n
+<sup>
+<xref rid="B1" ref-type="bibr">1-4</xref>
+</sup>
+. La apoplej&#x000ed;a hipofisaria se presenta con mayor frecuencia en macroadenomas, ya sea hiperfuncionales o no funcionales
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+. Sin embargo, la apoplej&#x000ed;a es m&#x000e1;s frecuente en tumores no funcionantes y esto puede deberse a un sesgo de aparici&#x000f3;n, porque estos adenomas generalmente se descubren tarde y suelen ser m&#x000e1;s grandes que los adenomas funcionantes. De hecho, en la gran mayor&#x000ed;a de los casos, la apoplej&#x000ed;a complica especialmente a los grandes macroadenomas. Es as&#x000ed; como los adenomas de ACTH cl&#x000ed;nicamente silenciosos pueden ser particularmente propensos a necrosis, hemorragia y transformaci&#x000f3;n qu&#x000ed;stica. Estas complicaciones ocurren en el 30% a 64% de los casos, en comparaci&#x000f3;n con el 6.8% a 20% en pacientes con prolactinomas (principalmente hiperfuncionantes) y el 2 a 14% cuando se consideran todos los tipos de adenoma hipofisario
+<sup><xref rid="B1" ref-type="bibr">1</xref>,
+<xref rid="B4" ref-type="bibr">4-6</xref>
+</sup>
+.
+</p><p>Tras el infarto y/o hemorragia, la gl&#x000e1;ndula aumenta s&#x000fa;bitamente de tama&#x000f1;o y puede comprimir las estructuras adyacentes, originando as&#x000ed; la aparici&#x000f3;n de un cuadro cl&#x000ed;nico agudo de cefalea, v&#x000f3;mitos, alteraciones visuales, alteraciones del estado de conciencia, par&#x000e1;lisis oculomotoras y/o deficiencias hormonales adenohipofisarias
+<sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+.
+</p><p>Debido a la forma de presentaci&#x000f3;n y al subdiagn&#x000f3;stico, la frecuencia actual en la poblaci&#x000f3;n pedi&#x000e1;trica y en adolescentes no es muy conocida, pero en algunos estudios se ha evidenciado que en el 16% de los pacientes con adenomas hipofisarios se desarrollar&#x000e1; este evento y que, en su forma sintom&#x000e1;tica, el porcentaje de presentaci&#x000f3;n var&#x000ed;a de un 4.6% a 6.2%
+<sup><xref rid="B1" ref-type="bibr">1</xref>,
+<xref rid="B3" ref-type="bibr">3</xref>
+</sup>
+.
+</p><p>La tomograf&#x000ed;a computada de cr&#x000e1;neo sin contraste puede revelar hemorragia aguda, mientras que la resonancia magn&#x000e9;tica (RM) puede ser de utilidad para evaluar la extensi&#x000f3;n del compromiso paraselar. En la actualidad, la RM es el procedimiento de imagen de elecci&#x000f3;n, incluso en los primeros d&#x000ed;as despu&#x000e9;s de la aparici&#x000f3;n de los s&#x000ed;ntomas, ya que puede detectar sangrado reciente
+<sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+.
+</p><p>El objetivo de este trabajo fue realizar una revisi&#x000f3;n sistem&#x000e1;tica de casos de apoplej&#x000ed;a hipofisaria en pacientespedi&#x000e1;tricos.</p></sec><sec sec-type="methods"><title>METODOLOG&#x000cd;A</title><list list-type="bullet"><list-item><title>Criterios de inclusi&#x000f3;n</title><p><bold>Tipo de participantes</bold>: Esta revisi&#x000f3;n involucr&#x000f3; los estudios reportados en la poblaci&#x000f3;n con edad inferior a 18 a&#x000f1;os.
+</p><p><bold>Tipo de estudio</bold>: Se incluyeron los reportes de caso relacionados con apoplej&#x000ed;a pituitaria en pediatr&#x000ed;a, escritos en espa&#x000f1;ol o ingl&#x000e9;s.
+</p></list-item><list-item><title>Estrategia de b&#x000fa;squeda</title><p>Esta revisi&#x000f3;n sistem&#x000e1;tica sigui&#x000f3; las recomendaciones de la Colaboraci&#x000f3;n Cochrane (PRISMA). Se realiz&#x000f3; una b&#x000fa;squeda bibliogr&#x000e1;fica en las bases de datos: Pubmed, EBSCO Host, MEDLINE y EMBASE, considerando todas las publicaciones realizadas hasta el a&#x000f1;o 2017. La b&#x000fa;squeda se efectu&#x000f3; en 5 pasos: primero se identificaron las palabras claves utilizando el MesH (Medical Subject Headings) y DeCs (Descriptores de la Salud), luego se procedi&#x000f3; a utilizar los descriptores del tema: (Pituitary Apoplexy) AND pediatrics, para todas las bases de datos a excepci&#x000f3;n de EMBASE, donde se utiliz&#x000f3; "Hypophysis Apoplexy" AND pediatrics. Posteriormente se eliminaron los registros duplicados (paso 2) y se continu&#x000f3; con un an&#x000e1;lisis de los t&#x000ed;tulos y res&#x000fa;menes arrojados por la b&#x000fa;squeda (paso 3), luego se procedi&#x000f3; con la revisi&#x000f3;n a texto completo de los art&#x000ed;culos seleccionados (paso 4) y finalmente se revisaron las referencias de los art&#x000ed;culos incluidos para identificar aquellos estudios que
+tambi&#x000e9;n cumpl&#x000ed;an con los criterios de elegibilidad (paso 5). Se excluyeron las cartas al editor y los estudios con idioma diferente a ingl&#x000e9;s o espa&#x000f1;ol.
+</p></list-item><list-item><title>Recopilaci&#x000f3;n de datos</title><p>Los siguientes datos se extrajeron de los reportes de caso que cumpl&#x000ed;an los criterios de elegibilidad: autores, a&#x000f1;o de publicaci&#x000f3;n, n&#x000fa;mero de pacientes, edad y sexo de los pacientes, manifestaciones cl&#x000ed;nicas que presentaron, alteraciones endocrinas, tipos de estudios imagenol&#x000f3;gicos que fueron realizados inicialmente y al momento del diagn&#x000f3;stico y tratamiento empleado. Estos datos fueron recopilados en una tabla de Microsoft Excel donde fueron discriminados seg&#x000fa;n su tipo, es decir, en reportes de caso y series de casos.</p></list-item><list-item><title>Evaluaci&#x000f3;n de la calidad y riesgo de sesgos de los estudios:</title><p>La calidad de los reportes de caso fue evaluada con la JBI Critical Appraisal Checklist for Case Reports desarrollado por Joanna Briggs Institute, esta lista originalmente tiene 8 preguntas, pero se elimin&#x000f3; la pregunta relacionada con efectos adversos. Se asign&#x000f3; una puntuaci&#x000f3;n m&#x000e1;xima de 3 por cada pregunta, distribuida de esta forma: 0 (No aplica), 1(No cumple), 2 (No claro) y 3 (S&#x000ed; cumple). <xref rid="f1" ref-type="fig">Ver figura 1</xref>.
+</p><p>
+<fig position="float" id="f1"><graphic xlink:href="1853-0605-79-2-141-g001" position="float"/></fig>
+</p></list-item><list-item><title>S&#x000ed;ntesis de datos y an&#x000e1;lisis adicionales</title><p>Se realiz&#x000f3; una recopilaci&#x000f3;n de los datos comunes incluidos en los reportes de caso y series de caso, entre ellos se tuvo en cuenta la edad, el sexo, las manifestaciones cl&#x000ed;nicas, las alteraciones endocrinas, los estudios imagenol&#x000f3;gicos y el tratamiento, excluyendo del an&#x000e1;lisis aquellos datos que no eran repetidos en los reportes. Con Microsoft Excel se realizaron gr&#x000e1;ficas y tablas de los datos recopilados.</p></list-item></list></sec><sec sec-type="results"><title>RESULTADOS</title><sec><title>Selecci&#x000f3;n de estudios</title><p>El proceso de selecci&#x000f3;n de los estudios se bas&#x000f3; en los fundamentos PRISMA como se observa en la <xref rid="f2" ref-type="fig">figura 2</xref>. Se consideraron 8 art&#x000ed;culos de los 55 arrojados por la b&#x000fa;squeda bibliogr&#x000e1;fica.
+</p><p>
+<fig position="float" id="f2"><graphic xlink:href="1853-0605-79-2-141-g002" position="float"/></fig>
+</p></sec><sec><title>Evaluaci&#x000f3;n de la calidad de los estudios</title><p>El 57.1% de los estudios mostraban las caracter&#x000ed;sticas demogr&#x000e1;ficas del paciente (edad, g&#x000e9;nero, historia m&#x000e9;dica previa), el 71.4% describ&#x000ed;an las manifestaciones cl&#x000ed;nicas en un orden cronol&#x000f3;gico, s&#x000f3;lo un 14.2% manifestaron la condici&#x000f3;n cl&#x000ed;nica actual del paciente, todos describieron los ex&#x000e1;menes realizados a los pacientes, el 85% describieron la intervenci&#x000f3;n o tratamiento. Por otro lado, s&#x000f3;lo el 71.4% de los estudios detallaron la condici&#x000f3;n cl&#x000ed;nica del paciente posterior a la intervenci&#x000f3;n y ning&#x000fa;n estudio defini&#x000f3; claramente las lecciones aprendidas del caso reportado. En la <xref rid="t1" ref-type="table">tabla 1</xref> se muestran los resultados de la evaluaci&#x000f3;n.
+</p><table-wrap position="float" id="t1"><label>Tabla 1</label><caption><title>Manifestaciones cl&#x000ed;nicas encontradas en reportes de casos</title></caption><table frame="hsides" rules="groups" width="100"><thead><tr><th rowspan="1" colspan="1">Autor y a&#x000f1;o de publicaci&#x000f3;n</th><th rowspan="1" colspan="1">Edad</th><th rowspan="1" colspan="1">G&#x000e9;nero</th><th rowspan="1" colspan="1">Alteraci&#x000f3;n de conciencia</th><th rowspan="1" colspan="1">Alteraci&#x000f3;n de conciencia especifica</th><th rowspan="1" colspan="1">Cefalea</th><th rowspan="1" colspan="1">Localizaci&#x000f3;n de la cefalea</th><th rowspan="1" colspan="1">Alteraci&#x000f3;n en nervios craneales</th><th rowspan="1" colspan="1">Nauseas y/o V&#x000f3;mitos</th><th rowspan="1" colspan="1">Papiledema</th><th rowspan="1" colspan="1">Alteraci&#x000f3;n del reflejo pupilar</th><th rowspan="1" colspan="1">Hemianopsia bilateral</th><th rowspan="1" colspan="1">Perdida de la visi&#x000f3;n</th><th rowspan="1" colspan="1">Fonofobia</th><th rowspan="1" colspan="1">Examen actual de conciencia</th><th rowspan="1" colspan="1">Fiebre actual</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">
+<p>Sugita et al. (1995)</p>
+</td><td rowspan="1" colspan="1">
+<p>14</p>
+</td><td rowspan="1" colspan="1">
+<p>F</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No especifica</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (Bilateral)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Pinto et al. (1998)</p>
+</td><td rowspan="1" colspan="1">
+<p>14</p>
+</td><td rowspan="1" colspan="1">
+<p>F</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No especifica</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (No especifica)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Satyartthee et al. (2004)</p>
+</td><td rowspan="1" colspan="1">
+<p>13</p>
+</td><td rowspan="1" colspan="1">
+<p>M</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No especifica</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (No especifica)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Yang et al. (2005)</p>
+</td><td rowspan="1" colspan="1">
+<p>16</p>
+</td><td rowspan="1" colspan="1">
+<p>M</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (No especifica)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Chentli et al. (2012)</p>
+</td><td rowspan="1" colspan="1">
+<p>9</p>
+</td><td rowspan="1" colspan="1">
+<p>M</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Retroorbital</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (Unilateral)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Chen-Cheng et al. (2014)</p>
+</td><td rowspan="1" colspan="1">
+<p>14</p>
+</td><td rowspan="1" colspan="1">
+<p>F</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No especifica</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (Unilateral)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x000d6;z&#x000e7;etin et al. (2016)</p>
+</td><td rowspan="1" colspan="1">
+<p>9</p>
+</td><td rowspan="1" colspan="1">
+<p>M</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (VI PC)</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (Unilateral)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Anormal</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Zijlker et al. (2017)</p>
+</td><td rowspan="1" colspan="1">
+<p>13</p>
+</td><td rowspan="1" colspan="1">
+<p>M</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Somnolencia</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Frontal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td></tr></tbody></table><table-wrap-foot><p>F: Femenino; M: Masculino; VI PC: Sexto Par Craneal</p></table-wrap-foot></table-wrap></sec><sec><title>Reportes de casos</title><p>Se incluyeron 8 reportes de caso, 5 casos en poblaci&#x000f3;n pedi&#x000e1;trica masculina (62.5%) y 3 casos del g&#x000e9;nero femenino (37.5%). La mediana de edad fue de 13.5 a&#x000f1;os (RIQ: 3). Las manifestaciones cl&#x000ed;nicas abarcaron: cefalea, alteraci&#x000f3;n en la visi&#x000f3;n, n&#x000e1;useas y v&#x000f3;mitos, fiebre, compromiso de pares craneales y en menor medida compromiso del estado de conciencia. El 75% (n=6) de los pacientes curs&#x000f3; con cefalea, el 16.6% de localizaci&#x000f3;n frontal, 16.6% acompa&#x000f1;ado de dolor retroorbitario, y un 66.6% no especificaron la localizaci&#x000f3;n. Por otro lado, solo el 37.5% de los pacientes presentaron n&#x000e1;useas y/o v&#x000f3;mitos. Mientras que un 25% ingresaron con fiebre y un 12.5% (n=1) tuvieron cambios en el estado de conciencia. Ver <xref rid="t1" ref-type="table">tabla 1</xref>, <xref rid="t2" ref-type="table">2</xref> y <xref rid="t3" ref-type="table">3</xref> .
+</p><table-wrap position="float" id="t2"><label>Tabla 2</label><caption><title>Alteraciones endocrinas halladas en reportes de caso</title></caption><table frame="hsides" rules="groups" width="100%"><thead><tr><th rowspan="1" colspan="1">Autor y a&#x000f1;o de publicaci&#x000f3;n</th><th rowspan="1" colspan="1">Alteraci&#x000f3;n endocrina</th><th rowspan="1" colspan="1">Aumento de prolactina</th><th rowspan="1" colspan="1">Nivel de prolactina</th><th rowspan="1" colspan="1">Aumento HGH</th><th rowspan="1" colspan="1">Hipotiroidismo central</th><th rowspan="1" colspan="1">Hipocortisolismo</th><th rowspan="1" colspan="1">Hipogonadismo</th><th rowspan="1" colspan="1">Gigantismo</th><th rowspan="1" colspan="1">Alteraci&#x000f3;n IGF 1 e IGF3</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">
+<p>Sugita et al. (1995)</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>20.9ng/ml</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Pinto et al. (1998)</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>3,380 ng/ml</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Satyartthee et al. (2004)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Yang et al. (2005)</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>4,810 ng/ml</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Chentli et al. (2012)</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>470 ng/ml</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Chen-Cheng et al. (2014)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Normal</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>&#x000d6;z&#x000e7;etin et al. (2016)</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No reporta</p>
+</td><td rowspan="1" colspan="1">
+<p>No reporta</p>
+</td><td rowspan="1" colspan="1">
+<p>No reporta</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Zijlker et al. (2017)</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>24 ng/ml</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>Si</p>
+</td><td rowspan="1" colspan="1">
+<p>No</p>
+</td><td rowspan="1" colspan="1">
+<p>Si (Bajo)</p>
+</td></tr></tbody></table></table-wrap><table-wrap position="float" id="t3"><label>Tabla 3</label><caption><title>M&#x000e9;todos imagenol&#x000f3;gicos utilizado para el diagn&#x000f3;stioc, hallazgos imagenol&#x000f3;gicos y tratamiento utilizado</title></caption><table frame="hsides" rules="groups" width="100%"><thead><tr><th rowspan="1" colspan="1">Autor y a&#x000f1;o de publicaci&#x000f3;n</th><th rowspan="1" colspan="1">M&#x000e9;todo imagenol&#x000f3;gicos para el diagn&#x000f3;stico</th><th rowspan="1" colspan="1">Hallazgos</th><th rowspan="1" colspan="1">Tratamiento</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Sugita et al. (1995)</td><td rowspan="1" colspan="1">RX, TC, RMN</td><td rowspan="1" colspan="1">Masa supraselar, compresi&#x000f3;n del quiasma &#x000f3;ptico e hipot&#x000e1;lamo</td><td rowspan="1" colspan="1">Cirug&#x000ed;a</td></tr><tr><td rowspan="1" colspan="1">Pinto et al. (1998)</td><td rowspan="1" colspan="1">RMN con contraste y TC</td><td rowspan="1" colspan="1">Masa intra y supraselar, y compresi&#x000f3;n del quiasma &#x000f3;ptico</td><td rowspan="1" colspan="1">Farmacol&#x000f3;gico (bromocriptina - inicial, hidrocortisona y levotiroxina)</td></tr><tr><td rowspan="1" colspan="1">Satyartthee et al. (2004)</td><td rowspan="1" colspan="1">RX, TC, RMN, RMN con contraste, angiograf&#x000ed;a cerebral</td><td rowspan="1" colspan="1">Hemorragia subaracnoidea, masa supraselar y masa selar, proceso hemorr&#x000e1;gico en adenoma pituitario, elevaci&#x000f3;n del quiasma &#x000f3;ptico, no aneurisma y no malformaci&#x000f3;n arteriovenosa</td><td rowspan="1" colspan="1">Cirug&#x000ed;a</td></tr><tr><td rowspan="1" colspan="1">Yang et al. (2005)</td><td rowspan="1" colspan="1">RMN con contraste</td><td rowspan="1" colspan="1">Masa pituitaria y compresi&#x000f3;n del quiasma &#x000f3;ptico</td><td rowspan="1" colspan="1">Cirug&#x000ed;a</td></tr><tr><td rowspan="1" colspan="1">Chentli et al. (2012)</td><td rowspan="1" colspan="1">RMN y TC</td><td rowspan="1" colspan="1">Masa supraselar</td><td rowspan="1" colspan="1">Cirug&#x000ed;a</td></tr><tr><td rowspan="1" colspan="1">Chen-Cheng et al. (2014)</td><td rowspan="1" colspan="1">RMN</td><td rowspan="1" colspan="1">Proceso hemorr&#x000e1;gico y compresi&#x000f3;n del quiasma &#x000f3;ptico</td><td rowspan="1" colspan="1">No reporta</td></tr><tr><td rowspan="1" colspan="1">&#x000d6;z&#x000e7;etin et al. (2016)</td><td rowspan="1" colspan="1">RMN Y RMN con contraste</td><td rowspan="1" colspan="1">Masa selar, compresi&#x000f3;n del nervio &#x000f3;ptico y del quiasma &#x000f3;ptico</td><td rowspan="1" colspan="1">Farmarcol&#x000f3;gico (Hidrocortisona y levotiroxina) y cirug&#x000ed;a</td></tr><tr><td rowspan="1" colspan="1">Zijlker et al. (2017)</td><td rowspan="1" colspan="1">RMN Y RMN con contraste</td><td rowspan="1" colspan="1">Masa selar con extensi&#x000f3;n supraselar (2,5x2,0cm), compresi&#x000f3;n del quiasma &#x000f3;ptico y proceso hemorr&#x000e1;gico</td><td rowspan="1" colspan="1">Farmarcol&#x000f3;gico (Hidrocortisona y levotiroxina)</td></tr></tbody></table><table-wrap-foot><p>RX: Rayos X; TC: Tomograf&#x000ed;a Computarizda; RMN: Resonancia Magn&#x000e9;tica Nuclear</p></table-wrap-foot></table-wrap><p>Respecto al examen f&#x000ed;sico, en un 25% de los casos se detect&#x000f3; papiledema en el fondo de ojo, 12.5% (n=1) mostraron alteraciones en la respuesta a los reflejos fotomotores directo y/o consensual. S&#x000f3;lo 1 caso present&#x000f3; compromiso de un par craneal (VI nervio craneal). El 87.5% de los pacientes tuvieron alteraciones visuales, de estos el 12.5% implicaron un compromiso bilateral, el 50% con alteraci&#x000f3;n unilateral y 37.5% no especificaron. En 2 casos (25%) se detect&#x000f3; hemianopsia bitemporal. En relaci&#x000f3;n con el componente endocrino, en el 62.5% de los pacientes se demostr&#x000f3; una alteraci&#x000f3;n, de este grupo el 50% ten&#x000ed;an aumento en los niveles de prolactina. S&#x000f3;lo 2 casos reportaron un aumento en los niveles de la hormona del crecimiento, 1 paciente present&#x000f3; gigantismo, otro paciente curs&#x000f3; con hipogonadismo, hipocortisolismo e hipotiroidismo central.</p><p>El tratamiento utilizado fue la cirug&#x000ed;a en el 37.5% (n=4) de los pacientes, solo farmacol&#x000f3;gico en dos pacientes (25%) y en un solo paciente (12.5%) se utiliz&#x000f3; tratamiento farmacol&#x000f3;gico y quir&#x000fa;rgico. Sin embargo, en el &#x000fa;ltimo 25% de los pacientes el tratamiento no fue reportado, <xref rid="f3" ref-type="fig">ver figura 3</xref>.
+</p><p>
+<fig position="float" id="f3"><graphic xlink:href="1853-0605-79-2-141-g003" position="float"/></fig>
+</p></sec></sec><sec sec-type="discussion"><title>DISCUSI&#x000d3;N</title><p>La apoplej&#x000ed;a hipofisaria es un hecho potencialmente mortal, resultante de la hemorragia o el infarto de la gl&#x000e1;ndula pituitaria
+<sup><xref rid="B1" ref-type="bibr">1</xref>,
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+que, generalmente, se observa en macroadenomas hipofisiarios
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+.
+</p><p>El mecanismo por el cual se produce todav&#x000ed;a no est&#x000e1; definido, puede ser de causa espont&#x000e1;nea o asociado a factores que se consideran eventos precipitantes en la fisiopatolog&#x000ed;a de esta condici&#x000f3;n como trauma craneoencef&#x000e1;lico, radiaci&#x000f3;n, anestesia general y medicamentos, incluyendo agonistas dopamin&#x000e9;rgicos, anticoagulantes y antitromb&#x000f3;ticos
+<sup><xref rid="B3" ref-type="bibr">3-5</xref>,
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+.
+</p><p>Se han postulado diversas hip&#x000f3;tesis que permitir&#x000ed;an explicar la patogenia de la apoplej&#x000ed;a hipofisaria, dentro de las cuales se encuentran: oclusi&#x000f3;n del flujo sangu&#x000ed;neo debido a un crecimiento acelerado del tumor, disminuci&#x000f3;n en el aporte vascular, vasculopat&#x000ed;a intr&#x000ed;nseca o la presencia de anomal&#x000ed;as vasculares intratumorales
+<sup><xref rid="B9" ref-type="bibr">9</xref>,
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+.
+</p><p>Estudios han encontrado que los tumores hipofisarios son 5.4 veces m&#x000e1;s proclives al sangrado en comparaci&#x000f3;n con otros tumores intracraneales, probablemente por las hip&#x000f3;tesis mencionadas con anterioridad
+<sup><xref rid="B4" ref-type="bibr">4</xref>,<xref rid="B9" ref-type="bibr">9</xref>,
+<xref rid="B11" ref-type="bibr">11</xref>
+</sup>
+. El aporte del flujo sangu&#x000ed;neo en una hip&#x000f3;fisis normal est&#x000e1; dado est&#x000e1; dado principalmente por el sistema arterial, y en menor medida, por el sistema portal hipot&#x000e1;lamo-hipofisario, en contraste con las neoplasias en &#x000e9;sta gl&#x000e1;ndula; si aparece un tumor con un crecimiento acelerado, se podr&#x000ed;an generar distintas situaciones, ya sea individual o simult&#x000e1;neamente, en las que se presente el proceso apopl&#x000e9;tico, como no tener la capacidad de cubrir la demanda sangu&#x000ed;nea necesaria por una angiog&#x000e9;nesis disminuida, la fragilidad de los vasos sangu&#x000ed;neos tumorales, y/o la posible compresi&#x000f3;n de las arterias trabeculares provenientes de la arteria hipofisaria superior con el diafragma selar, todo esto resultando en una isquemia que r&#x000e1;pidamente se podr&#x000ed;a convertir en un proceso necro-hemorr&#x000e1;gico
+<sup><xref rid="B9" ref-type="bibr">9</xref>,<xref rid="B12" ref-type="bibr">12</xref>,
+<xref rid="B13" ref-type="bibr">13</xref>
+</sup>
+. Recientemente, se ha demostrado que las c&#x000e9;lulas tumorales hipofisarias son sensibles a la privaci&#x000f3;n de los niveles de glucosa, por tanto, una disminuci&#x000f3;n en estos podr&#x000ed;a tener un rol importante en la patogenia de &#x000e9;sta
+<sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+.
+</p><p>Los eventos traum&#x000e1;ticos pueden desencadenar un cuadro ictal en un tumor hipofisario; es el principal mecanismo propuesto para neoplasias con extensi&#x000f3;n supraselar, estos presentan una morfolog&#x000ed;a "dumbbell-like", donde la porci&#x000f3;n intra (sujeta a la silla turca) y extraselar (libre) est&#x000e1;n constre&#x000f1;idas por el diafragma selar, lo cual permite que est&#x000e9;n sujetos a un desgarro originado por fuerzas rotacionales aplicadas en el momento de un traumatismo craneoencef&#x000e1;lico
+<sup>
+<xref rid="B15" ref-type="bibr">15-17</xref>
+</sup>
+. Otros factores como fluctuaciones en la presi&#x000f3;n arterial sist&#x000e9;mica en pacientes sometidos a procesos quir&#x000fa;rgicos, resecci&#x000f3;n parcial de macroadenomas, pruebas de estimulaci&#x000f3;n hormonal, e incluso cuadros de v&#x000f3;mito o diarrea con presencia de maniobra de Valsalva pueden desencadenar el proceso apopl&#x000e9;ctico
+<sup><xref rid="B4" ref-type="bibr">4</xref>,<xref rid="B5" ref-type="bibr">5</xref>,
+<xref rid="B17" ref-type="bibr">17</xref>
+</sup>
+. Este sangrado aumentar&#x000ed;a la presi&#x000f3;n intraselar, y eventualmente la compresi&#x000f3;n de estructuras vecinas, apreciando su afectaci&#x000f3;n en las manifestaciones cl&#x000ed;nicas
+<sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+.
+</p><p>Las manifestaciones cl&#x000ed;nicas caracter&#x000ed;sticas incluyen cefaleas repentinas severas, alteraciones visuales y variedad de signos neurol&#x000f3;gicos
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+, tal como se encontr&#x000f3; en las series y reportes de caso de esta revisi&#x000f3;n. Tambi&#x000e9;n se podr&#x000ed;a encontrar alteraciones endocrinas como la deficiencia de una o m&#x000e1;s hormonas hipofisarias, como la hormona adrenocortic&#x000f3;tropa, la hormona del crecimiento, la prolactina y la hormona estimulante de la gl&#x000e1;ndula tiroidea, entre otras
+<sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+.
+</p><p>En los reportes de caso se hallaron alteraciones endocrinas como lo fueron el aumento en los niveles de prolactina y el gigantismo. Sin embargo, hay que tener en cuenta que estos hallazgos son variables y dependen de si se trata de un tumor funcionante o uno no funcionante. Por ejemplo, ante una apoplej&#x000ed;a hipofisaria, el d&#x000e9;ficit de prolactina y hormona del crecimiento, son marcadores de insuficiencia hipofisaria aguda y seg&#x000fa;n el nivel de deficiencia pueden se&#x000f1;alar una insuficiencia glandular grave, especialmente cuando sus valores descienden por debajo de 100 pmol/l en el caso de la prolactina y por debajo de 3-5 &#x003bc;g/l en el caso de la hormona de crecimiento seg&#x000fa;n la prueba de tolerancia a la insulina (valor referencial en adultos), ya que en la edad pedi&#x000e1;trica la hormona de crecimiento se segrega de manera puls&#x000e1;til y por lo tanto una estimaci&#x000f3;n al azar raras veces es &#x000fa;til, dependiendo principalmente de la estimaci&#x000f3;n del crecimiento
+<sup>
+<xref rid="B18" ref-type="bibr">18</xref>
+</sup>
+.
+</p><p>Para el diagn&#x000f3;stico en los pacientes incluidos en este estudio se utiliz&#x000f3; RM en el 100%(n=8), RM con contraste en el 62.5% (n=5), tomograf&#x000ed;a computarizada en el 50% (n=4), radiograf&#x000ed;a de cr&#x000e1;neo simple como m&#x000e9;todo inicial en el 25% (n=2), y en solo un paciente (12.5%) se realiz&#x000f3; angiograf&#x000ed;a cerebral. Los hallazgos encontrados fueron una masa selar en un paciente (12.5%), en dos pacientes una masa selar con extensi&#x000f3;n supraselar (25%), en otros dos pacientes se observ&#x000f3; solo una masa supraselar (25%), y en otro paciente (12.5%) se encontr&#x000f3; una masa intra y supraselar. Tambi&#x000e9;n se hallaron procesos hemorr&#x000e1;gicos en el 37.5% de los pacientes (n=3) y hemorragia subaracnoidea en uno de ellos (12.5%); hallazgos como la compresi&#x000f3;n del quiasma &#x000f3;ptico fue observada en el 72.5% de los pacientes (n=5), compresi&#x000f3;n de un nervio y quiasma en conjunto se vio en un paciente (12.5%), elevaci&#x000f3;n del quiasma &#x000f3;ptico en otro paciente (12.5%), y la compresi&#x000f3;n del hipot&#x000e1;lamo se hall&#x000f3; en solo un
+paciente (12.5%).
+</p><p>En la literatura cient&#x000ed;fica revisada se encontr&#x000f3; que existen dos pilares diagn&#x000f3;sticos que determinar&#x000e1;n la presencia de un caso de apoplej&#x000ed;a hipofisaria: la historia cl&#x000ed;nica y los ex&#x000e1;menes complementarios
+<sup>
+<xref rid="B2" ref-type="bibr">2-4</xref>
+</sup>
+. De acuerdo con la sintomatolog&#x000ed;a referida, se deben apreciar los posibles diagn&#x000f3;sticos diferenciales que con mayor frecuencia se presentan en la consulta, principalmente la hemorragia subaracnoidea y la meningitis bacteriana aguda
+<sup><xref rid="B4" ref-type="bibr">4</xref>,<xref rid="B10" ref-type="bibr">10</xref>,
+<xref rid="B16" ref-type="bibr">16</xref>
+</sup>
+. Pero es fundamental que, ante la sospecha cl&#x000ed;nica, se usen estudios imagenol&#x000f3;gicos, como la tomograf&#x000ed;a computarizada y principalmente, la resonancia nuclear magn&#x000e9;tica, los cuales van a ser los que realmente definan el diagn&#x000f3;stico de esta patolog&#x000ed;a
+<sup><xref rid="B4" ref-type="bibr">4</xref>,<xref rid="B9" ref-type="bibr">9</xref>,
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+.
+</p><p>La TC es el estudio de emergencia m&#x000e1;s usado en pacientes que debutan un cuadro de cefalea intensa s&#x000fa;bita; permite descartar la presencia de una hemorragia subaracnoidea en la fase aguda por la densidad de la sangre, y evidenciar la presencia de una masa con localizaci&#x000f3;n en la silla turca en el 80% de los casos
+<sup><xref rid="B4" ref-type="bibr">4</xref>,
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+. La detecci&#x000f3;n de lesiones hemorr&#x000e1;gicas en las fases subaguda y cr&#x000f3;nica, son mejores con el uso de la resonancia magn&#x000e9;tica
+<sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+.
+</p><p>La resonancia magn&#x000e9;tica muestra distintas caracter&#x000ed;sticas en las distintas modalidades seg&#x000fa;n el tiempo transcurrido despu&#x000e9;s de un sangrado inicial; en la fase aguda, se mostrar&#x000e1;n se&#x000f1;ales isointensas e hipointensas en las im&#x000e1;genes ofrecidas por las secuencias T1 y T2 respectivamente, debido al efecto magn&#x000e9;tico que ofrece la deoxihemoglobina; en la fase subaguda, se da el paso a metahemoglobina, en donde se evidenciar&#x000e1;n se&#x000f1;ales hiperintensas en T1 y de hipo/hiperintensidad en T2; el paso a hemosiderina se da en la etapa cr&#x000f3;nica, donde tanto en T1 como en T2, las se&#x000f1;ales ser&#x000e1;n hipointensas
+<sup><xref rid="B1" ref-type="bibr">1</xref>,<xref rid="B4" ref-type="bibr">4</xref>,
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+.
+</p><p>El tratamiento puede ser quir&#x000fa;rgico o farmacol&#x000f3;gico. Sin embargo, el uso de corticosteroides es fundamental y deben ser administrados tan pronto como se haga el diagn&#x000f3;stico
+<sup><xref rid="B13" ref-type="bibr">13</xref>,
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+, lo cual es acorde con lo que se evidenci&#x000f3; en los estudios incluidos en este trabajo. Del mismo modo, al comparar con el manejo que se hace en los adultos se evidenci&#x000f3; que la principal medida es el uso agudo de corticosteroides en altas dosis y dependiendo de si hay alteraciones visuales o no, se puede considerar la descompresi&#x000f3;n quir&#x000fa;rgica, la cual mejora no solo la visi&#x000f3;n sino tambi&#x000e9;n las alteraciones oculares motoras. Sin embargo, es importante destacar que la intervenci&#x000f3;n quir&#x000fa;rgica tiene mejores resultados si se efect&#x000fa;a dentro de los primeros siete d&#x000ed;as posteriores al infarto hipofisario
+<sup>
+<xref rid="B19" ref-type="bibr">19-20</xref>
+</sup>
+.
+</p><p>El pron&#x000f3;stico de esta entidad depende de la severidad del cuadro que se presente, variando de lesiones fatales en hemorragias intensas a una disminuci&#x000f3;n del tumor con o sin complicaciones neuroendocrinas; debido a los avances en los campos de la neurocirug&#x000ed;a y la endocrinolog&#x000ed;a, la mortalidad ha disminuido considerablemente, y las secuelas dadas en estos pacientes son menos frecuentes cada d&#x000ed;a
+<sup><xref rid="B3" ref-type="bibr">3</xref>,
+<xref rid="B16" ref-type="bibr">16</xref>
+</sup>
+.
+</p></sec></body><back><fn-group><fn fn-type="other"><p>
+<bold>Limitaciones</bold>
+En la presente revisi&#x000f3;n no se incluyeron las series de casos que involucraron tanto poblaci&#x000f3;n adulta como menores de 18 a&#x000f1;os, por ende, fue complicado realizar la extracci&#x000f3;n de datos y la evaluaci&#x000f3;n de sesgos en estos estudios mixtos. Por otro lado, en la actualidad a&#x000fa;n no se ha validado una escala universal para analizar la calidad metodol&#x000f3;gica y el riesgo de sesgos de los reportes y series de casos, debido a esto, s&#x000f3;lo se verific&#x000f3; si los estudios incluidos cumpl&#x000ed;an con la lista de chequeo desarrollada por Joanna Briggs Institute. Lo anterior sumado a la ubicaci&#x000f3;n de los reportes en la pir&#x000e1;mide de evidencia, sugiere una interpretaci&#x000f3;n cautelosa de los resultados presentados en la revisi&#x000f3;n.
+</p></fn><fn fn-type="other"><p>
+<bold>Responsabilidades &#x000e9;ticas:</bold>
+Protecci&#x000f3;n de personas y animales. Los autores declaran que para esta investigaci&#x000f3;n no se han realizado experimentos en seres humanos ni en animales.
+</p></fn><fn fn-type="other"><p>
+<bold>Confidencialidad de los datos.</bold>
+Los autores declaran que en este art&#x000ed;culo no aparecen datos de pacientes.
+</p></fn><fn fn-type="other"><p>
+<bold>Derecho a la privacidad y consentimiento informado.</bold>
+Los autores declaran que en este art&#x000ed;culo no aparecen datos de pacientes.
+</p></fn><fn fn-type="other"><p>
+<bold>Limitaciones de responsabilidad</bold>
+La responsabilidad del trabajo es exclusivamente de quienes colaboraron en la elaboraci&#x000f3;n del mismo.
+</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflictos de inter&#x000e9;s</bold>
+Ninguno
+</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo</bold>
+No posee
+</p></fn><fn fn-type="other"><p>
+<bold>Originalidad del trabajo</bold>
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.
+</p></fn><fn fn-type="other"><p>
+<bold>Cesi&#x000f3;n de derechos</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, ceden los derechos de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la Revista de la Facultad de Ciencias M&#x000e9;dicas y realizar las traducciones necesarias al idioma ingl&#x000e9;s.
+</p></fn><fn fn-type="other"><p>
+<bold>Participaci&#x000f3;n de los autores</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, han trabajado en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, haci&#x000e9;ndose p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.
+</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zijlker</surname><given-names>H</given-names></name>
+<name><surname>Schagen</surname><given-names>S</given-names></name>
+<name><surname>Wit</surname><given-names>JM</given-names></name>
+<name><surname>Biermasz</surname><given-names>N</given-names></name>
+<name><surname>van Furth</surname><given-names>W</given-names></name>
+<name><surname>Oostdijk</surname><given-names>W</given-names></name>
+</person-group><article-title>Pituitary Adenoma Apoplexy in an Adolescent: A Case Report and Review of the Literature</article-title><source>J Clin Res Pediatr Endocrinol</source><year iso-8601-date="2017-09-01">2017</year><month>Sep</month><day>1</day><volume>9</volume><issue>3</issue><fpage>265</fpage><lpage>273</lpage><pub-id pub-id-type="doi">10.4274/jcrpe.4420</pub-id><pub-id pub-id-type="pmid">28588003</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>&#x000d6;z&#x000e7;etin</surname><given-names>M</given-names></name>
+<name><surname>Karac&#x00131;</surname><given-names>M</given-names></name>
+<name><surname>Toroslu</surname><given-names>E</given-names></name>
+<name><surname>Edebali</surname><given-names>N</given-names></name>
+</person-group><article-title>A pediatric case of pituitary macroadenoma presenting with pituitary apoplexy and cranial nerve involvement: case report</article-title><source>Turk Pediatri Ars</source><year iso-8601-date="2016-09-01">2016</year><month>Sep</month><day>1</day><volume>51</volume><issue>3</issue><fpage>162</fpage><lpage>165</lpage><pub-id pub-id-type="doi">10.5152/TurkPediatriArs.2016.1945</pub-id><pub-id pub-id-type="pmid">27738402</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chentli</surname><given-names>F</given-names></name>
+<name><surname>Bey</surname><given-names>A</given-names></name>
+<name><surname>Belhimer</surname><given-names>F</given-names></name>
+<name><surname>Azzoug</surname><given-names>S</given-names></name>
+</person-group><article-title>Spontaneous resolution of pituitary apoplexy in a giant boy under 10 years old</article-title><source>J Pediatr Endocrinol Metab</source><year>2012</year><volume>25</volume><issue>11-12</issue><fpage>1177</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1515/jpem-2012-0256</pub-id><pub-id pub-id-type="pmid">23444479</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Briet</surname><given-names>C</given-names></name>
+<name><surname>Salenave</surname><given-names>S</given-names></name>
+<name><surname>Bonneville</surname><given-names>JF</given-names></name>
+<name><surname>Laws</surname><given-names>ER</given-names></name>
+<name><surname>Chanson</surname><given-names>P</given-names></name>
+</person-group><article-title>Pituitary Apoplexy</article-title><source>Endocr Rev</source><year iso-8601-date="2015-12">2015</year><month>Dec</month><volume>36</volume><issue>6</issue><fpage>622</fpage><lpage>45</lpage><pub-id pub-id-type="doi">10.1210/er.2015-1042</pub-id><pub-id pub-id-type="pmid">26414232</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mehrazin</surname><given-names>M</given-names></name>
+</person-group><article-title>Pituitary tumors in children: clinical analysis of 21 cases</article-title><source>Childs Nerv Syst</source><year iso-8601-date="2007-04">2007</year><month>Apr</month><volume>23</volume><issue>4</issue><fpage>391</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1007/s00381-006-0259-4</pub-id><pub-id pub-id-type="pmid">17143643</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>F</given-names></name>
+<name><surname>Chen</surname><given-names>J</given-names></name>
+<name><surname>Lu</surname><given-names>Y</given-names></name>
+<name><surname>Ding</surname><given-names>X</given-names></name>
+</person-group><article-title>Manifestation, management and outcome of subclinical pituitary adenoma apoplexy</article-title><source>J Clin Neurosci</source><year iso-8601-date="2009-10">2009</year><month>Oct</month><volume>16</volume><issue>10</issue><fpage>1273</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1016/j.jocn.2009.01.003</pub-id><pub-id pub-id-type="pmid">19577475</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Glezer</surname><given-names>A</given-names></name>
+<name><surname>Bronstein</surname><given-names>MD</given-names></name>
+</person-group><article-title>Pituitary apoplexy: pathophysiology, diagnosis and management</article-title><source>Arch Endocrinol Metab</source><year iso-8601-date="2015-06">2015</year><month>Jun</month><volume>59</volume><issue>3</issue><fpage>259</fpage><lpage>64</lpage><pub-id pub-id-type="doi">10.1590/2359-3997000000047</pub-id><pub-id pub-id-type="pmid">26154095</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ostrov</surname><given-names>SG</given-names></name>
+<name><surname>Quencer</surname><given-names>RM</given-names></name>
+<name><surname>Hoffman</surname><given-names>JC</given-names></name>
+<name><surname>Davis</surname><given-names>PC</given-names></name>
+<name><surname>Hasso</surname><given-names>AN</given-names></name>
+<name><surname>David</surname><given-names>NJ</given-names></name>
+</person-group><article-title>Hemorrhage within pituitary adenomas: how often associated with pituitary apoplexy syndrome?</article-title><source>AJR Am J Roentgenol</source><year iso-8601-date="1989-07">1989</year><month>Jul</month><volume>153</volume><issue>1</issue><fpage>153</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.2214/ajr.153.1.153</pub-id><pub-id pub-id-type="pmid">2735280</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jankowski</surname><given-names>PP</given-names></name>
+<name><surname>Crawford</surname><given-names>JR</given-names></name>
+<name><surname>Khanna</surname><given-names>P</given-names></name>
+<name><surname>Malicki</surname><given-names>DM</given-names></name>
+<name><surname>Ciacci</surname><given-names>JD</given-names></name>
+<name><surname>Levy</surname><given-names>ML</given-names></name>
+</person-group><article-title>Pituitary tumor apoplexy in adolescents</article-title><source>World Neurosurg</source><year iso-8601-date="2015-04">2015</year><month>Apr</month><volume>83</volume><issue>4</issue><fpage>644</fpage><lpage>51</lpage><pub-id pub-id-type="doi">10.1016/j.wneu.2014.12.026</pub-id><pub-id pub-id-type="pmid">25527883</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Satyarthee</surname><given-names>GD</given-names></name>
+<name><surname>Mahapatra</surname><given-names>AK</given-names></name>
+</person-group><article-title>Pituitary apoplexy in a child presenting with massive subarachnoid and intraventricular hemorrhage</article-title><source>J Clin Neurosci</source><year iso-8601-date="2005-01">2005</year><month>Jan</month><volume>12</volume><issue>1</issue><fpage>94</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1016/j.jocn.2003.10.030</pub-id><pub-id pub-id-type="pmid">15639425</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zijlker</surname><given-names>H</given-names></name>
+<name><surname>Schagen</surname><given-names>S</given-names></name>
+<name><surname>Wit</surname><given-names>JM</given-names></name>
+<name><surname>Biermasz</surname><given-names>N</given-names></name>
+<name><surname>van Furth</surname><given-names>W</given-names></name>
+<name><surname>Oostdijk</surname><given-names>W</given-names></name>
+</person-group><article-title>Pituitary Adenoma Apoplexy in an Adolescent: A Case Report and Review of the Literature</article-title><source>J Clin Res Pediatr Endocrinol</source><year iso-8601-date="2017-09-01">2017</year><month>Sep</month><day>1</day><volume>9</volume><issue>3</issue><fpage>265</fpage><lpage>273</lpage><pub-id pub-id-type="doi">10.4274/jcrpe.4420</pub-id><pub-id pub-id-type="pmid">28588003</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>BP</given-names></name>
+<name><surname>Yang</surname><given-names>CW</given-names></name>
+<name><surname>Mindea</surname><given-names>SA</given-names></name>
+<name><surname>Tomita</surname><given-names>T</given-names></name>
+</person-group><article-title>Pituitary apoplexy</article-title><source>Pediatr Radiol</source><year iso-8601-date="2005-08">2005</year><month>Aug</month><volume>35</volume><issue>8</issue><fpage>830</fpage><lpage>1</lpage><pub-id pub-id-type="doi">10.1007/s00247-005-1460-4</pub-id><pub-id pub-id-type="pmid">15864575</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pinto</surname><given-names>G</given-names></name>
+<name><surname>Zerah</surname><given-names>M</given-names></name>
+<name><surname>Trivin</surname><given-names>C</given-names></name>
+<name><surname>Brauner</surname><given-names>R</given-names></name>
+</person-group><article-title>Pituitary apoplexy in an adolescent with prolactin-secreting adenoma</article-title><source>Horm Res</source><year>1998</year><volume>50</volume><issue>1</issue><fpage>38</fpage><lpage>41</lpage><pub-id pub-id-type="doi">10.1159/000023199</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chao</surname><given-names>CC</given-names></name>
+<name><surname>Lin</surname><given-names>CJ</given-names></name>
+</person-group><article-title>Pituitary apoplexy in a teenager--case report</article-title><source>Pediatr Neurol</source><year iso-8601-date="2014-06">2014</year><month>Jun</month><volume>50</volume><issue>6</issue><fpage>648</fpage><lpage>51</lpage><pub-id pub-id-type="doi">10.1016/j.pediatrneurol.2014.02.004</pub-id><pub-id pub-id-type="pmid">24842258</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sugita</surname><given-names>S</given-names></name>
+<name><surname>Hirohata</surname><given-names>M</given-names></name>
+<name><surname>Tokutomi</surname><given-names>T</given-names></name>
+<name><surname>Yamashita</surname><given-names>M</given-names></name>
+<name><surname>Shigemori</surname><given-names>M</given-names></name>
+</person-group><article-title>A case of pituitary apoplexy in a child</article-title><source>Surg Neurol</source><year iso-8601-date="1995-02">1995</year><month>Feb</month><volume>43</volume><issue>2</issue><fpage>154</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/0090-3019(95)80127-3</pub-id><pub-id pub-id-type="pmid">7892661</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Serramito-Garc&#x000ed;a</surname><given-names>R</given-names></name>
+<name><surname>Garc&#x000ed;a-Allut</surname><given-names>A</given-names></name>
+<name><surname>Arcos-Algaba</surname><given-names>AN</given-names></name>
+<name><surname>Castro-Bouzas</surname><given-names>D</given-names></name>
+<name><surname>Sant&#x000ed;n-Amo</surname><given-names>JM</given-names></name>
+<name><surname>Gelabert-Gonz&#x000e1;lez</surname><given-names>M</given-names></name>
+</person-group><article-title>Apoplej&#x000ed;a pituitaria. Revisi&#x000f3;n del tema</article-title><trans-title xml:lang="en">Pituitary apoplexy. A review</trans-title><source>Neurocirugia (Astur)</source><year iso-8601-date="2011-02">2011</year><month>Feb</month><volume>22</volume><issue>1</issue><fpage>44</fpage><lpage>9</lpage><comment>Spanish</comment><pub-id pub-id-type="pmid">21384084</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Uchiyama</surname><given-names>H</given-names></name>
+<name><surname>Nishizawa</surname><given-names>S</given-names></name>
+<name><surname>Satoh</surname><given-names>A</given-names></name>
+<name><surname>Yokoyama</surname><given-names>T</given-names></name>
+<name><surname>Uemura</surname><given-names>K</given-names></name>
+</person-group><article-title>Post-traumatic pituitary apoplexy--two case reports</article-title><source>Neurol Med Chir (Tokyo)</source><year iso-8601-date="1999-01">1999</year><month>Jan</month><volume>39</volume><issue>1</issue><fpage>36</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.2176/nmc.39.36</pub-id><pub-id pub-id-type="pmid">10093459</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Higham</surname><given-names>CE</given-names></name>
+<name><surname>Johannsson</surname><given-names>G</given-names></name>
+<name><surname>Shalet</surname><given-names>SM</given-names></name>
+</person-group><article-title>Hypopituitarism</article-title><source>Lancet</source><year iso-8601-date="2016-11-12">2016</year><month>Nov</month><day>12</day><volume>388</volume><issue>10058</issue><fpage>2403</fpage><lpage>2415</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(16)30053-8</pub-id><pub-id pub-id-type="pmid">27041067</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Benza</surname><given-names>A</given-names></name>
+<name><surname>Machuca</surname><given-names>S</given-names></name>
+<name><surname>Manevy</surname><given-names>A</given-names></name>
+<name><surname>Rizzi</surname><given-names>A</given-names></name>
+<name><surname>Machuca</surname><given-names>O</given-names></name>
+<name><surname>Denis</surname><given-names>A</given-names></name>
+</person-group><article-title>Paciente con apoplej&#x000ed;a hipofisaria en el Hospital Central del Instituto de Previsi&#x000f3;n Social</article-title><source>Discover Medicine</source><year>2019</year><volume>2</volume><fpage>59</fpage><lpage>66</lpage></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hern&#x000e1;ndez</surname><given-names>A</given-names></name>
+<name><surname>Velasco</surname><given-names>D</given-names></name>
+</person-group><article-title>Apoplej&#x000ed;a hipofisaria en posoperatorio inmediato de cirug&#x000ed;a cardiaca: a prop&#x000f3;sito de un caso</article-title><source>Revista Chilena de Anestesia</source><year>2018</year><volume>47</volume><issue>3</issue><fpage>229</fpage><lpage>235</lpage></element-citation></ref></ref-list></back></article>

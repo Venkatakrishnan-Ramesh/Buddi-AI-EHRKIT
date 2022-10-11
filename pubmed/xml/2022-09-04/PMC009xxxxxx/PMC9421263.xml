@@ -1,0 +1,521 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Fertil Steril</journal-id><journal-id journal-id-type="iso-abbrev">Int J Fertil Steril</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>International Journal of Fertility &#x00026; Sterility</journal-title></journal-title-group><issn pub-type="ppub">2008-076X</issn><issn pub-type="epub">2008-0778</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36029050</article-id><article-id pub-id-type="pmc">PMC9421263</article-id><article-id pub-id-type="other">Int-J-Fertil-Steril-16-156</article-id><article-id pub-id-type="doi">10.22074/IJFS.2021.532258.1140</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject><subj-group><subject>Andrology</subject><subject>Gynecology and Female Infertility</subject></subj-group></subj-group></article-categories><title-group><article-title>Evaluation of Azoospermic Patients to Distinguish Obstructive
+from Non-Obstructive Azoospermia, and Necessity of
+Diagnostic Testis Biopsy: A Retrospective Study</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Shamohammadi</surname><given-names>Iman</given-names></name><degrees>M.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Sadighi Gilani</surname><given-names>Mohammad Ali</given-names></name><degrees>M.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A3" ref-type="aff">3</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Kazemeyni</surname><given-names>Seyed Mohammad</given-names></name><degrees>M.D</degrees><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Hasanzadeh</surname><given-names>Tara</given-names></name><degrees>M.D</degrees><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Taqi Dizaj</surname><given-names>Ahmad Vosough</given-names></name><degrees>M.D</degrees><xref rid="A3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Dizavi</surname><given-names>Alireza</given-names></name><degrees>M.Sc</degrees><xref rid="A3" ref-type="aff">3</xref></contrib><aff id="A1"><label>1</label>Department of Urology, Shariati Hospital, Tehran University of Medical Science, Tehran, Iran</aff><aff id="A2"><label>2</label>Department of Urology, Nemazee Hospital, Shiraz University of Medical Science, Shiraz, Iran</aff><aff id="A3"><label>3</label>Department of Reproductive Imaging, Reproductive Biomedicine Research Center, Royan Institute for Reproductive Biomedi-
+cine, ACECR, Tehran, Iran</aff></contrib-group><author-notes><corresp id="cor1">
+<label>*Corresponding Address: </label>
+<addr-line>P.O.Box: 1411713135</addr-line>
+<addr-line>Department of Urology</addr-line>
+<addr-line>Shariati Hospital</addr-line>
+<institution>Tehran University of Medical Science</institution>
+<addr-line>Tehran</addr-line>
+<country>Iran</country>
+Email:<email>masadighi@gmail.com</email>
+</corresp></author-notes><pub-date pub-type="ppub"><season>Jul-Sep</season><year>2022</year></pub-date><pub-date pub-type="epub"><day>21</day><month>8</month><year>2022</year></pub-date><volume>16</volume><issue>3</issue><fpage>156</fpage><lpage>161</lpage><history><date date-type="received"><day>16</day><month>6</month><year>2021</year></date><date date-type="accepted"><day>29</day><month>11</month><year>2021</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium,
+with the exception of commercial purposes, is permitted provided the original work is properly cited.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0) License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original
+work is properly cited. </license-p></license></permissions><abstract><sec><title>Background</title><p>Accurate etiology of azoospermia is required for optimal management of patients. The aim of this
+study was the determination of serum hormonal levels and testicular long axis cut off points to distinguish obstructive
+azoospermia (OA) from non-OA (NOA) in Iranian patients as well as the evaluation of the necessity of diagnostic
+testis biopsy in azoospermic patients.</p></sec><sec><title>Materials and Methods</title><p>In this retrospective study, data of 471 azoospermic patients such as history and physi-
+cal examination, serum hormonal level, semen fluid parameter, and testicular long axis based on ultrasound were
+evaluated from 2016 to 2020. All patients were examined by a single urologist and underwent a diagnostic testis
+biopsy for a definite diagnosis. The diagnostic parameters were analyzed using Statistical Package for the Social
+Sciences (SPSS) version 16 with t test and chi-square test and receiver operating characteristic (ROC) curves to
+distinguish NOA from OA.</p></sec><sec><title>Results</title><p>A total of 127 patients with OA and 284 with NOA were included in this study. The mean serum testosterone
+level was significantly higher in OA than NOA (4.2 vs. 3.4 ng/ml), whereas the mean serum follicular stimulating hor-
+mone (FSH, 5.3 vs. 19.1 mIU/ml) and luteinizing hormone (LH, 5.3 vs. 11 mIU/ml) were lower in OA. ROC curve analy-
+sis showed that FSH and testicular long axis were the best diagnostic predictors. Using a combination of serum FSH (8.9
+mIU/ml) and testicular long axis (39 mm), the positive predictive value for NOA was 97.02% and for OA was 78.8%.</p></sec><sec><title>Conclusion</title><p>Combination of serum FSH higher than 8.9 mIU/ml and testicular long axis lower than 39 mm were
+strong predictors to distinguish NOA from OA in Iranian participants in this study. In addition, diagnostic testicular
+biopsy seems to be necessary for patients with OA and NOA characteristics.</p></sec></abstract><kwd-group><kwd>Biopsy</kwd><kwd>Nonobstructive Azoospermia</kwd><kwd>Obstructive Azoospermia</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Shamohammadi I, Sadighi Gilani MA, Kazemeyni SM, Hasanzadeh T, Vosough Taqi Dizaj A, Dizavi A. Evaluation of azoospermic patients to distinguish
+obstructive from non-obstructive azoospermia, and necessity of diagnostic testis biopsy: a retrospective study. Int J Fertil Steril. 2022; 16(3): 156-161.
+doi: 10.22074/IJFS.2021.532258.1140.
+This open-access article has been published under the terms of the Creative Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0).</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Infertility is one of the major medical problems in
+the world (<xref rid="B1" ref-type="bibr">1</xref>). The prevalence of male infertility is
+unknown due to conflicting reports (<xref rid="B2" ref-type="bibr">2</xref>). One cause of
+male infertility is azoospermia, which is defined as a
+lack of sperm in semen analysis after centrifugation
+(<xref rid="B3" ref-type="bibr">3</xref>) and is confirmed by two consecutive semen tests
+(<xref rid="B4" ref-type="bibr">4</xref>). The prevalence of azoospermia is about 1 % in the
+general male population (<xref rid="B5" ref-type="bibr">5</xref>) and approximately 10%
+of infertile males (<xref rid="B6" ref-type="bibr">6</xref>). Azoospermia divides into two
+types, including obstructive azoospermia (OA) and
+non-OA (NOA) (<xref rid="B7" ref-type="bibr">7</xref>). About 40% of the azoospermic
+patient are in the OA group, which occurs secondary
+to a physical obstruction in sperm transfer from the
+testis to the urethra (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B9" ref-type="bibr">9</xref>). About 60% of azoospermic
+patients are in the NOA group, which occurs secondary
+to testicular failure in sperm production (<xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B11" ref-type="bibr">11</xref>).
+Accurate etiology of azoospermia is required for
+optimal management of patients (<xref rid="B12" ref-type="bibr">12</xref>). Sperm retrieval
+in NOA is done by microdissection testicular sperm
+extraction (mTESE) (<xref rid="B13" ref-type="bibr">13</xref>). OA is usually corrected by
+reconstructive microsurgery (<xref rid="B14" ref-type="bibr">14</xref>). There are several
+clinical and laboratory differences between OA and
+NOA that reduce the role of diagnostic testis biopsy (<xref rid="B15" ref-type="bibr">15</xref>). According to studies, a combination of testicular
+long axis with a cutoff point of 4.6 cm and serum FSH
+with a cutoff point of 7.6 mlU/mL could predict the type
+of azoospermia with high sensitivity and specificity
+(<xref rid="B16" ref-type="bibr">16</xref>). However, those levels of the published data
+regarding the differentiation between OA and NOA
+weren&#x02019;t applicable in our population. Therefore, we
+decided to conduct a study with the aim of determining
+serum hormonal level and testicular long axis cut off
+points to distinguish OA from NOA in Iranian patients.
+The necessity of diagnostic testis biopsy azoospermic
+patients was also evaluated in this study.</p></sec><sec sec-type="materials-methods"><title>Materials and Methods</title><sec><title>Patients</title><p>In this retrospective study, from 2016 to 2020, a total
+of 471 azoospermic patients were evaluated. The present
+study is approved by the Ethics Committee of Tehran
+University of Medical Sciences with the code of ethics
+(IR.TUMS.MEDICINE.REC.1399.1005). All male
+participants in this study were examined by a single
+urologist and underwent a diagnostic testes biopsy
+as well as testis ultrasound by a single radiologist.
+27 patients with a diagnosis of Klinefelter syndrome,
+9 patients with a diagnosis of hypogonadotropic
+hypogonadism and 24 patients due to incomplete file
+information were excluded from this study. Finally,
+411 azoospermic patients were evaluated, including
+284 NOA and 127 OA. Data of patients include age,
+height, weight, history of herniorrhaphy, history of
+vasectomy, history of varicocelectomy, history of
+epididymo-orchitis or urinary tract infection, history
+of cryptorchidism and orchiopexy, testicular volume
+estimation with orchidometer, palpation of the vas,
+testicular long axis based on ultrasound, serum FSH
+level, serum LH level, serum testosterone level, semen
+fluid analysis report for fructose, pH and volume, final
+testicular pathology report and microscopic report
+during testis biopsy were extracted from the files and
+were entered into a checklist.</p></sec><sec><title>Statistical analysis</title><p>The collected data was analyzed using Statistical
+Package for the Social Sciences (SPSS, SPSS Inc.,
+Chicago, IL, USA) version 16, with t-test and chi-square
+test. P&#x0003c;0.05 were considered statistically significant.
+The receiver operating characteristic (ROC) curve
+(<xref rid="B17" ref-type="bibr">17</xref>) was also used to determine the appropriate cutoff
+points for the hormonal profile and testicular long axis
+to distinguish NOA from OA. Accuracy was assessed by
+the area under the ROC curve (AUC), and results were
+considered to be excellent (AUC 0.9-1), good (AUC 0.8-
+0.9), fair (AUC 0.7-0.8), poor (AUC 0.6-0.7) and failed
+(AUC 0.5-0.6).
+</p></sec></sec><sec sec-type="results"><title>Results</title><p>In this study, 411 azoospermic patients were analyzed.
+All of them underwent diagnostic testis biopsy. 284
+cases (69.1%) were NOA and 127 cases (30.9%) were
+OA. Demographic information, history, and physical
+examination, testicular long axis based on ultrasound,
+hormonal profile, and semen fluid analysis are compared
+between NOA and OA in Table 1.</p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>Comparison of demographic and testis ultrasound and laboratory
+data between OA and NOA
+</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Baseline characteristics of patients</th><th rowspan="1" colspan="1">OA</th><th rowspan="1" colspan="1">NOA</th><th rowspan="1" colspan="1">P value<sup>*</sup></th></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">Patients (%)</td><td rowspan="1" colspan="1">127 (30.9)</td><td rowspan="1" colspan="1">284 (69.1)</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Age (Y)</td><td rowspan="1" colspan="1">33.10 &#x000b1; 6.22</td><td rowspan="1" colspan="1">31.91 &#x000b1; 5.03</td><td rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td rowspan="1" colspan="1">26.70 &#x000b1; 3.80</td><td rowspan="1" colspan="1">26.17 &#x000b1; 4.80</td><td rowspan="1" colspan="1">0.24</td></tr><tr><td align="left" rowspan="1" colspan="1">Genitourinary tractinfection </td><td rowspan="1" colspan="1">1 (0.7)</td><td rowspan="1" colspan="1">4 (1.4)</td><td rowspan="1" colspan="1">0.17</td></tr><tr><td align="left" rowspan="1" colspan="1">Epididymitis history </td><td rowspan="1" colspan="1">5 (3.9)</td><td rowspan="1" colspan="1">3 (1.1)</td><td rowspan="1" colspan="1">0.051</td></tr><tr><td align="left" rowspan="1" colspan="1">Unilateral UDT and orchiopexy </td><td rowspan="1" colspan="1">8 (6.2)</td><td rowspan="1" colspan="1">20 (7)</td><td rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" rowspan="1" colspan="1">Bilateral UDT and orchiopexy</td><td rowspan="1" colspan="1">5 (3.9)</td><td rowspan="1" colspan="1">12 (4.2)</td><td rowspan="1" colspan="1">0.57</td></tr><tr><td align="left" rowspan="1" colspan="1">Unilateral herniorrahphy</td><td rowspan="1" colspan="1">10 (7.9)</td><td rowspan="1" colspan="1">18 (6.3)</td><td rowspan="1" colspan="1">0.57</td></tr><tr><td align="left" rowspan="1" colspan="1">Bilateral herniorrahphy</td><td rowspan="1" colspan="1">4 (3.1)</td><td rowspan="1" colspan="1">6 (2.1)</td><td rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" rowspan="1" colspan="1">Unilateral varicocelectomy</td><td rowspan="1" colspan="1">15 (11.8)</td><td rowspan="1" colspan="1">33 (11.6)</td><td rowspan="1" colspan="1">0.96</td></tr><tr><td align="left" rowspan="1" colspan="1">Bilateral varicocelectomy</td><td rowspan="1" colspan="1">7 (5.5)</td><td rowspan="1" colspan="1">11 (3.9)</td><td rowspan="1" colspan="1">0.45</td></tr><tr><td align="left" rowspan="1" colspan="1">Bilateral vasectomy</td><td rowspan="1" colspan="1">4 (3.1)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" rowspan="1" colspan="1">At least one palpable vas </td><td rowspan="1" colspan="1">103 (81.1)</td><td rowspan="1" colspan="1">283 (99.6)</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Testis volume in P/E (ml)</td><td rowspan="1" colspan="1">19.06 &#x000b1; 4.50</td><td rowspan="1" colspan="1">10.50 &#x000b1; 5.45</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Testis length in P/E (cm)</td><td rowspan="1" colspan="1">3.89 &#x000b1; 0.38</td><td rowspan="1" colspan="1">2.78 &#x000b1; 1.13</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Testis longitudinal axis in ultrasound (mm)</td><td rowspan="1" colspan="1">39.83 &#x000b1; 3.36</td><td rowspan="1" colspan="1">33.05 &#x000b1; 6.00</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Volume of semen fluid (ml)</td><td rowspan="1" colspan="1">1.66 &#x000b1; 1.51</td><td rowspan="1" colspan="1">2.85 &#x000b1; 1.53</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">PH of semen fluid</td><td rowspan="1" colspan="1">7.08 &#x000b1; 0.61</td><td rowspan="1" colspan="1">7.72 &#x000b1; 0.23</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Fructose of semen fluid (mg/dl)</td><td rowspan="1" colspan="1">77.04 &#x000b1; 114.80</td><td rowspan="1" colspan="1">202.02 &#x000b1; 91.50</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Serum LH (mIU/ml)</td><td rowspan="1" colspan="1">5.33 &#x000b1; 3.05</td><td rowspan="1" colspan="1">11.05 &#x000b1; 6.16</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Serum FSH(mIU/ml)</td><td rowspan="1" colspan="1">5.30 &#x000b1; 4.11</td><td rowspan="1" colspan="1">19.11 &#x000b1; 10.61</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Serum testosterone (ng/ml)</td><td rowspan="1" colspan="1">4.26 &#x000b1; 1.86</td><td rowspan="1" colspan="1">3.40 &#x000b1; 1.75</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>Data are presented as mean &#x000b1; SD or n (%). OA; Obstructive azoospermia, NOA; Nonobstructive azoospermia, BMI; Body mass index, UDT; Undescended testis, P/E; Physical
+examination, LH; Luteinizing hormone, FSH; Follicular stimulating hormone, and *;
+Analysed with t test or chi-square.</p></fn></table-wrap-foot></table-wrap><p>OA patients had a mean age (33.1 years) and BMI
+(26.7). NOA patients had a mean age (31.9 years) and
+BMI (26.1). There were no significant differences
+between the two groups about age, BMI, history of
+urinary tract infections and epididymo-orchitis, history
+of UDT and orchiopexy, history of varicocelectomy, and
+herniorrhaphy (P&#x0003e;0.05). Only 4 out of 127 OA patients
+had a history of vasectomy. Clinical examination
+findings including at least one palpable vas, testis size,
+testis volume, and also the testicular long axis base on ultrasound were significant differences between the
+two groups (P&#x0003c;0.05). OA patients had significantly
+greater testis size than NOA patients (P&#x0003c;0.05). The
+mean serum testosterone level in OA (4.26 ng/ml) was
+significantly more than NOA (3.40 ng/ml). The mean
+serum FSH level in OA (5.3 mIU/ml) was significantly
+lower than NOA (19.11 mIU/ml), and similarly, the
+mean serum LH level in OA was significantly lower
+than NOA (P&#x0003c;0.05). Semen fluid analysis findings
+including volume, pH and fructose in OA were
+significantly lower than NOA (P&#x0003c;0.05). ROC curve
+analysis was performed to determine cutoff points for
+differentiation between OA and NOA. Figure 1 shows
+the ROC curve for serum FSH, LH, testosterone level,
+and testicular long axis.</p><fig position="float" id="F1"><label>Fig 1</label><caption><p>ROC curve for serum hormonal level and testicular long axis. Testis
+length (0.85), FSH (0.92), LH (0.81), and testosterone (0.65). ROC; Receiver
+operating characteristic, FSH; Follicular stimulating hormone, and LH;
+Luteinizing hormone.</p></caption><graphic xlink:href="Int-J-Fertil-Steril-16-156-g01" position="float"/></fig><p>According to Figure 1, serum FSH with a curved area
+(0.92), the testicular long axis with a curved area (0.85)
+and serum LH with a curved area (0.81) had excellent
+accuracy for differentiating OA from NOA, but serum
+testosterone with a curve area (0.64) had poor accuracy for
+differentiating OA from NOA. Based on the ROC curve
+by determining the cut off point 8.9 mIU/ml for serum
+FSH with the sensitivity of 85%, specificity of 77%, the
+positive predictive value of 92%, the negative predictive
+value of 62%, accuracy of 80%, and determining the cut
+off point 39 mm for testicular long axis with the sensitivity
+of 83%, specificity of 87%, positive predictive value
+93%, the negative predictive value of 70%, accuracy of
+84% can differentiate between OA and NOA. According
+to Table 2, by combination cut off points of serum FSH
+and testicular long axis with the highest accuracy, 69%
+of NOA patients had FSH &#x02265;8.9 mIU/ml &#x00026; testicular long
+axis &#x0003c;39 mm, and 76% of OA patients had FSH&#x0003c;8.9 mIU/
+ml &#x00026; testicular long axis &#x02265;39 mm. These differences were
+significant (P&#x0003c;0.05).</p><p>Based on the ROC curve, a combination of serum FSH
+level and testicular long axis had sensitivity (88.28%),
+specificity (94.17%), positive predictive value (97.02%),
+negative predictive value (78.86%) and accuracy
+(90.15%) for differentiating NOA from OA. According
+to Table 3, we can predict that azoospermic patients with
+serum FSH &#x02265;8.9 mIU/ml &#x00026; testicular long axis &#x0003c;39 mm
+are in the NOA group (positive predictive value 97.02%),
+and azoospermic patients with FSH &#x0003c;8.9 mIU/ml and
+testicular long axis &#x02265;39 mm are in OA group (positive
+predictive value 78.86%).
+</p><table-wrap position="float" id="T2"><label>Table 2</label><caption><p>Combining testis longitudinal axis size and FSH for differentiation
+NOA from OA</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">FSH and testis length of patients</th><th rowspan="1" colspan="1">OA</th><th rowspan="1" colspan="1">NOA</th><th rowspan="1" colspan="1">P value<sup>*</sup></th></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">FSH&#x0003c;8.9 and testis length&#x02265;39 mm</td><td rowspan="1" colspan="1">97 (76.4)</td><td rowspan="1" colspan="1">26 (9.2)</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">FSH&#x0003c;8.9 and testis length&#x0003c;39 mm</td><td rowspan="1" colspan="1">11 (8.7)</td><td rowspan="1" colspan="1">40 (14.1)</td><td rowspan="1" colspan="1">0.12</td></tr><tr><td align="left" rowspan="1" colspan="1">FSH&#x02265;8.9 and testis length&#x02265;39 mm</td><td rowspan="1" colspan="1">13 (10.2)</td><td rowspan="1" colspan="1">22 (7.7)</td><td rowspan="1" colspan="1">0.40</td></tr><tr><td align="left" rowspan="1" colspan="1">FSH&#x02265;8.9 and testis length&#x0003c;39 mm</td><td rowspan="1" colspan="1">6 (4.7)</td><td rowspan="1" colspan="1">196 (69)</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>Data are presented as n (%). FSH; Follicular stimulating hormone, NOA; Non-obstructive
+azoospermia, OA; Obstructive azoospermia, and *; Analysed with chi-square.
+</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="T3"><label>Table 3</label><caption><p>Positive predicting value for NOA or OA using testicular long axis
+and FSH</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">FSH and testis length of patients</th><th rowspan="1" colspan="1">OA</th><th rowspan="1" colspan="1">NOA</th><th rowspan="1" colspan="1">PPV for NOA</th><th rowspan="1" colspan="1">PPV for OA</th></tr><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">FSH&#x0003c;8.9 and testis length&#x02265;39</td><td rowspan="1" colspan="1">97 (76.4)</td><td rowspan="1" colspan="1">26 (9.2)</td><td rowspan="1" colspan="1">-</td><td rowspan="1" colspan="1">78.86</td></tr><tr><td align="left" rowspan="1" colspan="1">FSH&#x02265;8.9 and testis length&#x0003c;39</td><td rowspan="1" colspan="1">6 (4.7)</td><td rowspan="1" colspan="1">196 (69)</td><td rowspan="1" colspan="1">97.02</td><td rowspan="1" colspan="1">-</td></tr><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>Data are presented as n (%) or %. NOA; Non obstructive azoospermia, OA; Obstructive
+azoospermia, FSH; Follicular stimulating hormone, and PPV; Positive predictive value.
+</p></fn></table-wrap-foot></table-wrap><p>The final pathological reports of azoospermic patients are
+shown in Table 4. Sertoli cell-only syndrome pattern was the
+most common pathology in azoospermic patients (37%).</p><p>According to Table 4, normal spermatogenesis pattern
+in the group of azoospermic patients with FSH &#x0003c;8.9 mIU/
+ml and testicular long axis &#x02265;39 mm, and Sertoli cell only
+syndrome pattern in the group of azoospermic patients
+with FSH &#x02265;8.9 mIU/ml and testicular long axis &#x0003c;39
+mm were most common pathological reports (P&#x0003c;0.05).
+Photomicrographs describing pathological reports are
+shown in Figure 2.</p><fig position="float" id="F2"><label>Fig 2</label><caption><p>Photomicrographs pathological reports of testis biopsy. <bold>A. </bold>Normal spermatogenesis,
+<bold>B. </bold>Hypo spermatogenesis, <bold>C. </bold>Maturation arrest, <bold>D.
+</bold>Sertoli cell only syndrome, <bold>E.</bold> Lydig cell hyperplasia, and <bold>F.
+</bold>Mixed pattern (scale bar: 20 &#x000b5;m).</p></caption><graphic xlink:href="Int-J-Fertil-Steril-16-156-g02" position="float"/></fig><table-wrap position="float" id="T4"><label>Table 4</label><caption><p>Pathological report of testis biopsy specimen in azoospermic patients</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="6" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Report of pathology</th><th rowspan="1" colspan="1">Azoospermic patients (n=411)</th><th rowspan="1" colspan="1">FSH&#x0003c;8.9 and testis length&#x0003c;39 (n=51)</th><th rowspan="1" colspan="1">FSH&#x0003c;8.9 and testis length&#x02265;39 (n=123)</th><th rowspan="1" colspan="1">FSH&#x02265;8.9 and testis length&#x02265;39(n=35)</th><th rowspan="1" colspan="1">FSH&#x02265;8.9 and testis length&#x0003c;39 (n=202)</th></tr><tr><th colspan="6" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">Normal spermatogenesis</td><td rowspan="1" colspan="1">127 (30.8)</td><td rowspan="1" colspan="1">11 (21.6)</td><td rowspan="1" colspan="1">97 (78.9)</td><td rowspan="1" colspan="1">13 (37.15)</td><td rowspan="1" colspan="1">6 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypo spermatogenesis</td><td rowspan="1" colspan="1">29 (7.1)</td><td rowspan="1" colspan="1">5 (9.8)</td><td rowspan="1" colspan="1">4 (3.3)</td><td rowspan="1" colspan="1">6 (17.15)</td><td rowspan="1" colspan="1">14 (6.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Germ cell maturation arrest</td><td rowspan="1" colspan="1">62 (15.1)</td><td rowspan="1" colspan="1">9 (17.6)</td><td rowspan="1" colspan="1">15 (12.2)</td><td rowspan="1" colspan="1">7 (20)</td><td rowspan="1" colspan="1">31 (15.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sertoli cell only syndrome</td><td rowspan="1" colspan="1">152 (37)</td><td rowspan="1" colspan="1">19 (37.3)</td><td rowspan="1" colspan="1">4 (3.3)</td><td rowspan="1" colspan="1">5 (14.3)</td><td rowspan="1" colspan="1">124 (61.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Lydig cell hyperplasia</td><td rowspan="1" colspan="1">12 (2.9)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">12 (5.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypo spermatogenesis and maturation arrest (mixed)</td><td rowspan="1" colspan="1">29 (7.1)</td><td rowspan="1" colspan="1">7 (13.7)</td><td rowspan="1" colspan="1">3 (2.4)</td><td rowspan="1" colspan="1">4 (11.4)</td><td rowspan="1" colspan="1">15 (7.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">P value<sup>*</sup></td><td rowspan="1" colspan="1">0.0001</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1">0.0001</td><td rowspan="1" colspan="1">0.015</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><th colspan="6" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>Data are presented as n (%). FSH; Follicular stimulating hormone and *
+; Analysed with chi-square</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><p>Azoospermia is one of the most common male infertility
+factors evaluated in various studies (<xref rid="B18" ref-type="bibr">18</xref>). Determination
+type of azoospermia helps urologists to treat patients
+appropriately. OA patients will undergo reconstructive
+surgery if possible. Otherwise, they will undergo sperm
+retrieval by testis biopsy for in vitro fertilization/
+intracytoplasmic sperm injection (IVF/ICSI). NOA
+patients are candidates for sperm retrieval by testis biopsy
+(<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B19" ref-type="bibr">19</xref>). If sperm was not found, they are candidates
+for sperm donation (<xref rid="B20" ref-type="bibr">20</xref>, <xref rid="B21" ref-type="bibr">21</xref>). Several studies show that
+azoospermic patients can be correctly sorted into OA
+or NOA groups with multiple diagnostic parameters.
+Usually, testis volume in OA is normal, whereas in NOA
+is less than normal (<xref rid="B7" ref-type="bibr">7</xref>). The results of our study support
+this finding significantly. The average testis volume
+with an orchidometer in OA is 19.06 ml and in NOA is
+10.5 ml. The average testicular long axis measured in
+ultrasound for OA is 39.83 mm and for NOA is 33.05
+mm. A history of genital infections or epididymo-orchitis
+can obstruct an inflammatory process and the production
+of antibodies (<xref rid="B22" ref-type="bibr">22</xref>). However, in this study, a history of
+epididymo-orchitis or genitourinary system infections
+were no significant association with OA or NOA. The
+history of an undescended testis (UDT) and orchiopexy is
+a risk factor for azoospermia. In fact, UDT is associated
+with spermatogenic dysfunction (<xref rid="B23" ref-type="bibr">23</xref>), but findings in the
+present study show that the history of UDT and orchiopexy
+cannot differentiate OA from NOA. In the absence of
+bilateral vas deferens, evaluation of the CFTR panel for
+cystic fibrosis is recommended (<xref rid="B24" ref-type="bibr">24</xref>). Our finding similar
+to other studies show that lack of bilateral palpation of
+vas deferens is associated with OA significantly. In these
+patients spermatogenesis is normal and IVF/ICSI can be
+used for fertilization (<xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B26" ref-type="bibr">26</xref>). Usually, OA patients with
+ejaculatory ducts obstruction have semen analysis with
+features of low volume, low pH, and low fructose level.
+Trans-rectal ultrasound is helpful for the diagnosis of
+these patients (<xref rid="B27" ref-type="bibr">27</xref>). The results of this study also confirm
+that in OA patients compared to NOA, the mean semen
+parameters, including volume, pH, and fructose are
+significantly lower than normal. NOA includes primary
+testicular failure (high serum FSH with small testis
+size), secondary testicular failure (low serum FSH with
+small testis size), or incomplete features such as elevated
+FSH with normal testis, small testis with normal FSH,
+and normal testis with normal FSH. Maturation arrest
+histopathology is associated with normal serum FSH and
+normal testis size, while Sertoli cell only histopathology
+is associated with high serum FSH and small testis size
+(<xref rid="B28" ref-type="bibr">28</xref>). The results of our study also confirm this finding,
+since the most common pathology in NOA with normal
+serum FSH and normal testis size was maturation arrest
+and the most common pathology in NOA with high serum
+FSH and small testis size was Sertoli cell only.</p><p>According to Schoor et al. (<xref rid="B16" ref-type="bibr">16</xref>) study, differentiating
+with high accuracy between OA and NOA is possible by
+a combination of serum FSH and testis size. Their results
+showed that mean serum FSH, LH, and testosterone levels
+in NOA were significantly higher than OA. According to
+the results of this study, similar to Schoor&#x02019;s study data,
+the mean serum FSH and LH in NOA were significantly
+higher than OA, however, the mean serum testosterone
+in NOA was significantly lower than OA which is in
+contrast with Schoor's results. Based on the ROC curve in
+this study, similar to Schoor et al. (<xref rid="B16" ref-type="bibr">16</xref>) and Huang&#x02019;s study
+(<xref rid="B29" ref-type="bibr">29</xref>), serum FSH level and testis size have been identified
+as the best criteria for predicting the differentiation of OA
+from NOA. The best serum FSH level cut off points for
+differentiating OA from NOA was 7.6 mIU/ml (sensitivity
+77%) in Schoor&#x02019;s study, 9.2 mIU/ml (sensitivity 89%) in
+Huang&#x02019;s study, and 8.9 mIU/ml (sensitivity 85%) in the
+present study. The best testicular long axis cut off point
+for differentiating OA from NOA were 46 mm (sensitivity
+72%) in Schoor&#x02019;s study and 39 mm (sensitivity of 83%) in
+our study. This discrepancy between testicular long axis
+cut off points is likely due to ethnic and racial differences.
+For example, testis size in Asian races was significantly
+smaller than in Caucasians (<xref rid="B30" ref-type="bibr">30</xref>, <xref rid="B31" ref-type="bibr">31</xref>). Azoospermic
+patients with testicular long axis lower than cut off point
+and serum FSH level higher than cut off point, based on
+Schoor&#x02019;s study (89% probability), Huang's study (99%
+probability), and our study (97% probability) are in NOA
+group. Azoospermic patients with testicular long axis
+greater than cut off point and serum FSH level lower than
+cut off point, based on Schoor&#x02019;s study (96% probability), Huang's study (81% probability), and our study (78%
+probability) are in OA group.</p><p>The role of diagnostic testicular biopsy in these patients
+is questionable. According to Shoor&#x02019;s study in the
+Campbell-Walsh-Wein urology textbook (<xref rid="B16" ref-type="bibr">16</xref>, <xref rid="B32" ref-type="bibr">32</xref>), patients
+with a high level of serum FSH and small testis size are
+NOA with 89% probability. These patients are candidates
+for mTESE and IVF/ICSI or sperm cryopreservation
+without diagnostic testicular biopsy. However, due to the
+impossibility of using sperm donation in some centers
+such as our center, a diagnostic testicular biopsy to find
+sperm for cryopreservation is recommended with our
+team. Then, if sperm are found, their female partners
+are candidates for IVF/ICSI. Therefore, inappropriate
+treatment costs and medical complications for the patient&#x02019;s
+female partners are reduced. Also, according to Shoor&#x02019;s
+study, patients who have low serum FSH and normal
+testis size are in the OA group with 96% probability.
+These patients are candidates for reconstructive surgery
+or testis biopsy and sperm extraction alone depending
+on their reproductive goals. According to our results,
+23.6% of patients in the OA group did not have serum
+FSH levels less than 8.9 mIU/ml and a long testicular
+axis of more than 39 mm. If a diagnostic testicular biopsy
+is not performed in this group of OA patients, they may
+be misclassified in the NOA group and are candidates
+for mTESE with ICSI, which increases related risks of
+ovulation induction for patients&#x02019; female partners and also
+wastes unnecessary treatment costs. On the other hand,
+21.1% of patients with serum FSH levels less than 8.9
+mIU/ml and a long testicular axis of more than 39 mm
+were in the NOA group. If a diagnostic testicular biopsy
+is not performed in this group of NOA patients, they
+may be misclassified in the OA group and are candidates
+for reconstructive microsurgery or are recommended
+for MESA or TESA with ICSI. Therefore, diagnostic
+testicular biopsy seems to be necessary for patients with
+OA and NOA characteristics.</p><p>This study has several limitations. First, we did not evaluate mTESE results of NOA
+patients with negative TESE. Second, since the spermatogenesis is not uniform in the testis
+and it could be patchy so the single testis biopsy cannot show the whole pattern of the
+spermatogenesis. Third, data of some patients were incomplete and we had to exclude these
+patients from the study.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>In Iranian patients, azoospermic patients are predictable
+by the higher level of serum FSH than 8.9 mIU/ml as
+well as testicular long axis lower than 39 mm with 97%
+probability in NOA group. Azoospermic patients with
+serum FSH levels lower than 8.9 mIU/ml and testicular
+long axis greater than 39 mm with 78% probability in
+the OA group are also predictable. Findings in this study
+also emphasize the need for adjusting cut off points based
+on patients' ethnicity and race to improve diagnosis.
+In addition, diagnostic testicular biopsy seems to be
+necessary for patients with OA and NOA characteristics.</p></sec></body><back><ack><title>Acknowledgements</title><p>The authors would like to thank Dr. Goodarzian for
+providing photomicrographs describing the pathological
+report. We thank all individuals who provided help in this
+study, especially the Royan Institute staff. There is no
+financial support associated with this study. The authors
+declare no conflict of interest. </p></ack><bio id="d64e820"><title>Authors&#x02019; Contributions</title><p>I.S.; Participated in study design, data collection, evaluation,
+and interpretation of data. S.M.K.; Participated in study
+design and interpretation of data. A.V.T.D.; Participated in
+testicular ultrasound and data collection related to testicular
+size. T.H.; Participated in the collection, interpretation of
+data, and drafting the manuscript. A.R.D.; Participated in the
+pathological data gathering and statistical analysis. M.A.S.G.;
+Participated in both study design and interpretation of data,
+and was responsible for overall supervision. All authors read
+and approved the final manuscript.</p></bio><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Venkatesh</surname><given-names>T</given-names></name>
+<name><surname>Suresh</surname><given-names>PS</given-names></name>
+<name><surname>Tsutsumi</surname><given-names>R</given-names></name>
+</person-group><article-title>New insights into the genetic basis of infertility</article-title><source>Appl Clin Genet</source><year>2014</year><volume>7</volume><fpage>235</fpage><lpage>243</lpage><pub-id pub-id-type="pmid">25506236</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghuman</surname><given-names>N</given-names></name>
+<name><surname>Ramalingam</surname><given-names>M</given-names></name>
+</person-group><article-title>Male infertility</article-title><source>Obstet Gynaecol Reprod Med</source><year>2018</year><volume>28</volume><issue>1</issue><fpage>7</fpage><lpage>14</lpage></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jequier</surname><given-names>AM</given-names></name>
+</person-group><article-title>Semen analysis: a new manual and its application to the understanding of semen and its pathology</article-title><source>Asian J Urol</source><year>2010</year><volume>12</volume><issue>1</issue><fpage>11</fpage><lpage>11</lpage></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gudeman</surname><given-names>SR</given-names></name>
+<name><surname>Townsend</surname><given-names>B</given-names></name>
+<name><surname>Fischer</surname><given-names>K</given-names></name>
+<name><surname>Walters</surname><given-names>RC</given-names></name>
+<name><surname>Crain</surname><given-names>D</given-names></name>
+</person-group><article-title>Etiology of azoospermia in a military population</article-title><source>J Urol</source><year>2015</year><volume>193</volume><issue>4</issue><fpage>1318</fpage><lpage>1321</lpage><pub-id pub-id-type="pmid">25444960</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nieschlag</surname><given-names>E</given-names></name>
+<name><surname>Lenzi</surname><given-names>A</given-names></name>
+</person-group><article-title>The conventional management of male infertility</article-title><source>Int J Gynecol</source><year>2013</year><volume>123</volume><fpage>S31</fpage><lpage>35</lpage></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kumar</surname><given-names>N</given-names></name>
+<name><surname>Choudhari</surname><given-names>AR</given-names></name>
+<name><surname>Singh</surname><given-names>AK</given-names></name>
+</person-group><article-title>Prevalence of male factor infertility in last ten years at a rural tertiary care centre of central India: a retrospective analysis</article-title><source>Indian J Obstet Gynecol Res</source><year>2015</year><volume>2</volume><issue>3</issue><fpage>132</fpage><lpage>136</lpage></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yoon</surname><given-names>YE</given-names></name>
+<name><surname>Lee</surname><given-names>HH</given-names></name>
+<name><surname>Park</surname><given-names>SY</given-names></name>
+<name><surname>Moon</surname><given-names>HS</given-names></name>
+<name><surname>Kim</surname><given-names>DS</given-names></name>
+<name><surname>Song</surname><given-names>SH</given-names></name>
+<etal/>
+</person-group><article-title>The role of vasoepididymostomy for treatment of obstructive azoospermia in the era of in vitro fertilization: a systematic review and meta-analysis</article-title><source>Asian J Androl</source><year>2018</year><volume>21</volume><issue>1</issue><fpage>67</fpage><lpage>73</lpage></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wosnitzer</surname><given-names>MS</given-names></name>
+<name><surname>Goldstein</surname><given-names>M</given-names></name>
+</person-group><article-title>Obstructive azoospermia</article-title><source>Urol Clin North Am</source><year>2014</year><volume>41</volume><issue>1</issue><fpage>83</fpage><lpage>95</lpage><pub-id pub-id-type="pmid">24286769</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wosnitzer</surname><given-names>M</given-names></name>
+<name><surname>Goldstein</surname><given-names>M</given-names></name>
+<name><surname>Hardy</surname><given-names>MP</given-names></name>
+</person-group><article-title>Review of azoospermia</article-title><source>Spermatogenesis</source><year>2014</year><volume>4</volume><fpage>e28218</fpage><lpage>e28218</lpage><pub-id pub-id-type="pmid">25105055</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ezeh</surname><given-names>UI</given-names></name>
+</person-group><article-title>Beyond the clinical classification of azoospermia: opinion</article-title><source>Hum Reprod</source><year>2000</year><volume>15</volume><issue>11</issue><fpage>2356</fpage><lpage>1259</lpage><pub-id pub-id-type="pmid">11056132</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Akhondi</surname><given-names>MM</given-names></name>
+<name><surname>Sedighi</surname><given-names>MA</given-names></name>
+<name><surname>Amirjannati</surname><given-names>N</given-names></name>
+<name><surname>Sadri-Ardekani</surname><given-names>H</given-names></name>
+</person-group><article-title>Use of spermatide for treatment of non-obstructive azoospermic patients</article-title><source>J Reprod Infertil</source><year>2003</year><volume>4</volume><issue>3</issue></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cocuzza</surname><given-names>M</given-names></name>
+<name><surname>Alvarenga</surname><given-names>C</given-names></name>
+<name><surname>Pagani</surname><given-names>R</given-names></name>
+</person-group><article-title>The epidemiology and etiology of azoospermia</article-title><source>Clinics (Sao Paulo)</source><year>2013</year><volume>68</volume><issue>Suppl 1</issue><fpage>15</fpage><lpage>26</lpage><pub-id pub-id-type="pmid">23503951</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Franco</surname><given-names>G</given-names></name>
+<name><surname>Scarselli</surname><given-names>F</given-names></name>
+<name><surname>Casciani</surname><given-names>V</given-names></name>
+<name><surname>De Nunzio</surname><given-names>C</given-names></name>
+<name><surname>Dente</surname><given-names>D</given-names></name>
+<name><surname>Leonardo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>A novel stepwise micro-TESE approach in non obstructive azoospermia</article-title><source>BMC Urol</source><year>2016</year><volume>16</volume><issue>1</issue><fpage>20</fpage><lpage>20</lpage><pub-id pub-id-type="pmid">27176005</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Coward</surname><given-names>RM</given-names></name>
+<name><surname>Mills</surname><given-names>JN</given-names></name>
+</person-group><article-title>A step-by-step guide to office-based sperm retrieval for obstructive azoospermia</article-title><source>Transl Androl Urol</source><year>2017</year><volume>6</volume><issue>4</issue><fpage>730</fpage><lpage>744</lpage><pub-id pub-id-type="pmid">28904906</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jungwirth</surname><given-names>A</given-names></name>
+<name><surname>Giwercman</surname><given-names>A</given-names></name>
+<name><surname>Tournaye</surname><given-names>H</given-names></name>
+<name><surname>Diemer</surname><given-names>T</given-names></name>
+<name><surname>Kopa</surname><given-names>Z</given-names></name>
+<name><surname>Dohle</surname><given-names>G</given-names></name>
+<etal/>
+</person-group><article-title>european association of urology guidelines on male infertility: the 2012 update</article-title><source>Eur Urol</source><year>2012</year><volume>62</volume><issue>2</issue><fpage>324</fpage><lpage>332</lpage><pub-id pub-id-type="pmid">22591628</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schoor</surname><given-names>RA</given-names></name>
+<name><surname>Elhanbly</surname><given-names>S</given-names></name>
+<name><surname>Niederberger</surname><given-names>CS</given-names></name>
+<name><surname>Ross</surname><given-names>LS</given-names></name>
+</person-group><article-title>The role of testicular biopsy in the modern management of male infertility</article-title><source>J Urol</source><year>2002</year><volume>167</volume><issue>1</issue><fpage>197</fpage><lpage>200</lpage><pub-id pub-id-type="pmid">11743304</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Unal</surname><given-names>I</given-names></name>
+</person-group><article-title>Defining an optimal cut-point value in ROC analysis: an alternative approach</article-title><source>Comput Math Methods Med</source><year>2017</year><volume>2017</volume><fpage>3762651</fpage><lpage>3762651</lpage><pub-id pub-id-type="pmid">28642804</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Agarwal</surname><given-names>A</given-names></name>
+<name><surname>Panner Selvam</surname><given-names>MK</given-names></name>
+<name><surname>Baskaran</surname><given-names>S</given-names></name>
+<name><surname>Finelli</surname><given-names>R</given-names></name>
+<name><surname>Leisegang</surname><given-names>K</given-names></name>
+<name><surname>Barb&#x00103;ro&#x0015f;ie</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>A scientometric analysis of research publications on male infertility and assisted reproductive technology</article-title><source>Andrologia</source><year>2021</year><volume>53</volume><issue>1</issue><fpage>e13842</fpage><lpage>e13842</lpage><pub-id pub-id-type="pmid">33236365</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shah</surname><given-names>R</given-names></name>
+<name><surname>Gupta</surname><given-names>C</given-names></name>
+</person-group><article-title>Advances in sperm retrieval techniques in azoospermic men: a systematic review</article-title><source>Arab J Urol</source><year>2017</year><volume>16</volume><issue>1</issue><fpage>125</fpage><lpage>131</lpage><pub-id pub-id-type="pmid">29713543</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><collab>Brugh VM 3rd, Lipshultz LI</collab><article-title>Male factor infertility: evaluation and management</article-title><source>Med Clin North Am</source><year>2004</year><volume>88</volume><issue>2</issue><fpage>367</fpage><lpage>385</lpage><pub-id pub-id-type="pmid">15049583</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>J</given-names></name>
+<name><surname>Yap</surname><given-names>C</given-names></name>
+</person-group><article-title>Embryo donation: a review</article-title><source>Acta Obstet Gynecol Scand</source><year>2003</year><volume>82</volume><issue>11</issue><fpage>991</fpage><lpage>996</lpage><pub-id pub-id-type="pmid">14616271</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pilatz</surname><given-names>A</given-names></name>
+<name><surname>Kilb</surname><given-names>J</given-names></name>
+<name><surname>Kaplan</surname><given-names>H</given-names></name>
+<name><surname>Fietz</surname><given-names>D</given-names></name>
+<name><surname>Hossain</surname><given-names>H</given-names></name>
+<name><surname>Sch&#x000fc;ttler</surname><given-names>CG</given-names></name>
+<etal/>
+</person-group><article-title>High prevalence of urogenital infection/inflammation in patients with azoospermia does not impede surgical sperm retrieval</article-title><source>Andrologia</source><year>2019</year><volume>51</volume><issue>10</issue><fpage>e13401</fpage><lpage>e13401</lpage><pub-id pub-id-type="pmid">31456226</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Caroppo</surname><given-names>E</given-names></name>
+<name><surname>Niederberger</surname><given-names>C</given-names></name>
+<name><surname>Elhanbly</surname><given-names>S</given-names></name>
+<name><surname>Schoor</surname><given-names>R</given-names></name>
+<name><surname>Ross</surname><given-names>L</given-names></name>
+<name><surname>D'Amato</surname><given-names>G</given-names></name>
+</person-group><article-title>Effect of cryptorchidism and retractile testes on male factor infertility: a multicenter, retrospective, chart review</article-title><source>Fertil Steril</source><year>2005</year><volume>83</volume><issue>5</issue><fpage>1581</fpage><lpage>1584</lpage><pub-id pub-id-type="pmid">15866613</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McCallum</surname><given-names>T</given-names></name>
+<name><surname>Milunsky</surname><given-names>J</given-names></name>
+<name><surname>Munarriz</surname><given-names>R</given-names></name>
+<name><surname>Carson</surname><given-names>R</given-names></name>
+<name><surname>Sadeghi-Nejad</surname><given-names>H</given-names></name>
+<name><surname>Oates</surname><given-names>R</given-names></name>
+</person-group><article-title>Unilateral renal agenesis associated with congenital bilateral absence of the vas deferens: phenotypic findings and genetic considerations</article-title><source>Hum Reprod</source><year>2001</year><volume>16</volume><issue>2</issue><fpage>282</fpage><lpage>288</lpage><pub-id pub-id-type="pmid">11157821</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Esteves</surname><given-names>SC</given-names></name>
+<name><surname>Lee</surname><given-names>W</given-names></name>
+<name><surname>Benjamin</surname><given-names>DJ</given-names></name>
+<name><surname>Seol</surname><given-names>B</given-names></name>
+<name><surname>Verza S</surname><given-names>Jr</given-names></name>
+<name><surname>Agarwal</surname><given-names>A</given-names></name>
+</person-group><article-title>Reproductive potential of men with obstructive azoospermia undergoing percutaneous sperm retrieval and intracytoplasmic sperm injection according to the cause of obstruction</article-title><source>J Urol</source><year>2013</year><volume>189</volume><issue>1</issue><fpage>232</fpage><lpage>237</lpage><pub-id pub-id-type="pmid">23174251</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Janzen</surname><given-names>N</given-names></name>
+<name><surname>Goldstein</surname><given-names>M</given-names></name>
+<name><surname>Schlegel</surname><given-names>PN</given-names></name>
+<name><surname>Palermo</surname><given-names>GD</given-names></name>
+<name><surname>Rosenwaks</surname><given-names>Z</given-names></name>
+<name><surname>Hariprashad</surname><given-names>J</given-names></name>
+</person-group><article-title>Use of electively cryopreserved microsurgically aspirated epididymal sperm with IVF and intracytoplasmic sperm injection for obstructive azoospermia</article-title><source>Fertil Steril</source><year>2000</year><volume>74</volume><issue>4</issue><fpage>696</fpage><lpage>701</lpage><pub-id pub-id-type="pmid">11020509</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Modgil</surname><given-names>V</given-names></name>
+<name><surname>Rai</surname><given-names>S</given-names></name>
+<name><surname>Ralph</surname><given-names>DJ</given-names></name>
+<name><surname>Muneer</surname><given-names>A</given-names></name>
+</person-group><article-title>An update on the diagnosis and management of ejaculatory duct obstruction</article-title><source>Nat Rev Urol</source><year>2016</year><volume>13</volume><issue>1</issue><fpage>13</fpage><lpage>20</lpage><pub-id pub-id-type="pmid">26620608</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gonsalves</surname><given-names>J</given-names></name>
+<name><surname>Sun</surname><given-names>F</given-names></name>
+<name><surname>Schlegel</surname><given-names>PN</given-names></name>
+<name><surname>Turek</surname><given-names>PJ</given-names></name>
+<name><surname>Hopps</surname><given-names>CV</given-names></name>
+<name><surname>Greene</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>Defective recombination in infertile men</article-title><source>Hum Mol Genet</source><year>2004</year><volume>13</volume><issue>22</issue><fpage>2875</fpage><lpage>2883</lpage><pub-id pub-id-type="pmid">15385442</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>IS</given-names></name>
+<name><surname>Huang</surname><given-names>WJ</given-names></name>
+<name><surname>Lin</surname><given-names>AT</given-names></name>
+</person-group><article-title>Distinguishing non-obstructive azoospermia from obstructive azoospermia in Taiwanese patients by hormone profile and testis size</article-title><source>J Chin Med Assoc</source><year>2018</year><volume>81</volume><issue>6</issue><fpage>531</fpage><lpage>535</lpage><pub-id pub-id-type="pmid">29079114</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kuiri-H&#x000e4;nninen</surname><given-names>T</given-names></name>
+<name><surname>Seuri</surname><given-names>R</given-names></name>
+<name><surname>Tyrv&#x000e4;inen</surname><given-names>E</given-names></name>
+<name><surname>Turpeinen</surname><given-names>U</given-names></name>
+<name><surname>H&#x000e4;m&#x000e4;l&#x000e4;inen</surname><given-names>E</given-names></name>
+<name><surname>Stenman</surname><given-names>UH</given-names></name>
+<etal/>
+</person-group><article-title>Increased activity of the hypothalamic-pituitary- testicular axis in infancy results in increased androgen action in premature boys</article-title><source>J Clin Endocrinol Metab</source><year>2011</year><volume>96</volume><issue>1</issue><fpage>98</fpage><lpage>105</lpage><pub-id pub-id-type="pmid">20881260</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Thankamony</surname><given-names>A</given-names></name>
+<name><surname>Pasterski</surname><given-names>V</given-names></name>
+<name><surname>Ong</surname><given-names>KK</given-names></name>
+<name><surname>Acerini</surname><given-names>CL</given-names></name>
+<name><surname>Hughes</surname><given-names>IA</given-names></name>
+</person-group><article-title>Anogenital distance as a marker of androgen exposure in humans</article-title><source>Andrology</source><year>2016</year><volume>4</volume><issue>4</issue><fpage>616</fpage><lpage>625</lpage><pub-id pub-id-type="pmid">26846869</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Wein</surname><given-names>AJ</given-names></name>
+<name><surname>kavoussi</surname><given-names>LR</given-names></name>
+<name><surname>Partin</surname><given-names>AW</given-names></name>
+<name><surname>Peters</surname><given-names>CA</given-names></name>
+</person-group><source>Campbell Walsh urology</source><edition>12th ed</edition><publisher-loc>Philadelphia, USA</publisher-loc><publisher-name>Elsevier</publisher-name><year>2021</year><size units="page">1447</size></element-citation></ref></ref-list></back></article>

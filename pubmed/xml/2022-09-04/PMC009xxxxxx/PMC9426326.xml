@@ -1,0 +1,335 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="case-report"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700466</article-id><article-id pub-id-type="pmc">PMC9426326</article-id><article-id pub-id-type="publisher-id">32922</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.32922</article-id><article-categories><subj-group subj-group-type="heading"><subject>Casos Cl&#x000ed;nicos</subject></subj-group></article-categories><title-group><article-title>Miocardiopat&#x000ed;a dilatada en paciente con Granulomatosis Eosinof&#x000ed;lica con Poliange&#x000ed;tis (Churg Strauss) Presentaci&#x000f3;n de un caso.</article-title><trans-title-group xml:lang="en"><trans-title>Dilated cardiomyopathy in a patient with Eosinophilic Granulomatosis with Polyangiitis (Churg Strauss) Case Report.</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Miocardiopatia dilatada em paciente com granulomatose eosinof&#x000ed;lica com poliangite. Relato de um caso.</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-8125-7929</contrib-id><name><surname>Lozita</surname><given-names>Julieta</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>julilozita@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0001-9878-6512</contrib-id><name><surname>Vicent&#x000ed;n</surname><given-names>Judith Mail&#x000e9;n</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>judithmvicentin@gmail.com</email></contrib><contrib contrib-type="author"><name><surname>Melgarejo Otarola</surname><given-names>Mar&#x000ed;a Florencia</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>flormelgarejo85@hotmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-0485-7541</contrib-id><name><surname>Paolasso</surname><given-names>Jorge Andr&#x000e9;s</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>jorgepaolasso@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-8615-5999</contrib-id><name><surname>Angel Colque</surname><given-names>Roberto Miguel</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>dr.miguelcolque@outlook.es</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0001-9521-7365</contrib-id><name><surname>Sarmiento</surname><given-names>Pablo Ezequiel</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>pabloesarmiento@gmail.com</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Sanatorio Allende, Servicio de Cardiolog&#x000ed;a</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Sanatorio Allende. Unidad de Cuidados Coronarios</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>193</fpage><lpage>196</lpage><history><date date-type="received" iso-8601-date="2021-05-02"><day>02</day><month>5</month><year>2021</year></date><date date-type="accepted" iso-8601-date="2021-12-14"><day>14</day><month>12</month><year>2021</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/32922/37938">https://revistas.unc.edu.ar/index.php/med/article/view/32922/37938</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/32922/37964">https://revistas.unc.edu.ar/index.php/med/article/view/32922/37964</self-uri><abstract><title>Resumen</title><p>La granulomatosis eosinof&#x000ed;lica con poliange&#x000ed;tis (GEPA), anteriormente conocida como s&#x000ed;ndrome de Churg-Strauss, es una patolog&#x000ed;a poco frecuente que pertenece al grupo de enfermedades caracterizadas por vasculitis necrotizante de vasos sangu&#x000ed;neos sist&#x000e9;micos de peque&#x000f1;o y mediano calibre. La afectaci&#x000f3;n cardiovascular sintom&#x000e1;tica ocurre entre un 27% a un 47% de los casos de GEPA, siendo una de las manifestaciones m&#x000e1;s graves. El diagn&#x000f3;stico suele confirmarse con biopsia de tejido con infiltraci&#x000f3;n de eosin&#x000f3;filos pero, en casos seleccionados, con la reciente inclusi&#x000f3;n de la resonancia card&#x000ed;aca, podemos prescindir de ella.</p><p>El diagn&#x000f3;stico precoz es importante debido a que el tratamiento oportuno suele asociarse con mejor&#x000ed;a del cuadro.</p></abstract><trans-abstract xml:lang="en"><title>Abstract</title><p>Eosinophilic granulomatosis with polyangiitis, formerly known as Churg-Strauss Syndrome, is a rare pathology that belongs to the group of diseases characterized by necrotizing vasculitis of small and medium-sized systemic blood vessels. Symptomatic cardiovascular involvement occurs in 27% to 47% of Churg-Strauss cases, being one of the most serious manifestations. The diagnosis is usually confirmed with tissue biopsy showing eosinophil infiltration, but in selected cases with the recent inclusion of cardiac MRI, we can dispense with it. Early diagnosis is important because early treatment is usually associated with improvement in the condition.</p></trans-abstract><trans-abstract xml:lang="pt"><title>Resumo</title><p>A granulomatose eosinof&#x000ed;lica compoliangiite &#x000e9; uma patologia pouco frequente que pertence ao grupo de enfermidade caracterizada por vasculite necrotizante dos vasos sangu&#x000ed;neos sist&#x000ea;micos de pequeno e m&#x000e9;dio calibre. A afeta&#x000e7;&#x000e3;o cardiovascular sintom&#x000e1;tica ocorre entre 27% a 47% dos casos de Churg Strauss, sendouma das manifesta&#x000e7;&#x000f5;esmais graves. O diagn&#x000f3;stico geralmente se confirma combi&#x000f3;psia de tecido mostrando a infiltra&#x000e7;&#x000e3;o de eosin&#x000f3;filos, mascom a recenteinclus&#x000e3;o da resson&#x000e2;ncia card&#x000ed;aca, podemos prescindir de la.</p><p>O diagn&#x000f3;stico precoce &#x000e9; importante devido que o tratamento oportuno geralmente se associa com melhoria do quadro.</p></trans-abstract><kwd-group><title>Palabras clave</title><kwd>cardiomiopat&#x000ed;a dilatada</kwd><kwd>s&#x000ed;ndrome de churg-strauss</kwd><kwd>insuficiencia card&#x000ed;aca</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>cardiomyopathy</kwd><kwd>dilated</kwd><kwd>churg-strauss syndrome</kwd><kwd>heart failure</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>cardiomiopatia dilatada</kwd><kwd>s&#x000ed;ndrome de churg-strauss</kwd><kwd>insufici&#x000ea;ncia card&#x000ed;aca</kwd></kwd-group><counts><fig-count count="2"/><table-count count="2"/><equation-count count="0"/><ref-count count="15"/><page-count count="4"/></counts></article-meta></front><body><boxed-text position="float"><p>La granulomatosis eosinof&#x000ed;lica con poliange&#x000ed;tis es una enfermedad poco frecuente que produce inflamaci&#x000f3;n de los vasos sangu&#x000ed;neos sist&#x000e9;micos de peque&#x000f1;o y mediano calibre. Seg&#x000fa;n la localizaci&#x000f3;n de dichos vasos, ser&#x000e1;n los &#x000f3;rganos afectados. La afectaci&#x000f3;n card&#x000ed;aca suele tener mal pron&#x000f3;stico, por lo que el diagn&#x000f3;stico precoz es importante debido a que el tratamiento oportuno suele asociarse con mejor&#x000ed;a del cuadro.</p></boxed-text><boxed-text position="float"><sec><title>Conceptos clave</title><sec><title>Qu&#x000e9; se sabe sobre el tema:</title><list list-type="bullet"><list-item><p>La granulomatosis eosinof&#x000ed;lica con poliange&#x000ed;tis es una vasculitis infrecuente, multisist&#x000e9;mica caracterizada por rinosinusitis cr&#x000f3;nica, asma y eosinofilia en sangre perif&#x000e9;rica.</p></list-item><list-item><p>El compromiso cardiovascular es una de las manifestaciones m&#x000e1;s graves de la GEPA, representando aproximadamente la mitad de la muerte de estos pacientes.</p></list-item><list-item><p>Pacientes con compromiso card&#x000ed;aco suelen ser ANCA negativos.</p></list-item></list></sec><sec><title>Qu&#x000e9; aporta este trabajo:</title><list list-type="bullet"><list-item><p>Presentaci&#x000f3;n de un caso de GEPA con compromiso card&#x000ed;aco acorde a lo descrito en la bibliograf&#x000ed;a.</p></list-item><list-item><p>El uso de la resonancia card&#x000ed;aca como complemento diagn&#x000f3;stico.</p></list-item><list-item><p>Demostraci&#x000f3;n de mejor&#x000ed;a cl&#x000ed;nica e imagenol&#x000f3;gica posterior a tratamiento oportuno.</p></list-item></list></sec></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCION</title><p>La granulomatosis eosinof&#x000ed;lica con poliange&#x000ed;tis (GEPA), anteriormente conocido como s&#x000ed;ndrome de Churg-Strauss, pertenece al grupo de enfermedades caracterizadas por vasculitis necrotizante de vasos sangu&#x000ed;neos de peque&#x000f1;o y mediano calibre.
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+La prevalencia oscila entre 7,3 y 17,8 por cada mill&#x000f3;n de habitantes y su incidencia anual entre 0,9 y 2,4 por millones de habitantes.
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+</p><p>Los &#x000f3;rganos m&#x000e1;s com&#x000fa;nmente afectados son los pulmones y la piel. La afectaci&#x000f3;n cardiovascular sintom&#x000e1;tica ocurre entre un 27% a un 47% de los casos de Churg-Strauss
+<sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+</sup>
+, siendo esta una de las manifestaciones m&#x000e1;s graves, representando aproximadamente el 50% de las muertes por esta enfermedad.
+<sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+Dentro de las manifestaciones incluyen pericarditis, hipertensi&#x000f3;n arterial, valvulopat&#x000ed;as, miocarditis eosinof&#x000ed;lica, arritmias y/o insuficiencia card&#x000ed;aca congestiva.
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+Presentaremos un caso de s&#x000ed;ndrome de GEPA con compromiso cardiovascular con buena respuesta al tratamiento farmacol&#x000f3;gico oportuno.
+</p></sec><sec sec-type="cases"><title>CASO CL&#x000cd;NICO</title><p>Paciente masculino de 49 a&#x000f1;os de edad, con antecedentes de ACV isqu&#x000e9;mico 5 a&#x000f1;os atr&#x000e1;s, asma, sinusitis cr&#x000f3;nica y GEPA diagnosticado a partir de una biopsia de nervio sural derecho por polineuropat&#x000ed;a de miembros inferiores asociada a eosinofilia sist&#x000e9;mica. Consulta por epigastralgia de 4 meses de evoluci&#x000f3;n asociada a disnea progresiva clase funcional III y edemas en miembros inferiores por lo cual curs&#x000f3; internaci&#x000f3;n en otra instituci&#x000f3;n con diagn&#x000f3;stico presuntivo de insuficiencia card&#x000ed;aca descompensada secundaria a miocardiopat&#x000ed;a dilatada con funci&#x000f3;n sist&#x000f3;lica severamente deteriorada (Fracci&#x000f3;n de Eyecci&#x000f3;n de 31%). Es derivado a nuestra instituci&#x000f3;n para completar estudios y tratamiento.</p><p>Al examen f&#x000ed;sico se evidenci&#x000f3; edema de miembros inferiores, ingurgitaci&#x000f3;n yugular, reflujo hepatoyugular y cr&#x000e9;pitos en ambos campos pulmonares hasta 1/3 medio.</p><p>El laboratorio de ingreso present&#x000f3; eosinofilia y valores elevados de troponinas T de alta sensibilidad (22.5 ng/l), Nt-proBNP (6546 pg/ml) y D&#x000ed;mero D (1260 ng/ml). Se complet&#x000f3; el laboratorio con perfil reumatol&#x000f3;gico, encontrando una marcada elevaci&#x000f3;n de IgE (1556 UI/ml, valor normal: menor a 100). Las serolog&#x000ed;as virales y de Chagas fueron negativas.</p><p>El electrocardiograma mostr&#x000f3; extras&#x000ed;stoles ventriculares frecuentes que alternan con ritmo sinusal y latidos de fusi&#x000f3;n, bloqueo completo de rama derecha y hemibloqueo anterior izquierdo. En el ecocardiograma Doppler se inform&#x000f3; dilataci&#x000f3;n biventricular con deterioro de la funci&#x000f3;n sist&#x000f3;lica del ventr&#x000ed;culo izquierdo (Fracci&#x000f3;n de eyecci&#x000f3;n de 25%) y aur&#x000ed;cula izquierda moderadamente dilatada.</p><p>Se decide descartar compromiso coronario como causa de la disfunci&#x000f3;n ventricular por lo que se realiza cinecoronariograf&#x000ed;a en donde no se observaron lesiones coronarias angiogr&#x000e1;ficamente significativas.</p><p>Debido los antecedentes del paciente, se realiz&#x000f3; una resonancia card&#x000ed;aca (RC) con gadolinio la cual fue compatible con una miocardiopat&#x000ed;a dilatada no isqu&#x000e9;mico-necr&#x000f3;tica, con grave dilataci&#x000f3;n y deterioro funcional de cavidad ventricular izquierda (Fracci&#x000f3;n de Eyecci&#x000f3;n de 16%) y se observ&#x000f3; fibrosis subendoc&#x000e1;rdica apical y peque&#x000f1;os focos de realce tard&#x000ed;o intramioc&#x000e1;rdico en regi&#x000f3;n basal (<xref rid="f1" ref-type="fig">Figura 1</xref> y <xref rid="f2" ref-type="fig">Figura 2</xref>).
+</p><p>
+<fig position="float" id="f1"><label>Figura 1</label><caption><title>Secuencias PSIR (realce tard&#x000ed;o) en eje cortos donde se observa fibrosis intramiocardica focal en regio septal e interoseptal basales (flechas)</title></caption><graphic xlink:href="1853-0605-79-2-193-g001" position="float"/></fig>
+</p><p>
+<fig position="float" id="f2"><label>Figura 2</label><caption><title>Secuencias PSIR (realce tard&#x000ed;o) en eje largos donde se observa fibrosis subendocardica en regio apical (flechas)</title></caption><graphic xlink:href="1853-0605-79-2-193-g002" position="float"/></fig>
+</p><p>Finalmente se decidi&#x000f3; evaluar el compromiso respiratorio mediante una tomograf&#x000ed;a de t&#x000f3;rax y de senos paranasales. La primera inform&#x000f3; opacidad en vidrio esmerilado difusa en ambos par&#x000e9;nquimas pulmonares de localizaci&#x000f3;n central. Tambi&#x000e9;n se encontraron granulomas en ambos pulmones. Adem&#x000e1;s, se observ&#x000f3; moderado derrame pleural derecho asociado a atelectasia subtotal del l&#x000f3;bulo inferior derecho y m&#x000fa;ltiples formaciones adenomegalias mediastinales. En la tomograf&#x000ed;a de senos paranasales se observaron signos de sinusitis cr&#x000f3;nica.</p><p>Debido a los hallazgos en los estudios citados con anterioridad, se arriba al diagn&#x000f3;stico de GEPA con compromiso cardiovascular.</p><p>Se inici&#x000f3; tratamiento con corticoides (pulsos de metilprednisolona 500 mg por v&#x000ed;a endovenosa por 3 d&#x000ed;as y mantenimiento posterior con meprednisona 40 mg al d&#x000ed;a), inmunosupresores (azatioprina 50 mg cada 12 hs por v&#x000ed;a oral) y tratamiento para insuficiencia card&#x000ed;aca (espironolactona 25 mg al d&#x000ed;a, bisoprolol 5 mg dos veces al d&#x000ed;a, sacubitril/valsartan 50 mg cada 12 hs).</p><p>En el control posterior, luego de 9 meses de iniciado el tratamiento, se observ&#x000f3; una marcada mejor&#x000ed;a cl&#x000ed;nica (actualmente en clase funcional I) y un ecocardiograma con mejor&#x000ed;a de la funci&#x000f3;n ventricular (Fracci&#x000f3;n de Eyecci&#x000f3;n del 40%).</p></sec><sec sec-type="discussion"><title>DISCUSI&#x000d3;N</title><p>La granulomatosis eosinof&#x000ed;lica con poliange&#x000ed;tis (GEPA), anteriormente llamada S&#x000ed;ndrome de Churg Strauss (SCS), es una variante espec&#x000ed;fica de un grupo de enfermedades sist&#x000e9;micas caracterizadas por vasculitis necrotizante de vasos de mediano y peque&#x000f1;o calibre asociadas a anticuerpos contra el citoplasma de neutr&#x000f3;filos (ANCA). Los otros subtipos comprenden la granulomatosis con poliangeitis (de Wegener) y la poliange&#x000ed;tis microsc&#x000f3;pica.
+<sup><xref rid="B1" ref-type="bibr">1</xref>,
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+</p><p>El diagn&#x000f3;stico se basa en la presencia de asma, eosinofilia perif&#x000e9;rica y vasculitis sist&#x000e9;mica, junto con un estudio anatomopatol&#x000f3;gico en el que se observa vasculitis necrotizante, infiltrado inflamatorio formado por eosin&#x000f3;filos y granulomas extravasculares.
+<sup>
+<xref rid="B6" ref-type="bibr">6</xref>
+</sup>
+</p><p>Los criterios diagn&#x000f3;sticos se resumen en la <xref rid="t1" ref-type="table">Tabla 1</xref>.
+</p><table-wrap position="float" id="t1"><label>Tabla 1</label><caption><title>Criterios diagn&#x000f3;sticos del Consejo Americano de Reumatolog&#x000ed;a (CAR)</title></caption><table frame="hsides" rules="groups" width="100%"><tbody><tr><td rowspan="1" colspan="1">
+<p>- Antecedente de asma.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>- Eosinofilia perif&#x000e9;rica &#x0003e;10%.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>- Historia de alergia.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>- Mono o poli neuropat&#x000ed;a.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>- Infiltrados pulmonares migratorios.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>- Anormalidades en los senos paranasales.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>- Hallazgos anatomopatol&#x000f3;gicos t&#x000ed;picos como vasculitis eosinof&#x000ed;lica o necrosis fibrinoide, entre otros.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<bold>Con 4 o m&#x000e1;s criterios positivos se diagnostica la enfermedad con una sensibilidad del 85% y una especificidad del 99.7%.</bold>
+</p>
+</td></tr></tbody></table></table-wrap><p>La GEPA es una enfermedad infrecuente; su incidencia es de 0,9 y 2,4 casos por mill&#x000f3;n de habitantes, y su prevalencia es de 7,3 y 17,8 casos por mill&#x000f3;n.
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+Tiende a afectar m&#x000e1;s a hombres que a mujeres, con una edad media de presentaci&#x000f3;n de 45,5 a&#x000f1;os, y es m&#x000e1;s frecuente en personas de ascendencia europea.
+<sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+</p><p>Los pacientes que son positivos para ANCA (alrededor del 40%) suelen tener un fenotipo vascul&#x000ed;tico y presentan frecuentemente mialgias, poliartralgia migratoria, p&#x000e9;rdida de peso, mononeuritis m&#x000fa;ltiple y compromiso renal como glomerulonefritis necrotizante o semilunar. Por el contrario, los pacientes sin ANCA suelen tener un fenotipo eosinof&#x000ed;lico con una mayor incidencia de miocarditis.
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+</p><p>La GEPA es una de las vasculitis sist&#x000e9;micas m&#x000e1;s comunes que afectan al coraz&#x000f3;n. La frecuencia reportada de compromiso card&#x000ed;aco es del 62% de los casos, siendo los sintom&#x000e1;ticos entre el 27% y el 47%.
+<sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+</sup>
+Esta manifestaci&#x000f3;n es de gran importancia cl&#x000ed;nica debido a que representa la principal causa de morbilidad y mortalidad (50%) en estos pacientes a pesar del buen pron&#x000f3;stico general de la enfermedad.
+<sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+La lesi&#x000f3;n es causada tanto por mediadores liberados por eosin&#x000f3;filos activados como por lesiones de vasculitis en el miocardio y las arterias coronarias.
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+</p><p>Las manifestaciones card&#x000ed;acas var&#x000ed;an desde pericarditis, hipertensi&#x000f3;n arterial, valvulopat&#x000ed;as, miocarditis eosinof&#x000ed;lica, arritmias, insuficiencia card&#x000ed;aca congestiva, enfermedad coronaria, miocardiopat&#x000ed;as y derrame peric&#x000e1;rdico eosinof&#x000ed;lico
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+. La miocarditis es la m&#x000e1;s com&#x000fa;n en la GEPA, y puede manifestarse con sintomas leves como el dolor precordial y palpitaciones hasta shock cardiog&#x000e9;nico potencialmente mortal en casos de afectaci&#x000f3;n mayor.
+<sup>
+<xref rid="B11" ref-type="bibr">11</xref>
+</sup>
+</p><p>El riesgo de miocarditis aumenta en pacientes entre 20 y 30 a&#x000f1;os y las manifestaciones card&#x000ed;acas ocurren m&#x000e1;s tard&#x000ed;amente en mujeres que en hombres.
+<sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+</sup>
+La afectaci&#x000f3;n card&#x000ed;aca en GEPA tambi&#x000e9;n puede simular un s&#x000ed;ndrome coronario agudo. El ECG puede revelar cambios ST-T inespec&#x000ed;ficos o, en raras ocasiones, elevaci&#x000f3;n del ST por vasoespasmo coronario o trombos intracoronarios.
+</p><p>La angiograf&#x000ed;a coronaria puede mostrar lesiones esten&#x000f3;ticas, ectasia coronaria o vasoespasmo. La afectaci&#x000f3;n coronaria significativa se observa en el 36,4% de pacientes.
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+El vasoespasmo coronario se ha considerado la principal causa de dolor tor&#x000e1;cico en pacientes con GEPA sin enfermedad coronaria significativa. La ectasia coronaria se ha descrito previamente en muchas vasculitis inflamatorias sist&#x000e9;micas y se asocia con ectasia en otros lechos arteriales como la vasculatura renal y cerebral.
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+</p><p>A nivel de laboratorio, el recuento de eosin&#x000f3;filos es notablemente m&#x000e1;s elevado en pacientes con miocarditis, as&#x000ed; como tambi&#x000e9;n el recuento de gl&#x000f3;bulos blancos debido a la eosinofilia. La velocidad de eritrosedimentaci&#x000f3;n y la prote&#x000ed;na C reactiva (PCR) se encuentran frecuentemente elevados, lo que indica una respuesta inflamatoria activa. Los pacientes con GEPA y miocarditis suelen ser ANCA negativos.
+<sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+</sup>
+</p><p>El uso de la ecocardiograf&#x000ed;a doppler fue de gran utilidad para evaluaci&#x000f3;n inicial de estos pacientes
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+. Los hallazgos ecocardiogr&#x000e1;ficos consisten en disfunci&#x000f3;n sist&#x000f3;lica del VI (83,9%), disfunci&#x000f3;n diast&#x000f3;lica significativa (3,2%), trastornos segmentarios de la motilidad parietal (9,7%), hipertrofia ventricular e insuficiencia valvular (12,9%), hipertensi&#x000f3;n pulmonar (6,5%), derrame peric&#x000e1;rdico (37,1%) y trombos intracardiacos (22,6%).
+</p><p>La resonancia card&#x000ed;aca (RM) con gadolinio est&#x000e1; indicada para casos de GEPA con alteraciones en el ECG o en el ecocardiograma ya que se correlaciona con la infiltraci&#x000f3;n eosinof&#x000ed;lica en la biopsia endomioc&#x000e1;rdica
+<sup>
+<xref rid="B12" ref-type="bibr">12</xref>
+</sup>
+y, en casos avanzados, con la evidencia de fibrosis y necrosis
+<sup>
+<xref rid="B13" ref-type="bibr">13</xref>
+</sup>
+. La RM puede ser de utilidad para la estratificaci&#x000f3;n de los pacientes con GEPA y la individualizaci&#x000f3;n de su tratamiento
+<sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+. Sin embargo, en muchos casos, se necesitan m&#x000e1;s estudios complementarios para diferenciar las fases activas de la fibrosis. La sensibilidad y especificidad exacta de la RM en el compromiso card&#x000ed;aco de la GEPA a&#x000fa;n es desconocida, sin embargo, existen trabajos que reportan una sensibilidad del 88% y especificidad del 72%
+<sup>
+<xref rid="B15" ref-type="bibr">15</xref>
+</sup>
+.
+</p><p>El tratamiento depende del estad&#x000ed;o y los esquemas sugeridos se muestran en la Tabla 2.
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+</p><table-wrap position="float" id="t2"><label>Tabla 2</label><caption><title>Esquemas de Tratamiento Recomendados seg&#x000fa;n estadios de la enfermedad.</title></caption><table frame="hsides" rules="groups" width="100%"><tbody><tr><th align="left" scope="row" rowspan="1" colspan="1">Estad&#x000ed;o</th><td rowspan="1" colspan="1">
+<p>Esquema Sugerido</p>
+</td></tr><tr><th align="left" scope="row" rowspan="1" colspan="1">Sin indicadores de mal pron&#x000f3;stico</th><td rowspan="1" colspan="1">
+<p>Esquema 1. Prednisona oral 1 mg / kg al d&#x000ed;a durante 3 semanas. Luego reducir a 0,5 mg / kg. Reducir hasta suspender.</p>
+<p>
+Esquema 2. Metilprednisolona intravenosa (15 mg / kg) seguido de prednisona oral como en el Esquema 1.
+</p>
+</td></tr><tr><th align="left" scope="row" rowspan="1" colspan="1">Con indicadores de mal pron&#x000f3;stico
+</th><td rowspan="1" colspan="1">
+<p>3 pulsos de metilprednisolona intravenosa (15 mg / kg) + 12 pulsos de ciclofosfamida (600 mg / m2) cada 2 semanas durante 1 mes y luego cada 4 semanas o 1 ciclo corto de ciclofosfamida (oral 2 mg / kg) durante 3 meses o 6 pulsos de ciclofosfamida (600 mg / m2) cada 2 semanas durante 1 mes, luego cada 4 semanas + azatioprina 2 mg / kg durante 1 a&#x000f1;o o m&#x000e1;s.
+</p>
+</td></tr><tr><th align="left" scope="row" rowspan="1" colspan="1">Para las recaidas</th><td rowspan="1" colspan="1">
+<p>Azatioprina oral 2 / mg / kg al d&#x000ed;a durante al menos 6 meses o Pulsos de ciclofosfamida (600 mg / m2) cada 2 semanas durante 1 mes, luego cada 4 semanas.
+</p>
+</td></tr><tr><th align="left" scope="row" rowspan="1" colspan="1">Mantenimiento de la Remisi&#x000f3;n</th><td rowspan="1" colspan="1">
+<p>Metotrexato (10 a 25 mg por semana).</p>
+<p>Ciclosporina A (1,5 a 2,5 mg / kg por d&#x000ed;a).</p>
+<p>Azatioprina (2 mg / kg pord&#x000ed;a).</p>
+</td></tr><tr><th align="left" scope="row" rowspan="1" colspan="1">Enfermedad refractaria</th><td rowspan="1" colspan="1">
+<p>Plasmaf&#x000e9;resis.</p>
+<p>Inmunoglobulina endovenosa (0,4 g / kg por d&#x000ed;a durante 5 d&#x000ed;as).</p>
+<p>Interfer&#x000f3;n-alfa (3 millones de UI, 3 veces por semana por v&#x000ed;a subcut&#x000e1;nea).</p>
+<p>Inhibidores del Factor de Necrosis Tumoral: infliximab, etanercept, adalimumab y Rituximab (325 mg / m2 durante 4 semanas consecutivas).</p>
+</td></tr></tbody></table></table-wrap><p>En el caso presentado, nuestro paciente estaba dentro del grupo de mal pron&#x000f3;stico debido a la afectaci&#x000f3;n cardiaca evaluada por RM y ya confirmado GEPA por biopsia sural, y se observ&#x000f3; el beneficio con el tratamiento combinado en una mediana de tiempo evaluado por el aumento de la funci&#x000f3;n ventricular de 25% a 40% en el &#x000fa;ltimo control. La utilizaci&#x000f3;n de la RM permiti&#x000f3; descartar cualquier otro patr&#x000f3;n de miocardiopat&#x000ed;as que facilitaran la confusi&#x000f3;n para el diagn&#x000f3;stico y, de esta manera, no demorar el tratamiento.</p><p>Despu&#x000e9;s de la detecci&#x000f3;n y el tratamiento oportuno, la GEPA tiene un pron&#x000f3;stico favorable con una supervivencia a 5 a&#x000f1;os de 90%. La tasa de reca&#x000ed;da se estima en aproximadamente 20 a 30% y a menudo es menor con fiebre, dolor articular y s&#x000ed;ntomas constitucionales.
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+</p></sec><sec sec-type="conclusions"><title>CONCLUSI&#x000d3;N</title><p>La afectaci&#x000f3;n card&#x000ed;aca en la GEPA puede presentarse de una manera muy variable y en la mayor&#x000ed;a de los casos puede ser subcl&#x000ed;nica, lo que justifica hacer una evaluaci&#x000f3;n card&#x000ed;aca en profundidad en todos los pacientes con un diagn&#x000f3;stico confirmado de GEPA independientemente del estado de los s&#x000ed;ntomas para detectar la afectaci&#x000f3;n card&#x000ed;aca en su fase temprana y comenzar el tratamiento &#x000f3;ptimo.</p><p>Para resumir, presentamos un caso de insuficiencia cardiaca descompensada secundaria a una miocardiopat&#x000ed;a dilatada no isqu&#x000e9;mica-necr&#x000f3;tica en un paciente con diagn&#x000f3;stico de GEPA.</p><p>La respuesta terap&#x000e9;utica consigui&#x000f3; mejor&#x000ed;a en los s&#x000ed;ntomas as&#x000ed; como en el control ecocardiogr&#x000e1;fico demostrando mejor&#x000ed;a en la funci&#x000f3;n ventricular.</p></sec></body><back><fn-group><fn fn-type="other"><p>
+<bold>Limitaciones de responsabilidad</bold>
+La responsabilidad del trabajo es exclusivamente de quienes colaboraron en la elaboraci&#x000f3;n del mismo.
+</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflictos de inter&#x000e9;s</bold>
+Ninguno
+</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo</bold>
+No posee
+</p></fn><fn fn-type="other"><p>
+<bold>Originalidad del trabajo</bold>
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.
+</p></fn><fn fn-type="other"><p>
+<bold>Cesi&#x000f3;n de derechos</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, ceden los derechos de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la Revista de la Facultad de Ciencias M&#x000e9;dicas y realizar las traducciones necesarias al idioma ingl&#x000e9;s.
+</p></fn><fn fn-type="equal"><p>
+<bold>Participaci&#x000f3;n de los autores</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, han trabajado en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, haci&#x000e9;ndose p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.
+</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jennette</surname><given-names>JC</given-names></name>
+<name><surname>Falk</surname><given-names>RJ</given-names></name>
+<name><surname>Bacon</surname><given-names>PA</given-names></name>
+<name><surname>Basu</surname><given-names>N</given-names></name>
+<name><surname>Cid</surname><given-names>MC</given-names></name>
+<name><surname>Ferrario</surname><given-names>F</given-names></name>
+<name><surname>Flores-Suarez</surname><given-names>LF</given-names></name>
+<name><surname>Gross</surname><given-names>WL</given-names></name>
+<name><surname>Guillevin</surname><given-names>L</given-names></name>
+<name><surname>Hagen</surname><given-names>EC</given-names></name>
+<name><surname>Hoffman</surname><given-names>GS</given-names></name>
+<name><surname>Jayne</surname><given-names>DR</given-names></name>
+<name><surname>Kallenberg</surname><given-names>CG</given-names></name>
+<name><surname>Lamprecht</surname><given-names>P</given-names></name>
+<name><surname>Langford</surname><given-names>CA</given-names></name>
+<name><surname>Luqmani</surname><given-names>RA</given-names></name>
+<name><surname>Mahr</surname><given-names>AD</given-names></name>
+<name><surname>Matteson</surname><given-names>EL</given-names></name>
+<name><surname>Merkel</surname><given-names>PA</given-names></name>
+<name><surname>Ozen</surname><given-names>S</given-names></name>
+<name><surname>Pusey</surname><given-names>CD</given-names></name>
+<name><surname>Rasmussen</surname><given-names>N</given-names></name>
+<name><surname>Rees</surname><given-names>AJ</given-names></name>
+<name><surname>Scott</surname><given-names>DG</given-names></name>
+<name><surname>Specks</surname><given-names>U</given-names></name>
+<name><surname>Stone</surname><given-names>JH</given-names></name>
+<name><surname>Takahashi</surname><given-names>K</given-names></name>
+<name><surname>Watts</surname><given-names>RA</given-names></name>
+</person-group><article-title>2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides</article-title><source>Arthritis Rheum</source><year iso-8601-date="2013-01">2013</year><month>Jan</month><volume>65</volume><issue>1</issue><fpage>1</fpage><lpage>11</lpage><pub-id pub-id-type="doi">10.1002/art.37715</pub-id><pub-id pub-id-type="pmid">23045170</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nguyen</surname><given-names>Y</given-names></name>
+<name><surname>Guillevin</surname><given-names>L</given-names></name>
+</person-group><article-title>Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss)</article-title><source>Semin Respir Crit Care Med</source><year iso-8601-date="2018-08">2018</year><month>Aug</month><volume>39</volume><issue>4</issue><fpage>471</fpage><lpage>481</lpage><pub-id pub-id-type="doi">10.1055/s-0038-1669454</pub-id><pub-id pub-id-type="pmid">30404114</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qiao</surname><given-names>L</given-names></name>
+<name><surname>Gao</surname><given-names>D</given-names></name>
+</person-group><article-title>A case report and literature review of Churg-Strauss syndrome presenting with myocarditis</article-title><source>Medicine (Baltimore)</source><year iso-8601-date="2016-12">2016</year><month>Dec</month><volume>95</volume><issue>51</issue><elocation-id>e5080</elocation-id><pub-id pub-id-type="doi">10.1097/MD.0000000000005080</pub-id><pub-id pub-id-type="pmid">28002315</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McAleavey</surname><given-names>N</given-names></name>
+<name><surname>Millar</surname><given-names>A</given-names></name>
+<name><surname>Pendleton</surname><given-names>A</given-names></name>
+</person-group><article-title>Cardiac involvement as the main presenting feature in eosinophilic granulomatosis with polyangiitis</article-title><source>BMJ Case Rep</source><year iso-8601-date="2013-07-12">2013</year><month>Jul</month><day>12</day><volume>2013</volume><elocation-id>bcr2013009394</elocation-id><pub-id pub-id-type="doi">10.1136/bcr-2013-009394</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Groh</surname><given-names>M</given-names></name>
+<name><surname>Pagnoux</surname><given-names>C</given-names></name>
+<name><surname>Baldini</surname><given-names>C</given-names></name>
+<name><surname>Bel</surname><given-names>E</given-names></name>
+<name><surname>Bottero</surname><given-names>P</given-names></name>
+<name><surname>Cottin</surname><given-names>V</given-names></name>
+<name><surname>Dalhoff</surname><given-names>K</given-names></name>
+<name><surname>Dunogu&#x000e9;</surname><given-names>B</given-names></name>
+<name><surname>Gross</surname><given-names>W</given-names></name>
+<name><surname>Holle</surname><given-names>J</given-names></name>
+<name><surname>Humbert</surname><given-names>M</given-names></name>
+<name><surname>Jayne</surname><given-names>D</given-names></name>
+<name><surname>Jennette</surname><given-names>JC</given-names></name>
+<name><surname>Lazor</surname><given-names>R</given-names></name>
+<name><surname>Mahr</surname><given-names>A</given-names></name>
+<name><surname>Merkel</surname><given-names>PA</given-names></name>
+<name><surname>Mouthon</surname><given-names>L</given-names></name>
+<name><surname>Sinico</surname><given-names>RA</given-names></name>
+<name><surname>Specks</surname><given-names>U</given-names></name>
+<name><surname>Vaglio</surname><given-names>A</given-names></name>
+<name><surname>Wechsler</surname><given-names>ME</given-names></name>
+<name><surname>Cordier</surname><given-names>JF</given-names></name>
+<name><surname>Guillevin</surname><given-names>L</given-names></name>
+</person-group><article-title>Eosinophilic granulomatosis with polyangiitis (Churg-Strauss) (EGPA) Consensus Task Force recommendations for evaluation and management</article-title><source>Eur J Intern Med</source><year iso-8601-date="2015-09">2015</year><month>Sep</month><volume>26</volume><issue>7</issue><fpage>545</fpage><lpage>53</lpage><pub-id pub-id-type="doi">10.1016/j.ejim.2015.04.022</pub-id><pub-id pub-id-type="pmid">25971154</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Churg</surname><given-names>J</given-names></name>
+<name><surname>Strauss</surname><given-names>L</given-names></name>
+</person-group><article-title>Allergic granulomatosis, allergic angeiitis, and periarteritisnodosa</article-title><source>Am J Pathol</source><year>1951</year><volume>27</volume><issue>2</issue><fpage>277</fpage><lpage>301</lpage><pub-id pub-id-type="pmid">14819261</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mahr</surname><given-names>A</given-names></name>
+<name><surname>Guillevin</surname><given-names>L</given-names></name>
+<name><surname>Poissonnet</surname><given-names>M</given-names></name>
+<name><surname>Aym&#x000e9;</surname><given-names>S</given-names></name>
+</person-group><article-title>Prevalences of polyarteritisnodosa, microscopic polyangiitis, Wegener's granulomatosis, and Churg-Strauss syndrome in a French urban multiethnic population in 2000: a capture-recapture estimate</article-title><source>Arthritis Rheum</source><year iso-8601-date="2004-02-15">2004</year><month>Feb</month><day>15</day><volume>51</volume><issue>1</issue><fpage>92</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1002/art.20077</pub-id><pub-id pub-id-type="pmid">14872461</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mahr</surname><given-names>A</given-names></name>
+<name><surname>Moosig</surname><given-names>F</given-names></name>
+<name><surname>Neumann</surname><given-names>T</given-names></name>
+<name><surname>Szczeklik</surname><given-names>W</given-names></name>
+<name><surname>Taill&#x000e9;</surname><given-names>C</given-names></name>
+<name><surname>Vaglio</surname><given-names>A</given-names></name>
+<name><surname>Zwerina</surname><given-names>J</given-names></name>
+</person-group><article-title>Eosinophilic granulomatosis with polyangiitis (Churg-Strauss): evolutions in classification, etiopathogenesis, assessment and management</article-title><source>Curr Opin Rheumatol</source><year iso-8601-date="2014-01">2014</year><month>Jan</month><volume>26</volume><issue>1</issue><fpage>16</fpage><lpage>23</lpage><pub-id pub-id-type="doi">10.1097/BOR.0000000000000015</pub-id><pub-id pub-id-type="pmid">24257370</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dallos</surname><given-names>T</given-names></name>
+<name><surname>Heiland</surname><given-names>GR</given-names></name>
+<name><surname>Strehl</surname><given-names>J</given-names></name>
+<name><surname>Karonitsch</surname><given-names>T</given-names></name>
+<name><surname>Gross</surname><given-names>WL</given-names></name>
+<name><surname>Moosig</surname><given-names>F</given-names></name>
+<name><surname>Holl-Ulrich</surname><given-names>C</given-names></name>
+<name><surname>Distler</surname><given-names>JH</given-names></name>
+<name><surname>Manger</surname><given-names>B</given-names></name>
+<name><surname>Schett</surname><given-names>G</given-names></name>
+<name><surname>Zwerina</surname><given-names>J</given-names></name>
+</person-group><article-title>CCL17/thymus and activation-related chemokine in Churg-Strauss syndrome</article-title><source>Arthritis Rheum</source><year iso-8601-date="2010-11">2010</year><month>Nov</month><volume>62</volume><issue>11</issue><fpage>3496</fpage><lpage>503</lpage><pub-id pub-id-type="doi">10.1002/art.27678</pub-id><pub-id pub-id-type="pmid">20669282</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pakbaz</surname><given-names>M</given-names></name>
+<name><surname>Pakbaz</surname><given-names>M</given-names></name>
+</person-group><article-title>Cardiac Involvement in Eosinophilic Granulomatosis with Polyangiitis: A Meta-Analysis of 62 Case Reports</article-title><source>J Tehran Heart Cent</source><year iso-8601-date="2020-01">2020</year><month>Jan</month><volume>15</volume><issue>1</issue><fpage>18</fpage><lpage>26</lpage><pub-id pub-id-type="pmid">32742288</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Courand</surname><given-names>PY</given-names></name>
+<name><surname>Croisille</surname><given-names>P</given-names></name>
+<name><surname>Khouatra</surname><given-names>C</given-names></name>
+<name><surname>Cottin</surname><given-names>V</given-names></name>
+<name><surname>Kirkorian</surname><given-names>G</given-names></name>
+<name><surname>Bonnefoy</surname><given-names>E</given-names></name>
+</person-group><article-title>Churg-Strauss syndrome presenting with acute myocarditis and cardiogenic shock</article-title><source>Heart Lung Circ</source><year iso-8601-date="2012-03">2012</year><month>Mar</month><volume>21</volume><issue>3</issue><fpage>178</fpage><lpage>81</lpage><pub-id pub-id-type="doi">10.1016/j.hlc.2011.09.002</pub-id><pub-id pub-id-type="pmid">21963398</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Baccouche</surname><given-names>H</given-names></name>
+<name><surname>Yilmaz</surname><given-names>A</given-names></name>
+<name><surname>Alscher</surname><given-names>D</given-names></name>
+<name><surname>Klingel</surname><given-names>K</given-names></name>
+<name><surname>Val-Bernal</surname><given-names>JF</given-names></name>
+<name><surname>Mahrholdt</surname><given-names>H</given-names></name>
+</person-group><article-title>Images in cardiovascular medicine. Magnetic resonance assessment and therapy monitoring of cardiac involvement in Churg-Strauss s&#x000ed;ndrome</article-title><source>Circulation</source><year iso-8601-date="2008-04-01">2008 Apr 1</year><volume>117</volume><issue>13</issue><fpage>1745</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.107.721738</pub-id><pub-id pub-id-type="pmid">18378628</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mavrogeni</surname><given-names>S</given-names></name>
+<name><surname>Manoussakis</surname><given-names>MN</given-names></name>
+<name><surname>Karagiorga</surname><given-names>TC</given-names></name>
+<name><surname>Douskou</surname><given-names>M</given-names></name>
+<name><surname>Panagiotakos</surname><given-names>D</given-names></name>
+<name><surname>Bournia</surname><given-names>V</given-names></name>
+<name><surname>Cokkinos</surname><given-names>DV</given-names></name>
+<name><surname>Moutsopoulos</surname><given-names>HM</given-names></name>
+</person-group><article-title>Detection of coronary artery lesions and myocardial necrosis by magnetic resonance in systemic necrotizing vasculitides</article-title><source>Arthritis Rheum</source><year iso-8601-date="2009-08-15">2009</year><month>Aug</month><day>15</day><volume>61</volume><issue>8</issue><fpage>1121</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1002/art.24695</pub-id><pub-id pub-id-type="pmid">19644909</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mavrogeni</surname><given-names>S</given-names></name>
+<name><surname>Karabela</surname><given-names>G</given-names></name>
+<name><surname>Gialafos</surname><given-names>E</given-names></name>
+<name><surname>Stavropoulos</surname><given-names>E</given-names></name>
+<name><surname>Spiliotis</surname><given-names>G</given-names></name>
+<name><surname>Katsifis</surname><given-names>G</given-names></name>
+<name><surname>Kolovou</surname><given-names>G</given-names></name>
+</person-group><article-title>Cardiac involvement in ANCA (+) and ANCA (-) Churg-Strauss syndrome evaluated by cardiovascular magnetic resonance</article-title><source>Inflamm Allergy Drug Targets</source><year iso-8601-date="2013-10">2013</year><month>Oct</month><volume>12</volume><issue>5</issue><fpage>322</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.2174/18715281113129990054</pub-id><pub-id pub-id-type="pmid">23909889</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dennert</surname><given-names>RM</given-names></name>
+<name><surname>van Paassen</surname><given-names>P</given-names></name>
+<name><surname>Schalla</surname><given-names>S</given-names></name>
+<name><surname>Kuznetsova</surname><given-names>T</given-names></name>
+<name><surname>Alzand</surname><given-names>BS</given-names></name>
+<name><surname>Staessen</surname><given-names>JA</given-names></name>
+<name><surname>Velthuis</surname><given-names>S</given-names></name>
+<name><surname>Crijns</surname><given-names>HJ</given-names></name>
+<name><surname>Tervaert</surname><given-names>JW</given-names></name>
+<name><surname>Heymans</surname><given-names>S</given-names></name>
+</person-group><article-title>Cardiac involvement in Churg-Strauss syndrome</article-title><source>Arthritis Rheum</source><year iso-8601-date="2010-02">2010</year><month>Feb</month><volume>62</volume><issue>2</issue><fpage>627</fpage><lpage>34</lpage><pub-id pub-id-type="doi">10.1002/art.27263</pub-id><pub-id pub-id-type="pmid">20112390</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,945 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell J</journal-id><journal-id journal-id-type="iso-abbrev">Cell J</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>Cell Journal (Yakhteh)</journal-title></journal-title-group><issn pub-type="ppub">2228-5806</issn><issn pub-type="epub">2228-5814</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36043407</article-id><article-id pub-id-type="pmc">PMC9428479</article-id><article-id pub-id-type="other">Cell-J-24-7-391</article-id><article-id pub-id-type="doi">10.22074/cellj.2022.7967</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject><subj-group><subject>Biotechnology</subject><subject>Mycology</subject></subj-group></subj-group></article-categories><title-group><article-title>Fungal Infected Adipose Stem Cells: The Effects of Novel
+Lipo-Niosome Nanoparticles Loaded with Amphotericin B
+and Thymus Essential Oil</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Rahimi</surname><given-names>Fardin</given-names></name><degrees>M.Sc</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Amoabediny</surname><given-names>Ghasem</given-names></name><degrees>Ph.D</degrees><xref rid="A2" ref-type="aff">2</xref><xref rid="A3" ref-type="aff">3</xref><xref rid="A4" ref-type="aff">4</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Sabahi</surname><given-names>Hossein</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Zandieh-Doulabi</surname><given-names>Behrouz</given-names></name><degrees>Ph.D</degrees><xref rid="A2" ref-type="aff">2</xref><xref rid="A5" ref-type="aff">5</xref></contrib><aff id="A1"><label>1</label>Department of Life Science Engineering, Faculty of New Sciences and Technologies, University of Tehran, Tehran, Iran</aff><aff id="A2"><label>2</label>Department of Biomedical Engineering, Research Center for New Technologies in Life Science Engineering, University of Tehran,
+Tehran, Iran</aff><aff id="A3"><label>3</label>School of Chemical Engineering, College of Engineering, University of Tehran, Tehran, Iran</aff><aff id="A4"><label>4</label>Department of Oral and Maxillofacial Surgery/Oral Pathology, Amsterdam University Medical Centers-location Vumc and Academic
+Centre for Dentistry Amsterdam (ACTA), Vrije Universiteit Amsterdam, Amsterdam Movement Sciences, Amsterdam, The Netherlands</aff><aff id="A5"><label>5</label>Department of Oral Cell Biology, Academic Centre for Dentistry Amsterdam (ACTA), The University of Amsterdam and Vrije Universiteit
+Amsterdam, Amsterdam Movement Sciences, Amsterdam, The Netherlands</aff></contrib-group><author-notes><corresp id="cor1">
+<label>*Corresponding Address:</label>
+<addr-line>P.O.Box: 14155-6619</addr-line>
+<addr-line>School of Chemical Engineering</addr-line>
+<addr-line>College of Engineering</addr-line>
+<institution>University of Tehran</institution>
+<addr-line>Tehran</addr-line>
+<country>Iran</country>
+Email:<email>amoabediny@ut.ac.ir</email>
+</corresp></author-notes><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>27</day><month>7</month><year>2022</year></pub-date><volume>24</volume><issue>7</issue><fpage>391</fpage><lpage>402</lpage><history><date date-type="received"><day>6</day><month>2</month><year>2021</year></date><date date-type="accepted"><day>23</day><month>10</month><year>2021</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium,
+with the exception of commercial purposes, is permitted provided the original work is properly cited.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0) License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original
+work is properly cited. </license-p></license></permissions><abstract><sec><title>Objective</title><p> In this study, we aimed to develop new Lipo-niosomes based nanoparticles loaded with Amphotericin B
+(AmB) and Thymus Essential Oil (TEO) and test their effectiveness in the treatment of fungal-infected human adipose
+stem cells (hASCs).
+</p></sec><sec><title>Materials and Methods</title><p>In this experimental study, optimal formulation of AmB and TEO loaded lipo-niosome (based
+on lipid-surfactant thin-film hydration method) was chemically, and biologically characterized. Therefore, encapsulation
+capacity, drug release, size, and the survival rate of cells with different concentrations of free and encapsulated AmB/
+TEO were evaluated using the MTT method, and its antifungal activity was compared with conventional AmB.</p></sec><sec><title>Results</title><p> Lipo-Niosome containing Tween 60 surfactant: cholesterol: Dipalmitoyl phosphatidylcholine (DPPC):
+Polyethylene glycol (PEG) with a ratio of 20:40:60:3 were chosen as optimal formulation. Lipo-Niosomes entrapment
+efficiency was 94.15%. The drug release rate after 24 hours was 52%, 54%, and 48% for Lipo-AmB, Lipo-TEO, and
+Lipo-AmB/TEO, respectively. Physical and chemical characteristics of the Lipo-Niosomes particles indicated size
+of 200 nm and a dispersion index of 0.32 with a Zeta potential of -24.56 mv. Furthermore, no chemical interaction
+between drugs and nano-carriers was observed. The cell viability of adipose mesenchymal stem cells exposed to 50
+&#x003bc;g/ml of free AmB, free TEO, and free AmB/TEO was 13.4, 58, and 36.9%, respectively. Whereas the toxicity of the
+encapsulated formulas of these drugs was 48.9, 70.8, and 58.3% respectively. The toxicity of nanoparticles was very
+low (8.5%) at this concentration. Fluorescence microscopic images showed that the antifungal activity of Lipo-AmB/
+TEO was significantly higher than free formulas of AmB, TEO, and AmB/TEO.
+</p></sec><sec><title>Conclusion</title><p>In this study, we investigated the efficacy of the TEO/AmB combination, in both free and encapsulated-
+niosomal form, on the growth of fungal infected-hASCs. The results showed that the AmB/TEO-loaded Lipo-Niosomes
+can be suggested as a new efficient anti-fungal nano-system for patients treated with hASCs.</p></sec></abstract><kwd-group><kwd>AmB and TEO</kwd><kwd>Fungal Infection</kwd><kwd>Lipo-Niosomes</kwd><kwd>Stem Cells</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Rahimi F, Amoabediny Gh, Sabahi H, Zandieh-Doulabi B. Fungal infected adipose stem cells: the effects of novel lipo-niosome nanoparticles loaded
+with amphotericin B and thymus essential oil. Cell J. 2022; 24(7): 391-402. doi: 10.22074/cellj.2022.7967.
+This open-access article has been published under the terms of the Creative Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0).</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Today, the world needs new methods to treat diseases,
+especially fungal diseases to increase the effectiveness
+of drugs and reduce their side effects. Fungal diseases
+are important in three aspects: infection, mortality, and
+economic losses. These infections threaten almost all
+patients, especially children who use stem cell transplants.
+The prevalence of invasive candidiasis in these patients is
+about 70-80%, and the resulting mortality is reported to
+be about 60-90% (1).</p><p>Mesenchymal stem cells (MSCs) are multipotent stem cells that are important for making and
+repairing skeletal tissues, such as cartilage, bone, and nerve cell lineages. The MSC is
+found in various tissues such as bone marrow, amniotic fluid, cord blood, and other mesoderm
+tissues. These types of cells can grow, multiply, and differentiate for generations in the
+laboratory while maintaining the stable morphology and natural state of their chromosomes
+(2). Patients with MSC transplant recipients are at high risk for invasive fungal infections
+(IFIs). Over the past two decades, the number of patients at risk of fungal infections has
+increased after using MSC to treat cancer. Dominant organisms that cause IFIs include
+<italic>Candida spp., Aspergillus spp.,</italic> and Mucorales molds (3, 4). Among the
+allogeneic hematopoietic stem cell transplantation (HSCT) recipients, about 86% were due to
+molds, and 14% were due to yeasts. The majority of mold infections, about 94%, were caused
+by Aspergillus species (5).</p><p>One of the most common complications of stem
+cell transplantation is the suppression of the immune
+system following the administration of corticosteroids and nosocomial infections, which can lead to a variety
+of diseases, especially bacterial and fungal infections.
+To prevent and treat these diseases, especially fungal
+agents, Amphotericin B (AmB) is used. Although free
+administration of this drug has several side effects on
+kidney, liver, lungs, and the body&#x02019;s hematopoietic system,
+yet AmB is considered a golden treatment against these
+fungal infections in the patient treated with hASCs. The
+drug binds to the fungal cell membrane and induces the
+pores in the membranes leading to ions leakage, and
+microorganisms death (6).
+</p><p>One possible approach to reduce the side effects of AmB
+is to use the essential oils of herbs. In recent years, there
+has been a growing tendency toward herbal medicines.
+The main advantages of cost-effective herbal medicines
+are good safety and their fewer side effects (7). The
+essential oils of medicinal plants, especially thyme, can
+be a good alternative to chemical drugs with antifungal
+and antibacterial properties. It has been also shown that
+Essential Oil (TEO) can inhibit the pathogenicity of
+microorganisms such as Candida albicans, Clostridium,
+and Bactericides fragilis (8).</p><p>Another way to reduce the side effects of these drugs is
+to use drug delivery nanocarriers. The goal of researchers
+in the synthesis and optimization of drug delivery is to
+design a system for proper drug loading, optimal release
+properties, short half-life, and less toxicity (9). Nanocarrier
+containing AmB bind to the fungal cell and facilitate
+the slow release of drug molecules into the fungus cell
+membrane as well as infected hASCs (10). Diezi and Kwon
+(11), fabricated cholesterol-combined AmB PEG-DSPE
+micelles that met the safety and solubility requirements of
+AmB and reduced toxicity at the membrane level for the
+treatment of life-threatening systemic fungi. Walsh et al.
+(12), also encapsulated AmB in liposomal and found that
+the nano-drug delivery system increased its therapeutic
+effect and decreased its side effects.
+</p><p>Using advanced <italic>in vitro </italic>methods, Mostafavi et al. (13), investigated the
+effect of AmB in combination with selenium, free and loaded inside the nano niosome, on
+<italic>Leishmania tropica (L. tropica)</italic>. Using the MTT method, macrophage model,
+flow cytometry, and quantitative polymerase chain reaction (qPCR), cytotoxicity and
+efficiency of the niosomic formula were investigated, and no toxicity was found for niosomal
+forms of the compound. Alam et al. (14), also developed a niosomal drug nanosystem
+containing diallyl sulfide in combination with garlic oil, and the results showed that the
+niosomic form of the drugs significantly reduced the activity of Candida albicans and animal
+death compared to its free form. In addition, histopathological studies showed that the
+niosomal showed no toxic effects, and fewer hyphae were observed in C. Albicans biosystems
+treated with SLAmB niosomes compared to free AmB (15).</p><p>Nano-carrier of liposomal amphotericin B (LAmB)
+in the transplantation setting has increased the rate of
+therapeutic achievement of fungal infections with a
+suitable safety profile (12). In recent decades, niosomes
+have been considered by researchers as a suitable carrier
+for drug delivery, and in some cases, it has been reported
+that this carrier can be a suitable alternative to liposomal
+nanocarriers (16). A promising method for reducing
+side effects and effective drug treatment is the use of
+nano niosomes, which are an excellent alternative to
+trapping hydrophobic drugs due to their high efficiency,
+biodegradation, and biocompatibility. In addition, they
+have good stability, low preparation cost and are easy to
+store (17). </p><p>Sharma et al. (17) used the Niosome system to study
+the effect of co-delivery of curcumin and doxorubicin on
+the Hela (human cervical cancer) cell line. Studies of two
+combinations of curcumin and doxorubicin showed that
+curcumin is located in the lipid layer, while doxorubicin
+is trapped in the hydrophilic part of the noisome.
+Molecular dynamics simulations confirmed that in the
+membrane environment, AmB interacts with ergosterol,
+3-4 times stronger interactions than in solution. The
+AmB-cholesterol bonding is weaker compared with
+ergosterol not only because of the weaker van der Waals
+(vdW) interactions but also because of entropy decrease
+associated with a reduction in the structural flexibility of
+the sterol side-chain (8). Zhou et al. (18), examined the
+effectiveness of umbilical cord mesenchymal stem cells
+(uMSCs) on corneal scarring. They used natamycin for
+the prevention and treatment of fungal keratitis. Although
+liposomes have been widely studied as promising
+carriers of proteins, drugs, and DNA, one of the major
+problems with using these nanocarriers for drug delivery
+is their non-specificity, which causes their removal by
+reticuloendothelial systems (19).</p><p>Studies of mineral and metal-based nanoparticles
+for drug delivery have shown that some nanoparticles
+cause toxicity to normal cells. For example, amorphous
+silica nanoparticles can cause inflammatory reactions
+on target organs resulting in apoptotic cell death (20).
+Carbon nanotubes (CNTs) have been reported to cause
+toxicity in normal cells. CNTs react with living cells to
+produce reactive oxygen species causing mitochondrial
+dysfunction and lipid peroxidation (21). It has been
+shown that mesoporous silica nanoparticles (MSNs) for
+targeted drug delivery in the size range of 50-100 nm
+with a positive charge accumulate mainly in the liver
+after intravenous injection (22).</p><p>Therefore, we aimed to evaluate the effectiveness of
+AmB and TEO loaded in Lipo-Niosomes on fungalinfected stem cells. In the present study, the lipidbased lipo-Niosome formula was optimized for further
+binding to the fungal wall ergosterol and the codelivery of two antifungal drug combinations including
+AmB and TEO based on diffusion parameters, size,
+and trapping percentage. This model is for the transfer
+of hydrophobic compounds (especially the use of
+essential oils of medicinal plants) to reduce the dose
+and side effects of the chemical drug AmB and to
+increase their effectiveness on fungal-infected hASCs. The experiment aimed to develop Lipo-Niosomes
+nanoparticles loaded with AmB and TEO and test their
+effectiveness for the development of an anti-fungal
+system favorable for hASCs. We hypothesized that
+due to their poor stability and low solubility in water,
+the AmB and TEO will be loaded in the hydrophobic
+part of the Lipo-Niosomes and be released slowly after
+contacting the fungal cells.</p></sec><sec sec-type="materials-methods"><title>Materials and Methods</title><p>Ethics approval for the current laboratory study was
+given by the Ethics Committee at Shahed University,
+Tehran, Iran (IR.SHAHED.REC.1399.164). All procedures
+were in accordance with the ethical guidelines of
+responsible institutional and national committees.
+Cholesterol (Sigma-Aldrich USA, C3045), Tween 60 (SigmaAldrich USA, P1629), Dipalmitoyl phosphatidylcholine
+(DPPC), derivatized distearyl phosphatidylethanolamine
+(mPEG2000-DSPE) were obtained from Lipoid GmbH
+(Ludwigshafen, Germany). AmB (India, B. No. GI50253),
+Thymus (Yazd, Iran), and human adipose-derived
+mesenchymal stem cells (hASCs) were provided by the
+Hazrat Rasool Hospital (Tehran, Iran). For cell culture,
+DMEM (21969035), fetal bovine serum (FBS, 26140),
+Trypsin/EDTA (R001100), and penicillin-streptomycin
+1%10000( U/ml, 15140122), were purchased from
+Thermo Fisher Scientific, USA. MTT (3[4,5dimethylthiazol-2-yl]-2,5-diphenyl tetrazo- liumb bromide were
+(Sigma-Aldrich, Darmstadt, Germany ,1146500700),
+Candida Albicans ATCC 10231 [Shahed University
+of Medical Sciences, Tehran, Iran), Dialysis bags
+(MWCO 12000-14000) were supplied by Jingkehongda
+Biotechnology Co, Ltd. (Beijing, China). Chloroform and
+ethanol were purchased form Merck, Germany.</p><sec><title>Preparation of Lipo-Niosomes</title><p>Lipo-Niosomes containing AmB1.08&#x000d7;10<sup>-6</sup> mol, TEO 1.8&#x000d7;10<sup>-6</sup> mol,
+cholesterol 9.8&#x000d7;10<sup>-5</sup> mol, Tween 60 6.9&#x000d7;10<sup>-5</sup> mol, DPPC
+1.4&#x000d7;10<sup>-4</sup> mol, and PEG 1.6&#x000d7;10<sup>-5</sup> mol, were prepared (Table 1). After
+weighing the required materials, they were dissolved in chloroform in a round bottom pot,
+and rotated (150 rpm/minute), to form a thin lipid film. Then, to prepare the Nanocarrier,
+the lipid film was hydrated with distilled water at 60&#x000b0;C for 30 minutes. Finally, 10 mol
+of Lipo-Niosomes with different concentrations were formed to load hydrophobic drugs. To
+reduce the size of the Lipo-Niosomes, the probe of the sonication device was placed in the
+colloidal solution of the niosomes in the ice bath, and then the sonication process was
+performed to produce smaller niosomes for 55 minutes (15 seconds: on and 10 seconds: off
+with a power of 100 watts). To separate the larger particles from the smaller particles
+and sterilize the Nanocarrier, a syringe filter was used (23). The prepared Lipo-Niosome
+was stored at 4&#x000b0;C for further studies. The ratio of materials composition to each material
+of cholesterol, Tween 60, DPPC, and PEG has been calculated (equal to 3.2, 4.6, 2.3, and
+20.1 mol, respectively) and the ratio of drug composition to each drug has been
+calculated, AmB 2.6 mol and TEO equal 1.6 mol (Table 1). </p></sec><sec><title>Essential oil extraction method</title><p>After purchasing thyme seeds, 100 g of seeds were
+used for the extraction of three milliliters of essential
+oil. The essential oil was extracted by water distillation
+(Hydrodistilation) using Clevenger for 2 hours and
+stored at 4&#x000b0;C. Finally, the separation and identification
+of essential oil compounds were performed by the gas
+chromatography method connected to a mass spectrometer
+(24).</p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>Combination of drugs and materials in the Lipo-Niosomes used</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Materials</th><th rowspan="1" colspan="1">Hydrophobic drug and </th><th rowspan="1" colspan="1">Moles ration</th><th rowspan="1" colspan="1">Moles ration</th><th rowspan="1" colspan="1">Moles ration</th></tr><tr><th rowspan="1" colspan="1">Name</th><th rowspan="1" colspan="1">materials (mol) </th><th rowspan="1" colspan="1">[C/drugs (mol)] </th><th rowspan="1" colspan="1">[H/materials (mol)] </th><th rowspan="1" colspan="1">[H/drugs (mol)] </th></tr><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">(A). AmB </td><td rowspan="1" colspan="1">1.08 &#x000d7; 10 <sup>-</sup><sup>6</sup>
+</td><td rowspan="1" colspan="1">2.6 </td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">299</td></tr><tr><td align="left" rowspan="1" colspan="1">(B). Thymus </td><td rowspan="1" colspan="1">1.8 &#x000d7; 10<sup>-</sup><sup>6</sup>
+</td><td rowspan="1" colspan="1">1.6</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">179</td></tr><tr><td align="left" rowspan="1" colspan="1">(C). Total (A, B)</td><td rowspan="1" colspan="1">2.88 &#x000d7; 10 <sup>-</sup><sup>6</sup>
+</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">3.2</td><td rowspan="1" colspan="1">112.15</td></tr><tr><td align="left" rowspan="1" colspan="1">(D). Cho </td><td rowspan="1" colspan="1">9.8 &#x000d7; 10<sup>-</sup><sup>5</sup></td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">4.6</td><td rowspan="1" colspan="1">__</td></tr><tr><td align="left" rowspan="1" colspan="1">(E). Tween 60 </td><td rowspan="1" colspan="1">6.9 &#x000d7; 10<sup>-</sup><sup>5</sup></td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">2.3</td><td rowspan="1" colspan="1">__</td></tr><tr><td align="left" rowspan="1" colspan="1">(F). DPPC </td><td rowspan="1" colspan="1">1.4 &#x000d7; 10<sup>-</sup><sup>4</sup></td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">20.1</td><td rowspan="1" colspan="1">__</td></tr><tr><td align="left" rowspan="1" colspan="1">(G). PEG </td><td rowspan="1" colspan="1">1.6 &#x000d7; 10<sup>-</sup><sup>5</sup></td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">__</td></tr><tr><td align="left" rowspan="1" colspan="1">(H). Total (D, E, F, G) </td><td rowspan="1" colspan="1">3.23 &#x000d7; 10<sup>-</sup><sup>4</sup>
+</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">__</td><td rowspan="1" colspan="1">__</td></tr><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>AmB; Amphotericin B, Cho; Cholesterol, DPPC; Dipalmitoyl phosphatidylcholine, and PEG; Polyethylene glycol.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Chemical and physical characterization, and
+morphology of Lipo-Niosomes
+</title><p>The morphology of hydrated Lipo-Niosomes loaded with
+AmB and TEO dispersions was examined by transmission
+electron microscopy (TEM, Zeiss EM10C-100 VK). The
+Lipo-Niosomes size and distribution were determined by
+dynamic light scattering (DLS, Malvern zen-3600-England).
+Fourier transform infrared (FTIR) spectroscopy (Model 8300,
+Shimadzu Corporation, Tokyo, Japan) was used to analyze
+molecular interaction between drugs and Nanocarrier for
+AmB, TEO, blank Lipo-Niosomes, and Lipo-NiosomesAmB/TEO.</p></sec><sec><title>Entrapment efficiency and drug release study</title><p>Spectrophotometric measurements were performed
+to evaluate entrapment efficacy and drug release
+characteristics over time. Nanocarriers containing drugs
+were calculated after preparation by UV spectroscopy
+at 330, 378, and 407 nm (Lmax). To evaluate the
+encapsulation efficiency, the following formula was used:
+</p><p>Encapsulation efficiency (%)=(The amount of AmB and
+Thymus encapsulated within niosomes)/(Total amount of
+AmB and Thymus added )&#x000d7;100</p><p><italic>In vitro</italic> release of AmB/TEO from Lipo-Niosomes was investigated using a
+dialysis bag (MW=12 kDa) against phosphate-buffered saline (PBS) for 72 hours at 37&#x000b0;C and
+pH=7.4. Afterward, 2 ml of the samples were collected from the incubation medium at
+specific times, and immediately substituted with an equal volume of fresh PBS to maintain
+the environment&#x02019;s balance. Then, the release rate was evaluated by UV-vis spectrometer at
+370, 388, and 407 nm for AmB and 275 nm for TEO.</p></sec><sec><title>Isolation of stem cells from adipose tissue</title><p>The adipose tissue sample was cut into small pieces with sterile scissors in the culture
+room and under the laminar hood. To remove blood cells and impurities, the fat sample was
+washed several times with PBS solution and then the supernatant solution was removed from
+the environment. The remaining adipose tissue was transferred to the falcon tube at the
+bottom of the plate and 5-6 ml of 0.1% collagenase enzyme was added to it and placed in a
+37&#x000b0;C hot water bath for 1.5-3 hours. The tubes containing the sample were then removed
+from the hot water bath and centrifuged at 2000 rpm for 5 minutes (repeated three times).
+The cells were transferred into a culture flask containing DMEM with 10% FBS. Finally, a
+flask containing cells was placed in an incubator at 37&#x000b0;C and 5% CO<sub>2</sub> (25).</p></sec><sec><title>Cytotoxicity assay</title><p>Human Adipose-derived mesenchymal stem cells (hASCs) were cultured in DMEM supplemented
+with 10% FBS and 1% penicillin-streptomycin under standard conditions (37o C and 5%
+CO<sub>2</sub> in a humidified incubator). Cytotoxicity (MTT) assay was done to evaluate
+<italic>in vitro</italic> toxicity of free AmB/TEO and conjugated with LipoNiosomes.
+They were cultivated at a congestion of 5&#x000d7;10<sup>3</sup> cells in a 96-well culture plate
+in DMEM including 10% FBS at 37&#x000b0;C, and 5% CO<sub>2</sub> overnight. Cells were incubated
+with different drug concentrations (free and encapsulated) for 24 and 72 hours. They were
+incubated for with 5000 cells in a 96-well plate before assessment with the colorimetric
+MTT assay. After 72 hours of cell seeding in a medium, the control wells and samples were
+removed and washed with PBS and then incubated with 20 mL of 5 mg mL<sup>-1</sup> MTT in
+PBS for 3 hours. The resultant formazan crystals were dissolved in DMSO. Cytotoxicity was
+determined using an MTT reagent and specified spectrophotometrically at 570 nm using a
+microplate reader (Multiskan MS, Lab System Helsinki, Finland).</p></sec><sec><title>Anti-fungal activity</title><p><italic>In vitro</italic>, anti-fungal activity of free and loaded drugs in Lipo-Niosomes
+was assessed on various yeast strains Candida [Candida (C), Albicans (A), Dubliniensis
+(D), Parapsilosis (P), and Glabrata (G)]. Fungal strains were treated with free and drugs
+loaded Lipo-Niosomes concentrations ranging from 0.23 to 500 &#x003bc;g/ml at 36&#x000b0; C for 24, 48,
+and 72 hours. The diameter of the fungal region was determined to study the effectiveness
+of free AmB, TEO, and encapsulated against standard strains of Candida albicans. The
+standard strain of Candida albicans ATCC 10231 was sensitive (26, 27). The antifungal
+activities of AmB/TEO and their complex in LipoNiosomes were assessed against yeast
+different yeast strains of Albicans. The yeasts were grown in yeast mold broth (YMB). The
+optical density of the fungal growth was performed using a spectrophotometer at 520 nm to
+efficiency turbidity equal to 0.7 McFarland standards. The strains of fungal were treated
+with AmB/TEO and AmBNiosome-TEO loaded at different concentrations from 0.12 to 500 &#x003bc;g/ml.
+Drug-free medium and yeast culture were only considered as controls. Finally, the plates
+were incubated at 36&#x000b0; C at different times, and growth in each well was appraised using an
+ELISA plate reader.</p></sec><sec><title>Determining minimum inhibitory concentration</title><p>In this experiment, 96 wells microplates, were used. In the
+beginning, 100 &#x000b5;l of the culture medium sabouraud dextrose
+broth (SDB) was placed in the first row of wells. Then 100
+&#x000b5;l of it was transferred to the second well, and this procedure
+was repeated. Finally, 100 &#x000b5;L of the volume of the final well
+solution was discarded, and 10 microliters of suspension
+fungus yeast were added to all wells. The microplate was
+then incubated in a shaker incubator at 150 rpm for 24 hours,
+and the lowest yeast growth inhibition concentration was
+considered in that MIC (26). </p></sec><sec><title>Fungal Infection of stem cells</title><p>Human Adipose-derived mesenchymal stem cells (hASCs) were transferred to 96-well plates
+and seeded at a congestion of 5&#x000d7;10<sup>3</sup> cells per well and incubated for 48 hours.
+Due to the sensitivity of stem cells and the lethality of Candida fungal strains, first,
+Lipo-Niosomes containing AmB and TEO with different concentrations (5, 10, 25, 50, 100,
+150, 250, 500 &#x003bc;g/ml) in cells culture medium were added. Candida was then added to the
+cell-containing medium, free drugs, and nanocarriers containing the drug. In this method,
+the effect on cells was evaluated in different ways for 24 to 72 hours. The Alomar Blue
+colorimetric assay was used to evaluate drug sensitivity to fungal strains and cell
+viability. The optimized nanocarrier structure includes cholesterol, DPPC, and PEG, which
+play an important role in binding to fungal cells and stem cell membranes. The higher the
+percentage of these compounds, especially cholesterol and phospholipid, the connection
+will be longer and more stable.</p></sec><sec><title>Statistical analysis</title><p>Statistical data analyses were performed using the
+student t-test to compare the differences between
+groups. The quality of fitting was performed by R2 (28),
+and nonlinear regression analysis was evaluated via
+MATLAB software (version 7.8). The relative standard
+deviation was calculated to determine the accuracy. The
+amount of standard solutions in the concentration range
+was analyzed by UV spectroscopy at the characteristic
+value of &#x003bb; max with the standard curve of drugs. On the
+other hand, drug entrapment and drug release, the effect
+of fungi on cells and the effect of drugs on fungal growth
+in different groups were performed for 24 to 72 hours.
+The results of the analysis showed that in all triplicate
+experiments, significant differences were noted at P&#x02264;0.05
+and P&#x02264;0.01, respectively.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Preparation of Lipo-Niosomes</title><p>In this study, we used different formulas for optimization
+(data not shown). For finding the optimal formulation
+capable of high drug trapping efficiency, controlled
+release at 37&#x000b0;C physiological pH=7.4, and increasing
+the effectiveness of optimization were performed. After
+forming a thin lipid film for nanocarrier, it was exposed
+to 4&#x000b0;C for 24 hours to ensure complete removal of the
+solvent, the lipid thin film was exposed to 4&#x000b0;C for 24
+hours. The AmB and TEO were encapsulated as antifungal
+agents in Lipo-Niosomes-based vesicles. The structure of
+Lipo-Niosomes including Tween 60: cholesterol: DPPC:
+PEG at 20:40:60:3 ratio was considered as a model for the
+delivery of several hydrophobic drugs. </p><p>In this study, Lipo-Niosomes contained AmB1.08&#x000d7;10<sup>-6</sup> mol, TEO
+1.8&#x000d7;10<sup>-6</sup> mol, cholesterol 9.8&#x000d7;10<sup>-5</sup> mol, Tween 60
+6.9&#x000d7;10<sup>-5</sup> mol, DPPC 1.4&#x000d7;10<sup>-4</sup> mol, and PEG 1.6&#x000d7;10<sup>-5</sup> mol
+were formed. The ratio of materials composition to each material of Cholesterol, Tween 60,
+DPPC, and PEG was calculated (equal to 3.2, 4.6, 2.3, and 20.1 mol, respectively). To
+prepare Lipo-Niosomes with hydrophobic molecules, AmB 1.08&#x000d7;10<sup>-6</sup> mol and TEO
+1.8&#x000d7;10<sup>-6</sup> mol was added to the initial chloroform solution. Lipo-Niosomes
+formulations were formed with controlled release, and high entrapment efficiency
+parameters. Details of the Lipo-Niosomes preparation were: 2.88&#x000d7;10<sup>-6</sup> mol total
+weight of drugs, 3.23&#x000d7;10<sup>-4</sup> mol Lipo-Niosomes empty, and 112.15 mol is the
+vesicle ratio to drugs (Table 1). AmB and TEO molecules were placed in the hydrophobic
+part of the lipo-Niosome due to their hydrophobic properties. As a result, the drug
+entrapment rate in the nanocarrier was 94.15% and the release of AmB and TEO in the first
+24 hours was 52% and 54%, respectively Their combined release from the nanocarrier was 48%
+in 24 hours, the nanosystem size was 200 nm and the zeta potential was -24.56 mv .This
+formula was selected as the most suitable formula. The Co-encapsulation of both
+hydrophobic drugs increased the total antifungal molecules loaded into the Nano-carrier
+bilayers, entrapment efficiencies and the effectiveness of the AmB/TEO in Lipo-Niosomes
+increased compared to the free samples. Optimized formulations after 60 days of storage,
+did not change significantly from the freshly prepared samples confirming stability after
+long-term storage. Finally, after choosing the optimal formula, their effects on Candida
+and fungal-infected hASCs were evaluated <italic>in vitro</italic>. </p></sec><sec><title>Morphology and evaluation of drug interactions</title><p>The morphology of hydrated Lipo-Niosomes dispersions was examined by TEM. The structures
+of Nano-carriers were spherical with a core-shell structure. The particle size observed by
+TEM, blank Lipo-Niosome (100 nm), and Co-drugs loaded in lipo-Niosome [AmB-TEO, 200 nm)]
+was slightly smaller than that measured by DLS (220 nm, Fig.1A-C). To investigate the
+presence of chemical interactions between Multi-drugs Nanocarrier AmB, TEO, and unloaded
+Lipo-Niosomes, FTIR spectral data were obtained. The FTIR template for Lipo-Niosomal
+AmB-TEO showed different characteristic peaks of DPPC, cholesterol, Tween 60, and
+DSPE-MPEG in the range of 3400-1115 cm<sup>-1</sup>. All peaks were repeated in the FTIR
+spectrum of blank Lipo-Niosomes, Lipo-Niosomes AmB, and Lipo-Niosomes TEO. peak of 1070
+cm<sup>-1</sup> is due to the C=O asymmetrical stretching vibrations of AmB (29). All
+peaks were also observed in the spectrum of the single drug encapsulation of AmB and TEO;
+As a result, the FTIR results confirmed the conjugation of AmB and TEO with
+Lipo-Niosomes.</p></sec><sec><title>Entrapment efficiency and drug release study</title><p>UV-visible spectroscopy for the determination of the
+free drugs was used in Lipo-Niosomes vesicles (Fig.2A).
+Free drugs have typical absorptions in the UV-visible
+region, concentration, and characteristic peaks of AmB
+at 370,388,407 nm, TEO 225 nm, and AmBisome&#x000ae; 325
+nm (AmB Liposomal as standard, Fig.2B). UV-visible
+of AmB at 380, 400, 417 nm, and TEO 275 nm in LipoNiosomes were determined. As a result of the increase
+in the wavelength of the nanocarrier, it indicated that the drugs have been loaded into the Lipo-Niosomes. UV-spectra
+of AmBisome&#x000ae; 325 nm and Lipo-Niosomes AmB/TEO
+compositions (295, 380, 405 nm) are shown, and considering
+the wavelengths of the drug compound loaded in the lipoNiosome and the AmBisome, it is concluded that the present
+nanocarrier is similar to the standard nanocarrier [AmBisome
+(Fig.2C)]. As a result, the UV-visible spectra can be employed
+to analyze the degree of aggregation of AmB/TEO in LipoNiosomes conjugate (30).</p><p>The <italic>in vitro</italic> release of AmB and TEO from Lipo-Niosomes was investigated
+using a dialysis method and PBS as a running buffer at different time points at 37&#x000b0; C and
+pH=7.4 (Fig.2D). The percentage of released AmB and TEO alone in Lipo-Niosomes was 52% and
+54%, after 24 hours and 54%, and 57% after 72 hours, respectively. Whereas, co-drugs were
+released after 24 hours 48% and after 72 hours 52%. As a result, the release of drugs
+loaded into the Nanocarrier showed a slow release and a prolonged effect</p><fig position="float" id="F1"><label>Fig 1</label><caption><p>Microscopic images (TEM). Determination of morphology, structure and particle size distribution
+of lipo-Niosomes hydrated by TEM, and drugs loaded into nanocarriers by DLS.
+<bold>A.</bold> Blank Lipo-Niosome (100 nm), <bold>B. </bold>Codrugs loaded in
+lipo-Niosome [AmB-TEO (200 nm)], and <bold>C. </bold>Size distribution of Lipo-Niosome
+containing AmB-TEO (220 nm) was slightly smaller than that measured by DLS. DLS;
+Dynamic light scattering, AmB; Amphotericin B, and TEO; Thymus essential oil.</p></caption><graphic xlink:href="Cell-J-24-391-g01" position="float"/></fig></sec><sec><title>Cytotoxic effect of drugs on hASCs
+</title><p>As shown in Figure 2E, free and combination drugs,
+especially AmB, increase toxicity, and cell death
+with increasing concentration. Free drug molecules,
+Lipo-Niosomes, AmB, TEO, and their combination
+at a concentration of 50 &#x003bc;g/ml caused cell death. The
+survival rates of cells were 91.5, 13.4, 58%, and 36.88%,
+respectively (Lipo-Niosomes without drugs are safe
+and show low toxicity). On the other hand, the toxicity
+of free drugs (AmB, TEO, and their combination) with
+a concentration of 50 micrograms per ml were: 61, 80,
+and 56%, respectively, and by trapping drugs with the
+same concentration, the toxicity of 11, 19, and 26%
+were determined )Fig.2F). Thus, the toxicity has been
+significantly reduced.</p><fig position="float" id="F2"><label>Fig 2</label><caption><p>UV-visible spectrum: Morphology and evaluation of drug interactions, entrapment efficiency and
+release study and cytotoxic effect of drugs on hASCs. <bold>A.</bold> Free drugs (AmB
+and TEO), <bold>B. </bold>Lipo-Niosomes (AmB/TEO), and <bold>C.</bold> Combination
+drugs in Nanocarriers and AmBisome&#x000ae; (Liposomal AmB as standard). Free drugs had
+typical absorptions in the UV-visible region, concentration, and characteristic peaks,
+and UV-visible spectroscopy of AmB with a lower concentration in Lipo-Niosomes.
+<bold>D. </bold>FTIR spectra of Lipo-Niosomes (AmB-TEO) conjugate, AmB, TEO and
+Lipo-Niosomes. To investigate the presence of chemical interactions between co- drugs
+Nanocarrier, AmB, TEO, and blank Lipo-Niosomes the FTIR spectral data were obtained.
+<bold>E.</bold> Release of Lipo-Niosome AmB, Lipo-Niosome TEO, Lipo-Niosome AmB/TEO
+at 24 hours was 52, 54, 48%, and after 72 hours were 54, 57, and 52% respectively.
+<bold>F, G. </bold>Free and combination drugs, especially AmB, increase toxicity,
+and cell death with increasing concentration. But, with trapping drugs (AmB, TEO, and
+their combination) in the nanocarrier, their toxicities were reduced compared to free
+drugs.</p></caption><graphic xlink:href="Cell-J-24-391-g02" position="float"/></fig></sec><sec><title>Anti-fungal Activity</title></sec><sec><title>Effect on Candida fungi in culture medium</title><p>The diameters of the growth inhibition zone of different
+species of Candida were determined after 24, 48, and 72 hours. This experiment was performed in two parts. In the
+first stage, post-culture fungal strains were treated with
+free and combined AmB and TEO (Fig.3A). Free drugs had
+the greatest effect on the diameter of the growth inhibition
+zone in the first 24 hours. Drug concentrations decreased
+over time and as a result, the diameter of the fungal area
+decreased. Candida albicans growth aura diameter, which
+is more prevalent, after prescription of AmB, TEO, and
+their combination were 45,40, and 51 mm in the first 24
+hours, 42.5, 37.6, and 47.8 mm in 48 hours:, and, 40.5,
+36.6, and 44.8 mm in 72 hours, respectively.</p><p>This shows that free drugs affect quickly, and
+their effect soon wears off, so the fungi grow again
+(P&#x0003c;0.05). In the second stage, Candida strains were
+treated with encapsulated drugs (Fig.3B). In the first
+24 hours, the drugs were less effective, but over time,
+the effectiveness increased. The diameters of the
+inhibition zone of different Candida species increased.
+After the prescription of AmB and TEO encapsulated
+in lipo-Niosome, the diameter of the Candida albicans
+area in the first 24 hours was 20.7mm and after 72
+hours reached 22.7mm (P&#x0003c;0.05). Therefore, the drugs
+were slowly released from the nanocarrier (Fig.3) (26).
+For MIC, free drugs used in the cultured medium were
+in the range of 0.56 to 0.86 &#x003bc;g/ml (AmB) and 0.98 to
+1.46 &#x003bc;g/ml (TEO), but when placed in Lipo-Niosomes,
+their MIC was about 0.83 to 1.42 &#x003bc;g/ml, while for MIC
+AmBisome was 0.78 to 1.5 &#x003bc;g/0 ml (30). With the
+increase of free drug concentration, their antifungal
+effects increased in the early hours, and after 72 hours
+due to dose reduction, these effects decrease.
+</p><fig position="float" id="F3"><label>Fig 3</label><caption><p>Efficacy of free and encapsulated AmB and TEO on Candida strains (C.A, C.D, C.P, and C.G).
+<bold>A. </bold>Free AmB (A1), free TEO (A2), and free AmB/ TEO combined (A3).<bold>
+B. </bold>Lipo-Niosome AmB (B1), Lipo-Niosome TEO (B2), Lipo-Niosome AmB/TEO
+combined (B3) during 24 (a), 48 (b), and 72 (c) hours. AmB; Amphotericin B and TEO;
+Thymus Essential Oil.</p></caption><graphic xlink:href="Cell-J-24-391-g03" position="float"/></fig><p>In lipo-Niosome binding to cells and fungus wall, the
+effect of free and encapsulated AmB/TEO on fungalinfected hASCs was evaluated. These molecules are
+released slowly after attaching the Lipo-Niosomes to the
+fungus wall, but free drugs affect quickly, and their effect
+wears off quickly (Fig.4).</p><fig position="float" id="F4"><label>Fig 4</label><caption><p>Lipo-Niosomes binding: Effect of free and encapsulated AmB/ TEO on fungal-infected hASCs, the AmB
+and TEO molecules are released slowly after attaching the Lipo-Niosomes to the fungus
+wall, but free drugs affect quickly, and their effect wears off quickly. <bold>A.
+</bold>Stem cell wall, the structure of stem cells contains cholesterol and
+phospholipids that bind to Lipo-Niosomes. <bold>B.</bold> fungal cell wall,
+Lipo-Niosome containing drugs bind to phospholipids, beta-glucan, and especially
+ergosterol in the fungal wall. This bonding is due to the triple connection of the
+Nanocarrier to the fungal wall, it is stable and causes a slow release of drugs. This
+formulation has the ability to bonding to the fungal wall sterol, especially
+ergosterol, but its ability to connect to cholesterol in the stem cell membrane is
+weaker. The attachment to the cell wall is a van der Waals connection, But ergosterol
+binding is a covalent bond (10, 31). AmB; Amphotericin B, TEO; Thymus Essential Oil,
+and hASCs; Human adipose stem cells.</p></caption><graphic xlink:href="Cell-J-24-391-g04" position="float"/></fig></sec><sec><title>Effect of free and encapsulated AmB/TEO on fungalinfected hASCs</title><p>In this study, the effect of free AmB, TEO, and
+compounds on hASCs was evaluated. The combined use
+of free drugs at a concentration of 50 &#x003bc;g/ml (equivalent
+to 1.5 &#x003bc;g/ml AmB and 1.5 &#x003bc;g/ml TEO) caused toxicity in
+these cells. The cell death rates due to AmB, TEO, and a combination of AmB/TEO were 85%, 35%, and 70%,
+respectively. At this stage, the rate of cell death was
+compared with the control group (cells and fungi) and
+this mortality increased with higher doses of drugs. On
+the other hand, over time from 24 to 72 hours, as the
+concentration of the drugs decreased, the cells began
+to grow again (Fig.5A1, 2), which is consistent with
+the study of Kami&#x00144;ski et al. (10).
+</p><p>As shown in Figure 5B1, the fungus has begun to
+grow and occupy the entire cellular environment, and
+drugs have not been able to prevent the growth of fungi
+in the early hours. But over 72 hours, the drugs stopped
+the fungi from growing and killed them, and the stem
+cells got an opportunity to grow again. By comparing
+Figure 5B2 and reducing the concentration of fungi,
+the cells were marked. In the second stage, cells and
+drugs encapsulated were examined with fungi. At this
+stage, the cells become infected with the fungus, and
+during the first 24 hours, the fungi stop growing, but
+after some time (72 hours) and the slow release of the
+drugs, we see a decrease in the concentration of the
+fungus (Fig.5C, D). This is consistent with the studies
+of Moen et al. (32), and Tollemar et al. (33). LipoNiosome containing drugs at a concentration of 100
+&#x003bc;g / ml (equivalent to ~ 3 &#x003bc;g AmB and 3 &#x003bc;g essential
+oil) showed much less toxicity.
+</p><p>A comparison of cell viability by the MTT method
+showed that the survival percentage of stem cells treated
+with concentrations of AmB and TEO, especially AmB
+in the first days was significantly reduced compared
+to the control sample (P&#x0003c;0.01). In addition, the results
+showed that the lethal effect of TEO on cells during
+the experiment was less than that of AmB. However,
+observations about the use of higher concentrations of
+AmB and TEO encapsulated in the lipo-Niosome had
+very little lethal effect compared to the control group,
+and over time, their effect on fungi increased. This
+process was performed with three repetitions in 24 to
+72 hours.
+</p><fig position="float" id="F5"><label>Fig 5</label><caption><p>Effect of free and encapsulated AmB/TEO on fungal-infected hASCs. <bold>A.</bold> The effect of
+free drugs on cells over 24 to 72 hours. In the first 24 hours, drugs at a
+concentration of 50 &#x003bc;g /ml affected the cells and caused cell toxicity, and over time,
+as the dose of the drug decreased, the cells began to grow again after 72 hours. And
+it was found that different concentrations had different effects on cells (comparison
+of Figures A1 and A2). <bold>B. </bold>The cells became infected with the fungus after
+growing in a culture medium. The effect of free drugs on fungal-infected cells was
+investigated. As shown in Figure B1, the fungus has begun to grow and occupy the
+entire cellular environment. But over 72 hours, the drugs stopped the fungi from
+growing and killed them, and the stem cells got an opportunity to grow again. By
+comparing Fig. B1 and B2 and reducing the concentration of fungi, the cells were
+marked. <bold>C. </bold>At this stage, we placed the drugs inside the lipo-Niosome and
+then measured their effects on the cells. At this stage, the effect of drugs
+encapsulated in Lipo-Niosomes on cells was tested. Free drugs at a concentration of 50
+micrograms, were not toxic when placed in nanocarriers. in the first 24 hours, the
+drugs are released late, and the structure of the cells is obvious, but after 72
+hours, when the drugs are released slowly, they affect the cells and we see no the
+growth of cells. <bold>D. </bold>Encapsulated drugs were tested on fungal infected
+cells. The drugs were released slowly and over time from 24 to 72 hours, their effects
+increased and caused the fungus to die. In the first hours before 24 hours, we see
+that the growth of fungi has covered the surface of the cells, but in 72 hours, it is
+observed that with the release of drugs, the concentration of fungal strains decreases
+and the cells begin to grow. AmB; Amphotericin B, TEO; Thymus Essential Oil, and
+hASCs; Human adipose stem cells.</p></caption><graphic xlink:href="Cell-J-24-391-g05" position="float"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Patients with mesenchymal stem cell (MSC) receptors are at high risk for IFIs. Candida is
+one of the predominant organisms that cause these infections. Despite the diagnosis of these
+risk factors, attention to IFI in stem cell transplantation is underestimated, because
+several patients die without identifying the causes of the disease, especially fungal agents
+(34). It is worth noticing that all IFIs appeared in autologous hematopoietic stem cell
+transplant (<italic>HSCT</italic>) recipients immediately after transplantation, while
+patients receiving allogeneic HSCT are at risk even after 100 days (5). IFI is one of the
+leading causes of increased morbidity and mortality among patients with hematologic
+malignancies, particularly in those affected by acute myeloid leukemia, and in those who do
+hematopoietic stem cell transplant. Although more attention has been focused on identifying
+risk factors or prognosis in recipients of HSCT, few efforts have been made to assess the
+true IFI incidence (35).</p><p>Liposomal nanocarriers containing AmB (LAmB) have
+been used for many years to treat fungal infections and
+have been approved by the FDA, but have challenges
+such as instability, maintenance, and cost-effectiveness,
+while optimized Lipo-Niosomes are less challenging. As
+a result, the nanocarrier easily attaches to the fungal wall,
+and after the ions removing from the fungal membrane,
+it destroys them, these results are similar to studies by,
+Walsh et al. (12), Cordonnier et al. (36), Alam et al. (14),
+Mostafavi et al. (13). The advantage of this nanocarrier is
+its low toxicity and effectiveness because TEO essential
+oil has good antifungal activity and can be a good
+alternative to amphotericin. </p><p>Due to the stated challenges liposomes, Lipo-Niosomes
+have attracted the attention of many researchers and
+pharmaceutical companies. They are biocompatible,
+biodegradable, non-immunogenic, and non-toxic and can
+entrapment lots of material in relatively smaller volumes
+compared to other vesicles. The use of this nanocarrier
+improves the stability and pharmacokinetics of the
+drug, reduces the side effects of drugs, and increases
+the therapeutic effects. Also, they are easier and cheaper
+to prepare, store, and transport (37). The present LipoNiosomes are non-toxic, stable, biodegradable and
+inexpensive compared to liposomes.</p><p>Antifungal molecules attach to ergosterol after being
+exposed to the fungal membrane and extract it. The drugergosterol interaction is stronger and more stable than
+the drug-cholesterol because it is attributed to the double
+bond and the methyl group in sterol (10). The use of this
+nanocarrier improves the stability and pharmacokinetics
+of the drug, reduces the side effects of the drugs, and
+increases the effectiveness. Also, they are easier to prepare,
+store, transport, and trap a wider range of drugs (37). We
+tried to use the essential oils of medicinal plants with a
+similar and suitable effect. On the other hand, abundance,
+cheaper, fewer side effects are some of the advantages of
+these plant metabolites. They reduce the concentration of
+AmB, and even after release from the nanocarrier do not
+affect healthy cells in the body.</p><p>The morphology of cultured stem cells was assessed.
+According to a study by Kami&#x00144;ski (10), although the lipoNiosome may bind to the membrane of these cells, the
+ability of the lipo-Niosome to bind to the ergosterol of the
+fungal wall is stable and stronger. On the other hand, the
+AmB drug forms a large agglomerate after being exposed
+to fungal membranes, then binds to ergosterol and extracts
+it. In this process, strong interaction between ergosterol
+and AmB drug is very important and based on the surface
+absorption of AmB drug in which antibiotic molecules
+are oriented parallel to the surface of the lipid, causing
+separation of ergosterol from the membrane surface of
+fungi and their structural instability. According to a study
+by Diezi and Kwon (11) the AmB-ergosterol interaction is
+stronger than AmB-cholesterol because it is attributed to
+the double bond and the methyl group in this sterol, and
+this particular atomic pattern is responsible for the better
+matching of the AmB heptane chain to ergosterol.</p><p>The amphiphilic nature of niosomes also causes
+permeability, solubility, increased absorption, reduced
+toxicity, and other side effects. UV-visible spectroscopy
+was used to determine the formation of the AmBLiponiosome-TEO combination. Co-encapsulation of
+AmB and TEO have typical absorptions in the UV-visible
+region with characteristic peaks at 295, 380, and 405 nm
+with different concentrations (0.06,0.07, and 0.1). The
+AmBisome&#x000ae; (Standard liposomal AmB) spectrum also
+shows a characteristic peak at 325 nm with a concentration
+of 0.12. As a result, the almost identical wavelengths
+and concentrations of the two nanocarriers confirm the
+formation of the Liponiosome.</p><p>In this research, the main limitations associated with
+the use of AmB and TEO, especially amphotericin B, for
+antifungal therapy such as low water solubility, toxicity,
+and hemolytic potential were eliminated by conjugating the
+drug to Lipo-Niosome. It was found that these molecules
+were monomers in the conjugate and did not aggregate.
+The slow and continuous release of AmB and TEO from
+nanocarrier has a considerable role in increasing its halflife if used systemically which corresponds with the study
+of Gurudevan et al. (38).</p><p>Due to the structure of the fungal wall, the lipo-Niosome
+with compounds including Dppc: Chol: Tween60: PEG for
+proper and stable binding to the ergosterol of the fungal
+wall was investigated and finally an optimal formulation
+was obtained. The morphology of the selected nanocarriers
+containing a complex of two drug compounds, Am B and
+TEO, was performed by TEM. The size of the drug-free
+nanocarrier is close to 100 nanometers, but when the drug
+molecules were loaded into it, the size of the nanosystem
+reached about 200 nanometers, indicating that the drugs
+were properly loaded into the lipo-Niosome. In this case,
+the morphology of the nanocarrier is visible as a sphere with
+separate borders and a smooth surface.</p><p>Drug release from the optimized lipo-Niosome was evaluated at pH=7.4 and 37&#x000b0;C by the physiological
+conditions of the body. As demonstrated, the essential oil
+has more release due to higher loading, and this release
+of drug molecules and essential oil during different hours
+shows that the nanosystem can release slowly and in a
+controlled manner. Also, the formulation prepared under
+physiological conditions has a favorable, continuous, and
+slow release. The release of AmB and TEO from LipoNiosome was very similar to the release observed in the
+case of AmBisome&#x000ae; and the study of Gurudevan et al.
+(38), suggesting that the conjugated pharmacokinetic
+profile in case of intravenous injection, would probably be
+similar to AmBisome&#x000ae;. Drug release rates after 24 hours
+were 48% for AmB-Lipo-TEO, whereas the release of
+AmB in AmBisome&#x000ae; and AmB-albumin conjugates was
+45% and 48% at 24 hours, respectively. As a result, this
+optimized model was much similar to the release from
+AmBisome&#x000ae; and the study of Gurudevan et al. (38), and
+therefore could be fitted into this model.</p><p>Since the encapsulation in the present study has a similar <italic>in vitro</italic>
+release profile as that of AmBisome&#x000ae; and AmB-albumin conjugates, it is reasonable to assume
+that the conjugated pharmacokinetic properties <italic>in vivo</italic> are similar to AmBisome&#x000ae;. Although,
+this formulation must be confirmed by <italic>in vivo</italic> studies. Also, in this study,
+for early detection of the effectiveness of drugs loaded in this nanocarrier, for the
+treatment of candidiasis, the antifungal disk diffusion method was used, which is consistent
+with the results of studies by M.T. Blanco et al. (26). The antifungal susceptibility of
+AmB-LiponiosomeTEO than AmBisome&#x000ae; was evaluated as a reference for Candida strains. Since
+AmB is widely used against fungal infections of candidiasis, the AmB-Liponiosome-TEO
+combination was evaluated for its anti-fungal efficacy against this strain. The minimum
+inhibitory concentration (MIC) for AmB-Liponiosome-TEO combination (0.83 to 1.42 &#x003bc;g/ml), and
+AmBisome&#x000ae; (0.78 to 1.50) &#x003bc;g/ml) against the candida were determined. Interestingly, MIC
+values of AmB/TEO in the conjugate were similar to the MIC values of AmBisome&#x000ae; (38), as a
+result, the present nanocarrier has a good antifungal effect.</p><p>Due to the chemical structure of AmB and TEO, they were placed in the hydrophobic section
+of nano-carriers. Hydrophobic molecules are non-polar and therefore tend to other non-polar
+molecules and solvents. Interestingly, free and encapsulated molecules of TEO showed less
+toxicity than AmB with and without loading in LipoNiosomes (30). The diameters of the growth
+inhibition zone of different Candida species were determined in 24, 48, and 72 hours
+<italic>in vitro</italic>. Fungal strains were assayed after culture with AmB, TEO, and
+their combination in liposuction. In the first 24 hours the encapsulated drugs showed the
+least effect due to the lack of release from the nanocarrier and after 72 hours with the
+release of the drugs, they showed the greatest effectiveness, while free drugs had the
+greatest effect in the first 24 hours and their effectiveness disappeared after 72 hours.
+Growth area diameter was after prescription of Lipo-Niosomal (AmB/ TEO combination) in 24
+hours, 20.7 mm, 24.5 mm in 48 hours, and 72 hours, 26.5 mm were determined. This indicates
+that the encapsulated drugs have a long effect, so the fungi do not have a chance to grow
+again. In this study, the effect of Candida fungus on stem cells and the effectiveness of
+AmB and TEO drugs, and encapsulated in Lipo-Niosome with concentrations different were
+evaluated. Free drugs were quick to take effect and their effects soon disappeared, but
+loaded drugs due to slowrelease, continuous effects, as well as more appropriate efficacy
+appeared. After the effectiveness of the drugs, the diameter of fungi decreased
+significantly and showed that the drug and essential oil have a good effect on these fungi.
+As a result, the standard strain of Candida Albicans had a certain sensitivity and according
+to the results, obtained in disk diffusion, TEO has similar antifungal effects as AmB. It is
+concluded that the TEO contains an effective substance capable of preventing the growth of
+fungal compared to the drug AmB. </p><p><italic>In vitro</italic>, their toxicity, cell viability, and efficacy on fungal-infected
+stem cells were investigated. Nanocarriers containing drugs are attached to the ergosterol
+in the fungal cell wall by cholesterol, and drug molecules are slowly released into the
+fungus cell membrane (8, 39, 40). The AmB and TEO molecules are placed in the hydrophobic
+part of the Nano-carrier due to poor stability and low solubility in water. They are
+released slowly after attaching the Lipo-Niosomes to the fungus wall, but free drugs affect
+quickly, and their effect wears off quickly. The morphology of cells and fungi underwent
+significant changes, including a decrease and increase in volume, Spherical and
+spindle-shaped, cell transplantation, decrease and increase in the concentration of fungi.
+Images obtained using a reverse microscope showed that in early culture the cells had a
+spindle and polyhedral morphology (spindle-shaped cells had a higher growth rate than other
+cells and formed the highest cell percentage after the first passage).</p><p>Our goal is to produce nanoparticles based on LipoNiosome loaded with AmB, thymus essential
+oil, and evaluated their effectiveness in treating human adiposederived stem cells infected
+with the fungus. As a result, study and imaging of the effects of drugs on fungal infected
+cells, reduction of fungal strain concentration after drug administration, and stem cell
+regrowth show that this nanocarrier is effective in inhibiting the growth of fungi in cell
+culture medium. Similar to the present system, the liposome nanocarrier contains AmB (LAmB),
+which has been used for many years to treat fungal infections and has been approved by the
+FDA. On the other hand, inspired by the LAmB nanocarrier that treats them after attaching to
+the fungal wall, the lipo-Niosome nanocarrier (27, 32-36) which has a liposome-like
+structure can attach to the fungal wall. As a result, the use of this nanocarrier<italic> in
+vitro </italic>causes growth inhibition, reduction of fungal concentration and cell
+regrowth (microscopic results). In this study, Am B which has many side effects, was loaded
+complex with TEO in a new nanocarrier, to reduce the dose, reduce the side effects of this
+chemical drug, and reducing cellular stress. This review tried to compensate for the
+deficiency of various vitamins and minerals created by cell transplantation through the
+essential oil of the medicinal plant, and also increased the effectiveness or synergy of the
+drug with this process. </p><p>Therefore, it can be concluded that the present system,
+after the animal and clinical tests and FDA approval
+can be a good alternative to liposome containing AmB,
+because we tried to use the essential oil of a medicinal
+plant with similar and suitable effectiveness, more
+abundant, cheaper, with fewer side effects, and reduce the
+concentration of AmB which has side effects on the body
+cells even after release from the nanocarrier. Innovation of
+present study, Optimization of a new formulation for Codelivery of two antifungal drug combinations including
+AmB and TEO based on release parameters, size, and
+percentage of entrapment has been done. This model is
+for the delivery of hydrophobic combinations (especially
+the use of medicinal plant essential oil) to reduce the
+dose and side effects of the chemical drug AmB for the
+effectiveness on fungal-infected stem cells. We introduce
+a model similar to LAmB.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>One of the side effects of AmB is moderate to severe
+anemia and cessation of red blood cell production,
+which can be solved by the prescription of TEO. In this
+optimized formula, we optimized the Lipid level in such
+a way that in addition to transferring the Multi-drug
+compounds, it could be properly attached to the ergosterol
+of the fungal cell membrane. And causes the stability of
+Nanocarriers during the binding and slow release of drug
+molecules. The proposed formula provided potential
+benefits, including smooth spherical surface morphology,
+sustained release, high entrapment efficiency (94.15%),
+the release of Lipo-AmB/TEO (24 hours=48%), and size
+(200 &#x000b1; 20 nm), polydispersity index (0.32 &#x000b1; 3), and Zeta
+(-24.56 mv). Free drug molecules, at a concentration of
+50 &#x003bc;g/ml cause cell death, however by encapsulating
+them at a concentration of 100 micrograms per milliliter,
+the survival rate of the cells is increased. The proposed
+nanocarrier provides an obvious understanding of the
+Lipo-Niosomes formulation as a successful system based
+on surfactant and lipid for the Co-delivery of antifungal
+agents in stem cells. This method can be an appropriate
+alternative to AmB liposomal.</p></sec></body><back><ack><title>Acknowledgements</title><p>The authors are grateful to Dr. Naeini Head of the
+Mycology Department, Shahed University Tehran,
+Iran for scientific assistance during the project. The
+authors also wish to thank the Department of Nanobiotechnology, Research Center for New Technologies in
+Life Science Engineering, University of Tehran, Tehran,
+Iran. The authors also wish to thank the Department of
+The Cell Therapy Center of Hazrat Rasool Hospital,
+Tehran, Iran. This study did not receive any special grant
+from funding agencies in the general, mercantile, or nonprofit organizations. There is no conflict of interest in
+this research. It is noteworthy that this research is being
+patented.</p></ack><bio id="d64e564"><title>Authors&#x02019; Contributions</title><p>F.R., Gh.A., H.S., B.Z.-D.; Participated in study design,
+data collection and evaluation, drafting and statistical
+analysis. F.R., Gh.A.; Contributed to all experimental
+work, data and statistical analysis, and interpretation
+of data. F.R., Gh.A., H.S.; Were responsible for overall
+supervision. H.S., B.Z.-D.; Conducted molecular
+experiments and stem cells analysis. All authors performed
+editing and approving the final version of this manuscript
+for submission, also participated in the finalization of the
+manuscript and approved the final draft.</p></bio><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hedayati</surname><given-names>MT</given-names></name>
+<name><surname>Khodavaisy</surname><given-names>S</given-names></name>
+<name><surname>Alialy</surname><given-names>M</given-names></name>
+<name><surname>Omran</surname><given-names>SM</given-names></name>
+<name><surname>Habibi</surname><given-names>MR</given-names></name>
+</person-group><article-title>Invasive aspergillosis in intensive care unit patients in Iran</article-title><source>Acta Medica (Hradec Kralove)</source><year>2013</year><volume>56</volume><issue>2</issue><fpage>52</fpage><lpage>56</lpage><pub-id pub-id-type="pmid">24069658</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>da Silva Meirelles</surname><given-names>L</given-names></name>
+<name><surname>Caplan</surname><given-names>AI</given-names></name>
+<name><surname>Nardi</surname><given-names>NB</given-names></name>
+</person-group><article-title>In search of the in vivo identity of mesenchymal stem cells</article-title><source>Stem Cells</source><year>2008</year><volume>26</volume><issue>9</issue><fpage>2287</fpage><lpage>2299</lpage><pub-id pub-id-type="pmid">18566331</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Otto</surname><given-names>WR</given-names></name>
+<name><surname>Green</surname><given-names>AM</given-names></name>
+</person-group><article-title>Fungal infections in children with haematologic malignancies and stem cell transplant recipients</article-title><source>Br J Haematol</source><year>2020</year><volume>189</volume><issue>4</issue><fpage>607</fpage><lpage>624</lpage><pub-id pub-id-type="pmid">32159231</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bays</surname><given-names>DJ</given-names></name>
+<name><surname>Thompson GR</surname><given-names>3rd</given-names></name>
+</person-group><article-title>Fungal infections of the stem cell transplant recipient and hematologic malignancy patients</article-title><source>Infect Dis Clin North Am</source><year>2019</year><volume>33</volume><issue>2</issue><fpage>545</fpage><lpage>566</lpage><pub-id pub-id-type="pmid">31005138</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pagano</surname><given-names>L</given-names></name>
+<name><surname>Caira</surname><given-names>M</given-names></name>
+<name><surname>Nosari</surname><given-names>A</given-names></name>
+<name><surname>Van Lint</surname><given-names>MT</given-names></name>
+<name><surname>Candoni</surname><given-names>A</given-names></name>
+<name><surname>Offidani</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Fungal infections in recipients of hematopoietic stem cell transplants: results of the SEIFEM B-2004 study--Sorveglianza Epidemiologica Infezioni Fungine Nelle Emopatie Maligne</article-title><source>Clin Infect Dis</source><year>2007</year><volume>45</volume><issue>9</issue><fpage>1161</fpage><lpage>1170</lpage><pub-id pub-id-type="pmid">17918077</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schneemann</surname><given-names>M</given-names></name>
+<name><surname>Schaffner</surname><given-names>A</given-names></name>
+</person-group><article-title>Host defense mechanism in aspergillus fumigatus infections</article-title><source>Contrib Microbiol</source><year>1999</year><volume>2</volume><fpage>57</fpage><lpage>68</lpage><pub-id pub-id-type="pmid">10523266</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Singh</surname><given-names>N</given-names></name>
+<name><surname>Limaye</surname><given-names>AP</given-names></name>
+<name><surname>Forrest</surname><given-names>G</given-names></name>
+<name><surname>Safdar</surname><given-names>N</given-names></name>
+<name><surname>Mu&#x000f1;oz</surname><given-names>P</given-names></name>
+<name><surname>Pursell</surname><given-names>K</given-names></name>
+<etal/>
+</person-group><article-title>Combination of voriconazole and caspofungin as primary therapy for invasive aspergillosis in solid organ transplant recipients: a prospective, multicenter, observational study</article-title><source>Transplantation</source><year>2006</year><volume>81</volume><issue>3</issue><fpage>320</fpage><lpage>326</lpage><pub-id pub-id-type="pmid">16477215</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yazgi</surname><given-names>M</given-names></name>
+<name><surname>Awad</surname><given-names>D</given-names></name>
+<name><surname>Jreikous</surname><given-names>B</given-names></name>
+</person-group><article-title>Screening of the antifungal activity of plant Mentha longifolia crude extracts against two fungi Alternaria citri and Fusarium moniliforme</article-title><source>J Entomol Zool Stud</source><year>2015</year><volume>3</volume><issue>2</issue><fpage>359</fpage><lpage>364</lpage></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Arias</surname><given-names>JL</given-names></name>
+</person-group><source>Nanotechnology and drug delivery.Nanoplatforms in drug delivery</source><edition>1st ed</edition><publisher-name>CRC Press</publisher-name><year>2014</year></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kami&#x00144;ski</surname><given-names>DM</given-names></name>
+</person-group><article-title>Recent progress in the study of the interactions of amphotericin B with cholesterol and ergosterol in lipid environments</article-title><source>Eur Biophys J</source><year>2014</year><volume>43</volume><issue>10-11</issue><fpage>453</fpage><lpage>467</lpage><pub-id pub-id-type="pmid">25173562</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Diezi</surname><given-names>TA</given-names></name>
+<name><surname>Kwon</surname><given-names>G</given-names></name>
+</person-group><article-title>Amphotericin B/sterol co-loaded PEG-phospholipid micelles: effects of sterols on aggregation state and hemolytic activity of amphotericin B</article-title><source>Pharm Res</source><year>2012</year><volume>29</volume><issue>7</issue><fpage>1737</fpage><lpage>1744</lpage><pub-id pub-id-type="pmid">22130733</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Walsh</surname><given-names>TJ</given-names></name>
+<name><surname>Finberg</surname><given-names>RW</given-names></name>
+<name><surname>Arndt</surname><given-names>C</given-names></name>
+<name><surname>Hiemenz</surname><given-names>J</given-names></name>
+<name><surname>Schwartz</surname><given-names>C</given-names></name>
+<name><surname>Bodensteiner</surname><given-names>D</given-names></name>
+<etal/>
+</person-group><article-title>Liposomal amphotericin B for empirical therapy in patients with persistent fever and neutropenia.National institute of allergy and infectious diseases mycoses study group</article-title><source>N Engl J Med</source><year>1999</year><volume>340</volume><issue>10</issue><fpage>764</fpage><lpage>771</lpage><pub-id pub-id-type="pmid">10072411</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mostafavi</surname><given-names>M</given-names></name>
+<name><surname>Sharifi</surname><given-names>I</given-names></name>
+<name><surname>Farajzadeh</surname><given-names>S</given-names></name>
+<name><surname>Khazaeli</surname><given-names>P</given-names></name>
+<name><surname>Sharifi</surname><given-names>H</given-names></name>
+<name><surname>Pourseyedi</surname><given-names>E</given-names></name>
+<etal/>
+</person-group><article-title>Niosomal formulation of amphotericin B alone and in combination with glucantime: In vitro and in vivo leishmanicidal effects</article-title><source>Biomed Pharmacother</source><year>2019</year><volume>116</volume><fpage>108942</fpage><lpage>108942</lpage><pub-id pub-id-type="pmid">31152929</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alam</surname><given-names>M</given-names></name>
+<name><surname>Dwivedi</surname><given-names>V</given-names></name>
+<name><surname>Khan</surname><given-names>AA</given-names></name>
+<name><surname>Mohammad</surname><given-names>O</given-names></name>
+</person-group><article-title>Efficacy of niosomal formulation of diallyl sulfide against experimental candidiasis in Swiss albino mice</article-title><source>Nanomedicine (Lond)</source><year>2009</year><volume>4</volume><issue>7</issue><fpage>713</fpage><lpage>724</lpage><pub-id pub-id-type="pmid">19839808</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Haque</surname><given-names>F</given-names></name>
+<name><surname>Sajid</surname><given-names>M</given-names></name>
+<name><surname>Cameotra</surname><given-names>SS</given-names></name>
+<name><surname>Battacharyya</surname><given-names>MS</given-names></name>
+</person-group><article-title>Anti-biofilm activity of a sophorolipid-amphotericin B niosomal formulation against Candida albicans</article-title><source>Biofouling</source><year>2017</year><volume>33</volume><issue>9</issue><fpage>768</fpage><lpage>779</lpage><pub-id pub-id-type="pmid">28946803</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kopermsub</surname><given-names>P</given-names></name>
+<name><surname>Mayen</surname><given-names>V</given-names></name>
+<name><surname>Warin</surname><given-names>C</given-names></name>
+</person-group><article-title>Potential use of niosomes for encapsulation of nisin and EDTA and their antibacterial activity enCell hancement</article-title><source>Int Food Res</source><year>2011</year><volume>44</volume><issue>2</issue><fpage>605</fpage><lpage>612</lpage></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sharma</surname><given-names>V</given-names></name>
+<name><surname>Anandhakumar</surname><given-names>S</given-names></name>
+<name><surname>Sasidharan</surname><given-names>M</given-names></name>
+</person-group><article-title>Self-degrading niosomes for encapsulation of hydrophilic and hydrophobic drugs: An efficient carrier for cancer multi-drug delivery</article-title><source>Mater Sci Eng C Mater Biol Appl</source><year>2015</year><volume>56</volume><fpage>393</fpage><lpage>400</lpage><pub-id pub-id-type="pmid">26249606</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>S</given-names></name>
+<name><surname>Qin</surname><given-names>F</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+</person-group><article-title>MSCs helped reduce scarring in the cornea after fungal infection when combined with anti-fungal treatment</article-title><source>BMC Ophthalmol</source><year>2019</year><volume>19</volume><issue>1</issue><fpage>226</fpage><lpage>226</lpage><pub-id pub-id-type="pmid">31727008</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Higashi</surname><given-names>N</given-names></name>
+<name><surname>Sunamoto</surname><given-names>J</given-names></name>
+</person-group><article-title>Endocytosis of poly(ethylene oxide)-modified liposome by human lymphoblastoid cells</article-title><source>Biochim Biophys Acta</source><year>1995</year><volume>1243</volume><issue>3</issue><fpage>386</fpage><lpage>392</lpage><pub-id pub-id-type="pmid">7537102</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McCarthy</surname><given-names>J</given-names></name>
+<name><surname>Inkielewicz-St&#x00119;pniak</surname><given-names>I</given-names></name>
+<name><surname>Corbalan</surname><given-names>JJ</given-names></name>
+<name><surname>Radomski</surname><given-names>MW</given-names></name>
+</person-group><article-title>Mechanisms of toxicity of amorphous silica nanoparticles on human lung submucosal cells in vitro: protective effects of fisetin</article-title><source>Chem Res Toxicol</source><year>2012</year><volume>25</volume><issue>10</issue><fpage>2227</fpage><lpage>2235</lpage><pub-id pub-id-type="pmid">22931364</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Manke</surname><given-names>A</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Rojanasakul</surname><given-names>Y</given-names></name>
+</person-group><article-title>Mechanisms of nanoparticleinduced oxidative stress and toxicity</article-title><source>Biomed Res Int</source><year>2013</year><volume>2013</volume><fpage>942916</fpage><lpage>942916</lpage><pub-id pub-id-type="pmid">24027766</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rosenholm</surname><given-names>JM</given-names></name>
+<name><surname>Sahlgren</surname><given-names>C</given-names></name>
+<name><surname>Lind&#x000e9;n</surname><given-names>M</given-names></name>
+</person-group><article-title>Towards multifunctional, targeted drug delivery systems using mesoporous silica nanoparticles-- opportunities &#x00026; challenges</article-title><source>Nanoscale</source><year>2010</year><volume>2</volume><issue>10</issue><fpage>1870</fpage><lpage>1883</lpage><pub-id pub-id-type="pmid">20730166</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heyes</surname><given-names>J</given-names></name>
+<name><surname>Hall</surname><given-names>K</given-names></name>
+<name><surname>Tailor</surname><given-names>V</given-names></name>
+<name><surname>Lenz</surname><given-names>R</given-names></name>
+<name><surname>MacLachlan</surname><given-names>I</given-names></name>
+</person-group><article-title>Synthesis and characterization of novel poly(ethylene glycol)-lipid conjugates suitable for use in drug delivery</article-title><source>J Control Release</source><year>2006</year><volume>112</volume><issue>2</issue><fpage>280</fpage><lpage>290</lpage><pub-id pub-id-type="pmid">16603272</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Haghiroalsadat</surname><given-names>F</given-names></name>
+</person-group><source>The chemical assessment of seed essence and the comparison of antioxidant effect among three native medicinal plants of the Yazd province (Bunium persicum Boiss., Cuminum cyminum L., Trachyspermum copticum L.).Bunium persicum</source><publisher-name>Bunium persicum</publisher-name><year>2010</year></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Raposio</surname><given-names>E</given-names></name>
+<name><surname>Bertozzi</surname><given-names>N</given-names></name>
+</person-group><article-title>isolation of ready-to-use adipose-derived stem cell (ASC) pellet for clinical applications and a comparative overview of alternate methods for ASC isolation</article-title><source>Curr Protoc Stem Cell Biol</source><year>2017</year><volume>41</volume><fpage>1F</fpage><lpage>1F</lpage><comment>171-1F1712</comment></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Blanco</surname><given-names>MT</given-names></name>
+<name><surname>P&#x000e9;rez-Giraldo</surname><given-names>C</given-names></name>
+<name><surname>Blanco</surname><given-names>J</given-names></name>
+<name><surname>Mor&#x000e1;n</surname><given-names>FJ</given-names></name>
+<name><surname>Hurtado</surname><given-names>C</given-names></name>
+<name><surname>G&#x000f3;mez-Garc&#x000ed;a</surname><given-names>AC</given-names></name>
+</person-group><article-title>In vitro studies of activities of some antifungal agents against candida albicans ATCC 10231 by the turbidimetric method</article-title><source>Antimicrob Agents Chemother</source><year>1992</year><volume>36</volume><issue>4</issue><fpage>898</fpage><lpage>901</lpage><pub-id pub-id-type="pmid">1503456</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Upton</surname><given-names>A</given-names></name>
+<name><surname>Kirby</surname><given-names>KA</given-names></name>
+<name><surname>Carpenter</surname><given-names>P</given-names></name>
+<name><surname>Boeckh</surname><given-names>M</given-names></name>
+<name><surname>Marr</surname><given-names>KA</given-names></name>
+</person-group><article-title>Invasive aspergillosis following hematopoietic cell transplantation: outcomes and prognostic factors associated with mortality</article-title><source>Clin Infect Dis</source><year>2007</year><volume>44</volume><issue>4</issue><fpage>531</fpage><lpage>540</lpage><pub-id pub-id-type="pmid">17243056</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Naderinezhad</surname><given-names>S</given-names></name>
+<name><surname>Amoabediny</surname><given-names>G</given-names></name>
+<name><surname>Haghiralsadat</surname><given-names>F</given-names></name>
+</person-group><article-title>Co-delivery of hydrophilic and hydrophobic anticancer drugs using biocompatible pH-sensitive lipid-based nano-carriers for multidrug-resistant cancers</article-title><source>RSC Adv</source><year>2017</year><volume>7</volume><issue>48</issue><fpage>30008</fpage><lpage>30019</lpage></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gago&#x0015b;</surname><given-names>M</given-names></name>
+<name><surname>Arczewska</surname><given-names>M</given-names></name>
+</person-group><article-title>FTIR spectroscopic study of molecular organization of the antibiotic amphotericin B in aqueous solution and in DPPC lipid monolayers containing the sterols cholesterol and ergosterol</article-title><source>Eur Biophys J</source><year>2012</year><volume>41</volume><issue>8</issue><fpage>663</fpage><lpage>673</lpage><pub-id pub-id-type="pmid">22832948</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jain</surname><given-names>S</given-names></name>
+<name><surname>Valvi</surname><given-names>PU</given-names></name>
+<name><surname>Swarnakar</surname><given-names>NK</given-names></name>
+<name><surname>Thanki</surname><given-names>K</given-names></name>
+</person-group><article-title>Gelatin coated hybrid lipid nanoparticles for oral delivery of amphotericin B</article-title><source>Mol Pharm</source><year>2012</year><volume>9</volume><issue>9</issue><fpage>2542</fpage><lpage>2553</lpage><pub-id pub-id-type="pmid">22845020</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Silva</surname><given-names>L</given-names></name>
+<name><surname>Coutinho</surname><given-names>A</given-names></name>
+<name><surname>Fedorov</surname><given-names>A</given-names></name>
+<name><surname>Prieto</surname><given-names>M</given-names></name>
+</person-group><article-title>Competitive binding of cholesterol and ergosterol to the polyene antibiotic nystatin.A fluorescence study</article-title><source>Biophys J</source><year>2006</year><volume>90</volume><issue>10</issue><fpage>3625</fpage><lpage>3631</lpage><pub-id pub-id-type="pmid">16500971</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Moen</surname><given-names>MD</given-names></name>
+<name><surname>Lyseng-Williamson</surname><given-names>KA</given-names></name>
+<name><surname>Scott</surname><given-names>LJ</given-names></name>
+</person-group><article-title>Liposomal amphotericin B: a review of its use as empirical therapy in febrile neutropenia and in the treatment of invasive fungal infections</article-title><source>Drugs</source><year>2009</year><volume>69</volume><issue>3</issue><fpage>361</fpage><lpage>392</lpage><pub-id pub-id-type="pmid">19275278</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tollemar</surname><given-names>J</given-names></name>
+<name><surname>H&#x000f6;ckerstedt</surname><given-names>K</given-names></name>
+<name><surname>Ericzon</surname><given-names>BG</given-names></name>
+<name><surname>Sundberg</surname><given-names>B</given-names></name>
+<name><surname>Ringd&#x000e9;n</surname><given-names>O</given-names></name>
+</person-group><article-title>Fungal prophylaxis with AmBisome in liver and bone marrow transplant recipients: results of two randomized double-blind studies</article-title><source>Transplant Proc</source><year>1994</year><volume>26</volume><issue>3</issue><fpage>1833</fpage><lpage>1833</lpage><pub-id pub-id-type="pmid">8030161</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kume</surname><given-names>H</given-names></name>
+<name><surname>Yamazaki</surname><given-names>T</given-names></name>
+<name><surname>Abe</surname><given-names>M</given-names></name>
+<name><surname>Tanuma</surname><given-names>H</given-names></name>
+<name><surname>Okudaira</surname><given-names>M</given-names></name>
+<name><surname>Okayasu</surname><given-names>I</given-names></name>
+</person-group><article-title>Increase in aspergillosis and severe mycotic infection in patients with leukemia and MDS: comparison of the data from the annual of the pathological autopsy cases in Japan in 1989, 1993 and 1997</article-title><source>Pathol Int</source><year>2003</year><volume>53</volume><issue>11</issue><fpage>744</fpage><lpage>750</lpage><pub-id pub-id-type="pmid">14629297</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marr</surname><given-names>KA</given-names></name>
+<name><surname>Seidel</surname><given-names>K</given-names></name>
+<name><surname>White</surname><given-names>TC</given-names></name>
+<name><surname>Bowden</surname><given-names>RA</given-names></name>
+</person-group><article-title>Candidemia in allogeneic blood and marrow transplant recipients: evolution of risk factors after the adoption of prophylactic fluconazole</article-title><source>J Infect Dis</source><year>2000</year><volume>181</volume><issue>1</issue><fpage>309</fpage><lpage>316</lpage><pub-id pub-id-type="pmid">10608780</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cordonnier</surname><given-names>C</given-names></name>
+<name><surname>Mohty</surname><given-names>M</given-names></name>
+<name><surname>Faucher</surname><given-names>C</given-names></name>
+<name><surname>Pautas</surname><given-names>C</given-names></name>
+<name><surname>Robin</surname><given-names>M</given-names></name>
+<name><surname>Vey</surname><given-names>N</given-names></name>
+<etal/>
+</person-group><article-title>Safety of a weekly high dose of liposomal amphotericin B for prophylaxis of invasive fungal infection in immunocompromised patients: PROPHYSOME Study</article-title><source>Int J Antimicrob Agents</source><year>2008</year><volume>31</volume><issue>2</issue><fpage>135</fpage><lpage>141</lpage><pub-id pub-id-type="pmid">18162375</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wadhwa</surname><given-names>S</given-names></name>
+<name><surname>Paliwal</surname><given-names>R</given-names></name>
+<name><surname>Paliwal</surname><given-names>SR</given-names></name>
+<name><surname>Vyas</surname><given-names>SP</given-names></name>
+</person-group><article-title>Nanocarriers in ocular drug delivery: an update review</article-title><source>Curr Pharm Des</source><year>2009</year><volume>15</volume><issue>23</issue><fpage>2724</fpage><lpage>2750</lpage><pub-id pub-id-type="pmid">19689343</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gurudevan</surname><given-names>S</given-names></name>
+<name><surname>Francis</surname><given-names>AP</given-names></name>
+<name><surname>Jayakrishnan</surname><given-names>A</given-names></name>
+</person-group><article-title>Amphotericin B-albumin conjugates: synthesis, toxicity and anti-fungal activity</article-title><source>Eur J Pharm Sci</source><year>2018</year><volume>115</volume><fpage>167</fpage><lpage>174</lpage><pub-id pub-id-type="pmid">29325755</pub-id></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>J</given-names></name>
+<name><surname>Sudbery</surname><given-names>P</given-names></name>
+</person-group><article-title>Candida albicans, a major human fungal pathogen</article-title><source>J Microbiol</source><year>2011</year><volume>49</volume><issue>2</issue><fpage>171</fpage><lpage>177</lpage><pub-id pub-id-type="pmid">21538235</pub-id></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>WR</given-names></name>
+<name><surname>Shi</surname><given-names>QS</given-names></name>
+<name><surname>Dai</surname><given-names>HQ</given-names></name>
+<name><surname>Liang</surname><given-names>Q</given-names></name>
+<name><surname>Xie</surname><given-names>XB</given-names></name>
+<name><surname>Huang</surname><given-names>XM</given-names></name>
+<etal/>
+</person-group><article-title>Antifungal activity, kinetics and molecular mechanism of action of garlic oil against Candida albicans</article-title><source>Sci Rep</source><year>2016</year><volume>6</volume><fpage>22805</fpage><lpage>22805</lpage><pub-id pub-id-type="pmid">26948845</pub-id></element-citation></ref></ref-list></back></article>

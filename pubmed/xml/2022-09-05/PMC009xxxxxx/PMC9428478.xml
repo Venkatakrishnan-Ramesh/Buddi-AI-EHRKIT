@@ -1,0 +1,855 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell J</journal-id><journal-id journal-id-type="iso-abbrev">Cell J</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>Cell Journal (Yakhteh)</journal-title></journal-title-group><issn pub-type="ppub">2228-5806</issn><issn pub-type="epub">2228-5814</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36043405</article-id><article-id pub-id-type="pmc">PMC9428478</article-id><article-id pub-id-type="other">Cell-J-24-370</article-id><article-id pub-id-type="doi">10.22074/cellj.2022.7892</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject><subj-group><subject>Differentiation</subject><subject>Cellular and Molecular Biology</subject></subj-group></subj-group></article-categories><title-group><article-title>Optimizing Tenogenic Differentiation of Equine Adipose-Derived
+Mesenchymal Stem Cells (eq-ASC) Using TGFB3 Along
+with BMP Antagonists</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Shojaee</surname><given-names>Asiyeh</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Ejeian</surname><given-names>Fatemeh</given-names></name><degrees>Ph.D</degrees><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Parham</surname><given-names>Abbas</given-names></name><degrees>D.V.M., Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A3" ref-type="aff">3</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Nasr-Esfahani</surname><given-names>Mohammad Hossein</given-names></name><degrees>Ph.D</degrees><xref rid="A2" ref-type="aff">2</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><aff id="A1"><label>1</label>Division of Physiology, Department of Basic Sciences, Faculty of Veterinary Medicine, Ferdowsi University of Mashhad,
+Mashhad, Iran</aff><aff id="A2"><label>2</label>Department of Animal Biotechnology, Cell Science Research Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran</aff><aff id="A3"><label>3</label>Stem Cell Biology and Regenerative Medicine Research Group, Institute of Biotechnology, Ferdowsi University of Mashhad,
+Mashhad, Iran</aff></contrib-group><author-notes><corresp id="cor1">
+<label>*Corresponding Addresses:</label>
+<addr-line>P.O.Box: 9177948974</addr-line>
+<addr-line>Division of Physiology</addr-line>
+<addr-line>Department of Basic Sciences</addr-line>
+<addr-line>Faculty of Veterinary Medicine</addr-line>
+<institution>Ferdowsi
+University of Mashhad</institution>
+<addr-line>Mashhad</addr-line><country>Iran</country>
+<addr-line>P.O.Box: 8159358686</addr-line>
+<addr-line>Department of Animal Biotechnology</addr-line>
+<addr-line>Reproductive Biomedicine Research Center</addr-line>
+<institution>Royan Institute for Biotechnology</institution>
+<addr-line>ACECR</addr-line>
+<addr-line>Isfahan</addr-line>
+<country>Iran</country>
+Emails:<email>parham@um.ac.ir</email>,<email>mh.nasr-esfahani@royaninstitute.org</email>
+</corresp></author-notes><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>27</day><month>7</month><year>2022</year></pub-date><volume>24</volume><issue>7</issue><fpage>370</fpage><lpage>379</lpage><history><date date-type="received"><day>19</day><month>12</month><year>2020</year></date><date date-type="accepted"><day>28</day><month>4</month><year>2021</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium,
+with the exception of commercial purposes, is permitted provided the original work is properly cited.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0) License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original
+work is properly cited. </license-p></license></permissions><abstract><sec><title>Objective</title><p> Tendon repair strategies usually are accompanied by pathological mineralization and scar tissue formation
+that increases the risk of re-injuries. This study aimed to establish an efficient tendon regeneration method simultaneously
+with a reduced risk of ectopic bone formation.
+</p></sec><sec><title>Materials and Methods</title><p>In this experimental study, tenogenic differentiation was induced through transforming
+growth factor- &#x003b2;3 (TGFB3) treatment in combination with the inhibiting concentrations of bone morphogenetic proteins
+(BMP) antagonists, gremlin-2 (GREM2), and a Wnt inhibitor, namely sclerostin (SOST). The procedure&#x02019;s efficacy was
+evaluated using real-time polymerase chain reaction (qPCR) for expression analysis of tenogenic markers and osteo-
+chondrogenic marker genes. The expression level of two tenogenic markers, <italic>SCX</italic> and <italic>MKX</italic>, was also evaluated by
+immunocytochemistry. Sirius Red staining was performed to examine the amounts of collagen fibers. Moreover, to
+investigate the impact of the substrate on tenogenic differentiation, the nanofibrous scaffolds that highly resemble
+tendon extracellular matrix was employed.</p></sec><sec><title>Results</title><p> Aggregated features formed in spontaneous normal culture conditions followed by up-regulation of tenogenic
+and osteogenic marker genes, including <italic>SCX, MKX, COL1A1, RUNX2</italic>, and <italic>CTNNB1</italic>. TGFB3 treatment exaggerated
+morphological changes and markedly amplified tenogenic differentiation in a shorter period of time. Along with TGFB3
+treatment, inhibition of BMPs by GREM2 and SOST delayed migratory events to some extent and dramatically reduced
+osteo-chondrogenic markers synergistically. Nanofibrous scaffolds increased tenogenic markers while declining the
+expression of osteo-chondrogenic genes.
+</p></sec><sec><title>Conclusion</title><p>These findings revealed an appropriate <italic>in vitro</italic> potential of spontaneous tenogenic differentiation of eq-
+ASCs that can be improved by simultaneous activation of TGFB and inhibition of osteoinductive signaling pathways.</p></sec></abstract><kwd-group><kwd>Bone Morphogrnic Protein</kwd><kwd>Horse</kwd><kwd>Mesenchymal Stem Cells</kwd><kwd>Tenogenic Differentiation</kwd><kwd>Transforming
+Growth Factor Beta</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Shojaee A, Ejeian F, Parham A, Nasr-Esfahani MH. Optimizing tenogenic differentiation of equine adipose-derived mesenchymal stem cells (eq-ASC)
+using TGFB3 along with BMP antagonists. Cell J. 2022; 24(7): 370-379. doi: 10.22074/cellj.2022.7892.
+This open-access article has been published under the terms of the Creative Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0).</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Tendon injuries are considered the most frequent
+orthopedic challenges of all musculoskeletal injuries in
+horses. Among them, superficial digital flexor tendon
+(SDFT) injuries commonly occur in racehorses, which is
+associated with considerable time and cost (<xref rid="B1" ref-type="bibr">1</xref>). Tendon is
+a hypo-vascular and hypo-cellular tissue naturally leading
+to a low metabolic activity rate which, in turn, slows
+down spontaneous tendon repair. Autonomous tendon
+regeneration is accompanied by abnormalities, not only
+in cellular phenotypes but also in extracellular matrix
+(ECM) composition. These abnormalities may result in
+scar formation and ectopic calcification, leading to elastic
+mismatch and mechanical complications followed by
+tendon rupture (<xref rid="B2" ref-type="bibr">2</xref>).</p><p>Conventional medical interventions are mainly intended to control pain or destroy damaged
+tissue that results in loss of functionality. In recent years, cell therapy strategies using
+stem or progenitor cells have received a great deal of attention to improve the efficiency
+of tendon regeneration, particularly in horses (<xref rid="B3" ref-type="bibr">3</xref>). However, the relatively high risk of
+ectopic bone formation, and potential migration of transplanted mesenchymal stem cells
+(MSCs) from the site of transplantation, suggests that <italic>in vitro</italic> tenogenic
+induction before transplantation can improve the healing process and avoid the risks
+mentioned above (<xref rid="B4" ref-type="bibr">4</xref>). Adipose-derived mesenchymal stem cells (ASCs) have attracted a great
+deal of attention for cell-based regeneration strategies because of their abundance and easy
+accessibility and their ability to secrete both tendon ECM components and cytokines (<xref rid="B5" ref-type="bibr">5</xref>).
+Indeed, different growth factors [such as TGFB, platelet-derived growth factor (PDGF),
+vascular endothelial growth factor (VEGF), basic fibroblast growth factor (bFGF), and
+insulin-like growth factor-I (IGF1)] have been applied extensively to overcome challenges of
+routine cell therapy strategies (<xref rid="B6" ref-type="bibr">6</xref>). Platelet-rich plasma (PRP) has become a popular
+approach in cell-based therapies, both in humans and animals, because of its exceptional
+level of growth factors (<xref rid="B7" ref-type="bibr">7</xref>).</p><p>Several lines of evidence support the pivotal regulatory
+role of transforming growth factor B (TGFB) superfamily
+either during the development of musculoskeletal
+differentiation or tissue repair via TGFB and/or bone
+morphogenetic proteins (BMP) signaling pathways.
+Three well-known ligand isoforms of the TGFB family
+(TGFB1, TGFB2, and TGFB3) affect cellular activities
+via canonical (SMADs 2/3-dependent) or non-canonical
+pathways (<xref rid="B8" ref-type="bibr">8</xref>). The precise regulation of these alternative
+pathways is highly dependent on cell type, culture
+conditions, and possible cross-talk with other signaling
+pathways, which in turn control the overall performance
+of stem cells (<xref rid="B9" ref-type="bibr">9</xref>).</p><p>TGFB is a pivotal factor for tendon generation in such
+a way that mutation in either the ligands (TGFB2 and
+TGFB3) or the receptor (TBR2) prevents tenogenesis
+during the early stages of embryogenesis (<xref rid="B10" ref-type="bibr">10</xref>). During
+natural tendon healing, TGFB1 normally reaches the
+peak of expression earlier, while TGFB3 is expressed
+through the late stages (<xref rid="B11" ref-type="bibr">11</xref>). Given the importance of
+the TGFB family in tendon development and repair,
+most of the applied regenerative approaches trigger the
+TGFB signaling pathway as the critical regulator of
+musculoskeletal lineage (<xref rid="B12" ref-type="bibr">12</xref>). All three known isoforms of
+TGFB revealed a positive effect on viability and cologne
+synthesis during tendon healing (<xref rid="B13" ref-type="bibr">13</xref>). Furthermore, it is
+evident that TGFB1 causes scar tissue formation, whereas
+TGFB3 reduces its creation (<xref rid="B14" ref-type="bibr">14</xref>).
+</p><p>Although TGFB has many important roles in tendon development and differentiation, it also
+regulates chondrogenic and osteogenic differentiation in which the balance between TGFB and
+BMP signaling is important (<xref rid="B15" ref-type="bibr">15</xref>). In general, BMP signaling restricts SCX expression as the
+key trigger signal for tenogenic differentiation. Phosphorylation of BMP receptors activates
+intracellular downstream SMADs (SMADs 1/5/8) that form a stable complex associated with
+SMAD4, which then translocate into the nucleus and regulate several target genes such as
+runt-related transcription factor 2 (<italic>RUNX2</italic>). BMP signaling plays a crucial
+role in bone formation, and the knockdown of its receptor (<italic>BMPR2</italic>) inhibits
+osteogenesis in MSCs (<xref rid="B16" ref-type="bibr">16</xref>). The positive impact of some BMP family members (BMP11, <xref rid="B12" ref-type="bibr">12</xref>, and
+13) on tendon differentiation is also reported (<xref rid="B17" ref-type="bibr">17</xref>). </p><p><italic>BMP</italic> antagonizing appears to increase <italic>SCX </italic>expression,
+accompanied by reduced calcification (<xref rid="B18" ref-type="bibr">18</xref>). Among various BMP antagonists, gremlin-2 (GREM2)
+presents the notable potential to bind and inhibit BMP-2 and BMP-4 efficiently and block the
+activation of Smad1/5/8. Furthermore, sclerostin (SOST) is also a BMP antagonist with a
+higher binding affinity to BMP 5/6/7 than BMP2/4 (<xref rid="B19" ref-type="bibr">19</xref>). However, SOST is not accepted as a
+classical BMP inhibitor but more propounded as an antagonistic ligand for Wnt coreceptor
+LDL-receptor-related protein5 and 6 (LRP5 and LRP6). Indeed, SOST can effectively promote
+catenin beta1 destruction and down-regulation of the canonical Wnt target genes (<xref rid="B20" ref-type="bibr">20</xref>). Wnt
+signaling pathway provides effective crosstalk with the BMPs and is involved in bone
+formation and homeostasis. It has also been reported that canonical Wnt mediators are
+overexpressed along with tendinopathy injuries (<xref rid="B21" ref-type="bibr">21</xref>). </p><p>Besides chemical stimulation, scaffolds also provide a
+promising strategy for regulating various cellular behaviors,
+such as survival, proliferation, and differentiation
+(<xref rid="B22" ref-type="bibr">22</xref>). There are two common members of the poly
+(hydroxyalkanoates) (PHAs): Poly (3-hydroxybutyrate)
+(PHB) and its copolymer with 3-hydroxyvalerate (PHBV).
+They are known as biological polyesters produced by
+microorganisms and used as the intracellular energy
+source. So far, PHB/PHBV nanofibrous membranes
+have been widely investigated to regenerate connective
+tissues (<xref rid="B23" ref-type="bibr">23</xref>). In fact, PHB /PHBV nanofibrous scaffolds
+attract significant attention to tendon tissue engineering
+due to their adaptable mechanical properties, long-term
+biodegradation, and relatively similar structure to tendon
+ECM (<xref rid="B24" ref-type="bibr">24</xref>). It has also been reported that incorporating
+collagen into nanofibrous scaffolds effectively improves
+the biological responses involved in tenogenesis (<xref rid="B22" ref-type="bibr">22</xref>).
+</p><p>Our recent data demonstrated that eq-ASCs had
+propounded inherent potential to differentiate towards
+musculoskeletal lineage amplified in response to TGFB3
+treatment (<xref rid="B25" ref-type="bibr">25</xref>). Regarding the critical role of TGFB during
+the tendon development and repair, we investigated how
+inhibition of the BMP signaling pathway along with
+TGFB activation can modulate the exclusive tenogenic
+differentiation of eq-ASCs with the elimination of
+undesirable osteo-chondrogenesis. This goal was
+followed through the stepwise treatment of eq-ASCs
+by TGFB3 and a combination of GREM2 and SOST.
+Furthermore, we investigated the impact of PHB /PHBV/
+COL1 nanofibrous scaffold on improving the tenogenic
+differentiation status of eq-ASCs.</p></sec><sec sec-type="materials-methods"><title>Materials and Methods</title><sec><title>Eq-ASCs isolation, Culture, and Characterization </title><p>Subcutaneous adipose tissue samples were obtained from a 2-years-old female horse, and
+ASCs were isolated, characterized, and cultured under normal conditions (5% CO<sub>2</sub>
+and 37&#x000b0;C), as previously described. Briefly, harvested fat tissue was washed with PBS
+solution and enzymatically digested using 0.075% collagenase type I. Cell suspension were
+filtered through the 40 &#x000b5;m nylon mesh and cultured under Dulbecco&#x02019;s Modified Eagle&#x02019;s
+Medium (DMEM) supplemented with 10% fetal bovine serum (FBS) and 1% P/S. Eq-ASCs were
+characterized in passage 3, considering the minimal criteria of MSCs (<xref rid="B25" ref-type="bibr">25</xref>). For further
+analysis, ADSCs in passages 3&#x02013;5 were applied. The procedures used in this study to obtain
+primary adipose stem cells from the horse were approved by the Ethics Committee of the
+Royan Institute (IR.ACECR.ROYAN. REC.1395.9). All methods were performed in accordance
+with relevant guidelines and regulations. Unless otherwise noted, all chemical reagents
+were obtained from Gibco (Paisley, UK). </p></sec><sec><title>Appropriate dose selection for bioactive factors</title><p>The effective dosages of recombinant human TGFB3 (R&#x00026;D System, Minneapolis, Minnesota,
+USA) were assessed based on its ability to induce <italic>SXC</italic> expression
+following one and three days treatment with 2.5-10 ng/ml of TGFB3 (<xref rid="B26" ref-type="bibr">26</xref>). Also, to determine
+the proper concentration of BMP antagonists for eq-ASCs, dose-response studies were
+conducted concerning related reports on the different types of MSCs (<xref rid="B27" ref-type="bibr">27</xref>, <xref rid="B28" ref-type="bibr">28</xref>). Following
+one day of treatment with TGFB3 (2.5 ng/ml), the inhibitory potential of recombinant mouse
+GREM2 (R&#x00026;D System, Minneapolis, Minnesota, USA) was evaluated at concentrations of 100
+and 200 ng/ml. Also, recombinant human SOST (R&#x00026;D System, Minneapolis, Minnesota, USA)
+was treated at the range of 250 to 2250 ng/ml for further two days following TGFB
+treatment.</p></sec><sec><title>Tenogenic induction in eq-ASCs</title><p>In order to induce tenogenic differentiation, cells were plated at a density of
+2&#x000d7;10<sup>4</sup> cells/cm<sup>2</sup> in standard culture conditions. On a sub-confluent
+state (70-80% confluency), eq-ASCs were treated with the various combination of factors
+described in <xref rid="s1" ref-type="supplementary-material">Table S1</xref> (See Supplementary Online Information at<uri xlink:href="www.celljournal.org"> www.celljournal.org</uri>). The
+morphological feature of cells was precisely monitored during 10 days of induction using
+an inverted microscope (Olympus, Tokyo, Japan), and cells were harvested for further
+analysis after 3, 7, and 10 days. </p></sec><sec><title>RNA isolation and gene expression analysis</title><p>RNA extraction of the cells was carried out using TRI reagent (Thermo Fisher Scientific,
+Waltham, Massachusetts, USA), and complementary DNA (cDNA) was synthesized by cDNA
+Synthesis kit (Fermentas, Waltham, Massachusetts, USA) according to the manufacturer&#x02019;s
+description. Subsequently, the qRT-PCR assay was performed on the ABI Step One Real-Time
+PCR System (Applied Biosystem, Foster City, California, USA) with SYBR green master mix
+(TaKaRa Bio Inc, Kusatsu, Shiga Prefecture, Japan). Data analysis was conducted using the
+2<sup>-&#x02206;&#x02206;Ct</sup> method. <italic>GAPDH</italic> was used as the internal control gene,
+and the gene expression level was normalized to untreated cells (day 0). The information
+for specific primers used to evaluate the target genes is provided in <xref rid="s1" ref-type="supplementary-material">Table S2</xref> (See
+Supplementary Online Information at <uri xlink:href="www.celljournal.org">www.celljournal.org</uri>) .</p></sec><sec><title>Immunocytochemical assay</title><p>Cells were fixed in 4% paraformaldehyde on days 3, 7,
+and 10,, permeabilized with 0.2% triton x-100, and were
+blocked with 10% goat serum prior to incubation. So, they
+were washed and incubated with the primary antibodies
+against SCX (Abcam, Cambridge, UK), MKX (Aviva
+Systems Biology, San Diego, California, USA) as well
+as control immunoglobulin G (Abcam, Cambridge, UK).
+Specific stained antigens were then labeled with FITCconjugated secondary antibody (Sigma-Aldrich, St. Louis,
+Missouri, USA). In addition, nuclei were counterstained
+with 4, 6-diamidino-2-phenylindole (DAPI, SigmaAldrich, St. Louis, Missouri, USA). Further imaging
+was performed under fluorescence microscopy (BX51,
+Olympus, Tokyo, Japan). For quantitative SCX and MKX,
+corrected total cell fluorescence (CTCF) was determined
+using Image J and calculated through subtracting the
+background using the following formula:
+</p><p>CTCF=Integrated density-(area of interest&#x000d7;mean
+background fluorescence).</p></sec><sec><title>Western blotting</title><p>T/G and T/G/S treated cells were lysed after 3, 7, and
+10 days using TRI reagent (Thermo Fisher Scientific,
+Waltham, Massachusetts, USA), according to the
+manufacturer protocol. Total protein concentration was
+measured by Bradford assay. Afterward, equal amounts of
+each sample (30 &#x000b5;g) were run on sodium dodecyl sulfate&#x02013;
+polyacrylamide gel electrophoresis (SDS-PAGE) gel and
+blotted onto PVDF membrane (Bio Rad). Blots were
+blocked with 10% skim milk (Millipore) and incubated
+with anti-SCX (Abcam, ab58655), anti-MKX (Aviva
+Systems Biology, ASB-ARP32574-P050), and anti-&#x003b2;Actin (Santa Cruz, sc-47778) antibodies for 2 hours at
+room temperature. Then, membranes were incubated for
+1 hour at room temperature with an appropriate secondary
+antibody: horseradish peroxidase (HRP)-conjugated
+goat anti-mouse IgG (Dako) or HRP-conjugated mouse
+anti-rabbit IgG (Santa Cruz). Finally, the protein bands
+were visualized by an Amersham ECL Advance Western
+Blotting Detection Kit (GE Healthcare).</p></sec><sec><title>Sirius red staining</title><p>For Sirius Red staining, induced eq-ASCs at three-time
+points (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B7" ref-type="bibr">7</xref>, and 10 days) were rained with PBS and fixed
+with 4 % paraformaldehyde. Next, deposited collagens
+were stained with 0.1% Sirius Red F 3B (Direct Red 80,
+Sigma-Aldrich, St. Louis, Missouri, USA) in a saturated
+aqueous solution of picric acid for 1 hour at room
+temperature. In order to quantify, nodules were solubilized
+with 1:1 (v/v) 0.1% NaOH and absolute methanol for 30
+minutes at room temperature, and related absorbance was
+measured at 540 nm by a spectrophotometric plate reader
+(Stat Fax 3200, Awareness Technology, Inc., Palm City,
+Florida, USA).</p></sec><sec><title>Phalloidin staining</title><p>The morphology of the eq-ASCs on the scaffolds
+was evaluated with phalloidin staining of the actin
+cytoskeleton. Briefly, cells were fixed in formaldehyde 4%,
+permeabilized using triton 0.2%, and sequentially stained
+with the phalloidin-TRITC label (Tetramethylrhodamine
+B isothiocyanate; Sigma) and 4&#x002ca;, 6-diamidino-2-
+phenylindole (DAPI, Sigma). Finally, fluorescence
+images were obtained using fluorescence microscopy
+(Olympus, BX51, Japan).</p></sec><sec><title>MTS assay</title><p>The viability and proliferation rate of the cells on
+the nanofiber scaffold was evaluated using MTS assay
+after one, three, and five days. To assess the metabolic
+activity at each time point, the medium was replaced with
+the fresh medium containing 10% MTS stock solution
+(Promega, WI, USA) and incubated at 37&#x002da;C for 3.30
+hours. Finally, net absorbance was measured at 450 nm
+with a Microplate Reader (Fluostar Optima, BMG Lab
+Technologies, Germany).</p></sec><sec><title>Cell seeding on the scaffold</title><p>A previously characterized aligned PHB /PHBV/Col electrospun nanofiber scaffold (a kind
+gift from Dr. Elaheh Masaeli, Royan institute for biotechnology, Isfahan, Iran) (<xref rid="B29" ref-type="bibr">29</xref>) was
+used to mimic the natural microenvironment of tendon tissue. The scaffolds were sterilized
+by immersion in 70% ethanol for 2 hours, washed twice with PBS, and incubated overnight in
+the basic cell culture medium. To evaluate the potential of scaffolds for amplifying
+tenogenic response in eq-ASCs, the cells were seeded at a density of 2.5&#x000d7;10<sup>4</sup>
+cells/cm<sup>2</sup> and induced with the optimum concentrations of T/G/S factors. The
+eq-ASCs cultured on the tissue culture plate (TCP) and treated under similar conditions
+were considered as control. Tenogenesis was assessed after 10 days via analysis of the
+expression of specific tenogenic markers (<italic>SCX, MKX, COL1A1</italic>) and
+osteo-chondrogenic genes (<italic>SOX9, BMPR2, RUNX2, CTNNB</italic>).</p></sec><sec><title>Statistical analysis</title><p>At least three independent experiments were performed
+for all assays. Statistical analysis was carried out using
+SPSS 16.0 software (Inc., Chicago, USA) by two-way
+analysis of variance (ANOVA) followed by &#x02018;Tukey&#x02019;s post
+hoc test. P&#x0003c;0.05 were considered statistically significant
+for all the experiments.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Finding the proper concentration of inducing factors</title><p>Regarding the specific function of TGFB3 in triggering musculoskeletal specification, we
+assessed the most effective concentration of TGFB3 on eqASCs based on the expression of
+<italic>SCX</italic>. 2.5 ng/ml was defined as the optimal dose for TGFB3, resulting in
+maximal expression of <italic>SCX</italic> on dayone (<xref rid="F1" ref-type="fig">Fig .1A</xref>). In addition, we
+demonstrated that pre-treatment with 2.5 ng/ml of TGFB3 followed by 200 ng/ml of GREM2
+preserves the increased <italic>SCX </italic>expression level on day 3 (<xref rid="F1" ref-type="fig">Fig .1B</xref>). In
+contrast, in the absence of this pre-treatment with TGFB3, GREM2 significantly reduced the
+<italic>SCX</italic> expression (P&#x0003c;0.05, <xref rid="s1" ref-type="supplementary-material">Fig .S1A</xref>, See Supplementary Online
+Information at <uri xlink:href="www.celljournal.org">www. celljournal.org</uri>). Moreover, a high <italic>SCX</italic> level was
+achieved by 1250 ng/ml SOST treatment accompanied by significant inhibition of
+<italic>CTNNB1</italic>, as a sign of osteogenesis (<xref rid="F1" ref-type="fig">Fig .1C, D</xref>). Therefore, treatment
+with 2.5 ng/m of TGFB3, 200 ng/m of GREM2, and 1250 ng/ml of SOST were chosen as the
+optimal condition to achieve the highest <italic>SCX</italic> expression and used for the
+remaining experiments.</p><fig position="float" id="F1"><label>Fig 1</label><caption><p>Concentration-dependent effect of bioactive factors used to induce tenogenic differentiation.
+<bold>A. </bold>qRT-PCR analysis of <italic>SCX</italic> following treatment of
+eq-ASCs with different concentrations of TGFB3 (0-10 ng/ml) for one and three days and
+<bold>B.</bold> GREM2 (100 and 200 ng/ml) for a further two days, <bold>C.</bold>
+<italic>SCX</italic> revealed the highest expression level in 2.5 ng/ml TGFB3 and 200
+ng/ml of GREM2. In response to serial five-fold dilution of SOST (250-2250 ng/ml),
+<italic>SCX</italic> peaked at 1250 ng/ml, and <bold>D. </bold>The expression level
+of<italic> CTNNB1</italic> gradually decreased. All data were normalized to
+<italic>GAPDH</italic> and presented as mean &#x000b1; SD. *; Present significant changes
+vs. day 0 untreated cells (dashed line), P&#x0003c;0.05 and qRTPCR; Real-time
+polymerase chain reaction.</p></caption><graphic xlink:href="Cell-J-24-370-g01" position="float"/></fig></sec><sec><title>Effect of different factors on tenogenic differentiation
+of eq-ASCs
+</title><p>The untreated cells started to migrate on day 7
+and formed compact aggregations after 10 days of
+being cultured under normal conditions (<xref rid="F2" ref-type="fig">Fig .2A</xref>).
+However, after TGFB3 treatment (T) the aggregates
+were observed on day 3, and followed by cell death.
+In contrast, following pre-treatment for one day with
+TGFB3 and then with GREM2 treatment (T/G), cells
+spread out of aggregates and formed a monolayer. We
+also found that following pre-treatment with TGFB3 for one day and then with GREM2 and SOST (T/G/S),
+an intermediate morphological feature between T and
+T/G was observed after 10 days.</p><p>Assessment of expression of genes related to tenogenesis showed a significant
+up-regulation of <italic>SCX</italic> on day 3 in T/G group (P&#x0003c;0.05), which
+gradually declined over time (<xref rid="F2" ref-type="fig">Fig .2B</xref>). <italic>MKX</italic> expression on day 3 was
+significantly lower in T compared to the control group (0.2 vs. 0.86, P&#x002c2;0.05), while
+<italic>MKX</italic> expression significantly increased in T/G and T/G/S compared to the
+control group (2.23 vs. 0.86, P&#x002c2;001; 3.8 vs. 0.86, P&#x002c2;0.0001 respectively, <xref rid="F2" ref-type="fig">Fig .2C</xref>).
+<italic>MKX</italic> expression was also significantly reduced on days 7 and 10 in T/G/S
+group compared to the control group (0.35 vs. 1.6 P&#x002c2;0.0001, and 0.21 vs. 0.99 P&#x002c2;0.004).
+<italic>COL1A1</italic> expression was significantly increased on days 3, 7, and 10 in
+the T/G/S group in comparison with the control group (1.3 vs. 0.2, P&#x002c2;0.0001; 1.35 vs.
+0.37, P&#x002c2;0.000, 0.79 vs. 1.27, P&#x002c2;0.002). While, COL1A1 expression in T/G group was
+significantly higher than the control group on day 3 (0.84 vs. 0.2, P&#x002c2;0.0001), the
+expression of this gene gradually declined by days 7 and 10. Despite this reduction,
+<italic>COL1A1</italic> expression was still significantly higher than the control group
+on day 7 (0.73 vs. 0.37, P&#x002c2;0.05). Although, it was significantly decreased and reached to
+a values lower than the control group by day 10 (0.02 vs. 1.27, P&#x002c2;0.000, <xref rid="F2" ref-type="fig">Fig .2D</xref>).
+Nevertheless, <italic>TNMD</italic> expression could not be detected in any of the
+groups.</p><p>Regarding chondrogenic markers, <italic>SOX9</italic> expression levelremained just below
+the baseline in standard culture conditions at all-time points. Although its expression
+fluctuated in response to TGFB3, except for a slight increase in T/G group on day 3, the
+value of <italic>SOX9</italic> did not markedly change in T/G and T/G/S (<xref rid="F2" ref-type="fig">Fig .2E</xref>). The
+expression of <italic>CTNNB</italic> showed a gradual increase in the control and T/G
+group, while it dropped sharply in the T group and relatively in T/G/S group (<xref rid="F2" ref-type="fig">Fig .2F</xref>).
+Figure 2G reveals a low level of <italic>BMPR2</italic> expression with a periodic mode in
+the control group, while it leveled out in the T group and dramatically decreased in T/G.
+Surprisingly, we found a primary increase in <italic>BMPR2</italic> in response to T/G/S
+induction, which returned to its basal level before induction. <italic>RUNX2</italic>
+exhibited a similar expression pattern to <italic>BMPR2</italic> in standard culture
+conditions, which was amplified by TGFB3 treatment and leveled out in response to GREM2
+(T/G group). In addition, it was strongly inhibited by T/G/S treatment over time from day
+3 to day 10 (<xref rid="F2" ref-type="fig">Fig .2H</xref>).</p><p>Interestingly, treatment of cells with GREM2 without pre-treating with TGFB3, not only
+reduced the expression level of <italic>SCX</italic>, as a tenogenic marker (<xref rid="s1" ref-type="supplementary-material">Fig . S1A</xref>, See
+Supplementary Online Information at <uri xlink:href="www.celljournal.org">www. celljournal.org</uri>), but also significantly
+increased osteochondrogenic markers as the time went by (<xref rid="F1" ref-type="fig">Fig .S1B</xref>, See Supplementary Online
+Information at <uri xlink:href="www.celljournal.org">www.celljournal. org</uri>). Additionally, cellular aggregation in this group
+(<xref rid="s1" ref-type="supplementary-material">Fig .S1C</xref>, See Supplementary Online Information at <uri xlink:href="www.celljournal.org">www.celljournal.org</uri>) was more than that
+in the control group, while it was delayed compared to the other groups like T, T/G, and
+T/G/S (<xref rid="F2" ref-type="fig">Fig .2A</xref>).</p><fig position="float" id="F2"><label>Fig 2</label><caption><p>Morphological and gene expression analysis in response to the various combination of inducing
+factors. <bold>A.</bold> Phase-contrast photographs on three-time points (day 3, 7,
+and 10) presented notable morphological changes in eq-ASCs in all test groups (T, T/G,
+and T/G/S) as well as in control (scale bar: 400 &#x000b5;m). <bold>B-D.</bold> Commonly,
+migratory features consist of aggregate formation and appearance of empty spaces,
+which were different between groups and at different times. qPCR analysis for the
+evaluation of tenogenic-related genes (<italic>SCX, MKX</italic>, and
+<italic>COL1A1</italic>) in eq-ASCs cultured under different conditions revealed a
+remarkable expression level, particularly in T/G/S group. <bold>E-H. </bold>Analysis
+of the expression of chondrogenic (<italic>SOX9</italic>) and osteogenic-related genes
+(<italic>CTNNB, RUNX2</italic>, and<italic> BMPR2</italic>) showed a dramatic
+reduction in response to T/G/S treatment, except for <italic>BMPR2</italic>. Data were
+normalized to <italic>GAPDH</italic> and presented as mean &#x000b1; SD. *, #, +; Present
+significant (P&#x0003c;0.05) changes vs. T/G group at the day 3, 7, and 10,
+respectively, T; Treatment with TGFB3 (2.5 ng/ml) for one day, T/G; Pretreatment with
+TGFB3 (2.5 ng/ml) followed by GREM2 (200 ng), T/G/S; Pretreatment with TGFB3 (2.5
+ng/ml) followed by GREM2 (200 ng/ml) and SOST (1250 ng/ml), and qPCR; Real-time
+polymerase chain reaction.</p></caption><graphic xlink:href="Cell-J-24-370-g02" position="float"/></fig></sec><sec><title>Expression of tendon-associated proteins in T/G vs.
+T/G/S culture conditions</title><p>In addition, the protein profile of two specific markers
+related to tenogenesis, SCX, and MKX, were investigated
+following T/G and T/G/S treatment which had the most
+significant effect on the tenogenic differentiation status
+of eq-ASCs. Figure 3A, B shows the strong nucleus
+signal (green stain) of SCX on day 3, both in T/G and
+T/G/S groups, which gradually declined until day 10;
+this reduction appeared to delay in the T/G/S. On the
+other hand, the expression of MKX was facilitated in
+T/G/S compared to the T/G group (<xref rid="F4" ref-type="fig">Fig .4A, B</xref>), which
+was verified by quantification of SCX and MKX
+intensity (<xref rid="F3" ref-type="fig">Fig .3C</xref>, <xref rid="F4" ref-type="fig">Fig 4C</xref>). The results are consistent with
+the expression pattern of SCX and MKX presented by
+western blot analysis (<xref rid="F3" ref-type="fig">Fig .3D</xref>, <xref rid="F4" ref-type="fig">Fig 4D</xref>). The targeted protein
+bands were visualized at 22 KDa for SCX and 39 KDa in
+the case of MKX and &#x003b2;-actin.</p><fig position="float" id="F3"><label>Fig 3</label><caption><p>Immunocytochemistry assay to assess expression pattern of SCX. <bold>A, B.
+</bold>Immunofluorescence images showed a considerable level of SCX (green) positive
+cells, especially on day 3, in both T/G and T/G/S treated groups, which was gradually
+reduced by day 10. <bold>C. </bold>Nuclei were counterstained with DAPI (scale bar: 50
+&#x003bc;m). Quantification assay results are presented as corrected total cell fluorescence
+(CTCF) for SCX in both T/G and T/G/S treated groups and presented as mean &#x000b1; SD, *, +;
+Present significant (P&#x0003c;0.05) changes vs. T/G group at the day3 and 10,
+respectively. <bold>D. </bold>Western blotting analysis confirmed the expression
+pattern of SCX in T/G and T/G/S during the treatment period. T/G; Pretreatment with
+TGFB3 (2.5 ng/ml) for one day followed by GREM2 (200 ng/ml), T/G/S; Pretreatment with
+TGFB3 (2.5 ng/ml) followed by GREM2 (200 ng/ml) and SOST (1250 ng/ml).</p></caption><graphic xlink:href="Cell-J-24-370-g03" position="float"/></fig><fig position="float" id="F4"><label>Fig 4</label><caption><p>Immunocytochemistry assay to assess expression pattern of MKX. <bold>A. </bold>Immunofluorescence
+images showed that MKX (green) reached the maximum level on day 7 in T/G group (scale
+bar: 100 &#x003bc;m), <bold>B. </bold>but was extensively expressed on day 3 in T/G/S treated
+eq-ASCs. Nuclei were counter-stained with DAPI (scale bar: 100 &#x003bc;m). <bold>C.
+</bold>Quantification assay results are presented as corrected total cell fluorescence
+(CTCF) for MKX in both T/G and T/G/S treated groups(c) and presented as mean &#x000b1; SD. *,
+#, +; Present significant (P&#x0003c;0.05) changes vs. T/G group at days 3, 7 and 10
+respectively. <bold>D. </bold>The western blotting analysis confirmed the expression
+pattern of MKX in T/G and T/G/S during the treatment period. T/G; pretreatment with
+TGFB3 (2.5 ng/ml) for one day followed by GREM2 (200 ng/ml), T/G/S; pretreatment with
+TGFB3 (2.5 ng/ml) followed by GREM2 (200 ng/ml) and SOST (1250 ng/ml).</p></caption><graphic xlink:href="Cell-J-24-370-g04" position="float"/></fig><p>Moreover, Sirius Red staining was applied to investigate the collagen content as the
+major component of the tendon matrix. All groups were positive for this staining (<xref rid="F5" ref-type="fig">Fig .5A</xref>).
+However, the quantitative analysis of the stained imagesrevealed that the maximum collagen
+content was observed in the T/G/S group, which was significantly higher than the control
+group on days 3 and 7 (P&#x0003c;0.05). In contrast, collagen content significantly
+decreased in the T/G group compared to the control group by day 10 (<xref rid="F5" ref-type="fig">Fig .5B</xref>). Furthermore,
+the considerable amount of collagen accompanied by results of gene expression profile
+analysis in the control group confirmed the spontaneous tenogenic differentiation
+potential of eq-ASCs. Expression of tenogenic markers in the control group showed
+up-regulation of tendon progenitor marker (<italic>SCX</italic>) at mRNA level on day 3
+versus day 1 (1.17 vs. 2.8, P&#x002c2;0.02) and late differentiation marker (<italic>MKX</italic>)
+on day 3 versus day 7 (0.77 vs. 1.6, P&#x002c2;0.002) followed by increasing of
+<italic>COL1A1</italic> expression on day 10. However, their tenogenic potential is
+limited due to the upregulation of osteo- chondrogenic genes (<xref rid="F2" ref-type="fig">Fig .2F-H</xref>).</p><fig position="float" id="F5"><label>Fig 5</label><caption><p>Eq-ASCs during stepwise tenogenic differentiation. <bold>A.</bold> Accumulation of collagen
+fibers in the extracellular matrix was shown in red, which was gradually increased
+over induction time, specifically in T/G/S group (scale bar: 200 &#x003bc;m). <bold>B.</bold>
+Quantification analysis of Sirius Red stained samples at 540 nm by spectrophotometric
+plate reader significantly showed the highest collagen secretion in T/G/S. Data are
+presented as mean &#x000b1; SD. *; Present significant changes vs. control sample of the same
+day, P&#x0003c;0.05. Ctrl; control, T/G; Pretreatment with TGFB3 (2.5 ng/ml) followed
+by GREM2 (200 ng), T/G/S; Pretreatment with TGFB3 (2.5 ng/ml) followed by GREM2 (200
+ng/ml) and SOST (1250 ng/ml). <bold>C. </bold>Flow chart illustrates the experimental
+design for stepwise induction of Eq-ASCs into tenocytes through biological factors
+stimulation. <bold>D.</bold> Morphological changes of eqASCs during differentiation to
+tenocytes under an inverted microscope with their schematic presentation.
+<bold>E.</bold> Fluorescence images of TRITCphalloidin staining showed morphological
+changes of eq-ASCs at the early (day 3) and late (day 10) time point of induction. The
+arrow highlights the alignment of the cell (scale bar: 20 &#x003bc;m).</p></caption><graphic xlink:href="Cell-J-24-370-g05" position="float"/></fig></sec><sec><title>Expression of tendon-specific markers is associated
+with morphological changes of eq-ASCs</title><p>In addition to tenogenic marker expression, the
+morphologic features for tenocytes were also assessed
+in the best group (T/G/S) according to mRNA and
+protein expression profiles. Phase-contrast photographs
+at different time points (day 1, <xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B7" ref-type="bibr">7</xref>, and 10) indicated
+that we achieved tenocytes based on cell shape
+appearance within 7 days of induction by treatment
+with 2.5 ng/m of TGFB3 for one day, followed by
+200 ng/m of GREM2 and 1250 ng/ml of SOST, as
+stepwise tenogenic differentiation approach (Fig.5C,
+D). Furthermore, phalloidin staining exhibited an
+ovoid nucleus with large cytoplasmic and protrusive
+structures at the early stage of induction (day 3).
+Elongated nuclei and thin cytoplasmic are observed
+at the late time point (day 10). The cells displayed a
+few prolonged stress fibers on day 3 which gradually
+became longer along with the aligned cell morphology
+(<xref rid="F5" ref-type="fig">Fig .5E</xref>), which confirmed morphological changes
+under inverted microscopy (<xref rid="F5" ref-type="fig">Fig .5D</xref>).</p></sec><sec><title>Cell - cytotoxicity assay for scaffold using eq-ASCs</title><p>The cell viability, cell growth, and cell morphology
+were used as parameters to determine the cytotoxic
+effect of the scaffolds. Visualization of the F-actin
+cytoskeleton to assess the morphology was done
+by phalloidin staining after 3 days of culture. The
+fluorescence images demonstrated that eq-ASCs had
+well attached and spread on the scaffold; additionally,
+an aligned cell orientation was observed (<xref rid="F6" ref-type="fig">Fig .6A,B</xref>).
+Interestingly, MTS assay after 1, 3, 5 days of cell
+culture on nanofiber displayed no significant difference
+(P&#x0003c;0.05) compared with tissue culture plates (TCP)
+(<xref rid="F6" ref-type="fig">Fig .6C</xref>).</p></sec><sec><title>Effect of scaffold on the expression of tenogenic
+markers in eq-ASCs treated with T/G/S</title><p>To evaluate the influence of the substrate on the tenogenic differentiation status, we
+analyzed the expression levels of the genes mentioned above in eqASCs treated with T/G/S
+in the presence and absence of scaffold. According to our findings, tenogenesis was
+induced on PHB/PHBV/COL1 membranes under sequential treatment with T/G/S factors. In
+comparison with T/G/S group, we showed a relatively lower level of expression of tenogenic
+markers at the earliest time point (day 3) in the scaffold group, while it provided higher
+and more stable expression on days 7 and 10 (<xref rid="F6" ref-type="fig">Fig .6D-F</xref>). It is also interesting to note
+that the expression of osteo-related genes (BMPR2, RUNX2, and CTNNB) had significantly
+reduced in the scaffold group. The only exception was the expression of the chondrogenic
+marker <italic>SOX9</italic> which had fluctuated (<xref rid="F6" ref-type="fig">Fig .6G-J</xref>).</p><fig position="float" id="F6"><label>Fig 6</label><caption><p>Cell culture and tenogenic differentiation of eq-ASCs on nanofibrous PHB/PHBV/COL1 scaffold.
+<bold>A, B. </bold>The phalloidin staining of the actin cytoskeleton (red) after 3
+days of culture showed the attachment and growth of the eq-ASCs on the scaffolds.
+Nuclei were counterstained with DAPI (blue) (scale bar: 200 &#x003bc;m). <bold>C. </bold>MTS
+assay indicated that there was no significant difference in viability of eq-ASCs in
+the presence and absence of nanofiber scaffold on day 1, 3, and 5 of the culture. The
+arrow highlights the alignment of cells. Data were normalized to the ratio absorbance
+of scaffold and medium without cells and presented as mean &#x000b1; SD. *P&#x0003c;0.05.
+<bold>D-F. </bold>QPCR analysis of tenogenic markers expression and <bold>G-J.
+</bold>The osteochondrogenic markers in eq-ASCs treated with T/G/S for 10 days.
+eq-ASCs were seeded on the scaffold and treated with T/G/S showed increased expression
+of <italic>SCX, MKX, COL1A1, SCX, MKX</italic>, and <italic>COL1A1</italic>, and
+decreased expression of <italic>SOX9, CTNNB, BMPR2</italic>, and
+<italic>RUNX2</italic> compared to T/G/S group without scaffold. Data are presented
+as mean &#x000b1; SD. *, #, +; Present significant (P&#x0003c;0.05) changes vs. control at days
+3, 7, and 10, respectively. T/G/S; Pretreatment with TGFB3 (2.5 ng/ml) followed by
+GREM2 (200 ng/ml) and SOST (1250 ng/ml).</p></caption><graphic xlink:href="Cell-J-24-370-g06" position="float"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Despite recent advances in cell therapy for tendon injuries, conventional strategies for
+regenerating functional tendons are often inefficient. Therefore, <italic>in vitro</italic>
+modification for improving the efficacy of cell therapy appears to be highly reasonable
+before clinical application. We recently showed that eq-ASCs have inherent differentiation
+capacity to musculoskeletallineage (<xref rid="B26" ref-type="bibr">26</xref>). In the present study, we focused on investigating
+an efficient procedure for specific tenogenic induction of eq-ASCs with particular attention
+to reducing the chance of osteogenesis.</p><p>During embryogenesis, transcription factors, such as scleraxis (SCX) and sex-determining
+region Y-box 9 (SOX9), play a crucial role in the formation of tendon progenitors, whereas
+Mohawk (MKX) and early growth response protein 1/2 (EGR1/2) are required for terminal tendon
+differentiation. These transcription factors are involved in tenocyte specification and
+coding ECM components such as collagen type I (<italic>COL1A1</italic>) and tenomodulin
+(<italic>TNMD</italic>) as a late marker of tendon development (<xref rid="B30" ref-type="bibr">30</xref>). Therefore, we
+initially estimate the effective concentration of TGFB3 that induced higher expression of
+<italic>SCX</italic>. Since the highest expression level of <italic>SCX</italic> was
+achieved on day 1, for further experiments, we treated the cells with TGFB3 only for one
+day. </p><p>Literature supports the critical impact of TGFB3 ligands on the up-regulation of
+tendon-associated markers, including <italic>MKX</italic> and <italic>COL1</italic>, via
+up-regulation of SCX (<xref rid="B31" ref-type="bibr">31</xref>). The relative expression of these markers was decreased upon the
+continuation of treatment with TGFB3 within the following days. This is not unexpected as
+the expression of SCX was reduced by further treatment with TGFB3 (after day one). Indeed,
+similar to our results, it has been shown that a high concentration of TGFB over time
+negatively affects tenogenesis (<xref rid="B32" ref-type="bibr">32</xref>). Therefore, we decided to treat the eq-ASCs only with
+TGFB3 for one day based on these results.</p><p>These results confirmed that TGFB3 efficiently triggered tendon specification of eq-ASCs
+while achieving a stable and final tenogenic differentiation status requires complementary
+signals. It is important to note that ectopic mineralization, as a major hurdle to tendon
+regeneration, takes place in the absence of these secondary signals. Besides, BMP treatment
+has an inhibitory effect on <italic>SCX</italic> expression, which was almost reversed by
+noggin (<xref rid="B18" ref-type="bibr">18</xref>). Hence, we focused on inhibiting the BMP signaling pathway by using two
+well-known BMP antagonists, GREM2 and SOST, following one-day treatment or induction with
+TGFB3. </p><p>Initially, we showed that short-term treatment with
+GREM2 for one day and assessment of SCX on day 3
+did not improve SCX expression compared to the control
+group. Therefore, we decided to evaluate the effect of
+TGFB3 for one day, followed by GREM2 from days
+2-10. Our result revealed that the expression of SCX,
+MKX, and COL1A1 was increased on day 3, followed
+by a reduction during additional days. The only signal in
+osteo-chondrogenic differentiation was reduced through
+treatment with TGFB3 followed by GREM2 was RUNX2.
+Therefore, these results suggest that other secondary
+signals are required to improve tenogenic differentiation. </p><p>Several lines of evidence verified SOST as an impressive BMP antagonist, which also
+negatively regulates the Wnt signaling pathway and inhibits osteogenesis (<xref rid="B32" ref-type="bibr">32</xref>). Therefore, it
+was not surprising that the severe inhibition of BMPR2 induced by GREM2 was partially
+reversed in the presence of SOST, which seemed to recover the BMP pathway to some extent.
+This is consistent with the observed drastic down-regulation of <italic>RUNX2</italic> by
+the combinational treatment with G/S over time (day 10), along with the reduced
+<italic>CTNNB</italic> level. Although SOX9 is known as a cartilage-associated marker,
+previous studies have suggested that a basal level of <italic>SOX9</italic> expression is
+required in a distinct subtype of tendon progenitor cells (<xref rid="B33" ref-type="bibr">33</xref>). We also found a primary
+overexpression of <italic>SOX9</italic> in T/G and T/G/S groups, which declined over
+time.</p><p>Regarding tenogenic related genes, T/G treated cells
+showed the highest expression level of SCX, while MKX
+showed its highest expression in T/G/S group, both on
+day 3. Considering the primary high COL1A1 expression
+level in untreared cells, T/G/S showed aoitential to keep
+this level constant which underscored the importance of
+SOST in tenogenic induction. These results are consistent
+with the data obtained by Sirius Red staining showing
+almost the same manner for the secretion of collagen
+fibers as the major extracellular content in the tendon.</p><p>SCX is a basic helix-loop-helix transcription factor that plays a critical role in the
+early stage of development in tenocytes and other dense connective tissues, like periodontal
+ligaments and heart valve (<xref rid="B34" ref-type="bibr">34</xref>). Regarding the force transmitting function of these cells,
+SCX is required for modulating cytoskeletal tension via triggering the expression of
+proteins linked between actin filaments and integrin molecules (<xref rid="B35" ref-type="bibr">35</xref>). Nichols et al. (<xref rid="B36" ref-type="bibr">36</xref>)
+reported that equine tenocytes transfected with <italic>SCX</italic> siRNA faced a
+remarkable decrease in cytoskeletal stiffness and inability to migrate on soft surfaces.
+Moreover, several tendonspecific genes, such as <italic>MKX, COL1</italic>, and
+<italic>TNMD</italic>, are positively regulated in tenocytes by SCX (<xref rid="B37" ref-type="bibr">37</xref>).</p><p>Unlike SCX, different studies have noticed some severe issues with using TNMD as a reliable
+marker for tenogenic differentiation in equines, especially at mRNA level. For instance, an
+almost similar expression level of <italic>TNMD</italic> was detected by Taylor et al. (<xref rid="B38" ref-type="bibr">38</xref>)
+in the &#x02018;horse&#x02019;s bone and tendon. Also, Barsby and Guest (<xref rid="B26" ref-type="bibr">26</xref>) provided some valuable evidence
+about the high degradation of TNMD mRNA in TGFB -treated equine ESCs. Similarly, we also did
+not find TNMD expression in the control and tested groups.</p><p>Gene expression analysis was further confirmed at the
+protein level, which revealed a more stable expression of
+SCX and facilitated the expression of MKX as the result
+of T/G/S treatment compared to T/G treatment. Since the
+morphological feature of cells is still noted as an important
+sign of their state, the spindle-like shape and aligned
+arrangement are typically considered for tenocytes, in
+contrast with the more rounded shape of tenoblasts with a
+large and oval nucleus. At the end of the induction time,
+we observed spindle-like cells with elongated nuclei and
+thin cytoplasmic protrusions.</p><p>Overall, based on the results of gene expression
+analysis, protein expression data, and morphological
+analysis, we propose a stepwise protocol to induce
+tenogenic differentiation of eq-ASCs within 7 days which
+is far shorter than what has been previously reported (14
+days) by transient induction with TGFB3 followed by coinhibition of BMP and Wnt signaling pathways. In addition,
+one of the main strengths of this procedure was a severe
+reduction in levels of ectopic osteo and chondrogenesis
+markers. It has been highlighted in several studies in which
+the expression of tendon-associated markers were shown
+to be down-regulated in mature tenocytes (<xref rid="B39" ref-type="bibr">39</xref>). However,
+reaching stable mature tenocytes with proper function in
+the long term and preventing cellular dedifferentiation
+requires further modification of the protocol. Therefore,
+we subsequently examined the effects of nanofibrous
+PHB /PHBV/COL1 scaffolds on the efficiency and longterm stability of reported sequential tenogenic induction
+on eq-ASCs.
+</p><p>Both enhanced and more stable expression of tenogenic
+markers and the potent inhibition of osteo-chondrogenesis
+on PHB /PHBV/COL1 membrane proposed the scaffold
+as a suitable substrate for cell transplantation and tendon
+regeneration. It seems that incorporating collagen type 1,
+as the major content of natural tendon ECM, in addition to
+the fibrous and porous topology of PHB/PHBV, provides
+a positive impact on tenogenesis (<xref rid="B24" ref-type="bibr">24</xref>). </p><p>It is interesting to note that the most successful cell
+therapy approaches were reported in the cases of intralesional injection of a cell suspension due to granular
+tissue and the enclosed nature of core lesions. The
+use of MSC-derived tenocyte progenitors revealed
+a notable positive impact on increasing the efficacy
+of cell therapy for tendon repair (<xref rid="B40" ref-type="bibr">40</xref>). Although, for
+other forms of tendon-related disorders (like eccentric
+lesions), further studies are required to optimize
+the condition ,including the use of different types of
+scaffolds or self-organizing tendon structures (3D
+tendon-like tissue constructs).</p><p>For the first time, we investigated the tenogenic
+differentiation of equine adipose stem cells under the
+stepwise inductive approach which provides a safe,
+valuable alternative for un-induced MSCs for future
+intra-lesional injection. This result was verified mainly
+by using the scaffold to maintain a tenogenic status.
+However, future studies need to be conducted regarding
+the damaged condition to choose a scaffold which can be
+practicaly delivered into equine tendon injury.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>The present study demonstrated a fast and effective
+procedure for reducing the risk of ectopic osteogenesis
+in tendon regeneration strategies. We recently provided
+evidence that confirmed the remarkable potential of
+eq-ASCs for spontaneous differentiation towards
+musculoskeletal lineage due to the high expression of
+endogenous TGFB1. Here, we established a stepwise
+inductive approach to induce tenogenesis of eq-ASCs
+using TGFB3, GREM2, and SOST to overcome this
+limitation to some degree and achieve tenocytes in
+a short time. The current study provides new findings for
+future cell-based therapies to avoid the risk of ectopic
+bone formation after injection of MSCs in tendon
+injuries.</p></sec><sec sec-type="supplementary-material"><title>Supplementary PDF</title><supplementary-material id="s1" position="float" content-type="local-data"><media xlink:href="Cell-J-24-370-s01.pdf" id="d64e800" position="anchor"/></supplementary-material></sec></body><back><ack><title>Acknowledgements</title><p>The authors would like to thank Dr. Elahe Masaeli
+(Royan Institute for Biotechnology) for kindly gifting the
+PHB/PHBV/COL1 membranes. We are also grateful to all
+members of the Royan Institute for Biotechnology for their
+kind support and help. This study was financially supported
+by Ferdowsi University of Mashhad and Royan institute.
+The authors declare that they have no conflict of interest.</p></ack><bio id="d64e805"><title>Authors&#x02019; Contributions</title><p>A.Sh., Carried out the experiments and analyzed data.
+F.E., Conceived the project, interpreted the data, and
+drafted the manuscript. A.P., M.H.N.-E.; Supervised
+the research, interpreted the data, and critically revised
+the manuscript. All authors read and approved the final
+manuscript. </p></bio><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ortved</surname><given-names>KF</given-names></name>
+</person-group><article-title>Regenerative Medicine and rehabilitation for tendinous and ligamentous injuries in sport horses</article-title><source>Vet Clin North Am Equine Pract</source><year>2018</year><volume>34</volume><issue>2</issue><fpage>359</fpage><lpage>373</lpage><pub-id pub-id-type="pmid">29803299</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>G</given-names></name>
+<name><surname>Rothrauff</surname><given-names>BB</given-names></name>
+<name><surname>Tuan</surname><given-names>RS</given-names></name>
+</person-group><article-title>Tendon and ligament regeneration and repair: clinical relevance and developmental paradigm</article-title><source>Birth Defects Res C Embryo Today</source><year>2013</year><volume>99</volume><issue>3</issue><fpage>203</fpage><lpage>222</lpage><pub-id pub-id-type="pmid">24078497</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Conrad</surname><given-names>S</given-names></name>
+<name><surname>Weber</surname><given-names>K</given-names></name>
+<name><surname>Walliser</surname><given-names>U</given-names></name>
+<name><surname>Geburek</surname><given-names>F</given-names></name>
+<name><surname>Skutella</surname><given-names>T</given-names></name>
+</person-group><article-title>Stem cell therapy for tendon regeneration: current status and future directionsSeries</article-title><source>Adv Exp Med Biol</source><year>2019</year><volume>1084</volume><fpage>61</fpage><lpage>93</lpage><pub-id pub-id-type="pmid">30043235</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Becerra</surname><given-names>P</given-names></name>
+<name><surname>Valdes Vazquez</surname><given-names>MA</given-names></name>
+<name><surname>Dudhia</surname><given-names>J</given-names></name>
+<name><surname>Fiske-Jackson</surname><given-names>AR</given-names></name>
+<name><surname>Neves</surname><given-names>F</given-names></name>
+<name><surname>Hartman</surname><given-names>NG</given-names></name>
+<etal/>
+</person-group><article-title>Distribution of injected technetium (99m)-labeled mesenchymal stem cells in horses with naturally occurring tendinopathy</article-title><source>J Orthop Res</source><year>2013</year><volume>31</volume><issue>7</issue><fpage>1096</fpage><lpage>1102</lpage><pub-id pub-id-type="pmid">23508674</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Burk</surname><given-names>J</given-names></name>
+<name><surname>Gittel</surname><given-names>C</given-names></name>
+<name><surname>Heller</surname><given-names>S</given-names></name>
+<name><surname>Pfeiffer</surname><given-names>B</given-names></name>
+<name><surname>Paebst</surname><given-names>F</given-names></name>
+<name><surname>Ahrberg</surname><given-names>AB</given-names></name>
+<etal/>
+</person-group><article-title>Gene expression of tendon markers in mesenchymal stromal cells derived from different sources</article-title><source>BMC Res Notes</source><year>2014</year><volume>7</volume><issue>1</issue><fpage>826</fpage><lpage>826</lpage><pub-id pub-id-type="pmid">25412928</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Molloy</surname><given-names>T</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Murrell</surname><given-names>G</given-names></name>
+</person-group><article-title>The roles of growth factors in tendon and ligament healing</article-title><source>Sports Med</source><year>2003</year><volume>33</volume><issue>5</issue><fpage>381</fpage><lpage>394</lpage><pub-id pub-id-type="pmid">12696985</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mishra</surname><given-names>A</given-names></name>
+<name><surname>Woodall</surname><given-names>Jr</given-names></name>
+<name><surname>Vieira</surname><given-names>A</given-names></name>
+</person-group><article-title>Treatment of tendon and muscle using platelet-rich plasma</article-title><source>Clin Sports Med</source><year>2009</year><volume>28</volume><issue>1</issue><fpage>113</fpage><lpage>125</lpage><pub-id pub-id-type="pmid">19064169</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nourissat</surname><given-names>G</given-names></name>
+<name><surname>Berenbaum</surname><given-names>F</given-names></name>
+<name><surname>Duprez</surname><given-names>D</given-names></name>
+</person-group><article-title>Tendon injury: from biology to tendon repair</article-title><source>Nat Rev Rheumatol</source><year>2015</year><volume>11</volume><issue>4</issue><fpage>223</fpage><lpage>233</lpage><pub-id pub-id-type="pmid">25734975</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>MK</given-names></name>
+<name><surname>Sun</surname><given-names>HQ</given-names></name>
+<name><surname>Xiang</surname><given-names>YC</given-names></name>
+<name><surname>Jiang</surname><given-names>F</given-names></name>
+<name><surname>Su</surname><given-names>YP</given-names></name>
+<name><surname>Zou</surname><given-names>ZM</given-names></name>
+</person-group><article-title>Different roles of TGF- &#x003b2; in the multi-lineage differentiation of stem cells</article-title><source>World J of Stem Cells</source><year>2012</year><volume>4</volume><issue>5</issue><fpage>28</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">22993659</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chien</surname><given-names>C</given-names></name>
+<name><surname>Pryce</surname><given-names>B</given-names></name>
+<name><surname>Tufa</surname><given-names>SF</given-names></name>
+<name><surname>Keene</surname><given-names>DR</given-names></name>
+<name><surname>Huang</surname><given-names>AH</given-names></name>
+</person-group><article-title>Optimizing a 3D model system for molecular manipulation of tenogenesis</article-title><source>Connect Tissue Res</source><year>2018</year><volume>59</volume><issue>4</issue><fpage>295</fpage><lpage>308</lpage><pub-id pub-id-type="pmid">28937836</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Docheva</surname><given-names>D</given-names></name>
+<name><surname>M&#x000fc;ller</surname><given-names>SA</given-names></name>
+<name><surname>Majewski</surname><given-names>M</given-names></name>
+<name><surname>Evans</surname><given-names>CH</given-names></name>
+</person-group><article-title>Biologics for tendon repair</article-title><source>Adv Drug Deliv Rev</source><year>2015</year><volume>84</volume><fpage>222</fpage><lpage>239</lpage><pub-id pub-id-type="pmid">25446135</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kaji</surname><given-names>DA</given-names></name>
+<name><surname>Howell</surname><given-names>KL</given-names></name>
+<name><surname>Balic</surname><given-names>Z</given-names></name>
+<name><surname>Hubmacher</surname><given-names>D</given-names></name>
+<name><surname>Huang</surname><given-names>AH</given-names></name>
+</person-group><article-title>Tgf&#x003b2; signaling is required for tenocyte recruitment and functional neonatal tendon regeneration</article-title><source>Elife</source><year>2020</year><volume>9</volume><fpage>e51779</fpage><lpage>e51779</lpage><pub-id pub-id-type="pmid">32501213</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>Y</given-names></name>
+<name><surname>Mao</surname><given-names>Z</given-names></name>
+<name><surname>Wei</surname><given-names>X</given-names></name>
+<name><surname>Lin</surname><given-names>L</given-names></name>
+<name><surname>Chen</surname><given-names>L</given-names></name>
+<name><surname>Wang</surname><given-names>H</given-names></name>
+<etal/>
+</person-group><article-title>The roles of TGF-beta1 gene transfer on collagen formation during achilles tendon healing</article-title><source>Biochem Biophys Res Commun</source><year>2009</year><volume>383</volume><issue>2</issue><fpage>235</fpage><lpage>239</lpage><pub-id pub-id-type="pmid">19345669</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Campbell</surname><given-names>BH</given-names></name>
+<name><surname>Agarwal</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>JH</given-names></name>
+</person-group><article-title>TGF-beta1, TGF-beta3, and PGE(2) regulate contraction of human patellar tendon fibroblasts</article-title><source>Biomech Model Mechanobiol</source><year>2004</year><volume>2</volume><issue>4</issue><fpage>239</fpage><lpage>245</lpage><pub-id pub-id-type="pmid">15103516</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Grafe</surname><given-names>I</given-names></name>
+<name><surname>Alexander</surname><given-names>S</given-names></name>
+<name><surname>Peterson</surname><given-names>JR</given-names></name>
+<name><surname>Snider</surname><given-names>TN</given-names></name>
+<name><surname>Levi</surname><given-names>B</given-names></name>
+<name><surname>Lee</surname><given-names>B</given-names></name>
+<etal/>
+</person-group><article-title>TGF-&#x003b2; family signaling in mesenchymal differentiation</article-title><source>Cold Spring Harb Perspect Biol</source><year>2018</year><volume>10</volume><issue>5</issue><fpage>a022202</fpage><lpage>a022202</lpage><pub-id pub-id-type="pmid">28507020</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>Y</given-names></name>
+<name><surname>LV</surname><given-names>Q</given-names></name>
+<name><surname>LV</surname><given-names>C</given-names></name>
+</person-group><article-title>MicroRNA-153 suppresses the osteogenic differentiation of human mesenchymal stem cells by targeting bone morphogenetic protein receptor type II</article-title><source>Int J Mol Med</source><year>2015</year><volume>36</volume><issue>3</issue><fpage>760</fpage><lpage>766</lpage><pub-id pub-id-type="pmid">26151470</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>H</given-names></name>
+<name><surname>Gelberman</surname><given-names>RH</given-names></name>
+<name><surname>Silva</surname><given-names>MJ</given-names></name>
+<name><surname>Sakiyama-Elbert</surname><given-names>SE</given-names></name>
+<name><surname>Thomopoulos</surname><given-names>S</given-names></name>
+</person-group><article-title>BMP12 induces tenogenic differentiation of adiposederived stromal cells</article-title><source>PLoS One</source><year>2013</year><volume>8</volume><issue>10</issue><fpage>e77613</fpage><lpage>e77613</lpage><pub-id pub-id-type="pmid">24155967</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X</given-names></name>
+<name><surname>Yin</surname><given-names>Z</given-names></name>
+<name><surname>Chen</surname><given-names>JL</given-names></name>
+<name><surname>Shen</surname><given-names>WL</given-names></name>
+<name><surname>Liu</surname><given-names>HH</given-names></name>
+<name><surname>Tang</surname><given-names>QM</given-names></name>
+<etal/>
+</person-group><article-title>Force and scleraxis synergistically promote the commitment of human ES cells derived MSCs to tenocytes</article-title><source>Sci Rep</source><year>2012</year><volume>2</volume><fpage>977</fpage><lpage>977</lpage><pub-id pub-id-type="pmid">23243495</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>C</given-names></name>
+</person-group><article-title>Agonists and antagonists of TGF-&#x003b2; family ligands</article-title><source>Cold Spring Harb Perspect Biol</source><year>2016</year><volume>8</volume><issue>8</issue><fpage>a021923</fpage><lpage>a021923</lpage><pub-id pub-id-type="pmid">27413100</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sem&#x000eb;nov</surname><given-names>M</given-names></name>
+<name><surname>Tamai</surname><given-names>K</given-names></name>
+<name><surname>He</surname><given-names>X</given-names></name>
+</person-group><article-title>SOST is a ligand for LRP5/LRP6 and a Wnt signaling inhibitor</article-title><source>J Biol Chem</source><year>2005</year><volume>280</volume><issue>29</issue><fpage>26770</fpage><lpage>26775</lpage><pub-id pub-id-type="pmid">15908424</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lui</surname><given-names>PP</given-names></name>
+</person-group><article-title>Histopathological changes in tendinopathy-potential roles of BMPs?</article-title><source>Rheumatology (Oxford)</source><year>2013</year><volume>52</volume><issue>12</issue><fpage>2116</fpage><lpage>2126</lpage><pub-id pub-id-type="pmid">23671126</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X</given-names></name>
+<name><surname>Bogdanowicz</surname><given-names>D</given-names></name>
+<name><surname>Erisken</surname><given-names>C</given-names></name>
+<name><surname>Lee</surname><given-names>NM</given-names></name>
+<name><surname>Lu</surname><given-names>HH</given-names></name>
+</person-group><article-title>Biomimetic scaffold design for functional and integrative tendon repair</article-title><source>J Shoulder Elbow Surg</source><year>2012</year><volume>21</volume><issue>2</issue><fpage>266</fpage><lpage>277</lpage><pub-id pub-id-type="pmid">22244070</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Webb</surname><given-names>WR</given-names></name>
+<name><surname>Dale</surname><given-names>TP</given-names></name>
+<name><surname>Lomas</surname><given-names>AJ</given-names></name>
+<name><surname>Zeng</surname><given-names>G</given-names></name>
+<name><surname>Wimpenny</surname><given-names>I</given-names></name>
+<name><surname>El Haj</surname><given-names>AJ</given-names></name>
+<etal/>
+</person-group><article-title>The application of poly(3-hydroxybutyrate-co-3-hydroxyhexanoate) scaffolds for tendon repair in the rat model</article-title><source>Biomaterials</source><year>2013</year><volume>34</volume><issue>28</issue><fpage>6683</fpage><lpage>6694</lpage><pub-id pub-id-type="pmid">23768899</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rathbone</surname><given-names>S</given-names></name>
+<name><surname>Furrer</surname><given-names>P</given-names></name>
+<name><surname>L&#x000fc;bben</surname><given-names>J</given-names></name>
+<name><surname>Zinn</surname><given-names>M</given-names></name>
+<name><surname>Cartmell</surname><given-names>S</given-names></name>
+</person-group><article-title>Biocompatibility of polyhydroxyalkanoate as a potential material for ligament and tendon scaffold material</article-title><source>J Biomed Mater Res A</source><year>2010</year><volume>93</volume><issue>4</issue><fpage>1391</fpage><lpage>1403</lpage><pub-id pub-id-type="pmid">19911384</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shojaee</surname><given-names>A</given-names></name>
+<name><surname>Parham</surname><given-names>A</given-names></name>
+<name><surname>Ejeian</surname><given-names>F</given-names></name>
+<name><surname>Nasr Esfahani</surname><given-names>MH</given-names></name>
+</person-group><article-title>Equine adipose mesenchymal stem cells (eq-ASCs) appear to have higher potential for migration and musculoskeletal differentiation</article-title><source>Res Vet Sci</source><year>2019</year><volume>125</volume><fpage>235</fpage><lpage>243</lpage><pub-id pub-id-type="pmid">31310927</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Barsby</surname><given-names>T</given-names></name>
+<name><surname>Guest</surname><given-names>D</given-names></name>
+</person-group><article-title>Transforming growth factor beta3 promotes tendon differentiation of equine embryo-derived stem cells</article-title><source>Tissue Eng Part A</source><year>2013</year><volume>19</volume><issue>19-20</issue><fpage>2156</fpage><lpage>2165</lpage><pub-id pub-id-type="pmid">23611525</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Winkler</surname><given-names>DG</given-names></name>
+<name><surname>Sutherland</surname><given-names>MS</given-names></name>
+<name><surname>Ojala</surname><given-names>E</given-names></name>
+<name><surname>Turcott</surname><given-names>E</given-names></name>
+<name><surname>Geoghegan</surname><given-names>JC</given-names></name>
+<name><surname>Shpektor</surname><given-names>D</given-names></name>
+<etal/>
+</person-group><article-title>Sclerostin inhibition of Wnt-3a-induced C3H10T1/2 cell differentiation is indirect and mediated by bone morphogenetic proteins</article-title><source>J Biol Chem</source><year>2005</year><volume>280</volume><issue>4</issue><fpage>2498</fpage><lpage>2502</lpage><pub-id pub-id-type="pmid">15545262</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yeung</surname><given-names>CY</given-names></name>
+<name><surname>Gossan</surname><given-names>N</given-names></name>
+<name><surname>Lu</surname><given-names>Y</given-names></name>
+<name><surname>Hughes</surname><given-names>A</given-names></name>
+<name><surname>Hensman</surname><given-names>JJ</given-names></name>
+<name><surname>Bayer</surname><given-names>ML</given-names></name>
+<etal/>
+</person-group><article-title>Gremlin-2 is a BMP antagonist that is regulated by the circadian clock</article-title><source>Sci Rep</source><year>2014</year><volume>4</volume><fpage>5183</fpage><lpage>5183</lpage><pub-id pub-id-type="pmid">24897937</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Masaeli</surname><given-names>E</given-names></name>
+<name><surname>Morshed</surname><given-names>M</given-names></name>
+<name><surname>Nasr-Esfahani</surname><given-names>MH</given-names></name>
+<name><surname>Sadri</surname><given-names>S</given-names></name>
+<name><surname>Hilderink</surname><given-names>J</given-names></name>
+<name><surname>van Apeldoorn</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Fabrication, characterization and cellular compatibility of poly(hydroxy alkanoate) composite nanofibrous scaffolds for nerve tissue engineering</article-title><source>PLoS One</source><year>2013</year><volume>8</volume><issue>2</issue><fpage>e57157</fpage><lpage>e57157</lpage><pub-id pub-id-type="pmid">23468923</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>De Schauwer</surname><given-names>C</given-names></name>
+<name><surname>Van de Walle</surname><given-names>GR</given-names></name>
+<name><surname>Van Soom</surname><given-names>A</given-names></name>
+<name><surname>Meyer</surname><given-names>E</given-names></name>
+</person-group><article-title>Mesenchymal stem cell therapy in horses: useful beyond orthopedic injuries?</article-title><source>Vet Q</source><year>2013</year><volume>33</volume><issue>4</issue><fpage>234</fpage><lpage>241</lpage><pub-id pub-id-type="pmid">23697553</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bavin</surname><given-names>EP</given-names></name>
+<name><surname>Atkinson</surname><given-names>F</given-names></name>
+<name><surname>Barsby</surname><given-names>T</given-names></name>
+<name><surname>Guest</surname><given-names>DJ</given-names></name>
+</person-group><article-title>Scleraxis is essential for tendon differentiation by equine embryonic stem cells and in equine fetal tenocytes</article-title><source>Stem Cells Dev</source><year>2017</year><volume>26</volume><issue>6</issue><fpage>441</fpage><lpage>450</lpage><pub-id pub-id-type="pmid">27899062</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kishimoto</surname><given-names>Y</given-names></name>
+<name><surname>Ohkawara</surname><given-names>B</given-names></name>
+<name><surname>Sakai</surname><given-names>T</given-names></name>
+<name><surname>Ito</surname><given-names>M</given-names></name>
+<name><surname>Masuda</surname><given-names>A</given-names></name>
+<name><surname>Ishiguro</surname><given-names>N</given-names></name>
+<etal/>
+</person-group><article-title>Wnt/&#x003b2;-catenin signaling suppresses expressions of Scx, Mkx, and Tnmd in tendon-derived cells</article-title><source>PLoS One</source><year>2017</year><volume>12</volume><issue>7</issue><fpage>e0182051</fpage><lpage>e0182051</lpage><pub-id pub-id-type="pmid">28750046</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Soeda</surname><given-names>T</given-names></name>
+<name><surname>Deng</surname><given-names>JM</given-names></name>
+<name><surname>de Crombrugghe</surname><given-names>B</given-names></name>
+<name><surname>Behringer</surname><given-names>RR</given-names></name>
+<name><surname>Nakamura</surname><given-names>T</given-names></name>
+<name><surname>Akiyama</surname><given-names>H</given-names></name>
+</person-group><article-title>Sox9-expressing precursors are the cellular origin of the cruciate ligament of the knee joint and the limb tendons</article-title><source>Genesis</source><year>2010</year><volume>48</volume><issue>11</issue><fpage>635</fpage><lpage>644</lpage><pub-id pub-id-type="pmid">20806356</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Levay</surname><given-names>AK</given-names></name>
+<name><surname>Peacock</surname><given-names>JD</given-names></name>
+<name><surname>Lu</surname><given-names>Y</given-names></name>
+<name><surname>Koch</surname><given-names>M</given-names></name>
+<name><surname>Hinton RB</surname><given-names>Jr</given-names></name>
+<name><surname>Kadler</surname><given-names>KE</given-names></name>
+<etal/>
+</person-group><article-title>Scleraxis is required for cell lineage differentiation and extracellular matrix remodeling during murine heart valve formation in vivo</article-title><source>Circ Res</source><year>2008</year><volume>103</volume><issue>9</issue><fpage>948</fpage><lpage>956</lpage><pub-id pub-id-type="pmid">18802027</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Murchison</surname><given-names>ND</given-names></name>
+<name><surname>Price</surname><given-names>BA</given-names></name>
+<name><surname>Conner</surname><given-names>DA</given-names></name>
+<name><surname>Keene</surname><given-names>DR</given-names></name>
+<name><surname>Olson</surname><given-names>EN</given-names></name>
+<name><surname>Tabin</surname><given-names>CJ</given-names></name>
+<etal/>
+</person-group><article-title>Regulation of tendon differentiation by scleraxis distinguishes force-transmitting tendons from muscle-anchoring tendons</article-title><source>Development</source><year>2007</year><volume>134</volume><issue>14</issue><fpage>2697</fpage><lpage>2708</lpage><pub-id pub-id-type="pmid">17567668</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nichols</surname><given-names>AEC</given-names></name>
+<name><surname>Settlage</surname><given-names>RE</given-names></name>
+<name><surname>Werre</surname><given-names>SR</given-names></name>
+<name><surname>Dahlgren</surname><given-names>LA</given-names></name>
+</person-group><article-title>Novel roles for scleraxis in regulating adult tenocyte function</article-title><source>BMC Cell Biol</source><year>2018</year><volume>19</volume><issue>1</issue><fpage>14</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">30086712</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shukunami</surname><given-names>C</given-names></name>
+<name><surname>Takimoto</surname><given-names>A</given-names></name>
+<name><surname>Oro</surname><given-names>M</given-names></name>
+<name><surname>Hiraki</surname><given-names>Y</given-names></name>
+</person-group><article-title>Scleraxis positively regulates the expression of tenomodulin, a differentiation marker of tenocytes</article-title><source>Dev Biol</source><year>2006</year><volume>298</volume><issue>1</issue><fpage>234</fpage><lpage>247</lpage><pub-id pub-id-type="pmid">16876153</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Taylor</surname><given-names>SE</given-names></name>
+<name><surname>Vaughan-Thomas</surname><given-names>A</given-names></name>
+<name><surname>Clements</surname><given-names>DN</given-names></name>
+<name><surname>Pinchbeck</surname><given-names>G</given-names></name>
+<name><surname>Macrory</surname><given-names>LC</given-names></name>
+<name><surname>Smith</surname><given-names>RK</given-names></name>
+<etal/>
+</person-group><article-title>Gene expression markers of tendon fibroblasts in normal and diseased tissue compared to monolayer and three dimensional culture systems</article-title><source>BMC Musculoskelet Disord</source><year>2009</year><volume>10</volume><fpage>27</fpage><lpage>27</lpage><pub-id pub-id-type="pmid">19245707</pub-id></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Theiss</surname><given-names>F</given-names></name>
+<name><surname>Mirsaidi</surname><given-names>A</given-names></name>
+<name><surname>Mhanna</surname><given-names>R</given-names></name>
+<name><surname>K&#x000fc;mmerle</surname><given-names>J</given-names></name>
+<name><surname>Glanz</surname><given-names>S</given-names></name>
+<name><surname>Bahrenberg</surname><given-names>G</given-names></name>
+<etal/>
+</person-group><article-title>Use of biomimetic microtissue spheroids and specific growth factor supplementation to improve tenocyte differentiation and adaptation to a collagen-based scaffold in vitro</article-title><source>Biomaterials</source><year>2015</year><volume>69</volume><fpage>99</fpage><lpage>109</lpage><pub-id pub-id-type="pmid">26283157</pub-id></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gomiero</surname><given-names>C</given-names></name>
+<name><surname>Bertolutti</surname><given-names>G</given-names></name>
+<name><surname>Martinello</surname><given-names>T</given-names></name>
+<name><surname>Van Bruaene</surname><given-names>N</given-names></name>
+<name><surname>Broeckx</surname><given-names>SY</given-names></name>
+<name><surname>Patruno</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Tenogenic induction of equine mesenchymal stem cells by means of growth factors and low-level laser technology</article-title><source>Vet Res Commu</source><year>2016</year><volume>40</volume><issue>1</issue><fpage>39</fpage><lpage>48</lpage></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,99 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="letter"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Bras Pneumol</journal-id><journal-id journal-id-type="iso-abbrev">J Bras Pneumol</journal-id><journal-id journal-id-type="publisher-id">jbpneu</journal-id><journal-title-group><journal-title>Jornal Brasileiro de Pneumologia</journal-title></journal-title-group><issn pub-type="ppub">1806-3713</issn><issn pub-type="epub">1806-3756</issn><publisher><publisher-name>Sociedade Brasileira de Pneumologia e Tisiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35703672</article-id><article-id pub-id-type="pmc">PMC9262443</article-id><article-id pub-id-type="doi">10.36416/1806-3756/e20220002</article-id><article-id pub-id-type="other">00000</article-id><article-categories><subj-group subj-group-type="heading"><subject>Letter to the Editor</subject></subj-group></article-categories><title-group><article-title>Pulmonary diseases that cause abnormal lung parenchymal density: is this a problem in lung cancer screening?</article-title><trans-title-group xml:lang="pt"><trans-title>Doen&#x000e7;as pulmonares que causam altera&#x000e7;&#x000f5;es na densidade do par&#x000ea;nquima pulmonar: isso &#x000e9; um problema no rastreamento de c&#x000e2;ncer de pulm&#x000e3;o?</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3358-6875</contrib-id><name><surname>Penha</surname><given-names>Diana</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6648-9270</contrib-id><name><surname>Pinto</surname><given-names>Erique</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8797-7380</contrib-id><name><surname>Marchiori</surname><given-names>Edson</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6649-8890</contrib-id><name><surname>Taborda-Barata</surname><given-names>Lu&#x000ed;s</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7860-7879</contrib-id><name><surname>Irion</surname><given-names>Klaus</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>. Universidade da Beira Interior, Covilh&#x000e3;, Portugal.</aff><aff id="aff2">
+<label>2</label>. Universidade Federal do Rio de Janeiro, Rio de Janeiro (RJ) Brasil.</aff><aff id="aff3">
+<label>3</label>. Manchester University NHS Foundation Trust, Manchester, United Kingdom.</aff><author-notes><fn fn-type="con" id="fn01"><p><bold>AUTHOR CONTRIBUTIONS:</bold> DP and EP: study conception and writing of the manuscript. EM: manuscript review and editing. LTB and KI: manuscript review. All authors: approval of the final version of the manuscript.</p></fn><fn fn-type="COI-statement" id="fn02"><p><bold>CONFLICT OF INTEREST:</bold> None.</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2022</year></pub-date><volume>48</volume><issue>4</issue><elocation-id>e20220002</elocation-id><permissions><copyright-statement>&#x000a9; 2022 Sociedade Brasileira de Pneumologia e Tisiologia</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>Sociedade Brasileira de Pneumologia e Tisiologia</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License which permits unrestricted non-commercial use, distribution, and reproduction in any medium provided the original work is properly cited.</license-p></license></permissions><counts><fig-count count="2"/><table-count count="0"/><equation-count count="0"/><ref-count count="8"/></counts></article-meta></front><body><sec><title>TO THE EDITOR:</title><p>This letter addresses recent research regarding how lung parenchymal attenuation influences pulmonary nodule volumetry. This topic is relevant to healthcare stakeholders and patients undergoing lung cancer screening (LCS) programs.</p><p>Low-dose chest CT in LCS has been proven to reduce lung cancer deaths by 20% compared with chest radiography.<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref> The Hounsfield unit (HU) threshold between normal aerated lung and emphysema varies among authors, but a threshold of &#x02212;950 HU has been commonly accepted.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>
+</p><p>Healthcare systems worldwide are implementing LCS programs using low-dose CT and new software tools for lung nodule detection and segmentation, including software tools for automated and semi-automated pulmonary nodule volumetry. International societies recommend the use of such volumetry tools in the assessment of incidental pulmonary nodules and their follow-up if they are larger than 100 mm<sup>3</sup> (Fleischner Society) or 80 mm<sup>3</sup> (British Thoracic Society).<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>From a technical point of view, these tools work by performing virtual extraction of the nodule from the adjacent lung parenchyma and other structures such as bronchial walls and vessels. The so-called &#x0201c;region-growing&#x0201d; segmentation algorithm can perform this extraction either in a semi-automated (i.e., the operator locates the nodule manually) or automated (i.e., the computer system automatically identifies and segments the pulmonary nodules) manner as in computer-aided detection.</p><p>Starting from the initial voxel selected, the algorithm tries to identify all the voxels that are contiguous to this point and that have a density value similar to that of the selected point. The process continues until the nodule margin is determined by the abrupt change in density values due to the presence of air in the lung adjacent to the nodule. There is high contrast between ventilated lung parenchymal airspaces close to &#x02212;950 HU in attenuation and a solid pulmonary nodule (above &#x02212;500 HU).<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>A vast body of research has been dedicated to identifying the technical factors influencing volumetry tools. These factors may be related to the CT scanner, acquisition parameters (e.g., slice thickness, section overlap, kernel, reconstruction algorithm), and software used. Other factors are related to the patient or the nodule itself (e.g., acquisition in inspiration or expiration, size, location, shape, or density).<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>Little has been researched on the influence of lung parenchymal density or lung parenchymal attenuation on these artificial intelligence tools, even though pulmonary diseases that cause abnormal lung parenchymal density are common in chest CT studies. Conditions that cause abnormal lung density can be grouped into two groups: diseases that cause increased parenchymal attenuation (e.g., infection, neoplasms, or interstitial lung disease); and diseases that cause decreased parenchymal attenuation (e.g., emphysema, cysts, bronchiectasis, or honeycombing).</p><p>It would be intuitive to consider that diseases that cause decreased lung attenuation, such as cysts and emphysema, would improve delineation of nodule margins when the decreased lung attenuation is adjacent to the nodule and would potentially improve the accuracy of the volumetry tool and reduce its variability (<xref rid="f1" ref-type="fig">Figure 1</xref>A). However, several studies have investigated diseases that cause decreased lung attenuation, such as cysts and emphysema, as factors influencing lung nodule volumetry, and, so far, no consistent effect has been shown.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><p>
+<fig position="float" id="f1"><label>Figure 1</label><caption><title>In A, application of a nodule volumetry tool to assess a lung nodule surrounded by pulmonary emphysema (red, &#x0201c;oval-shaped&#x0201d; circle). The segmentation and volume calculation are technically correct. In B, the application of the same nodule volumetry tool to assess a lung nodule surrounded by subpleural reticulation and fibrosis (arrows) in a patient with smoking-related interstitial lung disease under follow-up in a lung cancer screening program showed a significant nodule segmentation error. The incorrect segmentation included the subpleural fibrosis and also the chest wall. This error was influenced by the increased lung parenchymal density surrounding the nodule (reticulation and fibrosis), overestimating the volume of the nodule to be 1.8 cm<sup>3</sup>, while, in C, the application of a different software tool to assess the same nodule correctly estimated its volume to be 0.089 cm<sup>3</sup>. This corresponds to a 20-fold error in the volume calculation.</title></caption><graphic xlink:href="1806-3756-jbpneu-48-04-e20220002-gf1" position="float"/></fig>
+</p><p>A recent research paper based on a large LCS program showed that increased lung attenuation adjacent to a nodule is inversely related to the likelihood of good segmentation of that same nodule by volumetry tools (<xref rid="f1" ref-type="fig">Figures 1</xref>B and 1C).<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref> Therefore, we should exercise caution in using dedicated lung nodule volumetry tools in patients with diseases accompanied by increased lung density when nodules are located in affected areas.</p><p>Interstitial lung diseases (ILD) feature increased parenchymal density and are common in LCS patients. Studies concerning LCS programs report ILD in approximately 5% to 25% of the patients. The most common types of ILD found in LCS patients are smoking-related ILD, including smoking-related interstitial fibrosis, idiopathic pulmonary fibrosis, desquamative interstitial pneumonia, and respiratory bronchiolitis ILD.<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>With this short letter, the authors aim to increase the awareness of radiologists and chest physicians regarding this recently identified limiting factor of volumetry tools. As we move towards early lung cancer detection and the worldwide implementation of LCS programs, we believe that recognizing the potential pitfalls of volumetry tools is essential to deriving the benefits of evidence-based healthcare.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>National Lung Screening Trial Research Team</collab>
+</person-group><person-group person-group-type="author">
+<name><surname>Aberle</surname><given-names>DR</given-names></name>
+<name><surname>Adams</surname><given-names>AM</given-names></name>
+<name><surname>Berg</surname><given-names>CD</given-names></name>
+<name><surname>Black</surname><given-names>WC</given-names></name>
+<name><surname>Clapp</surname><given-names>JD</given-names></name>
+<etal/>
+</person-group><article-title>Reduced lung-cancer mortality with low-dose computed tomographic screening</article-title><source>N Engl J Med</source><year>2011</year><volume>365</volume><issue>5</issue><fpage>395</fpage><lpage>409</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1102873</pub-id><pub-id pub-id-type="pmid">21714641</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lynch</surname><given-names>DA</given-names></name>
+<name><surname>Al-Qaisi</surname><given-names>MA</given-names></name>
+</person-group><article-title>Quantitative computed tomography in chronic obstructive pulmonary disease</article-title><source>J Thorac Imaging</source><year>2013</year><volume>28</volume><issue>5</issue><fpage>284</fpage><lpage>290</lpage><pub-id pub-id-type="doi">10.1097/RTI.0b013e318298733c</pub-id><pub-id pub-id-type="pmid">23748651</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>MacMahon</surname><given-names>H</given-names></name>
+<name><surname>Naidich</surname><given-names>DP</given-names></name>
+<name><surname>Goo</surname><given-names>JM</given-names></name>
+<name><surname>Lee</surname><given-names>KS</given-names></name>
+<name><surname>Leung</surname><given-names>ANC</given-names></name>
+<name><surname>Mayo</surname><given-names>JR</given-names></name>
+</person-group><article-title>Guidelines for Management of Incidental Pulmonary Nodules Detected on CT Images From the Fleischner Society 2017</article-title><source>Radiology</source><year>2017</year><volume>284</volume><issue>1</issue><fpage>228</fpage><lpage>243</lpage><pub-id pub-id-type="doi">10.1148/radiol.2017161659</pub-id><pub-id pub-id-type="pmid">28240562</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Callister</surname><given-names>ME</given-names></name>
+<name><surname>Baldwin</surname><given-names>DR</given-names></name>
+<name><surname>Akram</surname><given-names>AR</given-names></name>
+<name><surname>Barnard</surname><given-names>S</given-names></name>
+<name><surname>Cane</surname><given-names>P</given-names></name>
+<name><surname>Draffan</surname><given-names>J</given-names></name>
+</person-group><article-title>British Thoracic Society guidelines for the investigation and management of pulmonary nodules [published correction appears in</article-title><source>Thorax</source><year>2015</year><volume>70</volume><issue>12</issue><fpage>1188</fpage><lpage>1188</lpage><pub-id pub-id-type="doi">10.1136/thoraxjnl-2015-207168</pub-id><pub-id pub-id-type="pmid">26567186</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Devaraj</surname><given-names>A</given-names></name>
+<name><surname>van Ginneken</surname><given-names>B</given-names></name>
+<name><surname>Nair</surname><given-names>A</given-names></name>
+<name><surname>Baldwin</surname><given-names>D</given-names></name>
+</person-group><article-title>Use of Volumetry for Lung Nodule Management Theory and Practice</article-title><source>Radiology</source><year>2017</year><volume>284</volume><issue>3</issue><fpage>630</fpage><lpage>644</lpage><pub-id pub-id-type="doi">10.1148/radiol.2017151022</pub-id><pub-id pub-id-type="pmid">28825886</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Moser</surname><given-names>JB</given-names></name>
+<name><surname>Mak</surname><given-names>SM</given-names></name>
+<name><surname>McNulty</surname><given-names>WH</given-names></name>
+<name><surname>Padley</surname><given-names>S</given-names></name>
+<name><surname>Nair</surname><given-names>A</given-names></name>
+<name><surname>Shah</surname><given-names>PL</given-names></name>
+</person-group><article-title>The influence of inspiratory effort and emphysema on pulmonary nodule volumetry reproducibility</article-title><source>Clin Radiol</source><year>2017</year><volume>72</volume><issue>11</issue><fpage>925</fpage><lpage>929</lpage><pub-id pub-id-type="doi">10.1016/j.crad.2017.06.117</pub-id><pub-id pub-id-type="pmid">28784319</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Penha</surname><given-names>D</given-names></name>
+<name><surname>Pinto</surname><given-names>E</given-names></name>
+<name><surname>Hochhegger</surname><given-names>B</given-names></name>
+<name><surname>Monaghan</surname><given-names>C</given-names></name>
+<name><surname>Marchiori</surname><given-names>E</given-names></name>
+<name><surname>Taborda-Barata</surname><given-names>L</given-names></name>
+</person-group><article-title>The impact of lung parenchyma attenuation on nodule volumetry in lung cancer screening</article-title><source>Insights Imaging</source><year>2021</year><volume>12</volume><issue>1</issue><fpage>84</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1186/s13244-021-01027-0</pub-id><pub-id pub-id-type="pmid">34170410</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>JH</given-names></name>
+<name><surname>Richards</surname><given-names>JC</given-names></name>
+<name><surname>Koelsch</surname><given-names>TL</given-names></name>
+<name><surname>MacMahon</surname><given-names>H</given-names></name>
+<name><surname>Lynch</surname><given-names>DA</given-names></name>
+</person-group><article-title>Screening for Lung Cancer Incidental Pulmonary Parenchymal Findings</article-title><source>AJR Am J Roentgenol</source><year>2018</year><volume>210</volume><issue>3</issue><fpage>503</fpage><lpage>513</lpage><pub-id pub-id-type="doi">10.2214/AJR.17.19003</pub-id><pub-id pub-id-type="pmid">29231759</pub-id></element-citation></ref></ref-list></back></article>

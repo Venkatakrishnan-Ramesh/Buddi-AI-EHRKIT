@@ -1,0 +1,592 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700460</article-id><article-id pub-id-type="pmc">PMC9426322</article-id><article-id pub-id-type="publisher-id">34538</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.34538</article-id><article-categories><subj-group subj-group-type="heading"><subject>Art&#x000ed;culos Originales</subject></subj-group></article-categories><title-group><article-title>Variantes en el n&#x000fa;mero de copias y consanguinidad parental en neonatos de altura con anomal&#x000ed;as cong&#x000e9;nitas en Per&#x000fa;</article-title><trans-title-group xml:lang="en"><trans-title>Copy number variation and parental consanguinity elevated in newborns of high altitude with major congenital anomalies in Per&#x000fa;</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Varia&#x000e7;&#x000f5;es do N&#x000fa;mero de C&#x000f3;pias e consang&#x000fc;inidade parental em rec&#x000e9;m-nascidos de grande altitude com principais anomalias cong&#x000ea;nitas no Peru</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-0276-2557</contrib-id><name><surname>Abarca Barriga</surname><given-names>Hugo Hern&#x000e1;n</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>hugo.abarca@urp.edu.pe</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-4441-9167</contrib-id><name><surname>Vel&#x000e1;squez</surname><given-names>Felix Chavesta</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>fchavesta@insn.gob.pe</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0001-9982-5368</contrib-id><name><surname>Barletta Carrillo</surname><given-names>Claudia</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>claudiabarletta@hotmail.com</email></contrib><contrib contrib-type="author"><name><surname>Paucarmayta Tacuri</surname><given-names>Abel</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>abelpaucarmayta@yahoo.es</email></contrib><contrib contrib-type="author"><name><surname>Baz&#x000e1;n Hurtado</surname><given-names>Margaret</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>karitomarbazan@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-8361-7668</contrib-id><name><surname>V&#x000e1;squez Loarte</surname><given-names>Tania</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>tania.vasquez.loarte@gmail.com</email></contrib><contrib contrib-type="author"><name><surname>Ordo&#x000f1;ez Rond&#x000f3;n</surname><given-names>Luis</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>crazyway11_18@hotmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-7550-5842</contrib-id><name><surname>Ordo&#x000f1;ez Linares</surname><given-names>Marco</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>marco.ordonez@unsaac.edu.pe</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0003-2927-3515</contrib-id><name><surname>Rond&#x000f3;n Abuhadba</surname><given-names>Evelina Andrea</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>evelina.rondon@unsaac.edu.pe</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Instituto de Investigaci&#x000f3;n de Ciencias Biom&#x000e9;dicas. Universidad Ricardo Palma</institution>
+<city>Lima</city>
+<country country="PE">Per&#x000fa;</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Servicio de Gen&#x000e9;tica y Errores Innatos del Metabolismo. Instituto Nacional de Salud del Ni&#x000f1;o-Bre&#x000f1;a</institution>
+<city>Lima</city>
+<country country="PE">Per&#x000fa;</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Escuela de Medicina Humana. Universidad Nacional de San Antonio Abad de Cusco</institution>
+<city>Cusco</city>
+<country country="PE">Per&#x000fa;</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>132</fpage><lpage>140</lpage><history><date date-type="received" iso-8601-date="2021-07-27"><day>27</day><month>7</month><year>2021</year></date><date date-type="accepted" iso-8601-date="2021-10-28"><day>28</day><month>10</month><year>2021</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/34538/37738">https://revistas.unc.edu.ar/index.php/med/article/view/34538/37738</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/34538/37737">https://revistas.unc.edu.ar/index.php/med/article/view/34538/37737</self-uri><abstract abstract-type="section"><title>Resumen</title><sec><title>Introducci&#x000f3;n:</title><p>Las anomal&#x000ed;as cong&#x000e9;nitas se pueden ocasionar por variantes en el n&#x000fa;mero de copias o variantes homocigotas heredadas de padres consanguineos.</p></sec><sec><title>Objetivo</title><p>Determinar las variantes en el n&#x000fa;mero de copias y el grado de consanguinidad parental en neonatos con: s&#x000ed;ndromes malformativos o una anomal&#x000ed;a cong&#x000e9;nita mayor asociado a dismorfia facial o hipoton&#x000ed;a.</p></sec><sec><title>Material y m&#x000e9;todos:</title><p>Se realiz&#x000f3; el an&#x000e1;lisis cromos&#x000f3;mico por micromatrices a 60 neonatos con anomal&#x000ed;as cong&#x000e9;nitas evaluados en los Hospitales Antonio Lorena y Regional de Cusco.</p></sec><sec><title>Resultados:</title><p>Del total de pacientes estudiados (n=60), el 70% (n=42) tuvo un resultado an&#x000f3;malo; de los cuales en el 14,2% (n=6) de los reci&#x000e9;n nacidos se encontraron variantes en el n&#x000fa;mero de copias patog&#x000e9;nicas o probablemente patog&#x000e9;nicas en relaci&#x000f3;n con las anomal&#x000ed;as cong&#x000e9;nitas descritas. En el 48,3% (n=29) de los reci&#x000e9;n nacidos se encontr&#x000f3; regiones de homocigosidad mayores a 0,5% (coeficiente de endogamia superior a 1/64). Por otro lado, entre las CNVs halladas, encontramos cinco variantes de patogenicidad desconocida que no se han descrito anteriormente y podr&#x000ed;an estar relacionadas con el fenotipo cl&#x000ed;nico observado.</p></sec><sec><title>Conclusiones:</title><p>Nuestra tasa de detecci&#x000f3;n de las variantes en el n&#x000fa;mero de copias est&#x000e1; en relaci&#x000f3;n con los reportes internacionales previos. Sin embargo, el porcentaje de endogamia se encuentra por encima de lo reportado previamente en otras regiones de Sudam&#x000e9;rica. Este es el primer reporte en el Per&#x000fa;, y es pionero en Latinoam&#x000e9;rica al utilizar el an&#x000e1;lisis cromos&#x000f3;mico por micromatrices en esta cohorte espec&#x000ed;fica de pacientes.</p></sec></abstract><trans-abstract xml:lang="en" abstract-type="section"><title>Abstract</title><sec><title>Introduction:</title><p>Congenital abnormalities could be caused by copy number variation or homozygous variants inherited of parental consanguineous.</p></sec><sec><title>Purpose:</title><p>To show copy number variants and regions of homozygosity in neonates with malformative syndrome or one congenital anomaly major associated to facial dysmorphia or hypotonia.</p></sec><sec><title>Methodology:</title><p>Performed chromosomal microarray analysis (CGH/SNP) to 60 neonates with congenital anomalies born in Hospital Antonio Lorena and Hospital Regional Cusco.</p></sec><sec><title>Results:</title><p>70% of the newborns had an abnormal test (n=42); 48,3% (n=29) patients had with regions of homozygosity above to 0,5% (endogamy coefficient up to 1/64). Pathogenic or likely pathogenic copy number variations with or without region of homozygosity were present in 14,2% (n=6) newborns with congenital abnormalities. We founded five patients with uncertain pathogenic copy number variations that have not been described previously and might correlate with phenotype.</p></sec><sec><title>Conclusion:</title><p>We founded a similar frequency of CNV in newborns with congenital abnormalities compared to previous reports. Nonetheless, parental consanguinity was increased compared to other countries of South America. This is the first report in Peru that showed to CMA as a useful diagnostic method in patients with congenital abnormalities and is pioneer in relation to other countries in Latinoamerica.</p></sec></trans-abstract><trans-abstract xml:lang="pt" abstract-type="section"><title>Resumo</title><sec><title>Introdu&#x000e7;&#x000e3;o:</title><p>As anomaliascong&#x000ea;nitaspodem ser causadas por variantes do n&#x000fa;mero de c&#x000f3;piass&#x000e3;oou variantes homozig&#x000f3;ticasherdadas de paisconsanguineos.</p></sec><sec><title>Objetivo.</title><p>Determinar as variantes no n&#x000fa;mero de c&#x000f3;pias e no grau de consanguinidade parental em neonatos com s&#x000ed;ndromes de malforma&#x000e7;&#x000e3;oouumaanomaliacong&#x000ea;nita importante associada a dismorfia facial ouhipotonia.</p></sec><sec><title>Material e m&#x000e9;todos:</title><p>A an&#x000e1;lisecromoss&#x000f4;mica por microarraysfoi realizada em 60 neonatos comanomaliascong&#x000ea;nitasavaliados nos Hospitais Antonio Lorena e Regional de Cusco.</p></sec><sec><title>Resultados:</title><p>Do total de pacientes estudados, foi encontrado resultado anormal em 70%, comvaria&#x000e7;&#x000f5;es no n&#x000fa;mero de c&#x000f3;piaspatog&#x000ea;nicasouprovavelmentepatog&#x000ea;nicasassociadasoun&#x000e3;o a regi&#x000f5;es de homozigosidade relacionadas &#x000e0;sanomaliascong&#x000ea;nitas descritas, foi encontrado em 14,2% dos os rec&#x000e9;m-nascidos e que em 48,3% haviaregi&#x000f5;es de homozigosemaior que 0,5% (coeficiente de endogamia maior que 1/64). Por outro lado, encontramos cinco variantes no n&#x000fa;mero de c&#x000f3;pias de patogenicidadedesconhecida que n&#x000e3;oforam descritas anteriormente e podem estar relacionadas aofen&#x000f3;tipo.</p></sec></trans-abstract><kwd-group><title>Palabras clave</title><kwd>an&#x000e1;lisis por micromatrices</kwd><kwd>variaciones en el n&#x000fa;mero de copias de ADN</kwd><kwd>reci&#x000e9;n nacido</kwd><kwd>anomal&#x000ed;as cong&#x000e9;nitas</kwd><kwd>consanguinidad</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>microarray analysis</kwd><kwd>DNA copy number variation</kwd><kwd>infant</kwd><kwd>newborn</kwd><kwd>congenital abnormalities</kwd><kwd>consanguinity</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>an&#x000e1;liseemmicross&#x000e9;ries</kwd><kwd>varia&#x000e7;&#x000f5;es do n&#x000fa;mero de c&#x000f3;pias de DNA</kwd><kwd>rec&#x000e9;m-nascido</kwd><kwd>anormalidades cong&#x000ea;nitas</kwd><kwd>consanguinidade</kwd></kwd-group><counts><fig-count count="2"/><table-count count="3"/><equation-count count="0"/><ref-count count="32"/><page-count count="9"/></counts></article-meta></front><body><boxed-text position="float"><p>Los cambios en el ADN de una persona (genoma) pueden ser de varios tipos; entre ellos existen unos denominados variantes en el n&#x000fa;mero de copias que no se pueden observar al microscopio &#x000f3;ptico y se producen por exceso o por falta de material gen&#x000e9;tico. Estos cambios en el genoma y los matrimonios entre parientes se han asociado a defectos de diferentes &#x000f3;rganos o sistemas que en la mayor&#x000ed;a se observan al nacimiento.</p></boxed-text><boxed-text position="float"><sec><title>Conceptos clave</title><sec><title>Qu&#x000e9; se sabe sobre el tema:</title><p>La causa de anomal&#x000ed;as cong&#x000e9;nitas en reci&#x000e9;n nacidos peruanos a&#x000fa;n se desconoce, y m&#x000e1;s a&#x000fa;n si nacen en regiones de Per&#x000fa; que carecen de tecnolog&#x000ed;as de diagn&#x000f3;stico gen&#x000e9;tico.</p></sec><sec><title>Qu&#x000e9; se aporta con el trabajo:</title><p>En Cusco se observ&#x000f3; que el 70% de los reci&#x000e9;n nacidos con anomal&#x000ed;as cong&#x000e9;nitas ten&#x000ed;an un resultado anormal en el an&#x000e1;lisis cromos&#x000f3;mico por micromatrices, y de estos, en el 48,3% de los casos, los padres eran consangu&#x000ed;neos. Por lo que es de suma importancia, dar a conocer que las uniones consangu&#x000ed;neas son muy frecuentes en nuestro medio, y que el evitar este tipo de pr&#x000e1;ctica podr&#x000ed;a disminuir el n&#x000fa;mero de neonatos con anomal&#x000ed;as cong&#x000e9;nitas.</p></sec></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCI&#x000d3;N</title><p>Reportes mundiales estiman que el 1-3% de los reci&#x000e9;n nacidos presentan una anomal&#x000ed;a cong&#x000e9;nita mayor
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+, lo cual est&#x000e1; en relaci&#x000f3;n con informes previos en Per&#x000fa;, con valores que fluct&#x000fa;an entre 1,32-2,7%
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+. Se ha descrito que la altitud es un factor de riesgo de algunos defectos cong&#x000e9;nitos como defectos cardiacos cong&#x000e9;nitos, anomal&#x000ed;as anorrectales y fisura palatina
+<sup><xref rid="B3" ref-type="bibr">3</xref>.
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+. La Organizaci&#x000f3;n Mundial de la Salud (OMS-OPS) (2015), estima que en Am&#x000e9;rica, las anomal&#x000ed;as cong&#x000e9;nitas son la segunda causa de muerte en infantes desde los 28 d&#x000ed;as de vida hasta menores de cinco a&#x000f1;os, luego de prematuridad, asfixia y sepsis
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+. A la fecha, seg&#x000fa;n la tecnolog&#x000ed;a en los estudios moleculares, se ha observado que la etiolog&#x000ed;a gen&#x000e9;tica de las anomal&#x000ed;as cong&#x000e9;nitas corresponden a un 68%, donde el estudio ex&#x000f3;mico encuentra variantes gen&#x000e9;ticas relacionadas a la condici&#x000f3;n en un 51%
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+, observ&#x000e1;ndose que las variantes en el n&#x000fa;mero de copias ocurren en el 6-17%
+<sup>
+<xref rid="B5" ref-type="bibr">5-7</xref>
+</sup>
+. La consanguinidad parental declarada en neonatos con anomal&#x000ed;as cong&#x000e9;nitas es muy variable seg&#x000fa;n las poblaciones estudiadas siendo entre el 1,21-7%
+<sup><xref rid="B8" ref-type="bibr">8</xref>.
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+. Sin embargo la consanguinidad parental no declarada se observa aproximadamente en el 3,46% de pacientes con retraso del desarrollo psicomotor
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+.
+</p><p>En Per&#x000fa;, los servicios de gen&#x000e9;tica se concentran en la capital, Lima, haciendo por lo tanto dif&#x000ed;cil el acceso a pacientes con anomal&#x000ed;as cong&#x000e9;nitas que nacen en otras regiones del territorio peruano; a diferencia de otros pa&#x000ed;ses de Latinoam&#x000e9;rica o Europa donde la distribuci&#x000f3;n es menos desigual. Este panorama se agrava por la escasa implementaci&#x000f3;n de nuevas tecnolog&#x000ed;as en el diagn&#x000f3;stico gen&#x000e9;tico y una deficiente red de servicios de telemedicina, provocando as&#x000ed; la ausencia de programas de base poblacional, pol&#x000ed;ticas expl&#x000ed;citas para la prevenci&#x000f3;n y asistencia de los defectos o anomal&#x000ed;as cong&#x000e9;nitas
+<sup>
+<xref rid="B11" ref-type="bibr">11-14</xref>
+</sup>
+. Espec&#x000ed;ficamente en la asistencia a trav&#x000e9;s de telemedicina se pudo observar que el 66% de los s&#x000ed;ndromes pueden ser filiados (un 70% de ellos por los rasgos cl&#x000ed;nicos y un 30% por confirmaci&#x000f3;n gen&#x000e9;tica) y el restante 34% no es posible converger en ning&#x000fa;n s&#x000ed;ndrome conocido
+<sup>
+<xref rid="B15" ref-type="bibr">15</xref>
+</sup>
+.
+</p><p>El an&#x000e1;lisis cromos&#x000f3;mico por micromatrices o CMA (del ingl&#x000e9;s <italic toggle="yes">chromosomalmicroarrayanalysis</italic>) permite detectar variantes en el n&#x000fa;mero de copias o CNVs (del ingl&#x000e9;s <italic toggle="yes">copynumbervariation</italic>) las cuales se definen como segmentos de ADN igual o mayor a 1 Kpb; adem&#x000e1;s tambi&#x000e9;n tiene la posibilidad de poder describir regiones en homocigosidad o ROH (<italic toggle="yes">Regions of homozygosity</italic>), el cual se utiliza para evaluar disom&#x000ed;asuniparentales y consanguinidad parental
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+.
+</p><p>El prop&#x000f3;sito de este reporte fue evaluar al CMA, como una herramienta diagn&#x000f3;stica, para explorar la tasa de reci&#x000e9;n nacidos con variantes en el n&#x000fa;mero de copias patog&#x000e9;nicas o probablemente patog&#x000e9;nicas y determinar el coeficiente de consanguinidad basado en regiones de homocigosidad en neonatos en una altitud de 3 399 m.s.n.m. (Cusco) con m&#x000e1;s de dos anomal&#x000ed;as cong&#x000e9;nitas mayores o una anomal&#x000ed;a cong&#x000e9;nita mayor asociada con dismorfia facial o hipoton&#x000ed;a.</p></sec><sec sec-type="materials|methods"><title>MATERIALES Y M&#x000c9;TODOS</title><p>El presente trabajo fue de tipo descriptivo y transversal, preservando la privacidad y confidencialidad de los datos cl&#x000ed;nicos y gen&#x000f3;micos de los sujetos de investigaci&#x000f3;n y sus respectivas familias, de acuerdo con los lineamientos de las buenas pr&#x000e1;cticas cl&#x000ed;nicas y de &#x000e9;tica. Previamente se administr&#x000f3; un consentimiento informado a los padres para poder obtener los datos cl&#x000ed;nicos y la muestra de sangre, el cual cont&#x000f3; adem&#x000e1;s con el correspondiente asesoramiento gen&#x000e9;tico pre y posprueba.</p><p>La muestra se calcul&#x000f3; seg&#x000fa;n la f&#x000f3;rmula n=[(N)(z<sup>2</sup>)(p)(q)]/[(N-1)(E2)+(z<sup>2</sup>)(p)(q)], donde p=3%, N=20 024 (nacimientos en la Regi&#x000f3;n Cusco), E=4% y z=97%, determinando que n=86. Ajustando la muestra se revisaron los datos consignados en las historias cl&#x000ed;nicas de 87 pacientes que cumplieron con los criterios diagn&#x000f3;sticos de s&#x000ed;ndrome malformativo (dos o m&#x000e1;s anomal&#x000ed;as cong&#x000e9;nitas mayores) o una anomal&#x000ed;a mayor asociada a hipoton&#x000ed;a o dismorfia facial que nacieron en los Hospitales Regional y Hospital Antonio Lorena de Cusco entre diciembre de 2017 y noviembre del 2018. Ambos hospitales est&#x000e1;n ubicados a 3 399 m.s.n.m y son centros de referencia regional que pertenecen al Ministerio de Salud y atienden al 83,1% de la poblaci&#x000f3;n regional. Se realizaron evaluaciones cl&#x000ed;nicas a trav&#x000e9;s de una teleconsulta con el Instituto Nacional de Salud del Ni&#x000f1;o (Lima), y se excluy&#x000f3; a 27 neonatos con diagn&#x000f3;stico cl&#x000ed;nico de padecer una enfermedad monog&#x000e9;nica o de una aneuploid&#x000ed;a.
+</p><p>Para la recopilaci&#x000f3;n de datos cl&#x000ed;nicos (antropometr&#x000ed;a, antecedentes, anomal&#x000ed;as cong&#x000e9;nitas) y demogr&#x000e1;ficos del paciente y su familia (edad, sexo, lugar de procedencia) se utiliz&#x000f3; un cuestionario estructurado, codificando y encriptando los datos de identificaci&#x000f3;n de los pacientes. Este cuestionario, nos sirvi&#x000f3; para excluir a aquellos pacientes que tuvieron el antecedente materno de exposici&#x000f3;n a alg&#x000fa;n terat&#x000f3;geno.</p><p>El an&#x000e1;lisis cromos&#x000f3;mico por micromatrices se realiz&#x000f3; con una muestra de sangre perif&#x000e9;rica, de la cual se extrajo el ADN gen&#x000f3;mico (250ng), el cual fue amplificado, etiquetado e hibridado usando el protocolo <italic toggle="yes">GeneChip</italic>CytoScan 750K Array (<italic toggle="yes">Affymetrix, USA</italic>) de acuerdo con las instrucciones del fabricante. La prueba incluye 550 000 marcadores no polim&#x000f3;rficos y 200 436 marcadores SNP (del ingl&#x000e9;s <italic toggle="yes">single nucleotidepolymorphism</italic>). Las micromatrices fueron escaneadas y luego analizadas mediante el programa inform&#x000e1;tico <italic toggle="yes">ChromosomeAnalysis Suite (ChAS) (Affymetrix, USA)</italic> utilizando el genoma de referencia GRCh37. Las ganancias o p&#x000e9;rdidas son consideradas cuando comprometen al menos 50/25 marcadores respectivamente. Las regiones de homocigosidad (ROH) comprometen una longitud de al menos 5 Mb (<italic toggle="yes">Thermo Fisher Sc Inc, 2017</italic>).
+</p><p>Las variantes en el n&#x000fa;mero de copias o CNVs fueron comparadas con las bases de datos gen&#x000f3;micas: <italic toggle="yes">Database of ChromosomalImbalance, Phenotype in HumansusingEnsembleResources</italic> (DECIPHER) (www.deciphergenomics.org) y de <italic toggle="yes">University of California, Santa Cruz</italic> (UCSC) (www.genome.ucsc.edu). Las CNVs encontradas se clasificaron en patog&#x000e9;nicas, probablemente patog&#x000e9;nicas, de significado incierto, probablemente benignas y benignas
+<sup>
+<xref rid="B16" ref-type="bibr">16</xref>
+</sup>
+. Los resultados del CMA se clasificaron como resultados an&#x000f3;malos si el an&#x000e1;lisis demostraba CNVs patog&#x000e9;nicas o probablemente patog&#x000e9;nicas; o aquellos que presentaban al menos una regi&#x000f3;n cromos&#x000f3;mica con un ROH mayor a 10 Mpb o si el total de ROHs de las regiones autos&#x000f3;micas era mayor a 0,5%
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+. Por lo tanto, se determin&#x000f3; la frecuencia de los resultados an&#x000f3;malos del CMA y la frecuencia de las anomal&#x000ed;as cong&#x000e9;nitas y se compar&#x000f3; con estudios previos. El an&#x000e1;lisis estad&#x000ed;stico se realiz&#x000f3; sobre las de frecuencias y porcentajes, mediante el c&#x000e1;lculo de <italic toggle="yes">Chi</italic> cuadrado y OR (<italic toggle="yes">odds ratio</italic>) utilizando el programa de Microsoft Excel&#x000ae;.
+</p></sec><sec sec-type="results"><title>RESULTADOS</title><p>Desde diciembre de 2017 hasta noviembre de 2018, el n&#x000fa;mero de nacimientos en la ciudad de Cusco fue de aproximadamente diez mil, cuyas atenciones se realizaron principalmente en el Hospital Antonio Lorena (3 195 reci&#x000e9;n nacidos vivos -RNV-), Hospital Regional de Cusco (4 218 RNV)</p><p>El n&#x000fa;mero de pacientes con anomal&#x000ed;as cong&#x000e9;nitas (AC) que presentaron los criterios de inclusi&#x000f3;n fueron de 87 (11,7/ 1 000 RNV), y se excluy&#x000f3; a 27 reci&#x000e9;n nacidos para realizar el CMA porque ten&#x000ed;an diagn&#x000f3;stico cl&#x000ed;nico de una aneuploid&#x000ed;a (n=19) o una enfermedad monog&#x000e9;nica (n=8) (<xref rid="f1" ref-type="fig">Figura 1</xref>). Las tres anomal&#x000ed;as cong&#x000e9;nitas m&#x000e1;s frecuentes fue: defecto cardiaco (n=32; 53%), atresia ano-rectal (n=5; 8,3%) y fisura palatina (n=5; 8,3%) (<xref rid="t1" ref-type="table">Tabla 1</xref>).
+</p><p>
+<fig position="float" id="f1"><label>Figura N&#x000b0; 1</label><caption><title>Criterios de inclusi&#x000f3;n y exclusi&#x000f3;n de reci&#x000e9;n nacidos con anomal&#x000ed;as cong&#x000e9;nitas que se les realiz&#x000f3; el an&#x000e1;lisis cromos&#x000f3;mico por micromatrices</title></caption><graphic xlink:href="1853-0605-79-2-132-g001" position="float"/></fig>
+</p><table-wrap position="float" id="t1"><label>Tabla N&#x000b0; 1</label><caption><title>Comparaci&#x000f3;n de la prevalencia de anomal&#x000ed;as cong&#x000e9;nitas en relaci&#x000f3;n con otras investigaciones realizadas en altura.</title></caption><table frame="hsides" rules="groups" width="100%"><thead><tr><th rowspan="2" colspan="1">Anomal&#x000ed;acong&#x000e9;nita</th><th colspan="2" rowspan="1">Abarca et al. 2021</th><th colspan="2" rowspan="1">Castilla et al. (1999) Chun et al. (2018)</th><th rowspan="2" colspan="1">p (Chi cuadrado)</th></tr></thead><tbody><tr><th rowspan="1" colspan="1">N&#x000fa;mero de pacientes</th><th rowspan="1" colspan="1">Incidencia 1/10 000
+<xref rid="tf1" ref-type="table-fn">*</xref>
+</th><th rowspan="1" colspan="1">Incidencia 1/10 000</th><th rowspan="1" colspan="1">Mayor incidencia de AC en el presente estudio</th></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Malformaci&#x000f3;ncard&#x000ed;aca
+<xref rid="tf1" ref-type="table-fn">&#x02111;</xref>
+</th><td align="center" rowspan="1" colspan="1">32</td><td align="center" rowspan="1" colspan="1">43,14</td><td align="center" rowspan="1" colspan="1">22,60</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">0,026187</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Malformaci&#x000f3;nano-rectal</th><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">6,74</td><td align="center" rowspan="1" colspan="1">3,50</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">0,560926</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Fisurapalatina</th><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">6,74</td><td align="center" rowspan="1" colspan="1">1,80</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">0,260813</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Fisuralabio-palatina</th><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">5,39</td><td align="center" rowspan="1" colspan="1">16,90</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">0,00011</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Sindactilia</th><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">4,04</td><td align="center" rowspan="1" colspan="1">1,50</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,552175</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Microtia</th><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">4,04</td><td align="center" rowspan="1" colspan="1">9,70</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">0,05314</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Hipertrofiacong&#x000e9;nita de p&#x000ed;loro</th><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">2,70</td><td align="center" rowspan="1" colspan="1">--</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Polidactilia postaxial</th><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">2,70</td><td align="center" rowspan="1" colspan="1">8,30</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,013284</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Hernia diafragm&#x000e1;tica</th><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">2,70</td><td align="center" rowspan="1" colspan="1">0,30</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,45382</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Criptorquidia</th><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">2,70</td><td align="center" rowspan="1" colspan="1">--</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Microcefalia</th><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">2,70</td><td align="center" rowspan="1" colspan="1">0,70</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,577934</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Trastornos de diferenciaci&#x000f3;n sexual</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">0,60</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,857282</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Atresia duodenal</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">0,50</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,820444</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Atresia esof&#x000e1;fica</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">2,00</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,889629</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Braquidactilia</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">--</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Holoprosencefalia</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">1,00</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,967211</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">F&#x000ed;stulatraqueo-esof&#x000e1;gica</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">--</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Hipospadias</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">1,60</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">0,982687</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Malformaci&#x000f3;narterio-venosa</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">--</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Onfalocele</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">0,60</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,857282</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Ventriculomegalia</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">1,50</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,993669</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Tumor intracard&#x000ed;aco</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">--</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">Leucocoria</th><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="center" rowspan="1" colspan="1">Artrogriposis</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1,35</td><td align="center" rowspan="1" colspan="1">0,00</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">0,60649</td></tr><tr><th scope="row" align="left" rowspan="1" colspan="1">TOTAL</th><td align="center" rowspan="1" colspan="1">75</td><td align="center" rowspan="1" colspan="1">10,11</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr></tbody></table><table-wrap-foot><fn id="tf1"><p>AC: Anomal&#x000ed;as cong&#x000e9;nitas, +: Mayor incidencia de AC en la altura, *= Normalizaci&#x000f3;n a 10 000 RNV, &#x02111;: La frecuencia de malformaciones card&#x000ed;acas disminuye a 28 si eliminamos a los neonatos con CNVs patog&#x000e9;nicas o probablemente patog&#x000e9;nicas con un valor de p mayor a 0,05.</p></fn></table-wrap-foot></table-wrap><p>La edad gestacional media fue de 37,21 semanas; el promedio del peso, la talla y per&#x000ed;metro cef&#x000e1;lico al nacer fue de 2 738,9 g; 46,47 cm y 32,5 cm respectivamente. El 55,8% fueron de sexo femenino. La mediana de la edad materna y la edad paterna fue de 29 a&#x000f1;os (RIC=10) y 32,5 a&#x000f1;os (RIC=9,25), respectivamente. Por otro lado, observamos que en los reci&#x000e9;n nacidos sin anomal&#x000ed;as cong&#x000e9;nitas la mediana de edad materna fue de 29 a&#x000f1;os (RIC=9) y la edad paterna fue de 32,5 a&#x000f1;os (RIC=12). En aquellos pacientes con variantes patog&#x000e9;nicas, la mediana de la edad materna y paterna fue de 31 (RIC=29) y 29 (RIC=22) a&#x000f1;os. En relaci&#x000f3;n con factores de riesgo seg&#x000fa;n la edad parental, se encontr&#x000f3; que la edad paterna mayor a 35 a&#x000f1;os tiene mayor riesgo de aparici&#x000f3;n de anomal&#x000ed;as cong&#x000e9;nitas (OR=2,82; IC=1,15-6,98; 95%), contrariamente, la edad materna mayor a 35 a&#x000f1;os no muestra riesgo significativo (OR=0,88; IC=0,38-2,09; 95%).</p><p>En 17 familias se declar&#x000f3; consanguinidad parental, no definiendo el coeficiente de endogamia (F) o grado de parentesco.</p><p>En relaci&#x000f3;n con el CMA, el n&#x000fa;mero de muestras analizadas fue de 60, de los cuales en 42 neonatos encontramos resultados an&#x000f3;malos, definidas como CNVs patog&#x000e9;nicas o probablemente patog&#x000e9;nicas, ROH mayor a 0,5% en los cromosomas autos&#x000f3;micos o ROH mayor a 10 Mb en un cromosoma (<xref rid="f2" ref-type="fig">Figura 2</xref>).
+</p><p>
+<fig position="float" id="f2"><label>Figura N&#x000b0; 2</label><caption><title>Proporciones de neonatos con anomal&#x000ed;as cong&#x000e9;nitas con CNV patog&#x000e9;nicas o probablemente patog&#x000e9;nicas, ROH mayor a 0,5% o un segmento cromos&#x000f3;mico con un ROH mayor a 10 Mb</title><p>ROH=Regiones de hocigosidad. CMA=an&#x000e1;lisis cromos&#x000f3;mico por micromatrices.</p></caption><graphic xlink:href="1853-0605-79-2-132-g002" position="float"/></fig>
+</p><p>El porcentaje de las regiones con homocigosidad (ROH) tuvo una mediana de 0,63% (min=0 y max=25,9%). El n&#x000fa;mero de personas con ROH mayor a 0,5% fue de 35 pacientes, dos de los cuales ten&#x000ed;an un coeficiente de endogamia (F) de &#x000bc; (grado de relaci&#x000f3;n de primer grado), dos reci&#x000e9;n nacidos ten&#x000ed;an un F de 1/32 (relaci&#x000f3;n de cuarto grado) y 31 mostraron un F de 1/64 (relaci&#x000f3;n de quinto grado).
+</p><p>Los pacientes con uno o m&#x000e1;s cromosomas con ROH mayor a 10 Mb en un cromosoma que podr&#x000ed;a interpretarse como una posible disom&#x000ed;auniparental (DUP) fueron 9 (13,64%), de los cuales en 8 pacientes se encontr&#x000f3; en el cromosoma X, y en un paciente en el cromosoma 2 y 3. Es importante resaltar que adem&#x000e1;s de observar estas posibles DUP, en ocho de ellos el ROH fue mayor a 0,5%.</p><p>El n&#x000fa;mero total de CNVs de cualquiera de las clases fue de 159, con un tama&#x000f1;o que ten&#x000ed;a una media de 193 kb (entre 15 y 77 878 Kb). Las CNVs benignas y probablemente benignas fueron 30, y las clasificadas de significado incierto fueron de 106, de los cuales siete podr&#x000ed;an ser reclasificadas como probablemente patog&#x000e9;nicas, ya sea por su tama&#x000f1;o o contenido g&#x000e9;nico (<bold>Tabla 3</bold>).
+</p><p>En relaci&#x000f3;n con las CNVs patog&#x000e9;nicas o probablemente patog&#x000e9;nicas se encontr&#x000f3; en 12 pacientes (20%) (<xref rid="t2" ref-type="table">Tabla 2</xref>), de los cuales en 8 (14,2%) de los neonatos se correlacion&#x000f3; con las anomal&#x000ed;as cong&#x000e9;nitas descritas, y cuatro fueron hallazgos incidentales que no se relacionaron al fenotipo.
+</p><table-wrap position="float" id="t2"><label>Tabla N&#x000b0; 2</label><caption><title>Correlaci&#x000f3;n genotipo-fenotipo de las CNV patog&#x000e9;nicas o probablemente patog&#x000e9;nicas en neonatos malformados en Cusco</title></caption><table frame="hsides" rules="groups" width="100%"><thead><tr><th rowspan="1" colspan="1">Paciente</th><th rowspan="1" colspan="1">Regi&#x000f3;ncromos&#x000f3;mica</th><th rowspan="1" colspan="1">Tipo de CNV</th><th rowspan="1" colspan="1">Coordenadas</th><th rowspan="1" colspan="1">Tama&#x000f1;o (kb)</th><th rowspan="1" colspan="1">N&#x000fa;mero de genes</th><th rowspan="1" colspan="1">Gen relacionado al fenotipo</th><th rowspan="1" colspan="1">Anomal&#x000ed;ascong&#x000e9;nitas</th><th rowspan="1" colspan="1">Correlaci&#x000f3;n genotipo y las anomal&#x000ed;as cong&#x000e9;nitas</th><th rowspan="1" colspan="1">Nombre del s&#x000ed;ndrome o fenotipo relacionado a CNV</th><th rowspan="1" colspan="1">Referencias</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">PC01</td><td align="center" rowspan="1" colspan="1">22q11.21</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">18648855_21800471</td><td align="center" rowspan="1" colspan="1">3512</td><td align="center" rowspan="1" colspan="1">135</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">TBX2</italic>
+</td><td align="center" rowspan="1" colspan="1">Comunicaci&#x000f3;n interauricular, persistencia del ducto arterioso, dismorfia facial</td><td align="center" rowspan="1" colspan="1">Si</td><td align="center" rowspan="1" colspan="1">S&#x000ed;ndrome de deleci&#x000f3;n 22q11</td><td align="center" rowspan="1" colspan="1">Botto et al, 2003, MIM #192430, 188400</td></tr><tr><td align="center" rowspan="1" colspan="1">PC08</td><td align="center" rowspan="1" colspan="1">15q11.2</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">22770421_23082237</td><td align="center" rowspan="1" colspan="1">312</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">ND</td><td align="center" rowspan="1" colspan="1">Atresia duodenal, dismorfia facial</td><td align="center" rowspan="1" colspan="1">Parcialmente</td><td align="center" rowspan="1" colspan="1">S&#x000ed;ndrome de deleci&#x000f3;n 15q11.2</td><td align="center" rowspan="1" colspan="1">MIM #615656</td></tr><tr><td rowspan="2" colspan="1">PC40</td><td align="center" rowspan="1" colspan="1">3p14.1p13</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">68307856_73802468</td><td align="center" rowspan="1" colspan="1">5495</td><td align="center" rowspan="1" colspan="1">29</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">FOXP1</italic>
+</td><td rowspan="2" colspan="1">Dismorfia facial, hipoton&#x000ed;a, desviaci&#x000f3;n cubital de manos, comunicaci&#x000f3;n interauricular, criptorquidia bilateral</td><td rowspan="2" colspan="1">Si</td><td align="center" rowspan="1" colspan="1">Relacionado con el gen
+<italic toggle="yes">FOXP1</italic>
+</td><td align="center" rowspan="1" colspan="1">Molin et al. 2012, MIM #613670</td></tr><tr><td align="center" rowspan="1" colspan="1">14q12</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">27,854,926-28,110,602</td><td align="center" rowspan="1" colspan="1">256</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">ND</td><td align="center" rowspan="1" colspan="1">Talla baja, retraso del desarrollo psicomotor</td><td align="center" rowspan="1" colspan="1">DECIPHER ID=331444, 331090, 331645</td></tr><tr><td rowspan="2" colspan="1">PC09</td><td align="center" rowspan="1" colspan="1">1q21.1q21.2</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">145608113_147830830</td><td align="center" rowspan="1" colspan="1">2223</td><td align="center" rowspan="1" colspan="1">68</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">GJA8, GJA5</italic>
+</td><td rowspan="2" colspan="1">Dismorfia facial, comunicaci&#x000f3;n interauricular, atresia tricusp&#x000ed;dea, sindactilia 3-4 ortejos, politelia</td><td align="center" rowspan="1" colspan="1">Si</td><td align="center" rowspan="1" colspan="1">S&#x000ed;ndrome de deleci&#x000f3;n 1q21.1</td><td align="center" rowspan="1" colspan="1">MIM #612474, Mefford et al. 2008</td></tr><tr><td align="center" rowspan="1" colspan="1">6q21</td><td align="center" rowspan="1" colspan="1">Duplicaci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">106534878_106942362</td><td align="center" rowspan="1" colspan="1">407</td><td align="center" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">ND</td><td align="center" rowspan="1" colspan="1">--</td><td align="center" rowspan="1" colspan="1">Tallabaja</td><td align="center" rowspan="1" colspan="1">DECIPHER ID=331054</td></tr><tr><td rowspan="2" colspan="1">PC18</td><td align="center" rowspan="1" colspan="1">8p23.3p23.2</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">158,048-5,631,607</td><td align="center" rowspan="1" colspan="1">5474</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">CSMD1</italic>
+</td><td rowspan="2" colspan="1">Polidactilia, cardiopat&#x000ed;a cong&#x000e9;nita no definida</td><td rowspan="2" colspan="1">Si</td><td align="center" rowspan="1" colspan="1">NL</td><td align="center" rowspan="1" colspan="1">Shi et al. 2017</td></tr><tr><td align="center" rowspan="1" colspan="1">2p25.3p22.3</td><td align="center" rowspan="1" colspan="1">Duplicaci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">12,770-36,509,934</td><td align="center" rowspan="1" colspan="1">36497</td><td align="center" rowspan="1" colspan="1">386</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">SOX11</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Sperry et al. 2016</td></tr><tr><td align="center" rowspan="1" colspan="1">PC33</td><td align="center" rowspan="1" colspan="1">9p24.2</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">3758472_4022149</td><td align="center" rowspan="1" colspan="1">264</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">GLIS3</italic>
+</td><td align="center" rowspan="1" colspan="1">Malformaciones arterio-venosas en miembro inferior derecho</td><td align="center" rowspan="1" colspan="1">Si</td><td align="center" rowspan="1" colspan="1">NL</td><td align="center" rowspan="1" colspan="1">Fu et al. 2018, Rurale et al. 2018</td></tr><tr><td rowspan="2" colspan="1">PC62</td><td align="center" rowspan="1" colspan="1">6p25.3</td><td align="center" rowspan="1" colspan="1">Duplicaci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">116917853_117229065</td><td align="center" rowspan="1" colspan="1">583</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td rowspan="2" colspan="1">Insuficiencia tricuspidia severa, estenosis pulmonar severa, persistencia de ductus arterioso</td><td align="center" rowspan="1" colspan="1">Si</td><td align="center" rowspan="1" colspan="1">NL</td><td rowspan="2" colspan="1">Stark et al. 2017; Jang et al. 2019</td></tr><tr><td align="center" rowspan="1" colspan="1">10q25.3</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">1102037_1685477</td><td align="center" rowspan="1" colspan="1">311</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">ATRNL1
+<xref rid="tf2" ref-type="table-fn">*</xref>
+</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="center" rowspan="1" colspan="1">PC73</td><td align="center" rowspan="1" colspan="1">1q22</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">155016052_155213224</td><td align="center" rowspan="1" colspan="1">197</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">ND</td><td align="center" rowspan="1" colspan="1">Hernia diafragm&#x000e1;tica</td><td align="center" rowspan="1" colspan="1">Si</td><td align="center" rowspan="1" colspan="1">NL</td><td align="center" rowspan="1" colspan="1">Sonmez et al. 2017</td></tr><tr><th colspan="11" rowspan="1">HALLAZGOS INCIDENTALES</th></tr><tr><td align="center" rowspan="1" colspan="1">PC013</td><td align="center" rowspan="1" colspan="1">4p15.33</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">11,890,111_12,223,535</td><td align="center" rowspan="1" colspan="1">333</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">Ninguno</td><td align="center" rowspan="1" colspan="1">Fisuralabio-palatina, leucocoria</td><td align="center" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">Obesidad</td><td align="center" rowspan="1" colspan="1">DECIPHER ID=331105</td></tr><tr><td rowspan="2" colspan="1">PC16</td><td align="center" rowspan="1" colspan="1">1q44</td><td align="center" rowspan="1" colspan="1">Duplicaci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">245153417_245692262</td><td align="center" rowspan="1" colspan="1">539</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">ND</td><td rowspan="2" colspan="1">Fisuralabio-palatina</td><td align="center" rowspan="1" colspan="1">No</td><td rowspan="2" colspan="1">Trastorno del espectroautista</td><td rowspan="2" colspan="1">DECIPHER ID=294893</td></tr><tr><td align="center" rowspan="1" colspan="1">1q44</td><td align="center" rowspan="1" colspan="1">Duplicaci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">246,175,844-246,601,947</td><td align="center" rowspan="1" colspan="1">426</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">ND</td><td align="center" rowspan="1" colspan="1">No</td></tr><tr><td align="center" rowspan="1" colspan="1">PC67</td><td align="center" rowspan="1" colspan="1">3p25.2</td><td align="center" rowspan="1" colspan="1">Duplicaci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">12626587_12811743</td><td align="center" rowspan="1" colspan="1">185</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">ND</td><td align="center" rowspan="1" colspan="1">Atresia esof&#x000e1;gica, microtia</td><td align="center" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">Retraso del desarrollopsicomotor</td><td align="center" rowspan="1" colspan="1">nssv13642807 y Decipher #332401</td></tr><tr><td align="center" rowspan="1" colspan="1">PC88</td><td align="center" rowspan="1" colspan="1">17p12</td><td align="center" rowspan="1" colspan="1">Deleci&#x000f3;n</td><td align="center" rowspan="1" colspan="1">14083054_15482833</td><td align="center" rowspan="1" colspan="1">1400</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">PMP22</italic>
+</td><td align="center" rowspan="1" colspan="1">Agenesia de falanges distales de 1&#x000ba; y 5&#x000ba; dedos y ortejos</td><td align="center" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">Neuropat&#x000ed;a hereditaria con susceptibilidad a la par&#x000e1;lisis por presi&#x000f3;n</td><td align="center" rowspan="1" colspan="1">MIM #162500</td></tr></tbody></table><table-wrap-foot><fn id="tf2"><p>ND: No disponible. NL: No listado en programas curados como OMIM. * Asociadoenpacientes con CNVs enp&#x000e9;rdida</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion"><title>DISCUSI&#x000d3;N</title><p>La tasa de RN con s&#x000ed;ndrome malformativo o la presencia de dos o m&#x000e1;s anomal&#x000ed;as cong&#x000e9;nitas mayores en Cusco es de 11,7/1 000 RNV, mientras que reportes previos en Per&#x000fa; mostraron la frecuencia de una o m&#x000e1;s anomal&#x000ed;as cong&#x000e9;nitas entre 13,5-27,14/ 1 000 RNV
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+.
+</p><p>Con relaci&#x000f3;n a la edad parental, se ha encontrado que la edad del padre mayor a 35 a&#x000f1;os tiene un alto riesgo de anomal&#x000ed;as cong&#x000e9;nitas, afirmando estudios previos.</p><p>En el 14% de los casos excluidos de CMA, se realiz&#x000f3; el diagn&#x000f3;stico cl&#x000ed;nico de enfermedades monog&#x000e9;nicas a trav&#x000e9;s de la data cl&#x000ed;nica, fotograf&#x000ed;as y el uso de programas inform&#x000e1;ticos (<italic toggle="yes">Face2gene, Phenomizer, OMIM</italic>), demostrando la importancia de implementar un sistema m&#x000e1;s eficiente de telegen&#x000e9;tica en entornos de recursos bajos o centralizados, tal como se reporto en otros estudios (14-16%)
+<sup><xref rid="B15" ref-type="bibr">15</xref>.
+<xref rid="B17" ref-type="bibr">17-18</xref>
+</sup>
+. Adem&#x000e1;s, las pruebas diagn&#x000f3;sticas moleculares son de suma importancia para poder tener un mejor y oportuno diagn&#x000f3;stico, los cuales podr&#x000ed;an ser manejados a trav&#x000e9;s de un sistema de referencias de muestras a laboratorios de gen&#x000e9;tica
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+.
+</p><p>En este estudio se encontr&#x000f3; que el 70% de los neonatos analizados ten&#x000ed;an un resultado an&#x000f3;malo en el CMA, aunque el 50% de los pacientes ten&#x000ed;an un ROHs mayor a 0,5% o un ROH en un cromosoma mayor a 10 Mb, que estar&#x000ed;an relacionadas a condiciones recesivas autos&#x000f3;micas o por disom&#x000ed;asuniparentales, respectivamente; indic&#x000e1;ndonos que este hallazgo podr&#x000ed;a tener una relaci&#x000f3;n causal de las anomal&#x000ed;as cong&#x000e9;nitas, no obstante es necesario la utilizaci&#x000f3;n de otras pruebas diagn&#x000f3;sticas, como los estudios de metilaci&#x000f3;n y de secuenciaci&#x000f3;n masiva
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+. Por ejemplo, en un paciente se observ&#x000f3; una probable disom&#x000ed;auniparental en dos regiones: en el cromosoma 1 (q43-q44) y en el cromosoma 3 (p23-p14.3); las cuales podr&#x000ed;an estar asociadas a una patolog&#x000ed;a recesiva autos&#x000f3;mica o alteraciones en la impronta (Gen <italic toggle="yes">RAB1B</italic>). En este mismo sentido, la uni&#x000f3;n consangu&#x000ed;nea no declarada con un coeficiente de endogamia (F) mayor a 1/32 fue de 6,66%, el cual se encuentra por encima de lo reportado previamente en Brasil de 3,46%, indicando la un mayor grado de endogamia
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+.
+</p><p>El 14,3% de RN con s&#x000ed;ndrome malformativo presentan CNV patog&#x000e9;nica o probablemente patog&#x000e9;nica con una correlaci&#x000f3;n directa genotipo-fenotipo (tabla 2), esta frecuencia se encuentra dentro del rango reportado previamente (6-17%)
+<sup>
+<xref rid="B5" ref-type="bibr">5-7</xref>
+</sup>
+. Dentro de estas CNVs, las que son recurrentes o que est&#x000e1;n codificadas en OMIM, se encuentra el s&#x000ed;ndrome de deleci&#x000f3;n del 22q11.2 (MIM a <ext-link xlink:href="https://www.omim.org/entry/192430?search=192430&#x00026;highlight=192430" ext-link-type="uri">#192430</ext-link> y <ext-link xlink:href="https://www.omim.org/entry/188400" ext-link-type="uri">188400),</ext-link> teniendo una incidencia en Cusco de 1/7 418 RNV, el cual estar&#x000ed;a por encima de lo reportado previamente ( 1/3 000-6 000 RNV)
+<sup>
+<xref rid="B19" ref-type="bibr">19</xref>
+</sup>
+. Otra CNV recurrente que encontramos en este grupo de pacientes es el s&#x000ed;ndrome de deleci&#x000f3;n1q21.1(MIM <ext-link xlink:href="https://omim.org/entry/612474" ext-link-type="uri">#612474</ext-link>)con una frecuencia de 1,2%, el cual se ubicar&#x000ed;a muy superior al 0,013% de reportes previos del grupo de RNV con AC, o incluso si comparamos con el grupo de pacientes con AC asociado a trastornos del neurodesarrollo (0,5%)
+<sup>
+<xref rid="B20" ref-type="bibr">20</xref>
+</sup>
+. En este mismo sentido, otra CNV clasificada es el s&#x000ed;ndrome de deleci&#x000f3;n del 15q11.2 (MIM <ext-link xlink:href="https://www.omim.org/entry/615656?search=%23615656&#x00026;highlight=615656" ext-link-type="uri">#615656</ext-link>); sin embargo, en este paciente la correlaci&#x000f3;n genotipo-fenotipo es parcial (dismorfia facial), no asoci&#x000e1;ndose en estudios previos la presencia de atresia duodenal. Y por &#x000fa;ltimo, hubo un reci&#x000e9;n nacido con una deleci&#x000f3;n intersticial del brazo corto del cromosoma 3, habi&#x000e9;ndose reportado en la literatura alrededor de 16 casos
+<sup>
+<xref rid="B21" ref-type="bibr">21</xref>
+</sup>
+; &#x000e9;sta deleci&#x000f3;n compromete al gen <italic toggle="yes">FOXP1</italic> que provoca el s&#x000ed;ndrome discapacidad intelectual con trastorno del lenguaje con o sin caracter&#x000ed;sticas de TEA (MIM <ext-link xlink:href="https://www.omim.org/entry/613670" ext-link-type="uri">#613670</ext-link>).
+</p><p>Adem&#x000e1;s, hemos encontrado otras variantes (<xref rid="t2" ref-type="table">Tabla 2</xref>), como la presencia rara y simult&#x000e1;nea, no descrita previamente de dos CNVs, una en ganancia en 2p25.3-p22.3 y la otra en p&#x000e9;rdida en 8p23.3-p23.2, planteando que el fenotipo observado se deber&#x000ed;a, entre otras, a la duplicaci&#x000f3;n del gen
+<bold>
+<italic toggle="yes">SOX11</italic>
+</bold>
+y a la deleci&#x000f3;n del gen
+<italic toggle="yes">CSMD1</italic>
+<sup>
+<xref rid="B22" ref-type="bibr">22-23</xref>
+</sup>
+. Otra combinaci&#x000f3;n poco frecuente de dos CNVs es la ganancia en 6p25.3 y la p&#x000e9;rdida en 10q25, donde el fenotipo observado se deber&#x000ed;a parcialmente a la deleci&#x000f3;n parcial del gen <italic toggle="yes">ATRNL1</italic> el cual est&#x000e1; relacionado a discapacidad intelectual, trastorno del espectro autista, y dismorfiascraneofaciales
+<sup><xref rid="B24" ref-type="bibr">24</xref>.
+<xref rid="B25" ref-type="bibr">25</xref>
+</sup>
+. Otra CNV no descrita previamente es la deleci&#x000f3;n intersticial del cromosoma 9 (p24.2), report&#x000e1;ndose que las deleciones del <italic toggle="yes">GLIS3</italic> provoca hipotiroidismo cong&#x000e9;nito y adem&#x000e1;s que este gen est&#x000e1; involucrado en el desarrollo embrionario y funci&#x000f3;n de muchos &#x000f3;rganos
+<sup><xref rid="B26" ref-type="bibr">26</xref>.
+<xref rid="B27" ref-type="bibr">27</xref>
+</sup>
+. Es importante, resaltar que estas CNVs no s&#x000f3;lo se relacionan a las AC, sino que tambi&#x000e9;n se asocian a otras caracter&#x000ed;sticas cl&#x000ed;nicas de aparici&#x000f3;n posterior como discapacidad intelectual, microcefalia y epilepsia
+<sup>
+<xref rid="B28" ref-type="bibr">28</xref>
+</sup>
+o la posibilidad de presentar la enfermedad renal qu&#x000ed;stica medular tipo 1 (MIM <ext-link xlink:href="https://omim.org/entry/174000" ext-link-type="uri">#174000</ext-link>), tal como se observ&#x000f3; en el paciente que ten&#x000ed;a una deleci&#x000f3;n intersticial de 1q22.
+</p><p>Hemos detectado CNVs que no se correlacionaron con las anomal&#x000ed;as cong&#x000e9;nitas descriptas (hallazgos incidentales), cuyos portadores presentar&#x000ed;an condiciones como retraso del desarrollo psicomotor, trastorno del espectro autista, obesidad y neuropat&#x000ed;a hereditaria con riesgo a par&#x000e1;lisis por presi&#x000f3;n (MIM <ext-link xlink:href="https://omim.org/entry/162500" ext-link-type="uri">#162500</ext-link>)
+<sup><xref rid="B29" ref-type="bibr">29</xref>.
+<xref rid="B30" ref-type="bibr">30</xref>
+</sup>
+. Si bien en este grupo de pacientes tendr&#x000ed;amos que ampliar con otras pruebas gen&#x000f3;micas con la finalidad de buscar la etiolog&#x000ed;a de las AC, estos resultados nos ayudan a realizar diagn&#x000f3;sticos oportunos para poder manejarlos adecuadamente.
+</p><p>Finalmente, en siete pacientes (tabla 3) se encontr&#x000f3; CNVs de significado incierto que podr&#x000ed;amos reclasificarlas a probablemente patog&#x000e9;nicas por el tama&#x000f1;o mayor a 500 kb o por contener m&#x000e1;s de 10 genes que podr&#x000ed;an ser sensibles a dosis (haploinsuficiencia y triplosensibilidad). Dos de estas CNVs contienen genes con un coeficiente de haploinsuficiencia menor al 10% o un coeficiente LOEUF (del ingl&#x000e9;s <italic toggle="yes">Loss of functionobserved/expectedupper bond fraction)</italic> menor a 0,268. Es as&#x000ed;, que solo el gen <italic toggle="yes">TCC28</italic> ha sido involucrado a fisura palatina
+<sup><xref rid="B31" ref-type="bibr">31</xref>.
+<xref rid="B32" ref-type="bibr">32</xref>
+</sup>
+, mientras que el gen <italic toggle="yes">ZZZ3</italic> no tiene una relaci&#x000f3;n causal con alguna entidad. Las otras cinco CNVs contienen genes que se desconoce si tienen efecto de dosis (<ext-link xlink:href="http://www.dosage.clinicalgenome.org" ext-link-type="uri">www.dosage.clinicalgenome.org</ext-link>).
+</p><table-wrap position="float" id="t3"><label>Tabla N&#x000b0; 3</label><caption><title>Variantes en el n&#x000fa;mero de copias de patogenicidad desconocida reclasificadas como probablemente patog&#x000e9;nicas.</title></caption><table frame="hsides" rules="groups" width="100%"><thead><tr><th rowspan="1" colspan="1">Cromosoma</th><th rowspan="1" colspan="1">Tama&#x000f1;o (kb)</th><th rowspan="1" colspan="1">Nomenclatura de CMA</th><th rowspan="1" colspan="1">N&#x000fa;mero de genes</th><th rowspan="1" colspan="1">Genes patog&#x000e9;nicos o probablemente patog&#x000e9;nicos</th><th rowspan="1" colspan="1">LOEUF</th><th rowspan="1" colspan="1">H (%)</th><th rowspan="1" colspan="1">Funci&#x000f3;n</th></tr></thead><tbody><tr><td rowspan="2" colspan="1">1p34.2</td><td rowspan="2" colspan="1">458</td><td rowspan="2" colspan="1">arr[hg19] 1p34.2(43,503,517-43,961,033)x3</td><td rowspan="2" colspan="1">16</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">MPL</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">&#x000a0;--</td><td align="center" rowspan="1" colspan="1">Receptor de la trombopoyetina que act&#x000fa;a como regulador de la megacariopoyesis y la producci&#x000f3;n plaquetaria</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">SZT2</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Parte del complejo KICSTOR que act&#x000fa;a como sensor de la v&#x000ed;a TORC1</td></tr><tr><td align="center" rowspan="1" colspan="1">1p36.21</td><td align="center" rowspan="1" colspan="1">761</td><td align="center" rowspan="1" colspan="1">arr[hg19] 1p36.21(13,170,656-13,932,007)x3</td><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">WNT7A</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">&#x000a0;--</td><td align="center" rowspan="1" colspan="1">Desarrollo de miembros, genitales internos, endotelio vascular del SNC</td></tr><tr><td align="center" rowspan="1" colspan="1">1p31.1</td><td align="center" rowspan="1" colspan="1">108</td><td align="center" rowspan="1" colspan="1">arr[hg19] 1p31.1(78,108,972-78,216,987)x1</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">ZZZ3</italic>
+</td><td align="center" rowspan="1" colspan="1">0,18</td><td align="center" rowspan="1" colspan="1">5,68</td><td align="center" rowspan="1" colspan="1">Modificacionespostraducci&#x000f3;nenhistonas</td></tr><tr><td rowspan="3" colspan="1">4q24</td><td rowspan="3" colspan="1">1.023</td><td rowspan="3" colspan="1">arr[hg19] 4q24(103,752,836-104,776,049)x3</td><td rowspan="3" colspan="1">13</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">CISD2</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td rowspan="3" colspan="1">&#x000a0;--</td><td align="center" rowspan="1" colspan="1">Reguladro de autofagia.</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">CENPE</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Captura y uni&#x000f3;n del huso al cinetocoro</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">TACR3</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Receptor del neurop&#x000e9;ptidotaquicinina</td></tr><tr><td rowspan="3" colspan="1">8p21.3</td><td rowspan="3" colspan="1">1.285</td><td rowspan="3" colspan="1">arr[hg19] 8p21.3(19,181,933-20,466,541)x3</td><td rowspan="3" colspan="1">14</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">LPL</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td rowspan="3" colspan="1">--</td><td align="center" rowspan="1" colspan="1">Hidr&#x000f3;lisis de triglic&#x000e9;ridos y VLDL</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">LZST1</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Crecimientocelular</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">ATP6V1B2</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Acidificaci&#x000f3;n de compartimentosintracelulares</td></tr><tr><td rowspan="4" colspan="1">14q32.12</td><td rowspan="4" colspan="1">742</td><td rowspan="4" colspan="1">arr[hg19] 14q32.12(92,106,413-92,848,001)x3</td><td rowspan="4" colspan="1">11</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">FBLN5</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td rowspan="4" colspan="1">&#x000a0;--</td><td align="center" rowspan="1" colspan="1">Ensamblaje del po&#x000ed;mero elastina (ELN). Promueve la interacci&#x000f3;n de microfibrillas y ELN</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">TRIP11</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Uni&#x000f3;n al dominio de uni&#x000f3;n al ligando del receptor tiroideo (THRB)</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">ATXN3</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Enzima deubiquitinzante envuelta en la homeostasis prote&#x000ed;ca, regulaci&#x000f3;n del citoesqueleto y miog&#x000e9;nesis</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">SLC24A4</italic>
+</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">Transporta Ca y K intercambiando con Na</td></tr><tr><td align="center" rowspan="1" colspan="1">22q12.2</td><td align="center" rowspan="1" colspan="1">324</td><td align="center" rowspan="1" colspan="1">arr[hg19] 22q12.1(28,751,664-29,076,146)x1</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">TTC28</italic>
+</td><td align="center" rowspan="1" colspan="1">0,17</td><td align="center" rowspan="1" colspan="1">18,66</td><td align="center" rowspan="1" colspan="1">Condensaci&#x000f3;n de los microt&#x000fa;bulos de la zona media del huso</td></tr></tbody></table><table-wrap-foot><p>H: Coeficiente de haploinsuficiencia, LOEUF: <italic toggle="yes">Loss of functionobserved/expectedupperboundfraction</italic> (Fracci&#x000f3;n de l&#x000ed;mite superior observada/esperada de p&#x000e9;rdida de funci&#x000f3;n)
+</p></table-wrap-foot></table-wrap><p>Se ha planteado en estudios previos que la altura es un factor de riesgo en la aparici&#x000f3;n de anomal&#x000ed;as cong&#x000e9;nitas
+<sup><xref rid="B3" ref-type="bibr">3</xref>.
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+; sin embargo, la mayor&#x000ed;a de anomal&#x000ed;as cong&#x000e9;nitas tienen frecuencias similares a lo reportado como la malformaci&#x000f3;n ano-rectal, fisura palatina, microtia y las hipospadias. Aparentemente las malformaciones card&#x000ed;acas tienen una mayor frecuencia en el Cusco si comparamos con las poblaciones de altura, lo cual nos indicar&#x000ed;a que existir&#x000ed;an otros factores ambientales o gen&#x000e9;ticos que estar&#x000ed;a mostrando esta mayor frecuencia, no obstante, al eliminar aquellos neonatos con CNV patog&#x000e9;nicas o probablemente patog&#x000e9;nicas la incidencia es muy similar a lo observado en neonatos de altura. Por otro lado, encontramos una frecuencia menor con relaci&#x000f3;n a los reci&#x000e9;n nacidos de altura de la fisura labio-palatina y la polidactiliapostaxial, estando por lo tanto con una incidencia similar a nivel del mar (<xref rid="t1" ref-type="table">Tabla 1</xref>).
+</p><p>No se pudo realizar el CMA a los padres porque ninguno presentaba AC alguna, por lo que se asumir&#x000ed;a que la mayor&#x000ed;a de la CNVs fueron <italic toggle="yes">de novo</italic>, sin embargo, hubiese sido &#x000fa;til para determinar y clasificar las CNV de significado incierto o proveer datos acerca de la penetrancia.
+</p></sec><sec sec-type="conclusions"><title>CONCLUSI&#x000d3;N</title><p>El presente estudio, resalta la importancia de determinar la etiolog&#x000ed;a de las anomal&#x000ed;as cong&#x000e9;nitas con el uso de pruebas moleculares como el CMA, el cual nos sirve para poder predecir el tipo de herencia y el pron&#x000f3;stico para un manejo adecuado. Es as&#x000ed;, que en el 48% de los casos se demostr&#x000f3; una consanguinidad parental no declarada, indic&#x000e1;ndonos que probablemente la etiolog&#x000ed;a de las anomal&#x000ed;as cong&#x000e9;nitas en este grupo de pacientes sea debida a entidades recesivas autos&#x000f3;micas, para lo cual es necesario ampliar los estudios con la secuenciaci&#x000f3;n masiva (ex&#x000f3;mico o gen&#x000f3;mico) o el CMA con un mayor n&#x000fa;mero de marcadores.</p><p>Las CNVs patog&#x000e9;nicas o probablemente patog&#x000e9;nicas, que tuvieron relaci&#x000f3;n genotipo-fenotipo, fueron de 14,2%, el cual est&#x000e1; dentro del rango descrito en estudios anteriores.</p><p>El poder plantear el diagn&#x000f3;stico cl&#x000ed;nico de pacientes con alguna condici&#x000f3;n monog&#x000e9;nica no provocada por CNVs, nos muestra la importancia de implementar servicios con m&#x000e9;dicos-genetistas o en todo caso desarrollar y/o aprovechar la teleconsulta ya disponibles en nuestro territorio. Finalmente, recomendamos la implementaci&#x000f3;n de tecnolog&#x000ed;as de detecci&#x000f3;n de variantes en otros hospitales donde cuentan con servicios de gen&#x000e9;tica, lo que permitir&#x000ed;a que los costos de estas pruebas y el tiempo diagn&#x000f3;stico se reduzcan en beneficio de los ni&#x000f1;os con alteraciones cong&#x000e9;nitas.</p></sec></body><back><ack><title>Agradecimientos:</title><p>A los padres de los pacientes que permitieron la recolecci&#x000f3;n de los datos personales.</p><p>A la Dra. Carmen Ayuso quien ha revisado con aportaciones cr&#x000ed;ticas al presente trabajo.</p><p>A la Dra. Anah&#x000ed; Venero Nu&#x000f1;ez, por su contribuci&#x000f3;n valiosa en la sintaxis del manuscrito.</p></ack><fn-group><fn fn-type="other"><p>
+<bold>Limitaciones de responsabilidad:</bold>
+La responsabilidad del trabajo es exclusivamente de quienes colaboraron en la elaboraci&#x000f3;n del mismo.
+</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflicto de inter&#x000e9;s:</bold>
+Ninguno.
+</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo:</bold>
+La presente investigaci&#x000f3;n se realiz&#x000f3; con el financiamiento de la Universidad Nacional de San Antonio Abad de Cusco.
+</p></fn><fn fn-type="other"><p>
+<bold>Originalidad:</bold>
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.
+</p></fn><fn fn-type="other"><p>
+<bold>Cesi&#x000f3;n de derechos:</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, ceden los derechos de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la Revista de la Facultad de Ciencias M&#x000e9;dicas y realizar las traducciones necesarias al idioma ingl&#x000e9;s.
+</p></fn><fn fn-type="other"><p>
+<bold>Contribuci&#x000f3;n de los autores:</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, han trabajado en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, haci&#x000e9;ndose p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.
+</p></fn><fn fn-type="other"><p>
+<bold>Autorizaci&#x000f3;n:</bold>
+Se solicit&#x000f3; consentimiento informado a los padres
+</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Pan American Healt Organization. World Health Organization</collab>
+</person-group><source>Congenital anomalies are the second-leading cause of death in children under 5 in the Americas</source><publisher-name>PAHO</publisher-name><year>2015</year><comment>Disponible en:
+<ext-link xlink:href="http://www.paho.org/hq/index.php?option=com_content&#x00026;view=article&#x00026;id=10487%3A2015-anomalias-congenitas-segunda-causa-muerte-ninos-menores-5-anos-americas&#x00026;catid=740%3Apress-releases&#x00026;Itemid=1926&#x00026;lang=en" ext-link-type="uri">http://www.paho.org/hq/index.php?option=com_content&#x00026;view=article&#x00026;id=10487%3A2015-anomalias-congenitas-segunda-causa-muerte-ninos-menores-5-anos-americas&#x00026;catid=740%3Apress-releases&#x00026;Itemid=1926&#x00026;lang=en</ext-link>
+</comment></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Abarca-Barriga</surname><given-names>H</given-names></name>
+</person-group><source>Perfil epidemiol&#x000f3;gico de las anomal&#x000ed;as gen&#x000e9;ticas y cong&#x000e9;nitas en el servicio de citogen&#x000e9;tica y citopatolog&#x000ed;a del Hospital Nacional Guillermo Almenara Irigoyen</source><comment>[tesis]</comment><publisher-loc>Lima</publisher-loc><publisher-name>Universidad Nacional Mayor de San Marcos</publisher-name><year>2007</year></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Castilla</surname><given-names>EE</given-names></name>
+<name><surname>Lopez-Camelo</surname><given-names>JS</given-names></name>
+<name><surname>Campa&#x000f1;a</surname><given-names>H</given-names></name>
+</person-group><article-title>Altitude as a risk factor for congenital anomalies</article-title><source>Am J Med Genet</source><year iso-8601-date="1999-09-03">1999</year><month>Sep</month><day>3</day><volume>86</volume><issue>1</issue><fpage>9</fpage><lpage>14</lpage><pub-id pub-id-type="doi">10.1002/(sici)1096-8628(19990903)86:1&#x0003c;9::aid-ajmg3&#x0003e;3.0.co;2-x</pub-id><pub-id pub-id-type="pmid">10440822</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chun</surname><given-names>H</given-names></name>
+<name><surname>Yue</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Dawa</surname><given-names>Z</given-names></name>
+<name><surname>Zhen</surname><given-names>P</given-names></name>
+<name><surname>La</surname><given-names>Q</given-names></name>
+<name><surname>Zong</surname><given-names>Y</given-names></name>
+<name><surname>Qu</surname><given-names>Y</given-names></name>
+<name><surname>Mu</surname><given-names>D</given-names></name>
+</person-group><article-title>High prevalence of congenital heart disease at high altitudes in Tibet</article-title><source>Eur J Prev Cardiol</source><year iso-8601-date="2019-05">2019</year><month>May</month><volume>26</volume><issue>7</issue><fpage>756</fpage><lpage>759</lpage><pub-id pub-id-type="doi">10.1177/2047487318812502</pub-id><pub-id pub-id-type="pmid">30419180</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mone</surname><given-names>F</given-names></name>
+<name><surname>Quinlan-Jones</surname><given-names>E</given-names></name>
+<name><surname>Ewer</surname><given-names>AK</given-names></name>
+<name><surname>Kilby</surname><given-names>MD</given-names></name>
+</person-group><article-title>Exome sequencing in the assessment of congenital malformations in the fetus and neonate</article-title><source>Arch Dis Child Fetal Neonatal Ed</source><year iso-8601-date="2019-07">2019</year><month>Jul</month><volume>104</volume><issue>4</issue><fpage>F452</fpage><lpage>F456</lpage><pub-id pub-id-type="doi">10.1136/archdischild-2018-316352</pub-id><pub-id pub-id-type="pmid">30816854</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Emy Dorfman</surname><given-names>L</given-names></name>
+<name><surname>Leite</surname><given-names>JC</given-names></name>
+<name><surname>Giugliani</surname><given-names>R</given-names></name>
+<name><surname>Riegel</surname><given-names>M</given-names></name>
+</person-group><article-title>Microarray-based comparative genomic hybridization analysis in neonates with congenital anomalies: detection of chromosomal imbalances</article-title><source>J Pediatr (Rio J)</source><year>2015</year><season>Jan-Feb</season><volume>91</volume><issue>1</issue><fpage>59</fpage><lpage>67</lpage><pub-id pub-id-type="doi">10.1016/j.jped.2014.05.007</pub-id><pub-id pub-id-type="pmid">25203518</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dias</surname><given-names>AT</given-names></name>
+<name><surname>Zanardo</surname><given-names>&#x000c9;A</given-names></name>
+<name><surname>Dutra</surname><given-names>RL</given-names></name>
+<name><surname>Piazzon</surname><given-names>FB</given-names></name>
+<name><surname>Novo-Filho</surname><given-names>GM</given-names></name>
+<name><surname>Montenegro</surname><given-names>MM</given-names></name>
+<name><surname>Nascimento</surname><given-names>AM</given-names></name>
+<name><surname>Rocha</surname><given-names>M</given-names></name>
+<name><surname>Madia</surname><given-names>FA</given-names></name>
+<name><surname>Costa</surname><given-names>TV</given-names></name>
+<name><surname>Milani</surname><given-names>C</given-names></name>
+<name><surname>Schultz</surname><given-names>R</given-names></name>
+<name><surname>Gon&#x000e7;alves</surname><given-names>FT</given-names></name>
+<name><surname>Fridman</surname><given-names>C</given-names></name>
+<name><surname>Yamamoto</surname><given-names>GL</given-names></name>
+<name><surname>Bertola</surname><given-names>DR</given-names></name>
+<name><surname>Kim</surname><given-names>CA</given-names></name>
+<name><surname>Kulikowski</surname><given-names>LD</given-names></name>
+</person-group><article-title>Post-mortem cytogenomic investigations in patients with congenital malformations</article-title><source>Exp Mol Pathol</source><year iso-8601-date="2016-08">2016</year><month>Aug</month><volume>101</volume><issue>1</issue><fpage>116</fpage><lpage>23</lpage><pub-id pub-id-type="doi">10.1016/j.yexmp.2016.07.003</pub-id><pub-id pub-id-type="pmid">27450648</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stoll</surname><given-names>C</given-names></name>
+<name><surname>Alembik</surname><given-names>Y</given-names></name>
+<name><surname>Roth</surname><given-names>MP</given-names></name>
+<name><surname>Dott</surname><given-names>B</given-names></name>
+</person-group><article-title>Parental consanguinity as a cause for increased incidence of births defects in a study of 238,942 consecutive births</article-title><source>Ann Genet</source><year>1999</year><volume>42</volume><issue>3</issue><fpage>133</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">10526655</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mosayebi</surname><given-names>Z</given-names></name>
+<name><surname>Movahedian</surname><given-names>AH</given-names></name>
+</person-group><article-title>Pattern of congenital malformations in consanguineous versus nonconsanguineous marriages in Kashan, Islamic Republic of Iran</article-title><source>East Mediterr Health J</source><year>2007</year><season>Jul-Aug</season><volume>13</volume><issue>4</issue><fpage>868</fpage><lpage>75</lpage><pub-id pub-id-type="pmid">17955770</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>YS</given-names></name>
+<name><surname>Ouyang</surname><given-names>X</given-names></name>
+<name><surname>Peng</surname><given-names>J</given-names></name>
+<name><surname>Sacharow</surname><given-names>S</given-names></name>
+<name><surname>Tekin</surname><given-names>M</given-names></name>
+<name><surname>Barbouth</surname><given-names>D</given-names></name>
+<name><surname>Bodamer</surname><given-names>O</given-names></name>
+<name><surname>Yusupov</surname><given-names>R</given-names></name>
+<name><surname>Navarrete</surname><given-names>C</given-names></name>
+<name><surname>Heller</surname><given-names>AH</given-names></name>
+<name><surname>Pena</surname><given-names>SDj</given-names></name>
+</person-group><article-title>Frequent detection of parental consanguinity in children with developmental disorders by a combined CGH and SNP microarray</article-title><source>Mol Cytogenet</source><year iso-8601-date="2013-09-20">2013</year><month>Sep</month><day>20</day><volume>6</volume><issue>1</issue><elocation-id>38</elocation-id><pub-id pub-id-type="doi">10.1186/1755-8166-6-38</pub-id><pub-id pub-id-type="pmid">24053112</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kofman-Alfaro</surname><given-names>S</given-names></name>
+<name><surname>Penchaszadeh</surname><given-names>VB</given-names></name>
+</person-group><article-title>Community genetic services in Latin America and regional network of medical genetics. Recommendations of a World Health Organization consultation</article-title><source>Community Genet</source><year>2004</year><volume>7</volume><issue>2-3</issue><fpage>157</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1159/000080789</pub-id><pub-id pub-id-type="pmid">15542925</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Penchaszadeh</surname><given-names>VB</given-names></name>
+</person-group><article-title>Genetic services in Latin America</article-title><source>Community Genet</source><year>2004</year><volume>7</volume><issue>2-3</issue><fpage>65</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1159/000080773</pub-id><pub-id pub-id-type="pmid">15539819</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="confproc"><person-group person-group-type="author">
+<name><surname>Castillo Taucher</surname><given-names>S</given-names></name>
+<name><surname>Pardo</surname><given-names>R</given-names></name>
+<name><surname>Del Campo</surname><given-names>M</given-names></name>
+<name><surname>P&#x000e9;rez-Jurado</surname><given-names>L</given-names></name>
+</person-group><source>Preliminary results of a website on genetic consultations and a program of online education in clinical genetics in Chile-0230</source><conf-name>11th International Congress of Human Genetics</conf-name><year>2006</year></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Guio</surname><given-names>H</given-names></name>
+<name><surname>Poterico</surname><given-names>JA</given-names></name>
+<name><surname>Levano</surname><given-names>KS</given-names></name>
+<name><surname>Cornejo-Olivas</surname><given-names>M</given-names></name>
+<name><surname>Mazzetti</surname><given-names>P</given-names></name>
+<name><surname>Manassero-Morales</surname><given-names>G</given-names></name>
+<name><surname>Ugarte-Gil</surname><given-names>MF</given-names></name>
+<name><surname>Acevedo-V&#x000e1;squez</surname><given-names>E</given-names></name>
+<name><surname>Due&#x000f1;as-Roque</surname><given-names>M</given-names></name>
+<name><surname>Piscoya</surname><given-names>A</given-names></name>
+<name><surname>Fujita</surname><given-names>R</given-names></name>
+<name><surname>Sanchez</surname><given-names>C</given-names></name>
+<name><surname>Casavilca-Zambrano</surname><given-names>S</given-names></name>
+<name><surname>Jaramillo-Valverde</surname><given-names>L</given-names></name>
+<name><surname>Sullcahuaman-Allende</surname><given-names>Y</given-names></name>
+<name><surname>Iglesias-Pedraz</surname><given-names>JM</given-names></name>
+<name><surname>Abarca-Barriga</surname><given-names>H</given-names></name>
+</person-group><article-title>Genetics and genomics in Peru: Clinical and researchperspective</article-title><source>Mol Genet Genomic Med</source><year iso-8601-date="2018-11">2018</year><month>Nov</month><volume>6</volume><issue>6</issue><fpage>873</fpage><lpage>886</lpage><pub-id pub-id-type="doi">10.1002/mgg3.533</pub-id><pub-id pub-id-type="pmid">30584990</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mart&#x000ed; Herrero</surname><given-names>M</given-names></name>
+</person-group><article-title>Enfoque cl&#x000ed;nico del ni&#x000f1;o con dismorfias. Utilidad de un portal de telegen&#x000e9;tica</article-title><source>Canar Pedi&#x000e1;trica</source><year>2004</year><volume>28</volume><issue>2-3</issue><fpage>189</fpage><lpage>94</lpage><comment>Disponible en:
+<ext-link xlink:href="https://scptfe.com/wp-content/uploads/2020/10/28-2-3-DISMORFIAS_MartiHerrero.pdf" ext-link-type="uri">https://scptfe.com/wp-content/uploads/2020/10/28-2-3-DISMORFIAS_MartiHerrero.pdf</ext-link>
+</comment></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Carreira</surname><given-names>IM</given-names></name>
+<name><surname>Ferreira</surname><given-names>SI</given-names></name>
+<name><surname>Matoso</surname><given-names>E</given-names></name>
+<name><surname>Pires</surname><given-names>LM</given-names></name>
+<name><surname>Ferr&#x000e3;o</surname><given-names>J</given-names></name>
+<name><surname>Jardim</surname><given-names>A</given-names></name>
+<name><surname>Mascarenhas</surname><given-names>A</given-names></name>
+<name><surname>Pinto</surname><given-names>M</given-names></name>
+<name><surname>Lavoura</surname><given-names>N</given-names></name>
+<name><surname>Pais</surname><given-names>C</given-names></name>
+<name><surname>Paiva</surname><given-names>P</given-names></name>
+<name><surname>Sim&#x000f5;es</surname><given-names>L</given-names></name>
+<name><surname>Caramelo</surname><given-names>F</given-names></name>
+<name><surname>Ramos</surname><given-names>L</given-names></name>
+<name><surname>Ven&#x000e2;ncio</surname><given-names>M</given-names></name>
+<name><surname>Ramos</surname><given-names>F</given-names></name>
+<name><surname>Beleza</surname><given-names>A</given-names></name>
+<name><surname>S&#x000e1;</surname><given-names>J</given-names></name>
+<name><surname>Saraiva</surname><given-names>J</given-names></name>
+<name><surname>de Melo</surname><given-names>JB</given-names></name>
+</person-group><article-title>Copy number variants prioritization after array-CGH analysis - a cohort of 1000 patients</article-title><source>Mol Cytogenet</source><year iso-8601-date="2015-12-30">2015</year><month>Dec</month><day>30</day><volume>8</volume><elocation-id>103</elocation-id><pub-id pub-id-type="doi">10.1186/s13039-015-0202-z</pub-id><pub-id pub-id-type="pmid">26719768</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stalker</surname><given-names>HJ</given-names></name>
+<name><surname>Wilson</surname><given-names>R</given-names></name>
+<name><surname>McCune</surname><given-names>H</given-names></name>
+<name><surname>Gonzalez</surname><given-names>J</given-names></name>
+<name><surname>Moffett</surname><given-names>M</given-names></name>
+<name><surname>Zori</surname><given-names>RT</given-names></name>
+</person-group><article-title>Telegenetic medicine: improved access to services in an underserved area</article-title><source>J Telemed Telecare</source><year>2006</year><volume>12</volume><issue>4</issue><fpage>182</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1258/135763306777488762</pub-id><pub-id pub-id-type="pmid">16774698</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kubendran</surname><given-names>S</given-names></name>
+<name><surname>Sivamurthy</surname><given-names>S</given-names></name>
+<name><surname>Schaefer</surname><given-names>GB</given-names></name>
+</person-group><article-title>A novel approach in pediatric telegenetic services: geneticist, pediatrician and genetic counselor team</article-title><source>Genet Med</source><year iso-8601-date="2017-11">2017</year><month>Nov</month><volume>19</volume><issue>11</issue><fpage>1260</fpage><lpage>1267</lpage><pub-id pub-id-type="doi">10.1038/gim.2017.45</pub-id><pub-id pub-id-type="pmid">28471436</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Botto</surname><given-names>LD</given-names></name>
+<name><surname>May</surname><given-names>K</given-names></name>
+<name><surname>Fernhoff</surname><given-names>PM</given-names></name>
+<name><surname>Correa</surname><given-names>A</given-names></name>
+<name><surname>Coleman</surname><given-names>K</given-names></name>
+<name><surname>Rasmussen</surname><given-names>SA</given-names></name>
+<name><surname>Merritt</surname><given-names>RK</given-names></name>
+<name><surname>O'Leary</surname><given-names>LA</given-names></name>
+<name><surname>Wong</surname><given-names>LY</given-names></name>
+<name><surname>Elixson</surname><given-names>EM</given-names></name>
+<name><surname>Mahle</surname><given-names>WT</given-names></name>
+<name><surname>Campbell</surname><given-names>RM</given-names></name>
+</person-group><article-title>A population-based study of the 22q11.2 deletion: phenotype, incidence, and contribution to major birth defects in the population</article-title><source>Pediatrics</source><year iso-8601-date="2003-07">2003</year><month>Jul</month><volume>112</volume><issue>1 Pt 1</issue><fpage>101</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1542/peds.112.1.101</pub-id><pub-id pub-id-type="pmid">12837874</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mefford</surname><given-names>HC</given-names></name>
+<name><surname>Sharp</surname><given-names>AJ</given-names></name>
+<name><surname>Baker</surname><given-names>C</given-names></name>
+<name><surname>Itsara</surname><given-names>A</given-names></name>
+<name><surname>Jiang</surname><given-names>Z</given-names></name>
+<name><surname>Buysse</surname><given-names>K</given-names></name>
+<name><surname>Huang</surname><given-names>S</given-names></name>
+<name><surname>Maloney</surname><given-names>VK</given-names></name>
+<name><surname>Crolla</surname><given-names>JA</given-names></name>
+<name><surname>Baralle</surname><given-names>D</given-names></name>
+<name><surname>Collins</surname><given-names>A</given-names></name>
+<name><surname>Mercer</surname><given-names>C</given-names></name>
+<name><surname>Norga</surname><given-names>K</given-names></name>
+<name><surname>de Ravel</surname><given-names>T</given-names></name>
+<name><surname>Devriendt</surname><given-names>K</given-names></name>
+<name><surname>Bongers</surname><given-names>EM</given-names></name>
+<name><surname>de Leeuw</surname><given-names>N</given-names></name>
+<name><surname>Reardon</surname><given-names>W</given-names></name>
+<name><surname>Gimelli</surname><given-names>S</given-names></name>
+<name><surname>Bena</surname><given-names>F</given-names></name>
+<name><surname>Hennekam</surname><given-names>RC</given-names></name>
+<name><surname>Male</surname><given-names>A</given-names></name>
+<name><surname>Gaunt</surname><given-names>L</given-names></name>
+<name><surname>Clayton-Smith</surname><given-names>J</given-names></name>
+<name><surname>Simonic</surname><given-names>I</given-names></name>
+<name><surname>Park</surname><given-names>SM</given-names></name>
+<name><surname>Mehta</surname><given-names>SG</given-names></name>
+<name><surname>Nik-Zainal</surname><given-names>S</given-names></name>
+<name><surname>Woods</surname><given-names>CG</given-names></name>
+<name><surname>Firth</surname><given-names>HV</given-names></name>
+<name><surname>Parkin</surname><given-names>G</given-names></name>
+<name><surname>Fichera</surname><given-names>M</given-names></name>
+<name><surname>Reitano</surname><given-names>S</given-names></name>
+<name><surname>Lo Giudice</surname><given-names>M</given-names></name>
+<name><surname>Li</surname><given-names>KE</given-names></name>
+<name><surname>Casuga</surname><given-names>I</given-names></name>
+<name><surname>Broomer</surname><given-names>A</given-names></name>
+<name><surname>Conrad</surname><given-names>B</given-names></name>
+<name><surname>Schwerzmann</surname><given-names>M</given-names></name>
+<name><surname>R&#x000e4;ber</surname><given-names>L</given-names></name>
+<name><surname>Gallati</surname><given-names>S</given-names></name>
+<name><surname>Striano</surname><given-names>P</given-names></name>
+<name><surname>Coppola</surname><given-names>A</given-names></name>
+<name><surname>Tolmie</surname><given-names>JL</given-names></name>
+<name><surname>Tobias</surname><given-names>ES</given-names></name>
+<name><surname>Lilley</surname><given-names>C</given-names></name>
+<name><surname>Armengol</surname><given-names>L</given-names></name>
+<name><surname>Spysschaert</surname><given-names>Y</given-names></name>
+<name><surname>Verloo</surname><given-names>P</given-names></name>
+<name><surname>De Coene</surname><given-names>A</given-names></name>
+<name><surname>Goossens</surname><given-names>L</given-names></name>
+<name><surname>Mortier</surname><given-names>G</given-names></name>
+<name><surname>Speleman</surname><given-names>F</given-names></name>
+<name><surname>van Binsberge</surname><given-names>E</given-names></name>
+<name><surname>Nelen</surname><given-names>MR</given-names></name>
+<name><surname>Hochstenbach</surname><given-names>R</given-names></name>
+<name><surname>Poot</surname><given-names>M</given-names></name>
+<name><surname>Gallagher</surname><given-names>L</given-names></name>
+<name><surname>Gill</surname><given-names>M</given-names></name>
+<name><surname>McClellan</surname><given-names>J</given-names></name>
+<name><surname>King</surname><given-names>MC</given-names></name>
+<name><surname>Regan</surname><given-names>R</given-names></name>
+<name><surname>Skinner</surname><given-names>C</given-names></name>
+<name><surname>Stevenson</surname><given-names>RE</given-names></name>
+<name><surname>Antonarakis</surname><given-names>SE</given-names></name>
+<name><surname>Chen</surname><given-names>C</given-names></name>
+<name><surname>Estivill</surname><given-names>X</given-names></name>
+<name><surname>Menten</surname><given-names>B</given-names></name>
+<name><surname>Gimelli</surname><given-names>G</given-names></name>
+<name><surname>Gribble</surname><given-names>S</given-names></name>
+<name><surname>Schwartz</surname><given-names>S</given-names></name>
+<name><surname>Sutcliffe</surname><given-names>JS</given-names></name>
+<name><surname>Walsh</surname><given-names>T</given-names></name>
+<name><surname>Knight</surname><given-names>SJ</given-names></name>
+<name><surname>Sebat</surname><given-names>J</given-names></name>
+<name><surname>Romano</surname><given-names>C</given-names></name>
+<name><surname>Schwartz</surname><given-names>CE</given-names></name>
+<name><surname>Veltman</surname><given-names>JA</given-names></name>
+<name><surname>de Vries</surname><given-names>BB</given-names></name>
+<name><surname>Vermeesch</surname><given-names>JR</given-names></name>
+<name><surname>Barber</surname><given-names>JC</given-names></name>
+<name><surname>Willatt</surname><given-names>L</given-names></name>
+<name><surname>Tassabehji</surname><given-names>M</given-names></name>
+<name><surname>Eichler</surname><given-names>EE</given-names></name>
+</person-group><article-title>Recurrent rearrangements of chromosome 1q21.1 and variable pediatric phenotypes</article-title><source>N Engl J Med</source><year iso-8601-date="2008-10-16">2008</year><month>Oct</month><day>16</day><volume>359</volume><issue>16</issue><fpage>1685</fpage><lpage>99</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa0805384</pub-id><pub-id pub-id-type="pmid">18784092</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abarca-Barriga</surname><given-names>HH</given-names></name>
+<name><surname>Trubnykova</surname><given-names>M</given-names></name>
+<name><surname>Chavesta-Vel&#x000e1;squez</surname><given-names>F</given-names></name>
+<name><surname>Barletta-Carrillo</surname><given-names>C</given-names></name>
+<name><surname>Ordo&#x000f1;ez-Linares</surname><given-names>M</given-names></name>
+<name><surname>Rond&#x000f3;n-Abuhadba</surname><given-names>A</given-names></name>
+</person-group><article-title>Peruvian Newborn Male with 3p13 Deletion Syndrome Encompassing the FOXP1 Gene: Review of the Literature</article-title><source>J Pediatr Genet</source><year iso-8601-date="2020-12">2020</year><month>Dec</month><volume>9</volume><issue>4</issue><fpage>270</fpage><lpage>278</lpage><pub-id pub-id-type="doi">10.1055/s-0039-3402048</pub-id><pub-id pub-id-type="pmid">32765932</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sperry</surname><given-names>ED</given-names></name>
+<name><surname>Schuette</surname><given-names>JL</given-names></name>
+<name><surname>van Ravenswaaij-Arts</surname><given-names>CM</given-names></name>
+<name><surname>Green</surname><given-names>GE</given-names></name>
+<name><surname>Martin</surname><given-names>DM</given-names></name>
+</person-group><article-title>Duplication 2p25 in a child with clinical features of CHARGE syndrome</article-title><source>Am J Med Genet A</source><year iso-8601-date="2016-05">2016</year><month>May</month><volume>170A</volume><issue>5</issue><fpage>1148</fpage><lpage>54</lpage><pub-id pub-id-type="doi">10.1002/ajmg.a.37592</pub-id><pub-id pub-id-type="pmid">26850571</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>S</given-names></name>
+<name><surname>Lin</surname><given-names>S</given-names></name>
+<name><surname>Chen</surname><given-names>B</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+</person-group><article-title>Isolated chromosome 8p23.2&#x02011;pter deletion: Novel evidence for developmental delay, intellectual disability, microcephaly and neurobehavioral disorders</article-title><source>Mol Med Rep</source><year iso-8601-date="2017-11">2017</year><month>Nov</month><volume>16</volume><issue>5</issue><fpage>6837</fpage><lpage>6845</lpage><pub-id pub-id-type="doi">10.3892/mmr.2017.7438</pub-id><pub-id pub-id-type="pmid">28901431</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stark</surname><given-names>Z</given-names></name>
+<name><surname>Bruno</surname><given-names>DL</given-names></name>
+<name><surname>Mountford</surname><given-names>H</given-names></name>
+<name><surname>Lockhart</surname><given-names>PJ</given-names></name>
+<name><surname>Amor</surname><given-names>DJ</given-names></name>
+</person-group><article-title>De novo 325 kb microdeletion in chromosome band 10q25.3 including ATRNL1 in a boy with cognitive impairment, autism and dysmorphic features</article-title><source>Eur J Med Genet</source><year>2010</year><season>Sep-Oct</season><volume>53</volume><issue>5</issue><fpage>337</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.ejmg.2010.07.009</pub-id><pub-id pub-id-type="pmid">20670697</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jang</surname><given-names>W</given-names></name>
+<name><surname>Kim</surname><given-names>Y</given-names></name>
+<name><surname>Han</surname><given-names>E</given-names></name>
+<name><surname>Park</surname><given-names>J</given-names></name>
+<name><surname>Chae</surname><given-names>H</given-names></name>
+<name><surname>Kwon</surname><given-names>A</given-names></name>
+<name><surname>Choi</surname><given-names>H</given-names></name>
+<name><surname>Kim</surname><given-names>J</given-names></name>
+<name><surname>Son</surname><given-names>JO</given-names></name>
+<name><surname>Lee</surname><given-names>SJ</given-names></name>
+<name><surname>Hong</surname><given-names>BY</given-names></name>
+<name><surname>Jang</surname><given-names>DH</given-names></name>
+<name><surname>Han</surname><given-names>JY</given-names></name>
+<name><surname>Lee</surname><given-names>JH</given-names></name>
+<name><surname>Kim</surname><given-names>SY</given-names></name>
+<name><surname>Lee</surname><given-names>IG</given-names></name>
+<name><surname>Sung</surname><given-names>IK</given-names></name>
+<name><surname>Moon</surname><given-names>Y</given-names></name>
+<name><surname>Kim</surname><given-names>M</given-names></name>
+<name><surname>Park</surname><given-names>JH</given-names></name>
+</person-group><article-title>Chromosomal Microarray Analysis as a First-Tier Clinical Diagnostic Test in Patients With Developmental Delay/Intellectual Disability, Autism Spectrum Disorders, and Multiple Congenital Anomalies: A Prospective Multicenter Study in Korea</article-title><source>Ann Lab Med</source><year iso-8601-date="2019-05">2019</year><month>May</month><volume>39</volume><issue>3</issue><fpage>299</fpage><lpage>310</lpage><pub-id pub-id-type="doi">10.3343/alm.2019.39.3.299</pub-id><pub-id pub-id-type="pmid">30623622</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>C</given-names></name>
+<name><surname>Luo</surname><given-names>S</given-names></name>
+<name><surname>Long</surname><given-names>X</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>She</surname><given-names>S</given-names></name>
+<name><surname>Hu</surname><given-names>X</given-names></name>
+<name><surname>Mo</surname><given-names>M</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Chen</surname><given-names>Y</given-names></name>
+<name><surname>He</surname><given-names>C</given-names></name>
+<name><surname>Su</surname><given-names>J</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Lin</surname><given-names>F</given-names></name>
+<name><surname>Xie</surname><given-names>B</given-names></name>
+<name><surname>Li</surname><given-names>Q</given-names></name>
+<name><surname>Chen</surname><given-names>S</given-names></name>
+</person-group><article-title>Mutation screening of the GLIS3 gene in a cohort of 592 Chinese patients with congenital hypothyroidism</article-title><source>Clin Chim Acta</source><year iso-8601-date="2018-01">2018</year><month>Jan</month><volume>476</volume><fpage>38</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.1016/j.cca.2017.11.011</pub-id><pub-id pub-id-type="pmid">29146476</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rurale</surname><given-names>G</given-names></name>
+<name><surname>Persani</surname><given-names>L</given-names></name>
+<name><surname>Marelli</surname><given-names>F</given-names></name>
+</person-group><article-title>GLIS3 and Thyroid: A Pleiotropic Candidate Gene for Congenital Hypothyroidism</article-title><source>Front Endocrinol (Lausanne)</source><year iso-8601-date="2018-11">2018</year><month>Nov</month><volume>29</volume><issue>9</issue><elocation-id>730</elocation-id><pub-id pub-id-type="doi">10.3389/fendo.2018.00730</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sonmez</surname><given-names>FM</given-names></name>
+<name><surname>Uctepe</surname><given-names>E</given-names></name>
+<name><surname>Aktas</surname><given-names>D</given-names></name>
+<name><surname>Alikasifoglu</surname><given-names>M</given-names></name>
+</person-group><article-title>Microdeletion of chromosome 1q21.3 in fraternal twins is associated with mental retardation, microcephaly, and epilepsy</article-title><source>Intractable Rare Dis Res</source><year iso-8601-date="2017-02">2017</year><month>Feb</month><volume>6</volume><issue>1</issue><fpage>61</fpage><lpage>64</lpage><pub-id pub-id-type="doi">10.5582/irdr.2016.01075</pub-id><pub-id pub-id-type="pmid">28357185</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="website"><person-group person-group-type="author">
+<collab>Johns Hopkins University</collab>
+</person-group><source>OMIM, Online Mendelian Inheritance in Man. 1966-2022</source><comment>Disponible en:
+<ext-link xlink:href="http://www.omim.org/" ext-link-type="uri">http://www.omim.org/</ext-link>
+</comment></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Chrestian</surname><given-names>N</given-names></name>
+</person-group><source>Hereditary neuropathy with liability to pressure palsies</source><person-group person-group-type="editor">
+<name><surname>Adam</surname><given-names>MP</given-names></name>
+<name><surname>Ardinger</surname><given-names>HH</given-names></name>
+<name><surname>Pagon</surname><given-names>RA</given-names></name>
+<name><surname>Wallace</surname><given-names>SE</given-names></name>
+<name><surname>Bean</surname><given-names>LJ</given-names></name>
+<name><surname>Stephens</surname><given-names>K</given-names></name>
+<etal/>
+</person-group><source>GeneReviews&#x000ae;</source><publisher-loc>Seattle (WA)</publisher-loc><publisher-name>University of Washington, Seattle</publisher-name><year>1993</year><comment>Disponible en:
+<ext-link xlink:href="http://www.ncbi.nlm.nih.gov/books/NBK1392/" ext-link-type="uri">http://www.ncbi.nlm.nih.gov/books/NBK1392/</ext-link>
+</comment></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Conte</surname><given-names>F</given-names></name>
+<name><surname>Oti</surname><given-names>M</given-names></name>
+<name><surname>Dixon</surname><given-names>J</given-names></name>
+<name><surname>Carels</surname><given-names>CE</given-names></name>
+<name><surname>Rubini</surname><given-names>M</given-names></name>
+<name><surname>Zhou</surname><given-names>H</given-names></name>
+</person-group><article-title>Systematic analysis of copy number variants of a large cohort of orofacial cleft patients identifies candidate genes for orofacial clefts</article-title><source>Hum Genet</source><year iso-8601-date="2016-01">2016</year><month>Jan</month><volume>135</volume><issue>1</issue><fpage>41</fpage><lpage>59</lpage><pub-id pub-id-type="doi">10.1007/s00439-015-1606-x</pub-id><pub-id pub-id-type="pmid">26561393</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Davidson</surname><given-names>TB</given-names></name>
+<name><surname>Sanchez-Lara</surname><given-names>PA</given-names></name>
+<name><surname>Randolph</surname><given-names>LM</given-names></name>
+<name><surname>Krieger</surname><given-names>MD</given-names></name>
+<name><surname>Wu</surname><given-names>SQ</given-names></name>
+<name><surname>Panigrahy</surname><given-names>A</given-names></name>
+<name><surname>Shimada</surname><given-names>H</given-names></name>
+<name><surname>Erdreich-Epstein</surname><given-names>A</given-names></name>
+</person-group><article-title>Microdeletion del(22)(q12.2) encompassing the facial development-associated gene, MN1 (meningioma 1) in a child with Pierre-Robin sequence (including cleft palate) and neurofibromatosis 2 (NF2): a case report and review of the literature</article-title><source>BMC Med Genet</source><year iso-8601-date="2012-03-22">2012</year><month>Mar</month><day>22</day><volume>13</volume><elocation-id>19</elocation-id><pub-id pub-id-type="doi">10.1186/1471-2350-13-19</pub-id><pub-id pub-id-type="pmid">22436304</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,662 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700462</article-id><article-id pub-id-type="pmc">PMC9426325</article-id><article-id pub-id-type="publisher-id">33610</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.33610</article-id><article-categories><subj-group subj-group-type="heading"><subject>Revisiones De Literatura</subject></subj-group></article-categories><title-group><article-title>Enfermedad de Parkinson: una actualizaci&#x000f3;n bibliogr&#x000e1;fica de los aspectos psicosociales</article-title><trans-title-group xml:lang="en"><trans-title>Parkinson's disease: a bibliographic update of psychosocial aspects</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Doen&#x000e7;a de Parkinson: uma atualiza&#x000e7;&#x000e3;o bibliogr&#x000e1;fica dos aspectos psicossociais</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0001-7668-2384</contrib-id><name><surname>C&#x000f3;freces</surname><given-names>Pedro</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>pedrocofreces@conicet.gov.ar</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-7393-5718</contrib-id><name><surname>Ofman</surname><given-names>Silvia Deborah</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>sdofman@conicet.gov.ar</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-2152-1898</contrib-id><name><surname>Estay</surname><given-names>Julieta A</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>julieta.estay27@gmail.com</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0003-1585-1222</contrib-id><name><surname>Hermida</surname><given-names>Paula Daniela</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>paulahermida@conicet.gov.ar</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Consejo Nacional de Investigaciones Cient&#x000ed;ficas y T&#x000e9;cnicas. Instituto Alberto C. Taquini de Investigaciones M&#x000e9;dicas Traslacionales</institution>
+<country country="AR">Argentina</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>C&#x000e1;tedra Psicolog&#x000ed;a del Trabajo. Facultad de Psicolog&#x000ed;a, Universidad de Buenos Aires (UBA)</institution>
+<country country="AR">Argentina</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>181</fpage><lpage>187</lpage><history><date date-type="received" iso-8601-date="2021-06-23"><day>23</day><month>6</month><year>2021</year></date><date date-type="accepted" iso-8601-date="2021-07-28"><day>28</day><month>7</month><year>2021</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/33610/37944">https://revistas.unc.edu.ar/index.php/med/article/view/33610/37944</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/33610/37629">https://revistas.unc.edu.ar/index.php/med/article/view/33610/37629</self-uri><abstract abstract-type="section"><title>Resumen</title><sec><title>Introducci&#x000f3;n:</title><p>La Enfermedad de Parkinson (EP) es la enfermedad neurodegenerativa m&#x000e1;s com&#x000fa;n, despu&#x000e9;s del Alzheimer. El aumento de su prevalencia se debe a una combinaci&#x000f3;n de factores. En 2016 se registraron 6.1 millones casos y se cree que este valor se duplicar&#x000e1; para el 2050, por lo que es considerado un problema de salud p&#x000fa;blica.</p></sec><sec><title>Objetivo:</title><p>Realizar una revisi&#x000f3;n de la literatura acerca de los aspectos psicosociales asociados a la EP, ya que &#x000e9;stos tienen gran importancia como posibles marcadores prodr&#x000f3;micos de la enfermedad.</p></sec><sec><title>M&#x000e9;todolog&#x000ed;a:</title><p>Se realiz&#x000f3; una b&#x000fa;squeda del material bibliogr&#x000e1;fico generado en los &#x000fa;ltimos 15 a&#x000f1;os, utilizando las bases de datos: PubMed, SciELO, Dialnet y Redalyc.</p></sec><sec><title>Conclusi&#x000f3;n:</title><p>Las investigaciones sobre la EP centran fundamentalmente su inter&#x000e9;s en las caracter&#x000ed;sticas, s&#x000ed;ntomas, diagn&#x000f3;stico y tratamiento. Se detecta la necesidad de un mayor n&#x000fa;mero de estudios cient&#x000ed;ficos que obtengan evidencia respecto a las caracter&#x000ed;sticas sociodemogr&#x000e1;ficas, psicosociales y geogr&#x000e1;ficas de los pacientes con EP. Asimismo, se observa la necesidad de estudiar en mayor profundidad el impacto que la depresi&#x000f3;n y ansiedad puede tener sobre la enfermedad. Estos factores pueden ser determinantes tanto para el diagn&#x000f3;stico de la EP como tambi&#x000e9;n para el afrontamiento y adherencia de tratamientos que favorezcan el bienestar f&#x000ed;sico, emocional y social del paciente. Los estudios sobre la calidad de vida relacionada con la salud son importantes en este sentido.</p></sec></abstract><trans-abstract xml:lang="en" abstract-type="section"><title>Abstract</title><sec><title>Introduction:</title><p>Parkinson's disease (PD) is the most common neurodegenerative disease, after Alzheimer's. The increase in its prevalence is due to a combination of factors. In 2016, over 6.1 million cases were registered and it is believed that this value will double by 2050, which is why it is considered a public health problem.</p></sec><sec><title>Objective:</title><p>To carry out a literature review about the psychosocial aspects associated with PD, considering their importance as possible prodromal markers of the disease.</p></sec><sec><title>Method:</title><p>A bibliographic search was made taking into account the material generated in the last 15 years, and using the databases PubMed, SciELO, Dialnet and Redalyc.</p></sec><sec><title>Conclusion:</title><p>Research on PD primarily focus interest on the characteristics, symptoms, diagnosis and treatment. It&#x000b4;s observed the need of developing more scientific studies to obtain evidence regarding the sociodemographic, psychosocial and geographical characteristics of patients with PD. In adition, it&#x02019;s important to increase the knowledge about the impact of depression and anxiety over PD. They can become decisive when diagnosing, but also for facing and sustaining an adequate treatment to achieve the patient&#x02019;s well-being on physical, emotional and social aspects. Studies on Quality of life related to health and PD are also important in this regard.</p></sec></trans-abstract><trans-abstract xml:lang="pt" abstract-type="section"><title>Resumo</title><sec><title>Introdu&#x000e7;&#x000e3;o:</title><p>A doen&#x000e7;a de Parkinson (DP) &#x000e9; a doen&#x000e7;a neurodegenerativa maiscomum, depois de Alzheimer. O aumento de suapreval&#x000ea;ncia se deve a umacombina&#x000e7;&#x000e3;o de fatores. Em 2016, foram registrados 6,1 milh&#x000f5;es de casos e acredita-se que esse valor dobrar&#x000e1; at&#x000e9; 2050, por isso &#x000e9; considerado um problema de sa&#x000fa;de p&#x000fa;blica. Objetivo: Realizar umarevis&#x000e3;o da literatura sobre os aspectos psicossociaisassociadosao TP, visto que estess&#x000e3;o de grande import&#x000e2;ncia como poss&#x000ed;veis marcadores prodr&#x000f4;micos da doen&#x000e7;a.</p></sec><sec><title>Objetivo:</title><p>Realizar umarevis&#x000e3;o da literatura sobre os aspectos psicossociaisassociadosao TP, visto que estess&#x000e3;o de grande import&#x000e2;ncia como poss&#x000ed;veis marcadores prodr&#x000f4;micos da doen&#x000e7;a.</p></sec><sec><title>Metodologia:</title><p>Foi realizada busca no material bibliogr&#x000e1;fico gerado nos &#x000fa;ltimos 15 anos, nas bases de dados: PubMed, SciELO, Dialnet e Redalyc.</p></sec><sec><title>Conclus&#x000e7;&#x000e3;o:</title><p>A pesquisa em DP concentra seuinteresse principalmente emsuas caracter&#x000ed;sticas, sintomas, diagn&#x000f3;stico e tratamento. Detecta-se a necessidade de ummaior n&#x000fa;mero de estudos cient&#x000ed;ficos que obtenhamevid&#x000ea;ncias a respeito das caracter&#x000ed;sticas sociodemogr&#x000e1;ficas, psicossociais e geogr&#x000e1;ficas dos pacientes com DP. Da mesma forma, observa-se a necessidade de estudarcommaiorprofundidade o impacto que a depress&#x000e3;o e a ansiedadepodem ter sobre a doen&#x000e7;a. Essesfatorespodem determinar tanto para o diagn&#x000f3;stico da DP quanto para o enfrentamento e ades&#x000e3;o a tratamentos que favore&#x000e7;am o bem-estar f&#x000ed;sico, emocional e social do paciente. Estudos sobre qualidade de vida relacionada &#x000e0; sa&#x000fa;des&#x000e3;o importantes nesse sentido.</p></sec></trans-abstract><kwd-group><title>Palabras clave</title><kwd>enfermedad de parkinson</kwd><kwd>calidad de vida</kwd><kwd>trastornos neuropsiquiatricos</kwd><kwd>factores sociodemogr&#x000e1;ficos</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>parkinson's disease</kwd><kwd>quality of life</kwd><kwd>neuropsychiatric disorders</kwd><kwd>sociodemographic factors</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>mal de parkinson</kwd><kwd>qualidade de vida</kwd><kwd>dist&#x000fa;rbiosneuropsiqui&#x000e1;tricos</kwd><kwd>fatores sociodemogr&#x000e1;ficos</kwd></kwd-group><counts><fig-count count="0"/><table-count count="0"/><equation-count count="0"/><ref-count count="50"/><page-count count="7"/></counts></article-meta></front><body><boxed-text position="float"><p>El presente trabajo recaba informaci&#x000f3;n y datos actualizados sobre la enfermedad de parkinson en los &#x000fa;ltimos 15 a&#x000f1;os, puntualizando en los aspectos psicosociales, que en las &#x000fa;ltimas d&#x000e9;cadas ganaron consideraci&#x000f3;n como manifestaciones no motoras de la enfermedad (depresi&#x000f3;n y ansiedad entre otras). Hacer m&#x000e1;s visibles estos aspectos es fundamental por su alta prevalencia, por su importancia para el diagnostico temprano de la enfermedad, y tambi&#x000e9;n por su impacto negativo en la calidad de vida de los pacientes.</p></boxed-text><boxed-text position="float"><sec><title>Conceptos clave</title><sec><title>Qu&#x000e9; se sabe sobre el tema:</title><p>La enfermedad de Parkinson aumenta su prevalencia por una combinaci&#x000f3;n de factores y los casos se duplicaran en los pr&#x000f3;ximos a&#x000f1;os. Las investigaciones centran fundamentalmente su inter&#x000e9;s en las caracter&#x000ed;sticas, s&#x000ed;ntomas, diagn&#x000f3;stico y tratamiento de la enfermedad.</p></sec><sec><title>Qu&#x000e9; aporta este trabajo:</title><p>Los aspectos psicosociales asociados a la Enfermedad de Parkinson, han sido menos estudiados, y pueden ser determinantes para el diagn&#x000f3;stico, el afrontamiento y la adherencia de tratamientos que favorezcan el bienestar f&#x000ed;sico, emocional y social del paciente.</p></sec></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCI&#x000d3;N</title><p>La Enfermedad de Parkinson (EP) es la enfermedad neurodegenerativa m&#x000e1;s com&#x000fa;n, despu&#x000e9;s del Alzheimer
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+. A nivel mundial se estima que afecta al 1-2% de los mayores de 65 a&#x000f1;os, habi&#x000e9;ndose registrado 6.1 millones casos en 2016. Se cree que este valor se duplicar&#x000e1; para el 2050, por lo que es considerada un problema de salud p&#x000fa;blica
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+.
+</p><p>Adem&#x000e1;s de los factores gen&#x000e9;ticos, el aumento de su prevalencia se debe a una combinaci&#x000f3;n de factores que se explican desde una mayor expectativa de vida de la poblaci&#x000f3;n, a una alta ingesta de hierro, anemia cr&#x000f3;nica
+<sup><xref rid="B3" ref-type="bibr">3</xref>.
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+. La EP es una enfermedad multifactorial y compleja, tanto en su diagn&#x000f3;stico como para el tratamiento, por lo que exige un abordaje y enfoque interdisciplinarios. Seg&#x000fa;n Rizzo et. al.
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+utilizando criterios cl&#x000ed;nicos se puede diagnosticar hasta un 80% de los casos. No obstante, los estudios de im&#x000e1;genes son tambi&#x000e9;n importantes para poder confirmar la presencia de esta enfermedad
+<sup>
+<xref rid="B6" ref-type="bibr">6</xref>
+</sup>
+. Si bien la expectativa de vida en pacientes con EP es la misma que en poblaci&#x000f3;n general, la neumon&#x000ed;a es una causa de muerte frecuente, debido a las alteraciones en la degluci&#x000f3;n, generadas por la aspiraci&#x000f3;n de l&#x000ed;quidos y alimentos
+<sup><xref rid="B7" ref-type="bibr">7</xref>.
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+.
+</p><p>La EP se caracteriza por una lentitud de movimientos, temblor de reposo y rigidez. Debido a ello se la concibi&#x000f3; y estudi&#x000f3; como un trastorno motor. Sin embargo, en las &#x000fa;ltimas d&#x000e9;cadas, creci&#x000f3; el reconocimiento de las manifestaciones no motoras, entre las que se encuentran el trastorno del comportamiento del sue&#x000f1;o, la somnolencia en horas matutinas, hiposmia y los disturbios en la funci&#x000f3;n auton&#x000f3;mica (hipotensi&#x000f3;n ortost&#x000e1;tica, disfunci&#x000f3;n urogenital, constipaci&#x000f3;n). As&#x000ed; tambi&#x000e9;n, depresi&#x000f3;n, ansiedad, apat&#x000ed;a, deterioro cognitivo, demencia, alucinaciones (que pueden ser inducidos por la medicaci&#x000f3;n) y ataques de p&#x000e1;nico
+<sup><xref rid="B6" ref-type="bibr">6</xref>.
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+se cuentan entre las manifestaciones no motoras.
+</p><p>Se ha observado que los s&#x000ed;ntomas no motores se encuentran con m&#x000e1;s frecuencia que los s&#x000ed;ntomas motores, pudiendo incluso manifestarse m&#x000e1;s de diez a&#x000f1;os antes
+<sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+. Por este motivo, la detecci&#x000f3;n temprana de estos s&#x000ed;ntomas es clave para prevenir o retrasar el desarrollo de la enfermedad. Sin embargo, muchas veces este diagn&#x000f3;stico resulta complejo por la aparici&#x000f3;n de una gran variedad de s&#x000ed;ntomas similares (parkinsonismos) que no corresponden a la EP, por no estar asociadas con la degeneraci&#x000f3;n o d&#x000e9;ficit de dopamina
+<sup>
+<xref rid="B11" ref-type="bibr">11</xref>
+</sup>
+.
+</p><p>Cabe mencionar que la hipotensi&#x000f3;n ortost&#x000e1;tica es un problema frecuente en la EP. Presenta una prevalencia del 16 al 58% de los casos y altera significativamente la calidad de vida de los pacientes. Se la define como la ca&#x000ed;da de 20 mmHg o m&#x000e1;s en la tensi&#x000f3;n arterial sist&#x000f3;lica (TAS) o un descenso de la TAS por debajo de 90 mmHg y una ca&#x000ed;da de 10 mmHg o m&#x000e1;s en la tensi&#x000f3;n arterial diast&#x000f3;lica (TAD) o un descenso de la TAD por debajo de 60 mmHg luego de, al menos, tres minutos de ponerse de pie. Es una disfunci&#x000f3;n auton&#x000f3;mica, que afecta mayormente en la etapa tard&#x000ed;a de la enfermedad. La severidad y la duraci&#x000f3;n de la enfermedad son factores de riesgo. S&#x000f3;lo se presenta de forma sintom&#x000e1;tica en alrededor del 20% de los sujetos, por lo que muchas veces no es diagnosticada. El riesgo de ca&#x000ed;das derivadas de la hipotensi&#x000f3;n ortost&#x000e1;tica es un problema importante a considerar
+<sup>
+<xref rid="B12" ref-type="bibr">12</xref>
+</sup>
+.
+</p><p>Hasta el momento no existe un tratamiento curativo de la EP, por lo cual la terap&#x000e9;utica apunta al control sintom&#x000e1;tico de la enfermedad. Para lograr una mejor&#x000ed;a en la calidad de vida y bienestar, es necesaria una atenci&#x000f3;n integral del paciente, desde un enfoque interdisciplinario
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+. Adem&#x000e1;s, siendo que la manifestaci&#x000f3;n de esta enfermedad no es homog&#x000e9;nea, pudiendo variar entre las personas, se requiere de un tratamiento individualizado y espec&#x000ed;fico
+<sup>
+<xref rid="B13" ref-type="bibr">13</xref>
+</sup>
+.
+</p><p>En funci&#x000f3;n de lo mencionado, el objetivo del presente trabajo es realizar una revisi&#x000f3;n de la literatura acerca de los aspectos psicosociales asociados a la EP, ya que &#x000e9;stos tienen gran importancia como posibles marcadores prodr&#x000f3;micos de la enfermedad.</p></sec><sec sec-type="methods"><title>METODOLOG&#x000cd;A</title><p>Se realiz&#x000f3; una b&#x000fa;squeda del material bibliogr&#x000e1;fico generado en los &#x000fa;ltimos 15 a&#x000f1;os, utilizando las bases de datos: PubMed, SciELO, Dialnet y Redalyc, a partir de la combinaci&#x000f3;n de las palabras clave: Enfermedad de Parkinson, calidad de vida, trastornos neuropsiquiatricos, depresi&#x000f3;n, ansiedad, factores sociodemogr&#x000e1;ficos.</p><p>Teniendo en cuenta el criterio de actualidad, relevancia y pertinencia en relaci&#x000f3;n al tema objetivo, se seleccionaron en total 46 manuscritos publicados, conformados por revisiones de la literatura, investigaciones, tesis de grado y de doctorado. Se incluyeron, en su mayor&#x000ed;a, textos en espa&#x000f1;ol.</p></sec><sec sec-type="results"><title>RESULTADOS</title><p>De acuerdo a los resultados obtenidos a partir de la b&#x000fa;squeda bibliogr&#x000e1;fica, los trabajos seleccionados se clasificaron en los siguientes temas:</p><list list-type="order"><list-item><title>Aspectos generales de la enfermedad: caracter&#x000ed;sticas, s&#x000ed;ntomas, diagn&#x000f3;stico y tratamiento.</title><p>Garc&#x000ed;a-Botija
+<sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+afirma que, en la actualidad, el diagn&#x000f3;stico de la EP contin&#x000fa;a siendo complejo. Generalmente los neur&#x000f3;logos se basan en la evaluaci&#x000f3;n del historial cl&#x000ed;nico, de los s&#x000ed;ntomas, ex&#x000e1;menes f&#x000ed;sicos y an&#x000e1;lisis de laboratorio. Tambi&#x000e9;n se utilizan pruebas de imagen cerebral, neuroimagen funcional y neurofisiol&#x000f3;gicas para diferenciarlo de otras enfermedades
+<sup><xref rid="B7" ref-type="bibr">7</xref>.
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+. Los criterios cl&#x000ed;nicos m&#x000e1;s utilizados son los aportados por el Banco de Cerebros de Reino Unido, cuya precisi&#x000f3;n de diagn&#x000f3;stico es elevada: entre un 75 y 95%
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+.
+</p><p>Siendo que el trastorno del habla es un fen&#x000f3;meno muy com&#x000fa;n durante el curso de la enfermedad, el an&#x000e1;lisis ac&#x000fa;stico de la voz y el habla, obtenidos a trav&#x000e9;s de tel&#x000e9;fonos m&#x000f3;viles, puede actuar como marcador diagn&#x000f3;stico objetivo, r&#x000e1;pido, y no invasivo
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+. En esta l&#x000ed;nea, estudios que se desarrollan en Espa&#x000f1;a y Argentina, muestran diferencias en las se&#x000f1;ales de la voz entre los pacientes con EP y las personas sin EP, lo cual genera aportes para su diagn&#x000f3;stico
+<sup><xref rid="B14" ref-type="bibr">14</xref>.
+<xref rid="B15" ref-type="bibr">15</xref>
+</sup>
+.
+</p><p>Por otra parte, en la actualidad, varios estudios relacionan la EP con el s&#x000ed;ndrome metab&#x000f3;lico
+<sup>
+<xref rid="B16" ref-type="bibr">16</xref>
+</sup>
+. El s&#x000ed;ndrome metab&#x000f3;lico (o de resistencia a la insulina) se caracteriza por la presencia de presi&#x000f3;n arterial elevada, niveles altos de glucosa, aumento de la grasa abdominal y niveles anormales de colesterol o triglic&#x000e9;ridos
+<sup><xref rid="B16" ref-type="bibr">16</xref>.
+<xref rid="B17" ref-type="bibr">17</xref>
+</sup>
+. La principal problem&#x000e1;tica de esta relaci&#x000f3;n reside en establecer si el s&#x000ed;ndrome metab&#x000f3;lico es causa o consecuencia de la EP
+<sup><xref rid="B16" ref-type="bibr">16</xref>.
+<xref rid="B17" ref-type="bibr">17</xref>
+</sup>
+. Se ha observado que aquellos pacientes con EP que tienen s&#x000ed;ndrome metab&#x000f3;lico presentan una mayor sintomatolog&#x000ed;a no motora
+<sup>
+<xref rid="B17" ref-type="bibr">17</xref>
+</sup>
+. En un reciente estudio realizado en M&#x000e9;xico, la prevalencia del s&#x000ed;ndrome metab&#x000f3;lico en la EP fue de un 8%. Entre sus componentes, la hipertensi&#x000f3;n arterial evidenci&#x000f3; un 30% de prevalencia, la diabetes mellitus tipo 2 obtuvo un 23%, la obesidad un 27% y la dislipidemia estuvo presente en un 7% de los pacientes
+<sup>
+<xref rid="B17" ref-type="bibr">17</xref>
+</sup>
+. De acuerdo a algunos autores
+<sup><xref rid="B18" ref-type="bibr">18</xref>.
+<xref rid="B19" ref-type="bibr">19</xref>
+</sup>
+, la obesidad y la hipertensi&#x000f3;n pueden aumentar el riesgo de contraer EP. Existe controversia sobre si la diabetes contribuye tambi&#x000e9;n al desarrollo de esta enfermedad
+<sup><xref rid="B18" ref-type="bibr">18</xref>.
+<xref rid="B19" ref-type="bibr">19</xref>
+</sup>
+.
+</p><p>En lo que refiere al tratamiento, existen diferentes f&#x000e1;rmacos antiparkinsonianos. Los agonistas dopamin&#x000e9;rgicos y la levodopa son importantes para tratar los s&#x000ed;ntomas motores de la EP y son utilizados en m&#x000e1;s del 60% de los casos, tanto en estadios tempranos como avanzados de la enfermedad
+<sup>
+<xref rid="B20" ref-type="bibr">20</xref>
+</sup>
+. Por otra parte, el tratamiento quir&#x000fa;rgico de la EP se convirti&#x000f3; en la principal terapia para el caso de los pacientes con enfermedad avanzada, trastornos motores y en aquellos con s&#x000ed;ntomas producidos por el efecto adverso de la Levodopa, la cual constituye el tratamiento cl&#x000e1;sico de la enfermedad
+<sup><xref rid="B6" ref-type="bibr">6</xref>.
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+. La estimulaci&#x000f3;n cerebral profunda (ECP) ayuda a mejorar los s&#x000ed;ntomas motores, pero tambi&#x000e9;n presenta efectos adversos en los pacientes, tanto durante como luego de la cirug&#x000ed;a
+<sup>
+<xref rid="B21" ref-type="bibr">21</xref>
+</sup>
+. Con el desarrollo tecnol&#x000f3;gico, se descubrieron ECP menos invasivas. Existen nuevas t&#x000e9;cnicas que se est&#x000e1;n desarrollando (optogen&#x000e9;tica, magnetogen&#x000e9;tica y sonogen&#x000e9;tica), con potencial futuro para la alteraci&#x000f3;n gen&#x000e9;tica y como transformadoras en el campo de la neuromodulaci&#x000f3;n
+<sup>
+<xref rid="B13" ref-type="bibr">13</xref>
+</sup>
+.
+</p><p>En cuanto a los tratamientos no farmacol&#x000f3;gicos, &#x000e9;stos son considerados muy importantes. Uno de ellos es la Realidad Virtual, que se aplica para la rehabilitaci&#x000f3;n de la alteraci&#x000f3;n motora y cognitiva en la EP, obteni&#x000e9;ndose buenos resultados
+<sup>
+<xref rid="B22" ref-type="bibr">22</xref>
+</sup>
+. La rehabilitaci&#x000f3;n mediante las terapias complementarias, promueve la conservaci&#x000f3;n de la autonom&#x000ed;a y apunta a mejorar la calidad de vida. Al respecto, desde el a&#x000f1;o 2002, la Facultad de Ciencias M&#x000e9;dicas de la Universidad Nacional de La Plata (Argentina), realiza un programa
+<sup>
+<xref rid="B23" ref-type="bibr">23</xref>
+</sup>
+en el que se utilizan aportes de las ciencias m&#x000e9;dicas, educaci&#x000f3;n, teatro, danza, educaci&#x000f3;n f&#x000ed;sica y psicolog&#x000ed;a. Las t&#x000e9;cnicas utilizadas en dicho taller, buscan generar que los pacientes puedan moverse, vincularse y expresarse, para evitar el aislamiento social.
+</p><p>La fisioterapia es la terapia no farmacol&#x000f3;gica m&#x000e1;s habitual y recomendada, ya que ayuda a rehabilitar la marcha, superar bloqueos y facilitar los cambios posturales. Asimismo, con sesiones de hidroterapia, yoga, pilates o tai-chi, se corrigen determinados aspectos de la sintomatolog&#x000ed;a y el paciente logra mantener sus capacidades motoras. La meditaci&#x000f3;n, musicoterapia, baile, masajes y acupuntura tambi&#x000e9;n forman parte de esta terapia, con buenos resultados. Por su parte, la logopedia, que abarca terapias de rehabilitaci&#x000f3;n del lenguaje, el habla y la voz, repercute positivamente en aspectos b&#x000e1;sicos para la comunicaci&#x000f3;n. Adem&#x000e1;s, mediante ejercicios de escritura se disminuye la rigidez muscular, a fin de conseguir una escritura lo m&#x000e1;s legible posible
+<sup>
+<xref rid="B24" ref-type="bibr">24</xref>
+</sup>
+.
+</p><p>Asimismo, una consideraci&#x000f3;n importante es la alimentaci&#x000f3;n. Desde el comienzo de la enfermedad se presentan s&#x000ed;ntomas digestivos que generan dificultades y aumentan el riesgo de malnutrici&#x000f3;n, lo que conlleva a una mayor predisposici&#x000f3;n a infecciones y desarrollo de comorbilidades
+<sup>
+<xref rid="B25" ref-type="bibr">25</xref>
+</sup>
+. Un tratamiento nutricional espec&#x000ed;fico y adecuado resulta fundamental. Tal es el caso de los alimentos ricos en fibras, que evitan el estre&#x000f1;imiento que suele causar la EP
+<sup>
+<xref rid="B25" ref-type="bibr">25</xref>
+</sup>
+.
+</p><p>Por &#x000fa;ltimo, la psicolog&#x000ed;a sanitaria, la estimulaci&#x000f3;n cognitiva y el trabajo social resultan tambi&#x000e9;n herramientas fundamentales. La primera mejora el estado de &#x000e1;nimo y ayuda a entender y aceptar la enfermedad. Adem&#x000e1;s, en las sesiones psicol&#x000f3;gicas se eval&#x000fa;an posibles p&#x000e9;rdidas cognitivas asociadas a la enfermedad (memoria, atenci&#x000f3;n, lenguaje). Luego, la estimulaci&#x000f3;n cognitiva trabaja en la preservaci&#x000f3;n de la memoria, la orientaci&#x000f3;n, el razonamiento y en fomentar las relaciones sociales entre familiares y pacientes. Tambi&#x000e9;n, los trabajadores sociales intervienen para prevenir el aislamiento y la exclusi&#x000f3;n social mediante orientaci&#x000f3;n y apoyo emocional
+<sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+.
+</p><p>Las asociaciones civiles de personas con EP son instituciones importantes porque que brindan informaci&#x000f3;n, asesoramiento y apoyo emocional a pacientes y familiares
+<sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+. Asimismo, tambi&#x000e9;n proveen de terapias como logopedia, fisioterapia, estimulaci&#x000f3;n cognitiva y terapia ocupacional
+<sup>
+<xref rid="B24" ref-type="bibr">24</xref>
+</sup>
+. En s&#x000ed;ntesis, el tratamiento no farmacol&#x000f3;gico presenta beneficios para el paciente y mejora su estado an&#x000ed;mico, as&#x000ed; como los aspectos f&#x000ed;sicos y cognitivos. Lamentablemente, y sin bien no presenta efectos nocivos, son los menos practicados por los pacientes, ya que requieren mayor esfuerzo en relaci&#x000f3;n a adherir a una pauta farmacol&#x000f3;gica
+<sup>
+<xref rid="B26" ref-type="bibr">26</xref>
+</sup>
+. Por otro lado, conllevan el desaf&#x000ed;o de necesitar un trabajo en equipo e interdisciplinario (m&#x000e9;dico de familia, neur&#x000f3;logo, psic&#x000f3;logo, psiquiatra, trabajador social y fisioterapeuta) que favorezca el abordaje integral
+<sup><xref rid="B3" ref-type="bibr">3</xref>.
+<xref rid="B27" ref-type="bibr">27</xref>
+</sup>
+.
+</p></list-item><list-item><title>Aspectos sociales de los pacientes con EP</title><p>El an&#x000e1;lisis de los aspectos sociales de los pacientes con EP brinda informaci&#x000f3;n clave para el entendimiento de la enfermedad, el acceso a terapias, tratamientos y la adherencia a los mismos. Los factores sociodemogr&#x000e1;ficos, psicosociales y geogr&#x000e1;ficos, tanto como el impacto social de la enfermedad y la imagen que la comunidad tiene acerca de los pacientes con EP, pueden denominarse aspectos sociales. La pobreza, los escasos recursos, la mala alimentaci&#x000f3;n y la falta de acceso a alimentos saludables, son los factores sociodemogr&#x000e1;ficos, psicosociales y geogr&#x000e1;ficos m&#x000e1;s importantes
+<sup>
+<xref rid="B28" ref-type="bibr">28</xref>
+</sup>
+.
+</p><p>Esta enfermedad cr&#x000f3;nica puede tener consecuencias negativas a nivel laboral, familiar y social. Sin embargo, tal como se&#x000f1;ala Sigcho Vivanco
+<sup>
+<xref rid="B29" ref-type="bibr">29</xref>
+</sup>
+, de forma general se observa una vacancia de investigaciones que analicen desde un enfoque social, familiar e intercultural, a los pacientes. Hecho que podr&#x000ed;a dar lugar a generar nuevos criterios que mejoren la calidad de vida.
+</p><p>Asimismo, si bien la EP se manifiesta en todos los continentes, se han encontrado algunas diferencias, tales como una mayor presencia en el medio rural, fundamentalmente en varones. Esto podr&#x000ed;a explicarse por una mayor exposici&#x000f3;n a pesticidas e insecticidas en el medioambiente. Sin embargo, se ha observado tambi&#x000e9;n una mayor prevalencia de EP en zonas urbanas de China
+<sup>
+<xref rid="B24" ref-type="bibr">24</xref>
+</sup>
+. A su vez, en pa&#x000ed;ses donde hay una mayor expectativa de vida, tales como Estados Unidos y algunos pa&#x000ed;ses de Europa, se encontr&#x000f3; una mayor prevalencia de EP en comparaci&#x000f3;n con pa&#x000ed;ses de Asia, Latinoam&#x000e9;rica y &#x000c1;frica
+<sup>
+<xref rid="B30" ref-type="bibr">30</xref>
+</sup>
+. Esta diversidad de resultados destaca la necesidad de aumentar los estudios cient&#x000ed;ficos que obtengan evidencia al respecto.
+</p><p>La imagen que la sociedad construye sobre la EP afecta a los pacientes que la padecen, quienes sufren el impacto f&#x000ed;sico, psicosocial, y se enfrentan a estereotipos y prejuicios, en los diferentes &#x000e1;mbitos: hogar, trabajo, vida social y momentos de ocio. Ello los lleva al aislamiento social
+<sup>
+<xref rid="B31" ref-type="bibr">31</xref>
+</sup>
+. Es imprescindible que los pacientes conserven sus habilidades interpersonales e interact&#x000fa;en, as&#x000ed; como tambi&#x000e9;n que a nivel social exista mayor conocimiento y comprensi&#x000f3;n de esta enfermedad
+<sup>
+<xref rid="B31" ref-type="bibr">31</xref>
+</sup>
+. En este sentido, tres aspectos centrales que influyen en el afrontamiento de pacientes y familiares hacia la enfermedad son la funcionalidad de la atenci&#x000f3;n sanitaria, el entorno social/familiar y el grado de aceptaci&#x000f3;n de la patolog&#x000ed;a
+<sup>
+<xref rid="B32" ref-type="bibr">32</xref>
+</sup>
+.
+</p></list-item><list-item><title>Trastornos y sintomatolog&#x000ed;a neuropsiqui&#x000e1;trica en la EP. Repercusiones en la calidad de vida.</title><p>Los estudios cl&#x000e1;sicos de la EP se centraban en las manifestaciones motoras de la enfermedad, porque son los rasgos que resultan m&#x000e1;s visibles y detectables en el paciente, al momento de acudir a la consulta m&#x000e9;dica
+<sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+</sup>
+. Sin embargo, existen tambi&#x000e9;n diversos s&#x000ed;ntomas no motores, como los neuropsiqui&#x000e1;tricos, entre los que se encuentran la depresi&#x000f3;n y la ansiedad. Es importante considerar estos s&#x000ed;ntomas porque generan un impacto negativo en la calidad de vida de los pacientes y del cuidador principal, es decir, aquella persona que pertenece a la red social del paciente (en general, familiar) y que dedica gran parte de su tiempo al cuidado del mismo
+<sup>
+<xref rid="B33" ref-type="bibr">33</xref>
+</sup>
+.
+</p><p>La depresi&#x000f3;n, desde lo sintomatol&#x000f3;gico, se asocia a la p&#x000e9;rdida del humor y la disminuci&#x000f3;n del inter&#x000e9;s o placer. Puede generar p&#x000e9;rdida o aumento significativo de peso, insomnio o hipersomnia, agitaci&#x000f3;n o inhibici&#x000f3;n psicomotriz, cansancio y p&#x000e9;rdida de energ&#x000ed;a. Tambi&#x000e9;n, a veces, se asocia con la aparici&#x000f3;n de sentimientos de desesperanza, culpa, disminuci&#x000f3;n en la capacidad de pensamiento y concentraci&#x000f3;n, as&#x000ed; como ideas recurrentes de muerte
+<sup>
+<xref rid="B34" ref-type="bibr">34</xref>
+</sup>
+.
+</p><p>En pacientes con EP, la prevalencia de depresi&#x000f3;n es de un 50%
+<sup>
+<xref rid="B20" ref-type="bibr">20</xref>
+</sup>
+. Su aparici&#x000f3;n suele asociarse al avance de la enfermedad y al deterioro cognitivo. Los pacientes con EP presentan, en muchas ocasiones, complicaciones psiqui&#x000e1;tricas debidas al efecto secundario de los f&#x000e1;rmacos utilizados en el tratamiento. La levodopa, f&#x000e1;rmaco frecuentemente utilizado, genera este tipo de complicaciones en el 20% de los pacientes
+<sup>
+<xref rid="B35" ref-type="bibr">35</xref>
+</sup>
+. Leentjens
+<sup>
+<xref rid="B20" ref-type="bibr">20</xref>
+</sup>
+sostiene que los factores que se asocian con depresi&#x000f3;n son la edad, antecedentes familiares de depresi&#x000f3;n y variables cognitivas espec&#x000ed;ficas relacionadas con la EP. Sin embargo, existen distintas hip&#x000f3;tesis sobre el v&#x000ed;nculo entre depresi&#x000f3;n y EP. La primera, se&#x000f1;ala que la depresi&#x000f3;n puede tratarse de una manifestaci&#x000f3;n secundaria a la degeneraci&#x000f3;n neuroanat&#x000f3;mica de las v&#x000ed;as corticales y subcorticales, as&#x000ed; como de cambios en la funci&#x000f3;n serotonin&#x000e9;rgica y dopamin&#x000e9;rgica
+<sup>
+<xref rid="B36" ref-type="bibr">36</xref>
+</sup>
+. La segunda, se centra en la depresi&#x000f3;n como precursora, ya que &#x000e9;sta puede preceder la aparici&#x000f3;n de la EP durante un per&#x000ed;odo de hasta diecis&#x000e9;is a&#x000f1;os
+<sup>
+<xref rid="B37" ref-type="bibr">37</xref>
+</sup>
+. Por &#x000fa;ltimo, se encuentra la hip&#x000f3;tesis de la depresi&#x000f3;n reactiva. En este caso, ella surge como resultante del ajuste que deben realizar los pacientes y sus familias a la convivencia con una enfermedad cr&#x000f3;nica y sus implicaciones negativas a nivel laboral, familiar y social. Adem&#x000e1;s, las complicaciones en el tratamiento debidas a los efectos secundarios de la medicaci&#x000f3;n o de una terapia quir&#x000fa;rgica tambi&#x000e9;n pueden dar lugar a la aparici&#x000f3;n de s&#x000ed;ntomas depresivos
+<sup>
+<xref rid="B36" ref-type="bibr">36</xref>
+</sup>
+.
+</p><p>El diagn&#x000f3;stico de depresi&#x000f3;n en EP resulta complejo porque algunos de los s&#x000ed;ntomas se confunden con las caracter&#x000ed;sticas propias de la enfermedad. La p&#x000e9;rdida de inter&#x000e9;s y de motivaci&#x000f3;n se presenta en muchos pacientes con EP sin depresi&#x000f3;n, y que tienen adem&#x000e1;s enlentecimiento mental
+<sup>
+<xref rid="B35" ref-type="bibr">35</xref>
+</sup>
+. Asimismo, existe evidencia que la depresi&#x000f3;n y la apat&#x000ed;a pueden presentarse juntas en diversas enfermedades neurol&#x000f3;gicas. Ante la complejidad diagn&#x000f3;stica, La National Institute of Neurological Disorders and Stroke (NINDS) sugiere que, para un diagn&#x000f3;stico m&#x000e1;s preciso, las evaluaciones deben realizarse durante el periodo o fase "on" de la enfermedad (es decir, actividad motora normal y control de los s&#x000ed;ntomas). Para diagnosticar depresi&#x000f3;n, debe estar presente el s&#x000ed;ntoma de &#x000e1;nimo deprimido y no s&#x000f3;lo la disminuci&#x000f3;n de inter&#x000e9;s, que es un signo caracter&#x000ed;stico de la apat&#x000ed;a
+<sup>
+<xref rid="B38" ref-type="bibr">38</xref>
+</sup>
+.
+</p><p>Por su parte, los trastornos de ansiedad tambi&#x000e9;n son frecuentes en la EP. Las estimaciones de prevalencia sugieren que hasta un 40% de los pacientes con EP sufren ansiedad. El trastorno de ansiedad generalizada, el trastorno de angustia y la fobia social son los m&#x000e1;s comunes
+<sup>
+<xref rid="B39" ref-type="bibr">39</xref>
+</sup>
+. La ansiedad puede dificultar a&#x000fa;n m&#x000e1;s la movilidad y la marcha. Sumado a esto, la ansiedad agrava los trastornos del sue&#x000f1;o, afecta el desarrollo de las actividades cotidianas, las relaciones sociales y la comunicaci&#x000f3;n. En un reciente estudio llevado a cabo en el Principado de Asturias se observ&#x000f3; que casi el 33% de los afectados present&#x000f3; depresi&#x000f3;n, mientras que el 68 % ansiedad. Asimismo, se encontr&#x000f3; que el 31% sufr&#x000ed;a ambos trastornos
+<sup>
+<xref rid="B27" ref-type="bibr">27</xref>
+</sup>
+.
+</p><p>En cuanto al g&#x000e9;nero, se observ&#x000f3; que en pacientes con EP la depresi&#x000f3;n es m&#x000e1;s frecuente en mujeres que en varones
+<sup>
+<xref rid="B35" ref-type="bibr">35</xref>
+</sup>
+. Sin embargo, no se han encontrado diferencias por g&#x000e9;nero en la ansiedad
+<sup>
+<xref rid="B27" ref-type="bibr">27</xref>
+</sup>
+. De acuerdo a Lillo Collado
+<sup>
+<xref rid="B40" ref-type="bibr">40</xref>
+</sup>
+la presencia de s&#x000ed;ntomas motores est&#x000e1; fuertemente asociada a varones, mientras que la discinesia y la depresi&#x000f3;n se presentan con mayor frecuencia en mujeres. De todos modos, es necesaria una mayor evidencia al respecto
+</p><p>En relaci&#x000f3;n al tratamiento de la depresi&#x000f3;n y ansiedad, &#x000e9;stas se controlan con terapias farmacol&#x000f3;gicas y no farmacol&#x000f3;gicas. El mayor problema de los antidepresivos son los efectos secundarios que presentan. Algunos pueden ser especialmente problem&#x000e1;ticos, tales como la hipotensi&#x000f3;n ortost&#x000e1;tica, el estre&#x000f1;imiento, la retenci&#x000f3;n urinaria, confusi&#x000f3;n y delirio, pudiendo predisponer, adem&#x000e1;s, a ca&#x000ed;das, por su efecto sedante
+<sup>
+<xref rid="B39" ref-type="bibr">39</xref>
+</sup>
+. La Terapia Cognitivo Conductual (TCC) logr&#x000f3; cambios significativos en los pacientes con EP al finalizar sus intervenciones, present&#x000e1;ndose como una opci&#x000f3;n v&#x000e1;lida en el tratamiento
+<sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+</sup>
+.
+</p><p>No obstante la recurrencia de esta problem&#x000e1;tica, la depresi&#x000f3;n en la EP generalmente se encuentra sin tratamiento. Esto &#x000fa;ltimo se debe a que se encuentra subdiagnosticada, debido a la complejidad de los distintos s&#x000ed;ntomas que, como se mencion&#x000f3; anteriormente, pueden superponerse a los s&#x000ed;ntomas propios de la enfermedad o a los efectos secundarios de la medicaci&#x000f3;n
+<sup>
+<xref rid="B41" ref-type="bibr">41</xref>
+</sup>
+. Existen s&#x000ed;ntomas depresivos sin diagn&#x000f3;stico formal, hasta en un 35% de los pacientes
+<sup>
+<xref rid="B20" ref-type="bibr">20</xref>
+</sup>
+.
+</p><p>Diversos estudios han demostrado que la presencia de depresi&#x000f3;n y/o ansiedad generan un efecto negativo sobre la calidad de vida
+<sup>
+<xref rid="B42" ref-type="bibr">42</xref>
+</sup>
+. Al respecto, se observ&#x000f3; que la calidad de vida relacionada con la salud (CVRS) de los pacientes con EP se correlacion&#x000f3; significativamente con el estadio y antig&#x000fc;edad de la enfermedad, la evaluaci&#x000f3;n motora, y, fundamentalmente, con la presencia de depresi&#x000f3;n
+<sup>
+<xref rid="B42" ref-type="bibr">42</xref>
+</sup>
+. Sumado a esto, Lamberg
+<sup>
+<xref rid="B43" ref-type="bibr">43</xref>
+</sup>
+observ&#x000f3; que el tratamiento m&#x000e9;dico de la depresi&#x000f3;n puede mejorar la calidad de vida. Entonces, conocer los niveles de depresi&#x000f3;n y ansiedad en los pacientes con EP y evaluar la incidencia de los factores psicosociales resulta de gran importancia para describir y caracterizar el perfil de vulnerabilidad psicosocial de los afectados.
+</p><p>La Organizaci&#x000f3;n Mundial de la Salud
+<sup>
+<xref rid="B44" ref-type="bibr">44</xref>
+</sup>
+define la calidad de vida (CV) como la percepci&#x000f3;n individual respecto a objetivos, expectativas, normas, y preocupaciones, que presenta la persona, a partir del contexto cultural y el sistema de valores en el que vive. La CVRS se focaliza en el bienestar f&#x000ed;sico, emocional y social despu&#x000e9;s del diagn&#x000f3;stico y tratamiento de la EP. Ambos conceptos incorporan la salud f&#x000ed;sica, el estado psicol&#x000f3;gico, las relaciones sociales y la adaptaci&#x000f3;n a nuevas situaciones del entorno
+<sup>
+<xref rid="B45" ref-type="bibr">45</xref>
+</sup>
+. Kurtis Urra
+<sup>
+<xref rid="B46" ref-type="bibr">46</xref>
+</sup>
+plantea que la CVRS incluye al estado f&#x000ed;sico del paciente (capacidad para caminar, moverse, presencia/ausencia de dolor), el estado psicol&#x000f3;gico (presencia/ausencia de depresi&#x000f3;n, ansiedad o preocupaci&#x000f3;n), el aspecto intelectual (capacidad de concentraci&#x000f3;n y de memoria), el aspecto funcional (capacidad para vestirse, asearse, comer, escribir) y las relaciones sociales (grado de apoyo de amigos y familiares, grado de comodidad/incomodidad al estar en p&#x000fa;blico). Por ello, en el tratamiento de la enfermedad, la CVRS es un importante par&#x000e1;metro a la hora de evaluar el beneficio de cualquier intervenci&#x000f3;n (farmacol&#x000f3;gica, quir&#x000fa;rgica o terap&#x000e9;utica) y de gran utilidad para conocer la progresi&#x000f3;n de la enfermedad y el efecto de los tratamientos
+<sup>
+<xref rid="B46" ref-type="bibr">46</xref>
+</sup>
+.
+</p><p>Seg&#x000fa;n Cano de la Cuerda et. al.
+<sup>
+<xref rid="B47" ref-type="bibr">47</xref>
+</sup>
+los estudios sobre CVRS en pacientes con EP, tradicionalmente med&#x000ed;an el impacto de la enfermedad mediante la aplicaci&#x000f3;n de escalas cl&#x000ed;nicas. Los autores destacan que, sin embargo, desde el comienzo de la d&#x000e9;cada del 90, las investigaciones se dedicaron a demostrar el deterioro de la CVRS de los pacientes con EP frente a grupos control, evaluando tambi&#x000e9;n el efecto de los tratamientos m&#x000e9;dicos y quir&#x000fa;rgicos sobre el estado de salud. Este tipo de estudios ha permitido establecer comparaciones con otro tipo de enfermedades. Al respecto se ha observado que los pacientes con EP presentan peor CV que otros individuos institucionalizados y que la poblaci&#x000f3;n general
+<sup>
+<xref rid="B48" ref-type="bibr">48</xref>
+</sup>
+. Tambi&#x000e9;n presentan peor CVRS que los pacientes con diabetes mellitus y un impacto similar a aquellos con esclerosis m&#x000fa;ltiple, si bien los pacientes con EP presentan peor salud mental y mejor funci&#x000f3;n f&#x000ed;sica que los pacientes con esta &#x000fa;ltima enfermedad
+<sup>
+<xref rid="B48" ref-type="bibr">48</xref>
+</sup>
+.
+</p><p>A nivel general, en la EP se produce un descenso progresivo de las capacidades motoras, cognitivas, sensoriales y auton&#x000f3;micas; afectando la calidad de vida de los pacientes, fundamentalmente por la p&#x000e9;rdida de autonom&#x000ed;a
+<sup>
+<xref rid="B49" ref-type="bibr">49</xref>
+</sup>
+. Se ha encontrado que factores tales como la severidad de la enfermedad, su duraci&#x000f3;n, las complicaciones motoras, el dolor y los s&#x000ed;ntomas no motores (depresi&#x000f3;n, ansiedad, deterioro cognitivo, trastornos del sue&#x000f1;o) afectan la CVRS
+<sup>
+<xref rid="B45" ref-type="bibr">45</xref>
+</sup>
+. Una encuesta de la Asociaci&#x000f3;n Europea de la Enfermedad de Parkinson, revel&#x000f3; que los trastornos motores (94%), seguidos de los s&#x000ed;ntomas depresivos (84%), los trastornos cognitivos (65%) y los problemas del sue&#x000f1;o (40%), son los factores que m&#x000e1;s impactan
+<sup>
+<xref rid="B24" ref-type="bibr">24</xref>
+</sup>
+.
+</p><p>Asimismo, el Cohort of Patients with Parkinson's Disease (COPPADIS), estudio realizado en Espa&#x000f1;a, obtuvo como resultado que la alteraci&#x000f3;n del estado de &#x000e1;nimo (aquellos con depresi&#x000f3;n resultaron los m&#x000e1;s afectados), la cantidad y severidad de s&#x000ed;ntomas no motores y las alteraciones de la marcha, fueron los factores m&#x000e1;s asociados a una peor calidad de vida. Iguales resultados se dieron en los pacientes con hasta cinco a&#x000f1;os de diagn&#x000f3;stico de EP
+<sup>
+<xref rid="B50" ref-type="bibr">50</xref>
+</sup>
+. A nivel general, y de acuerdo con los estudios de CVRS, se evidenci&#x000f3; que los s&#x000ed;ntomas motores que m&#x000e1;s impactan en la calidad de vida son los bloqueos de la marcha y el grado de discapacidad. Sin embargo, cabe destacar que los s&#x000ed;ntomas no motores inciden m&#x000e1;s sobre la CVRS que los s&#x000ed;ntomas motores
+<sup>
+<xref rid="B49" ref-type="bibr">49</xref>
+</sup>
+.
+</p></list-item></list></sec><sec sec-type="conclusions"><title>CONCLUSIONES</title><p>Los hallazgos de la presente actualizaci&#x000f3;n bibliogr&#x000e1;fica muestran, por un lado, el inter&#x000e9;s y la vigencia sobre el estudio de la EP. De forma general, los trabajos encontrados centran fundamentalmente su inter&#x000e9;s en aspectos generales de la enfermedad tales como sus caracter&#x000ed;sticas, s&#x000ed;ntomas y, fundamentalmente, el diagn&#x000f3;stico y tratamiento (farmacol&#x000f3;gico, quir&#x000fa;rgico y no farmacol&#x000f3;gico).</p><p>Se observa, frente a ello, la necesidad de desarrollar un mayor n&#x000fa;mero de estudios cient&#x000ed;ficos que obtengan evidencia respecto a las caracter&#x000ed;sticas sociodemogr&#x000e1;ficas, psicosociales y geogr&#x000e1;ficas de los pacientes con EP. As&#x000ed; tambi&#x000e9;n, que analicen el impacto que la depresi&#x000f3;n y ansiedad pueden tener sobre la enfermedad. Tal como se se&#x000f1;al&#x000f3; en apartados anteriores de la presente actualizaci&#x000f3;n bibliogr&#x000e1;fica, estos factores resultan determinantes, tanto al momento del diagn&#x000f3;stico como as&#x000ed; tambi&#x000e9;n, en cuanto a la posibilidad de afrontar la enfermedad y adherir a un tratamiento adecuado que permita mejoras en la calidad de vida de los pacientes.</p><p>En este sentido, se destaca tambi&#x000e9;n la necesidad de generar un mayor desarrollo de los estudios sobre la CVRS y EP. Los mismos permitir&#x000ed;an evaluar el beneficio de cada tipo de intervenci&#x000f3;n (farmacol&#x000f3;gica, quir&#x000fa;rgica o terap&#x000e9;utica) as&#x000ed; como profundizar en las caracter&#x000ed;sticas de la progresi&#x000f3;n de la enfermedad, y el efecto de los tratamientos
+<sup>
+<xref rid="B46" ref-type="bibr">46</xref>
+</sup>
+. Sus hallazgos posibilitar&#x000ed;an orientar terapias y tratamientos en funci&#x000f3;n del bienestar f&#x000ed;sico, emocional y social del paciente.
+</p></sec></body><back><fn-group><fn fn-type="other"><p>
+<bold>Limitaciones de responsabilidad:</bold>
+La responsabilidad del trabajo es exclusivamente de quienes colaboraron en la elaboraci&#x000f3;n del mismo.</p></fn><fn fn-type="COI-statement"><p><bold>Conflicto de inter&#x000e9;s</bold>:
+Ninguno.</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo:</bold>
+Proyecto financiado por el Consejo Nacional de Investigaciones Cient&#x000ed;ficas y T&#x000e9;cnicas. Corresponde al Proyecto de investigaci&#x000f3;n de Unidades Ejecutoras (PUE) "Sistema Renina Angiotensina en la Enfermedad de Parkinson: desarrollo y evaluaci&#x000f3;n interdisciplinaria de nuevas estrategias terap&#x000e9;uticas". C&#x000f3;digo: 229 201801 00044 CO. IATIMET (UBA-CONICET).</p></fn><fn fn-type="other"><p><bold>Originalidad</bold>:
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.</p></fn><fn fn-type="other"><p><bold>Cesi&#x000f3;n de derechos</bold>:
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, ceden los derechos de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la Revista de la Facultad de Ciencias M&#x000e9;dicas y realizar las traducciones necesarias al idioma ingl&#x000e9;s.</p></fn><fn fn-type="equal"><p>
+<bold>Contribuci&#x000f3;n de los autores:</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, han trabajado en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, haci&#x000e9;ndose p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Adams</surname><given-names>RD</given-names></name>
+<name><surname>Victor</surname><given-names>MD</given-names></name>
+<name><surname>Allan</surname><given-names>H</given-names></name>
+</person-group><source>Principios de Neurolog&#x000ed;a</source><edition>6</edition><publisher-name>ED McGraw-Hill Interamericana, editor</publisher-name><year>2000</year><fpage>925</fpage><lpage>31</lpage></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>GBD 2016 Parkinson's Disease Collaborators</collab>
+</person-group><article-title>Global, regional, and national burden of Parkinson's disease, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016</article-title><source>Lancet Neurol</source><year iso-8601-date="2018-11">2018</year><month>Nov</month><volume>17</volume><issue>11</issue><fpage>939</fpage><lpage>953</lpage><pub-id pub-id-type="doi">10.1016/S1474-4422(18)30295-3</pub-id><pub-id pub-id-type="pmid">30287051</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mar&#x000ed;n</surname><given-names>D</given-names></name>
+<name><surname>Carmona</surname><given-names>H</given-names></name>
+<name><surname>Ibarra</surname><given-names>M</given-names></name>
+<name><surname>G&#x000e1;mez</surname><given-names>M</given-names></name>
+</person-group><article-title>Enfermedad de Parkinson: fisiopatolog&#x000ed;a, diagn&#x000f3;stico y tratamiento</article-title><source>Rev Univ Ind Santander Salud</source><year>2018</year><volume>50</volume><issue>1</issue><fpage>79</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.18273/revsal.v50n1-2018008</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Campdelacreu</surname><given-names>J</given-names></name>
+</person-group><article-title>Enfermedad de Parkinson y enfermedad de Alzheimer: factores de riesgo ambientales</article-title><source>neurologia</source><year iso-8601-date="2014-11">2014</year><month>Nov</month><volume>29</volume><issue>9</issue><fpage>541</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.nrl.2012.04.001</pub-id><pub-id pub-id-type="pmid">22703631</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rizzo</surname><given-names>G</given-names></name>
+<name><surname>Copetti</surname><given-names>M</given-names></name>
+<name><surname>Arcuti</surname><given-names>S</given-names></name>
+<name><surname>Martino</surname><given-names>D</given-names></name>
+<name><surname>Fontana</surname><given-names>A</given-names></name>
+<name><surname>Logroscino</surname><given-names>G</given-names></name>
+</person-group><article-title>Accuracy of clinical diagnosis of Parkinson disease: A systematic review and meta-analysis</article-title><source>Neurology</source><year iso-8601-date="2016-02-09">2016</year><month>Feb</month><day>9</day><volume>86</volume><issue>6</issue><fpage>566</fpage><lpage>76</lpage><pub-id pub-id-type="doi">10.1212/WNL.0000000000002350</pub-id><pub-id pub-id-type="pmid">26764028</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mart&#x000ed;nez-Fern&#x000e1;ndez</surname><given-names>R</given-names></name>
+<name><surname>Gasca-Salas</surname><given-names>C</given-names></name>
+<name><surname>Sanchez-Ferro</surname><given-names>A</given-names></name>
+<name><surname>Obeso</surname><given-names>JA</given-names></name>
+</person-group><article-title>Actualizaci&#x000f3;n en la Enfermedad de Parkinson. Parkinson&#x000b4;s Disease: A Review</article-title><source>Revista M&#x000e9;dica Cl&#x000ed;nica Las Condes</source><year iso-8601-date="2016-05">2016</year><month>May</month><volume>27</volume><issue>3</issue><fpage>363</fpage><lpage>79</lpage><pub-id pub-id-type="doi">10.1016/j.rmclc.2016.06.01</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>De la Casa</surname><given-names>B</given-names></name>
+</person-group><source>Gu&#x000ed;a Informativa de la Enfermedad de Parkinson [Internet]</source><year>2012</year><publisher-name>Federaci&#x000f3;n Espa&#x000f1;ola de Parkinson (FEP)</publisher-name><comment>Disponible en:
+<ext-link xlink:href="http://parkinsoncantabria.com/documentos/guia_parkinson.pdf" ext-link-type="uri">http://parkinsoncantabria.com/documentos/guia_parkinson.pdf</ext-link>
+</comment></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Berenguer</surname><given-names>MP</given-names></name>
+<name><surname>Y&#x000e9;venes Briones</surname><given-names>HA</given-names></name>
+</person-group><article-title>Trastornos del habla en la Enfermedad de Parkinson. Revisi&#x000f3;n</article-title><source>Rev Cient Cienc Med</source><year>2019</year><volume>22</volume><issue>1</issue><fpage>36</fpage><lpage>42</lpage><comment>Disponible en:
+<ext-link xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&#x00026;pid=S1817-74332019000100006" ext-link-type="uri">http://www.scielo.org.bo/scielo.php?script=sci_arttext&#x00026;pid=S1817-74332019000100006</ext-link>
+</comment></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vallejo Zambrano</surname><given-names>CR</given-names></name>
+<name><surname>Jim&#x000e9;nez Jim&#x000e9;nez</surname><given-names>RA</given-names></name>
+<name><surname>Mor&#x000e1;n Rodr&#x000ed;guez</surname><given-names>VE</given-names></name>
+<name><surname>G&#x000f3;mez Chumo</surname><given-names>ME</given-names></name>
+<name><surname>Del Valle Pilay</surname><given-names>MB</given-names></name>
+<name><surname>Palma Moreno</surname><given-names>NJ</given-names></name>
+</person-group><article-title>S&#x000ed;ndrome de Parkinson: Revisi&#x000f3;n bibliogr&#x000e1;fica y actualizaci&#x000f3;n</article-title><source>Recimundo</source><year>2020</year><volume>4</volume><issue>4</issue><fpage>270</fpage><lpage>81</lpage><pub-id pub-id-type="doi">10.26820/recimundo/4.(4).octubre.2020.270-281</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kalia</surname><given-names>LV</given-names></name>
+<name><surname>Lang</surname><given-names>AE</given-names></name>
+</person-group><article-title>Parkinson's disease</article-title><source>Lancet</source><year iso-8601-date="2015-08-29">2015</year><month>Aug</month><day>29</day><volume>386</volume><issue>9996</issue><fpage>896</fpage><lpage>912</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(14)61393-3</pub-id><pub-id pub-id-type="pmid">25904081</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Radhakrishnan</surname><given-names>DM</given-names></name>
+<name><surname>Goyal</surname><given-names>V</given-names></name>
+</person-group><article-title>Parkinson's disease: A review</article-title><source>Neurol India</source><year>2018</year><season>Mar-Apr</season><volume>66</volume><issue>Supplement</issue><fpage>S26</fpage><lpage>S35</lpage><pub-id pub-id-type="doi">10.4103/0028-3886.226451</pub-id><pub-id pub-id-type="pmid">29503325</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rodr&#x000ed;guez Violante</surname><given-names>M</given-names></name>
+<name><surname>Cervantes Arriaga</surname><given-names>A</given-names></name>
+<name><surname>Garc&#x000ed;a Ibarra</surname><given-names>D</given-names></name>
+<name><surname>Corona</surname><given-names>T</given-names></name>
+</person-group><article-title>Respuesta ortost&#x000e1;tica de la tensi&#x000f3;n arterial de pacientes con Parkinson</article-title><source>Archivos de Car</source><year>2013</year><volume>83</volume><issue>2</issue><fpage>93</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.acmx.2013.02.003</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>DJ</given-names></name>
+<name><surname>Elias</surname><given-names>GJB</given-names></name>
+<name><surname>Lozano</surname><given-names>AM</given-names></name>
+</person-group><article-title>Neuromodulation for the treatment of eating disorders and obesity</article-title><source>Ther Adv Psychopharmacol</source><year iso-8601-date="2018-02">2018</year><month>Feb</month><volume>8</volume><issue>2</issue><fpage>73</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.1177/2045125317743435</pub-id><pub-id pub-id-type="pmid">29399320</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Garc&#x000ed;a-Botija</surname><given-names>AB</given-names></name>
+</person-group><source>Diagn&#x000f3;stico de la enfermedad de Parkinson usando deeplearning y grabaciones de voz mediante tel&#x000e9;fono m&#x000f3;vil</source><comment>[Proyecto Fin de Carrera / Trabajo Fin de Grado]</comment><publisher-loc>[Madrid]</publisher-loc><publisher-name>Universidad Polit&#x000e9;cnica de Madrid. Escuela t&#x000e9;cnica superior de ingenier&#x000ed;a de sistemas inform&#x000e1;ticos</publisher-name><year>2019</year><comment>Disponible en:
+<ext-link xlink:href="https://oa.upm.es/56137/1/TFG_BELEN_GARCIA_BOTIJA_ALDANA.pdf" ext-link-type="uri">https://oa.upm.es/56137/1/TFG_BELEN_GARCIA_BOTIJA_ALDANA.pdf</ext-link>
+</comment></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="confproc"><person-group person-group-type="author">
+<name><surname>Guatelli</surname><given-names>RS</given-names></name>
+<name><surname>Aubin</surname><given-names>VI</given-names></name>
+<name><surname>P&#x000e9;rez</surname><given-names>SN</given-names></name>
+</person-group><source>Actas del XXII Workshop de Investigadores en Ciencias de la Computaci&#x000f3;n: WICC 2020</source><part-title>Predicci&#x000f3;n de la enfermedad de Parkinson utilizando redes neuronales convolucionales</part-title><conf-name>XXII Workshop de Investigadores en Ciencias de la Computaci&#x000f3;n Departamento de Inform&#x000e1;tica e Investigaciones Tecnol&#x000f3;gicas</conf-name><conf-date iso-8601-date="2020-05">May 2020</conf-date><conf-loc>El Calafate, Santa Cruz. Argentina</conf-loc><publisher-name>Universidad Nacional de La Matanza</publisher-name><year>2020</year><comment>Disponible en:
+<ext-link xlink:href="http://sedici.unlp.edu.ar/handle/10915/103596" ext-link-type="uri">http://sedici.unlp.edu.ar/handle/10915/103596</ext-link>
+</comment></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>G&#x000f3;mez-Chavar&#x000ed;n</surname><given-names>M</given-names></name>
+<name><surname>Morales-G&#x000f3;mez</surname><given-names>MR</given-names></name>
+</person-group><article-title>S&#x000ed;ndrome metab&#x000f3;lico y enfermedad de Parkinson</article-title><source>Arch Neurocien</source><year>2020</year><volume>25</volume><issue>2</issue><fpage>34</fpage><lpage>44</lpage><comment>Disponible en:
+<ext-link xlink:href="https://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=97291" ext-link-type="uri">https://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=97291</ext-link>
+</comment></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mel&#x000e9;ndez-Flores</surname><given-names>JD</given-names></name>
+<name><surname>Castillo-Torres</surname><given-names>SA</given-names></name>
+<name><surname>Cerda-Contreras</surname><given-names>C</given-names></name>
+<name><surname>Ch&#x000e1;vez-Lu&#x000e9;vanos</surname><given-names>B</given-names></name>
+<name><surname>Estrada-Bellmann</surname><given-names>I</given-names></name>
+</person-group><article-title>Caracter&#x000ed;sticas cl&#x000ed;nicas del s&#x000ed;ndrome metab&#x000f3;lico en pacientes con enfermedad de Parkinson</article-title><source>Rev Neurol</source><year>2021</year><volume>72</volume><fpage>9</fpage><lpage>15</lpage><pub-id pub-id-type="doi">10.33588/rn.7201.2020323</pub-id><pub-id pub-id-type="pmid">33378074</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>L</given-names></name>
+<name><surname>Li</surname><given-names>Q</given-names></name>
+<name><surname>Jiang</surname><given-names>L</given-names></name>
+<name><surname>Qiu</surname><given-names>H</given-names></name>
+<name><surname>Geng</surname><given-names>C</given-names></name>
+<name><surname>Hong</surname><given-names>JS</given-names></name>
+<name><surname>Li</surname><given-names>H</given-names></name>
+<name><surname>Wang</surname><given-names>Q</given-names></name>
+</person-group><article-title>Hypertension and diagnosis of Parkinson's disease: a meta-analysis of cohort studies</article-title><source>Front Neurol</source><year iso-8601-date="2018-03-19">2018</year><month>Mar</month><day>19</day><volume>9</volume><elocation-id>162</elocation-id><pub-id pub-id-type="doi">10.3389/fneur.2018.00162</pub-id><pub-id pub-id-type="pmid">29615961</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J</given-names></name>
+<name><surname>Guan</surname><given-names>Z</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Song</surname><given-names>G</given-names></name>
+<name><surname>Ma</surname><given-names>B</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+</person-group><article-title>Meta-analysis: overweight, obesity, and Parkinson's disease</article-title><source>Int J Endocrinol</source><year>2014</year><volume>2014</volume><elocation-id>203930</elocation-id><pub-id pub-id-type="doi">10.1155/2014/203930</pub-id><comment>Epub 2014 Feb 5. Erratum in: Int J Endocrinol. 2014;2014:306402</comment><pub-id pub-id-type="pmid">24672544</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Leentjens</surname><given-names>AF</given-names></name>
+</person-group><article-title>The role of dopamine agonists in the treatment of depression in patients with Parkinson's disease: a systematic review</article-title><source>Drugs</source><year iso-8601-date="2011-02-12">2011</year><month>Feb</month><day>12</day><volume>71</volume><issue>3</issue><fpage>273</fpage><lpage>86</lpage><pub-id pub-id-type="doi">10.2165/11585380-000000000-00000</pub-id><pub-id pub-id-type="pmid">21319866</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sevillano-Garc&#x000ed;a</surname><given-names>MD</given-names></name>
+<name><surname>Manso-Calder&#x000f3;n</surname><given-names>R</given-names></name>
+</person-group><article-title>Complicaciones de la estimulaci&#x000f3;n cerebral profunda en la enfermedad de Parkinson</article-title><source>Rev Neurol</source><year>2012</year><volume>54</volume><issue>Supl 5</issue><fpage>S41</fpage><lpage>S49</lpage><pub-id pub-id-type="doi">10.33588/rn.54S05.2012530</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Lupiani Ruiz</surname><given-names>ML</given-names></name>
+</person-group><source>La Realidad Virtual y su aplicaci&#x000f3;n en la rehabilitaci&#x000f3;n de la Enfermedad de Parkinson</source><comment>[Trabajo Final]</comment><publisher-loc>[Espa&#x000f1;a]</publisher-loc><publisher-name>Facultad de Medicina. Universidad Miguel Hern&#x000e1;ndez</publisher-name><year>2019</year><comment>Disponible en:
+<ext-link xlink:href="http://dspace.umh.es/handle/11000/5557" ext-link-type="uri">http://dspace.umh.es/handle/11000/5557</ext-link>
+</comment></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nomdedeu</surname><given-names>G</given-names></name>
+<name><surname>Bacigalupe</surname><given-names>MA</given-names></name>
+<name><surname>Piciucchi</surname><given-names>MV</given-names></name>
+<name><surname>Sansalone</surname><given-names>N</given-names></name>
+</person-group><article-title>Despertando al cuerpo desde el movimiento: expresi&#x000f3;n corporal y Parkinson</article-title><source>E+E</source><year>2018</year><volume>5</volume><issue>5</issue><comment>Disponible en:
+<ext-link xlink:href="https://revistas.unc.edu.ar/index.php/EEH/article/view/19798" ext-link-type="uri">https://revistas.unc.edu.ar/index.php/EEH/article/view/19798</ext-link>
+</comment></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Pe&#x000f1;as Domingo</surname><given-names>E</given-names></name>
+</person-group><source>El libro blanco del Parkinson en Espa&#x000f1;a. Aproximaci&#x000f3;n, an&#x000e1;lisis y propuesta de futuro</source><publisher-name>Real Patronato sobre Discapacidad (Ministerio de Sanidad, Servicios Sociales e Igualdad)</publisher-name><year>2015</year><comment>Disponible en:
+<ext-link xlink:href="https://www.esparkinson.es/wp-content/uploads/2017/10/libro_blanco.pdf" ext-link-type="uri">https://www.esparkinson.es/wp-content/uploads/2017/10/libro_blanco.pdf</ext-link>
+</comment></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tenorio Jim&#x000e9;nez</surname><given-names>C</given-names></name>
+<name><surname>S&#x000e1;nchez S&#x000e1;nchez</surname><given-names>V</given-names></name>
+<name><surname>Medina</surname><given-names>MD</given-names></name>
+<name><surname>Arraiza Irigoyen</surname><given-names>C</given-names></name>
+<name><surname>Mart&#x000ed;nez Ram&#x000ed;rez</surname><given-names>MJ</given-names></name>
+</person-group><article-title>Nutrici&#x000f3;n en la enfermedad de Parkinson</article-title><source>Nutr Clin Med</source><year>2017</year><volume>XI</volume><issue>2</issue><fpage>96</fpage><lpage>113</lpage><pub-id pub-id-type="doi">10.7400/NCM.2017.11.2.5052</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Marcos M&#x000e1;s</surname><given-names>A</given-names></name>
+</person-group><source>Revisi&#x000f3;n sobre cuidados y terapias complementarias en la Enfermedad de Parkinson</source><publisher-loc>[Espa&#x000f1;a]</publisher-loc><publisher-name>Escuela de Enfermer&#x000ed;a de Zamora. Universidad de Salamanca</publisher-name><year iso-8601-date="2019-05">2019</year><month>5</month><comment>Disponible en:
+<ext-link xlink:href="https://gredos.usal.es/bitstream/handle/10366/140991/TFG%20Alma%20OFICIAL.pdf;jsessionid=A7D410494EA692F9B663F587D2CBEDC3?sequence=1" ext-link-type="uri">https://gredos.usal.es/bitstream/handle/10366/140991/TFG%20Alma%20OFICIAL.pdf;jsessionid=A7D410494EA692F9B663F587D2CBEDC3?sequence=1</ext-link>
+</comment></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chuquil&#x000ed;n-Arista</surname><given-names>F</given-names></name>
+<name><surname>&#x000c1;lvarez-Avell&#x000f3;n</surname><given-names>T</given-names></name>
+<name><surname>Men&#x000e9;ndez-Gonz&#x000e1;lez</surname><given-names>M</given-names></name>
+</person-group><article-title>Prevalence of Depression and Anxiety in Parkinson Disease and Impact on Quality of Life: A Community-Based Study in Spain</article-title><source>J Geriatr Psychiatry Neurol</source><year iso-8601-date="2020-07">2020</year><month>Jul</month><volume>33</volume><issue>4</issue><fpage>207</fpage><lpage>213</lpage><pub-id pub-id-type="doi">10.1177/0891988719874130</pub-id><pub-id pub-id-type="pmid">31597514</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Navarro Meza</surname><given-names>M</given-names></name>
+<name><surname>Morales S&#x000e1;nchez</surname><given-names>EW</given-names></name>
+<name><surname>Pacheco Mois&#x000e9;s</surname><given-names>F</given-names></name>
+<name><surname>Ortiz</surname><given-names>GG</given-names></name>
+</person-group><article-title>H&#x000e1;bitos alimentarios y factores sociodemogr&#x000e1;ficos de pacientes con enfermedad de Parkinson en zonas rurales</article-title><source>Nutr. Hosp</source><year>2015</year><volume>32</volume><issue>6</issue><pub-id pub-id-type="doi">10.3305/nh.2015.32.6.9742</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Sigcho Vivanco</surname><given-names>MG</given-names></name>
+</person-group><source>Enfoque desde la perspectiva social, familiar e intercultural en pacientes con Enfermedad de Parkinson (examen complexivo)</source><publisher-name>Unidad Acad&#x000e9;mica de Ciencias Qu&#x000ed;micas y de la Salud. Universidad T&#x000e9;cnica de Machala</publisher-name><year>2017</year><comment>Disponible en:
+<ext-link xlink:href="http://repositorio.utmachala.edu.ec/handle/48000/11898" ext-link-type="uri">http://repositorio.utmachala.edu.ec/handle/48000/11898</ext-link>
+</comment></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Benito-Leon</surname><given-names>J</given-names></name>
+</person-group><article-title>Epidemiologia de la enfermedad de Parkinson en Espa&#x000f1;a y su contextualizacion mundial</article-title><trans-title xml:lang="en">Epidemiology of Parkinson's disease in Spain and its contextualisation in the world</trans-title><source>Rev Neurol</source><year iso-8601-date="2018-02-16">2018</year><month>Feb</month><day>16</day><volume>66</volume><issue>4</issue><fpage>125</fpage><lpage>134</lpage><comment>Spanish</comment><pub-id pub-id-type="doi">10.33588/rn.6604.2017440</pub-id><pub-id pub-id-type="pmid">29435969</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Morl&#x000e1;n Pociello</surname><given-names>S</given-names></name>
+<name><surname>Sanagust&#x000ed;n Garc&#x000e9;s</surname><given-names>MC</given-names></name>
+<name><surname>Santaf&#x000e9; L&#x000f3;pez</surname><given-names>S</given-names></name>
+<name><surname>Modrego Iranzo</surname><given-names>D</given-names></name>
+<name><surname>Sasal P&#x000e9;rez</surname><given-names>S</given-names></name>
+</person-group><article-title>Impacto social del Parkinson</article-title><source>Revista Electr&#x000f3;nica de Portales M&#x000e9;dicos.com</source><year iso-8601-date="2017-01-22">2017</year><month>Jan</month><day>22</day><comment>Disponible en:
+<ext-link xlink:href="https://www.revista-portalesmedicos.com/revista-medica/impacto-social-del-parkinson/2/" ext-link-type="uri">https://www.revista-portalesmedicos.com/revista-medica/impacto-social-del-parkinson/2/</ext-link>
+</comment></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Navarta S&#x000e1;nchez</surname><given-names>MV</given-names></name>
+<name><surname>Caparr&#x000f3;s</surname><given-names>N</given-names></name>
+<name><surname>Urs&#x000fa;a Sesma</surname><given-names>ME</given-names></name>
+<name><surname>D&#x000ed;az de Cerio Ayesa</surname><given-names>S</given-names></name>
+<name><surname>Riverol</surname><given-names>M</given-names></name>
+<name><surname>Portillo</surname><given-names>MC</given-names></name>
+</person-group><article-title>Estrategias psicosociales para fortalecer el afrontamiento de la enfermedad de Parkinson: perspectiva de pacientes, familiares y profesionales sociosanitarios</article-title><source>Atenci&#x000f3;n Primaria</source><year>2017</year><volume>49</volume><issue>4</issue><fpage>214</fpage><lpage>23</lpage><pub-id pub-id-type="doi">10.1016/j.aprim.2016.06.001</pub-id><pub-id pub-id-type="pmid">27566906</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mateo Rodr&#x000ed;guez</surname><given-names>I</given-names></name>
+<name><surname>Mill&#x000e1;n Carrasco</surname><given-names>A</given-names></name>
+<name><surname>Garc&#x000ed;a Calvente</surname><given-names>MM</given-names></name>
+<name><surname>Guti&#x000e9;rrez Cuadra</surname><given-names>P</given-names></name>
+<name><surname>Gonzalo Jim&#x000e9;nez</surname><given-names>E</given-names></name>
+<name><surname>L&#x000f3;pez Fern&#x000e1;ndez</surname><given-names>LA</given-names></name>
+</person-group><article-title>Cuidadores familiares de personas con enfermedad neurodegenerativa: perfil, aportaciones e impacto de cuidar</article-title><source>Atenci&#x000f3;n Primaria</source><year>2000</year><volume>26</volume><issue>3</issue><fpage>139</fpage><lpage>144</lpage><pub-id pub-id-type="doi">10.1016/S0212-6567(00)78630-6</pub-id><pub-id pub-id-type="pmid">10996945</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bottini Bonfati</surname><given-names>A</given-names></name>
+<name><surname>Etcheverry</surname><given-names>JL</given-names></name>
+<name><surname>Persi</surname><given-names>G</given-names></name>
+<name><surname>Zezza</surname><given-names>H</given-names></name>
+<name><surname>Starkstein</surname><given-names>S</given-names></name>
+<name><surname>Gatto</surname><given-names>EM</given-names></name>
+</person-group><article-title>Apat&#x000ed;a en la Enfermedad de Parkinson. Impacto en la Calidad de Vida</article-title><source>Medicina (Buenos Aires)</source><year>2009</year><volume>69</volume><issue>2</issue><fpage>253</fpage><lpage>8</lpage><comment>Disponible en:
+<ext-link xlink:href="http://www.scielo.org.ar/scielo.php?script=sci_arttext&#x00026;pid=S0025-76802009000300006" ext-link-type="uri">http://www.scielo.org.ar/scielo.php?script=sci_arttext&#x00026;pid=S0025-76802009000300006</ext-link>
+</comment></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Custodio</surname><given-names>N</given-names></name>
+<name><surname>Hern&#x000e1;ndez-C&#x000f3;rdova</surname><given-names>G</given-names></name>
+<name><surname>Montesinos</surname><given-names>R</given-names></name>
+<name><surname>Bardales</surname><given-names>Y</given-names></name>
+<name><surname>Mej&#x000ed;a</surname><given-names>K</given-names></name>
+<name><surname>Aldinio</surname><given-names>V</given-names></name>
+</person-group><article-title>Evaluaci&#x000f3;n de la apat&#x000ed;a en la enfermedad de Parkinson y escalas disponibles para su medici&#x000f3;n en la investigaci&#x000f3;n neuropsiqui&#x000e1;trica y la pr&#x000e1;ctica cl&#x000ed;nica</article-title><source>Rev. Neuropsiquiatr</source><year>2018</year><volume>81</volume><issue>2</issue><fpage>103</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.20453/rnp.v81i2.3336</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bastidas-Bilbao</surname><given-names>H</given-names></name>
+</person-group><article-title>Enfermedades m&#x000e9;dicas y depresi&#x000f3;n en el adulto mayor: caracter&#x000ed;sticas comunes y relaci&#x000f3;n etiol&#x000f3;gica</article-title><source>revista de psicol. (PUCP)</source><year>2014</year><volume>32</volume><issue>2</issue><fpage>191</fpage><lpage>218</lpage><comment>Disponible en:
+<ext-link xlink:href="http://www.scielo.org.pe/pdf/psico/v32n2/a01v32n2.pdf" ext-link-type="uri">http://www.scielo.org.pe/pdf/psico/v32n2/a01v32n2.pdf</ext-link>
+</comment></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lieberman</surname><given-names>A</given-names></name>
+</person-group><article-title>Are dementia and depression in Parkinson's disease related?</article-title><source>J Neurol Sci</source><year iso-8601-date="2006-10-25">2006</year><month>Oct</month><day>25</day><volume>248</volume><issue>1-2</issue><fpage>138</fpage><lpage>42</lpage><pub-id pub-id-type="doi">10.1016/j.jns.2006.05.022</pub-id><pub-id pub-id-type="pmid">16814323</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="website"><person-group person-group-type="author">
+<collab>Instituto Nacional de la Salud Mental (NIMH)</collab>
+</person-group><source>Mental Health Medications</source><year>2016</year><comment>Disponible en:
+<ext-link xlink:href="https://www.nimh.nih.gov/health/topics/mental-health-medications" ext-link-type="uri">https://www.nimh.nih.gov/health/topics/mental-health-medications</ext-link>
+</comment></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rodr&#x000ed;guez-Carrillo</surname><given-names>JC</given-names></name>
+<name><surname>Ibarra</surname><given-names>M</given-names></name>
+</person-group><article-title>Depresi&#x000f3;n y otros trastornos afectivos en la enfermedad de Parkinson</article-title><source>Acta Neurol Colomb</source><year>2019</year><volume>35</volume><issue>3 Supl 1</issue><fpage>53</fpage><lpage>62</lpage><comment>Disponible en:
+<ext-link xlink:href="http://www.scielo.org.co/pdf/anco/v35s1/0120-8748-anco-35-s1-53.pdf" ext-link-type="uri">http://www.scielo.org.co/pdf/anco/v35s1/0120-8748-anco-35-s1-53.pdf</ext-link>
+</comment></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Lillo Collado</surname><given-names>V</given-names></name>
+</person-group><source>Caracterizaci&#x000f3;n de las diferencias de sexo en la Enfermedad de Parkinson mediante el metaanalisis de estudios transcriptomicos</source><comment>[Trabajo Fin de Grado]</comment><publisher-loc>[Valencia]</publisher-loc><publisher-name>Universitat Polit&#x000e8;cnica de Val&#x000e8;ncia. Escola T&#x000e8;cnica Superior d&#x02019;Enginyeria Agron&#x000f2;mica i del Medi Natural. Grado en Biotecnolog&#x000ed;a</publisher-name><year>2020</year><comment>Disponible en:
+<ext-link xlink:href="https://riunet.upv.es/bitstream/handle/10251/148075/Lillo%20-%20Caracterizaci%C3%B3n%20de%20las%20diferencias%20de%20sexo%20en%20la%20enfermedad%20de%20Parkinson%20mediante%20el%20meta....pdf?sequence=1" ext-link-type="uri">https://riunet.upv.es/bitstream/handle/10251/148075/Lillo%20-%20Caracterizaci%C3%B3n%20de%20las%20diferencias%20de%20sexo%20en%20la%20enfermedad%20de%20Parkinson%20mediante%20el%20meta....pdf?sequence=1</ext-link>
+</comment></element-citation></ref><ref id="B41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fiske</surname><given-names>A</given-names></name>
+<name><surname>Wetherell</surname><given-names>JL</given-names></name>
+<name><surname>Gatz</surname><given-names>M</given-names></name>
+</person-group><article-title>Depression in older adults</article-title><source>Annu Rev Clin Psychol</source><year>2009</year><volume>5</volume><fpage>363</fpage><lpage>89</lpage><pub-id pub-id-type="doi">10.1146/annurev.clinpsy.032408.153621</pub-id><pub-id pub-id-type="pmid">19327033</pub-id></element-citation></ref><ref id="B42"><label>42</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Vela Desojo</surname><given-names>L</given-names></name>
+</person-group><source>Conoce l Parkinson: Trastornos del sue&#x000f1;o, depresi&#x000f3;n, ansiedad y dolor. Conoce al Parkinson</source><publisher-loc>Madrid</publisher-loc><publisher-name>Curemos el Parkinson</publisher-name><year>2019</year><comment>Disponible en:
+<ext-link xlink:href="https://conoceelparkinson.org/wp-content/uploads/2019/04/Trastornos-del-sue%C3%B1o-y-dolor-Parkinson-CEP.pdf" ext-link-type="uri">https://conoceelparkinson.org/wp-content/uploads/2019/04/Trastornos-del-sue%C3%B1o-y-dolor-Parkinson-CEP.pdf</ext-link>
+</comment></element-citation></ref><ref id="B43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lamberg</surname><given-names>L</given-names></name>
+</person-group><article-title>Treating depression in medical conditions may improve quality of life</article-title><source>JAMA</source><year iso-8601-date="1996-09-18">1996</year><month>Sep</month><day>18</day><volume>276</volume><issue>11</issue><fpage>857</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">8782622</pub-id></element-citation></ref><ref id="B44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>Organizaci&#x000f3;n Mundial de la Salud</collab>
+</person-group><article-title>La gente y la salud. &#x000bf;Qu&#x000e9; calidad de vida? Grupo de la OMS sobre la calidad de vida</article-title><source>Foro Mundial de la Salud</source><year>1996</year><volume>17</volume><fpage>385</fpage><lpage>387</lpage><comment>Disponible en:
+<ext-link xlink:href="https://apps.who.int/iris/bitstream/handle/10665/55264/WHF_1996_17_n4_p385-387_spa.pdf?sequence=1" ext-link-type="uri">https://apps.who.int/iris/bitstream/handle/10665/55264/WHF_1996_17_n4_p385-387_spa.pdf?sequence=1</ext-link>
+</comment></element-citation></ref><ref id="B45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mart&#x000ed;nez Jurado</surname><given-names>E</given-names></name>
+<name><surname>Cervantes-Arriaga</surname><given-names>A</given-names></name>
+<name><surname>Rodr&#x000ed;guez-Violante</surname><given-names>M</given-names></name>
+</person-group><article-title>Calidad de vida en pacientes con enfermedad de Parkinson</article-title><source>Rev Mex Neuroci</source><year>2010</year><volume>11</volume><issue>6</issue><fpage>480</fpage><lpage>486</lpage><comment>Disponible en:
+<ext-link xlink:href="http://previous.revmexneurociencia.com/wp-content/uploads/2010/11/Nm106-06.pdf" ext-link-type="uri">http://previous.revmexneurociencia.com/wp-content/uploads/2010/11/Nm106-06.pdf</ext-link>
+</comment></element-citation></ref><ref id="B46"><label>46</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Kurtis Urra</surname><given-names>M</given-names></name>
+</person-group><source>Conoce el Parkinson. Importancia de la Calidad de Vida del paciente en la Enfermedad de Parkinson</source><publisher-name>Curemos al Parkinson. Madrid</publisher-name><year>2019</year><comment>Disponible en:
+<ext-link xlink:href="https://conoceelparkinson.org/wp-content/uploads/2019/04/Calidad-de-vida-Parkinson-CEP.pdf" ext-link-type="uri">https://conoceelparkinson.org/wp-content/uploads/2019/04/Calidad-de-vida-Parkinson-CEP.pdf</ext-link>
+</comment></element-citation></ref><ref id="B47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cano de la Cuerda</surname><given-names>R</given-names></name>
+<name><surname>Vela-Desojo</surname><given-names>L</given-names></name>
+<name><surname>Miangolarra-Page</surname><given-names>JC</given-names></name>
+<name><surname>Mac&#x000ed;as-Mac&#x000ed;as</surname><given-names>Y</given-names></name>
+<name><surname>Mu&#x000f1;oz-Hellin</surname><given-names>E</given-names></name>
+</person-group><article-title>Calidad de vida relacionada con la salud en la enfermedad de Parkinson</article-title><source>Medicina (Buenos Aires)</source><year>2010</year><volume>70</volume><issue>6</issue><fpage>503</fpage><lpage>507</lpage><comment>Disponible en:
+<ext-link xlink:href="http://www.scielo.org.ar/scielo.php?script=sci_arttext&#x00026;pid=S0025-76802010000600003" ext-link-type="uri">http://www.scielo.org.ar/scielo.php?script=sci_arttext&#x00026;pid=S0025-76802010000600003</ext-link>
+</comment></element-citation></ref><ref id="B48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Frades-Payo</surname><given-names>B</given-names></name>
+<name><surname>Forjaz</surname><given-names>MJ</given-names></name>
+<name><surname>Mart&#x000ed;nez-Mart&#x000ed;n</surname><given-names>P</given-names></name>
+</person-group><article-title>Situaci&#x000f3;n actual del conocimiento sobre calidad de vida en la enfermedad de Parkinson: I. Instrumentos, estudios comparativos y tratamientos</article-title><trans-title xml:lang="en">The current state of the art concerning quality of life in Parkinson's disease: I. Instruments, comparative studies and treatments</trans-title><source>Rev Neurol</source><year iso-8601-date="2009-01-15">2009</year><month>Dec</month><day>1-15</day><volume>49</volume><issue>11</issue><fpage>594</fpage><lpage>8</lpage><comment>Spanish</comment><pub-id pub-id-type="pmid">19921625</pub-id></element-citation></ref><ref id="B49"><label>49</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Rivadeneira Gallegos</surname><given-names>CJ</given-names></name>
+</person-group><source>Comparaci&#x000f3;n de la calidad de vida, funci&#x000f3;n motora, niveles de ansiedad y depresi&#x000f3;n en pacientes con Enfermedad de P&#x000e1;rkinson que realicen actividad f&#x000ed;sica con los que no realizan actividad en el periodo de enero-febrero del 2019</source><comment>[Trabajo Fin de Grado]</comment><publisher-loc>[Eduador]</publisher-loc><publisher-name>Pontificia Universidad Cat&#x000f3;lica del Ecuador. Facultad de Enfermer&#x000ed;a. Carrera de Terapia F&#x000ed;sica</publisher-name><year>2019</year><comment>Disponible en:
+<ext-link xlink:href="http://repositorio.puce.edu.ec/handle/22000/17084" ext-link-type="uri">http://repositorio.puce.edu.ec/handle/22000/17084</ext-link>
+</comment></element-citation></ref><ref id="B50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Santos Garc&#x000ed;a</surname><given-names>D</given-names></name>
+<name><surname>Jes&#x000fa;s</surname><given-names>S</given-names></name>
+<name><surname>Aguilar</surname><given-names>M</given-names></name>
+<name><surname>Planellas</surname><given-names>LL</given-names></name>
+<name><surname>Garc&#x000ed;a Caldentey</surname><given-names>J</given-names></name>
+<name><surname>Caballol</surname><given-names>N</given-names></name>
+<name><surname>Legarda</surname><given-names>I</given-names></name>
+<name><surname>Hern&#x000e1;ndez Vara</surname><given-names>J</given-names></name>
+<name><surname>Cabo</surname><given-names>I</given-names></name>
+<name><surname>L&#x000f3;pez Manzanares</surname><given-names>L</given-names></name>
+<name><surname>Gonz&#x000e1;lez Aramburu</surname><given-names>I</given-names></name>
+<name><surname>&#x000c1;vila Rivera</surname><given-names>MA</given-names></name>
+<name><surname>Catal&#x000e1;n</surname><given-names>MJ</given-names></name>
+<name><surname>L&#x000f3;pez D&#x000ed;az</surname><given-names>L</given-names></name>
+<name><surname>Puente</surname><given-names>V</given-names></name>
+<name><surname>Garc&#x000ed;a Moreno</surname><given-names>JM</given-names></name>
+<name><surname>Borru&#x000e9;</surname><given-names>C</given-names></name>
+<name><surname>Solano Vila</surname><given-names>B</given-names></name>
+<name><surname>&#x000c1;lvarez Sauco</surname><given-names>M</given-names></name>
+<name><surname>Vela</surname><given-names>L</given-names></name>
+<name><surname>Escalante</surname><given-names>S</given-names></name>
+<name><surname>Cubo</surname><given-names>E</given-names></name>
+<name><surname>Carrillo Padilla</surname><given-names>F</given-names></name>
+<name><surname>Mart&#x000ed;nez Castrillo</surname><given-names>JC</given-names></name>
+<name><surname>S&#x000e1;nchez Alonso</surname><given-names>P</given-names></name>
+<name><surname>Alonso Losada</surname><given-names>MG</given-names></name>
+<name><surname>L&#x000f3;pez Ariztegui</surname><given-names>N</given-names></name>
+<name><surname>Gast&#x000f3;n</surname><given-names>I</given-names></name>
+<name><surname>Kulisevsky</surname><given-names>J</given-names></name>
+<name><surname>Men&#x000e9;ndez Gonz&#x000e1;lez</surname><given-names>M</given-names></name>
+<name><surname>Seijo</surname><given-names>M</given-names></name>
+<name><surname>R&#x000fa;iz Mart&#x000ed;nez</surname><given-names>J</given-names></name>
+<name><surname>Valero</surname><given-names>C</given-names></name>
+<name><surname>Kurtis</surname><given-names>M</given-names></name>
+<name><surname>de F&#x000e1;bregues-Boixar</surname><given-names>O</given-names></name>
+<name><surname>Gonz&#x000e1;lez Ardura</surname><given-names>J</given-names></name>
+<name><surname>Prieto Jurczynska</surname><given-names>C</given-names></name>
+<name><surname>Martinez-Martin</surname><given-names>P</given-names></name>
+<name><surname>Mir</surname><given-names>P</given-names></name>
+<collab>COPPADIS Study Group</collab>
+</person-group><article-title>COPPADIS-2015 (COhort of Patients with PArkinson's DIsease in Spain, 2015): an ongoing global Parkinson's disease project about disease progression with more than 1000 subjects included. Results from the baseline evaluation</article-title><source>Eur J Neurol</source><year iso-8601-date="2019-11">2019</year><month>Nov</month><volume>26</volume><issue>11</issue><fpage>1399</fpage><lpage>1407</lpage><pub-id pub-id-type="doi">10.1111/ene.14008</pub-id><pub-id pub-id-type="pmid">31179586</pub-id></element-citation></ref></ref-list></back></article>

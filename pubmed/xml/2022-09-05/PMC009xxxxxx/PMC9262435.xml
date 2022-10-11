@@ -1,0 +1,174 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="editorial"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Bras Pneumol</journal-id><journal-id journal-id-type="iso-abbrev">J Bras Pneumol</journal-id><journal-id journal-id-type="publisher-id">jbpneu</journal-id><journal-title-group><journal-title>Jornal Brasileiro de Pneumologia</journal-title></journal-title-group><issn pub-type="ppub">1806-3713</issn><issn pub-type="epub">1806-3756</issn><publisher><publisher-name>Sociedade Brasileira de Pneumologia e Tisiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35830059</article-id><article-id pub-id-type="pmc">PMC9262435</article-id><article-id pub-id-type="doi">10.36416/1806-3756/e20220209</article-id><article-id pub-id-type="other">00000</article-id><article-categories><subj-group subj-group-type="heading"><subject>Editorial</subject></subj-group></article-categories><title-group><article-title>What remains in the pulmonary tissue after acute COVID-19?</article-title><trans-title-group xml:lang="pt"><trans-title>O que permanece no tecido pulmonar ap&#x000f3;s a COVID-19 aguda?</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6659-7186</contrib-id><name><surname>Duarte-Neto</surname><given-names>Amaro Nunes</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9073-9989</contrib-id><name><surname>Dolhnikoff</surname><given-names>Marisa</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><aff id="aff1">
+<label>1</label>. Departamento de Patologia, Faculdade de Medicina, Universidade de S&#x000e3;o Paulo, S&#x000e3;o Paulo (SP) Brasil.</aff></contrib-group><pub-date date-type="pub" publication-format="electronic"><day>01</day><month>7</month><year>2022</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2022</year></pub-date><volume>48</volume><issue>3</issue><elocation-id>e20220209</elocation-id><permissions><copyright-statement>&#x000a9; 2022 Sociedade Brasileira de Pneumologia e Tisiologia</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>Sociedade Brasileira de Pneumologia e Tisiologia</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License which permits unrestricted non-commercial use, distribution, and reproduction in any medium provided the original work is properly cited.</license-p></license></permissions><counts><fig-count count="0"/><table-count count="0"/><equation-count count="0"/><ref-count count="16"/></counts></article-meta></front><body><p>What remains after the devastation of the critical phase of the COVID-19 pandemic, experienced in 2020-2021? After two years of the pandemic, health systems worldwide are facing problems that go beyond those faced at the beginning of the pandemic, such as diagnosis, case definition, appropriate treatment, and control of the spread of SARS-CoV-2. Some of the major questions at this point are which patients will not fully recover from the acute phase of the disease and what mechanisms are involved in the different outcomes. We now know that patients with COVID-19 of various clinical profiles can progress with Long COVID, a clinical condition with persistent systemic symptoms that can last for months or even years after the acute disease.<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref> Given the large number of COVID-19 cases worldwide, long-term sequelae can lead to a large contingent of individuals with disabilities, who will require follow-up by specialists of different areas.</p><p>Although Long COVID still lacks standardization in its definition and nomenclature,<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref> it is clear that it can affect different organs and systems; due to the high prevalence and severity of pulmonary involvement in the acute phase of COVID-19, chronic pulmonary involvement in Long COVID is one of the main concerns. Clinical and radiological studies show that the persistence of pulmonary symptoms, alterations in pulmonary function, and tomographic signs of pulmonary alterations months after the disease can affect between 24% and 50% (or even more) of hospitalized patients with COVID-19.<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref> Clinical and epidemiological studies have determined the risk of developing lung fibrosis after disease onset.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref> Elderly patients with comorbidities (especially systemic arterial hypertension, obesity, and diabetes mellitus), previous lung disease, fever during the acute phase of the disease, prolonged viral clearance, prolonged hospitalization, prolonged mechanical ventilation, and extensive pulmonary involvement on HRCT scans in the acute phase are at a greater risk of developing pulmonary fibrosis and functional impairment after COVID-19.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><p>Histopathological changes in COVID-19 patients with persistent lung disease have been reported in few studies, most of them describing lung pathology in samples obtained from autopsy or lung explants from patients with severe acute illness and prolonged hospitalization. The main pulmonary alterations described in individuals with disease duration greater than 30 days include diffuse interstitial fibrosis, microscopic honeycomb change, bronchiolectasis, lymphocytic and macrophagic interstitial and intra-alveolar inflammation, interstitial capillary neoangiogenesis, recanalized thrombi involving small pulmonary arteries, and pulmonary infarction.<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>-</sup>
+<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref> The fibrotic pattern of diffuse alveolar damage that characterizes severe disease is more prominent three weeks after disease onset.<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref> The pathogenesis of those alterations is probably multifactorial, involving viral lesions in the acute phase, secondary pulmonary infections, and mechanical ventilation-associated injury.<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref> Single-cell RNA sequencing of lung tissue from patients with late-stage COVID-19 shows similarity with lung tissue from patients with pulmonary fibrosis due to other conditions, with increased expression of extracellular matrix production genes.<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>However, autopsy and explant studies cannot predict how much of the pulmonary changes are likely to resolve over time in patients who survive acute COVID-19 with varying degrees of severity. To date, studies on lung pathology involving COVID-19 survivors are lacking. In this sense, in this issue of the <italic>Jornal Brasileiro de Pneumologia</italic>, the welcome study by Baldi et al.<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> analyzed 6 post-COVID-19 patients and described the post-acute phase follow-up for at least a four-month period. Only one patient was mechanically ventilated during the acute phase. Although all six patients recovered at the end of follow-up, they presented with persistent respiratory symptoms and interstitial lung abnormalities on HRCT scans within at least four months after discharge. Transbronchial biopsies showed mild alterations present in all of the patients, mainly characterized by peribronchial remodeling with extracellular matrix deposition and focal alveolar septal thickening. Vascular changes such as thrombosis, vasculitis, and infarctions were not observed. The study<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> gains importance as one of the first studies to evaluate transbronchial biopsies of patients with COVID-19 with a follow-up period of several months. The limitations of the study have already been pointed out by the authors: small number of patients and limited amount of tissue for analysis, as transbronchial biopsy does not assess the peripheral lung tissue where most of the tomographic changes are located.<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> Ravaglia et al.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> have recently described the morphological and immunomolecular features of transbronchial lung cryobiopsies performed in 10 patients with persistent lung disease after recovery for at least 30 days from COVID-19-related pneumonia. None of the patients had been mechanically ventilated, and all had persistent lung involvement on HRCT scans and persistent respiratory and/or systemic symptoms. Histological evaluation revealed three different &#x0201c;case clusters&#x0201d; characterized by specific clinical and radiological features. Cluster one (&#x0201c;chronic fibrosing&#x0201d;) was characterized by post-infection progression of pre-existing interstitial pneumonias; cluster two (&#x0201c;acute/subacute injury&#x0201d;) was characterized by different types and grades of lung injury ranging from organizing pneumonia and fibrosing nonspecific interstitial pneumonia to diffuse alveolar damage; and cluster three (&#x0201c;vascular changes&#x0201d;) showed diffuse vascular increase, vascular dilatation, and distortion of capillaries and venules within otherwise normal parenchyma. The study was also limited by its small sample size and short time frame.<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> Konopka et al.<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref> reviewed surgical lung biopsies from 18 patients with evidence of persistent interstitial lung disease between 2 and 12 months after the acute phase of COVID-19. Usual interstitial pneumonia was the most common histological pattern in those patients, possibly corresponding to diffuse fibrotic lung disease that preceded SARS-CoV-2 infection.</p><p>It is expected that new morphological studies characterizing Long COVID will soon emerge. Further studies are needed for a better understanding of the pathology and pathogenesis of post-COVID disease. Cryobiopsies can reduce sample size limitations, with the possibility of a better analysis of the main pulmonary compartments (airways and alveolar tissue) without increasing the risk of the transbronchial biopsy procedure. The evaluation of a larger number of cases with different profiles of the broad spectrum of the disease in the acute (mild, moderate, and severe disease) or late phase (persistence of clinical, functional, and tomographic impairment), matched to baseline characteristics (age, sex, BMI, and comorbidities), duration of illness, need of mechanical ventilation, and use of corticosteroids, will help us understand the different patterns of chronic lung involvement, the inflammatory elements and pathways involved, and the prevalence and distribution of irreversible lung changes in patients with pulmonary Long COVID. Hopefully, these morphological studies will give us insights into pathogenic mechanisms and provide knowledge that can impact treatment and prevention of chronic pulmonary changes in COVID-19.</p></body><back><ref-list><title>REFERENCES</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Soriano</surname><given-names>JB</given-names></name>
+<name><surname>Murthy</surname><given-names>S</given-names></name>
+<name><surname>Marshall</surname><given-names>JC</given-names></name>
+<name><surname>Relan</surname><given-names>P</given-names></name>
+<name><surname>Diaz</surname><given-names>JV</given-names></name>
+</person-group><person-group person-group-type="author">
+<collab>WHO Clinical Case Definition Working Group on Post-COVID-19 Condition</collab>
+</person-group><article-title>A clinical case definition of post-COVID-19 condition by a Delphi consensus</article-title><source>Lancet Infect Dis</source><year>2022</year><volume>22</volume><issue>4</issue><fpage>e102</fpage><lpage>e107</lpage><pub-id pub-id-type="doi">10.1016/S1473-3099(21)00703-9</pub-id><pub-id pub-id-type="pmid">34951953</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alwan</surname><given-names>NA</given-names></name>
+<name><surname>Johnson</surname><given-names>L</given-names></name>
+</person-group><article-title>Defining long COVID Going back to the start</article-title><source>Med (N Y)</source><year>2021</year><volume>2</volume><issue>5</issue><fpage>501</fpage><lpage>504</lpage><pub-id pub-id-type="doi">10.1016/j.medj.2021.03.003</pub-id><pub-id pub-id-type="pmid">33786465</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Munblit</surname><given-names>D</given-names></name>
+<name><surname>O'Hara</surname><given-names>ME</given-names></name>
+<name><surname>Akrami</surname><given-names>A</given-names></name>
+<name><surname>Perego</surname><given-names>E</given-names></name>
+<name><surname>Olliaro</surname><given-names>P</given-names></name>
+<name><surname>Needham</surname><given-names>DM</given-names></name>
+</person-group><article-title>Long COVID: aiming for a consensus</article-title><source>Lancet Respir Med</source><year>2022</year><volume>S2213-2600</volume><issue>22</issue><fpage>00135</fpage><lpage>00137</lpage><pub-id pub-id-type="doi">10.1016/S2213-2600(22)00135-7</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Yu</surname><given-names>H</given-names></name>
+<name><surname>Li</surname><given-names>R</given-names></name>
+<name><surname>Zhan</surname><given-names>Q</given-names></name>
+</person-group><article-title>3-month, 6-month, 9-month, and 12-month respiratory outcomes in patients following COVID-19-related hospitalisation a prospective study</article-title><source>Lancet Respir Med</source><year>2021</year><volume>9</volume><issue>7</issue><fpage>747</fpage><lpage>754</lpage><pub-id pub-id-type="doi">10.1016/S2213-2600(21)00174-0</pub-id><pub-id pub-id-type="pmid">33964245</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Shen</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Majumder</surname><given-names>S</given-names></name>
+<name><surname>Zhang</surname><given-names>D</given-names></name>
+<name><surname>Deen</surname><given-names>MJ</given-names></name>
+</person-group><article-title>Pulmonary fibrosis and its related factors in discharged patients with new corona virus pneumonia a cohort study</article-title><source>Respir Res</source><year>2021</year><volume>22</volume><issue>1</issue><fpage>203</fpage><lpage>203</lpage><pub-id pub-id-type="doi">10.1186/s12931-021-01798-6</pub-id><pub-id pub-id-type="pmid">34243776</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>George</surname><given-names>PM</given-names></name>
+<name><surname>Wells</surname><given-names>AU</given-names></name>
+<name><surname>Jenkins</surname><given-names>RG</given-names></name>
+</person-group><article-title>Pulmonary fibrosis and COVID-19 the potential role for antifibrotic therapy</article-title><source>Lancet Respir Med</source><year>2020</year><volume>8</volume><issue>8</issue><fpage>807</fpage><lpage>815</lpage><pub-id pub-id-type="doi">10.1016/S2213-2600(20)30225-3</pub-id><pub-id pub-id-type="pmid">32422178</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Aesif</surname><given-names>SW</given-names></name>
+<name><surname>Bribriesco</surname><given-names>AC</given-names></name>
+<name><surname>Yadav</surname><given-names>R</given-names></name>
+<name><surname>Nugent</surname><given-names>SL</given-names></name>
+<name><surname>Zubkus</surname><given-names>D</given-names></name>
+<name><surname>Tan</surname><given-names>CD</given-names></name>
+</person-group><article-title>Pulmonary Pathology of COVID-19 Following 8 Weeks to 4 Months of Severe Disease A Report of Three Cases, Including One With Bilateral Lung Transplantation</article-title><source>Am J Clin Pathol</source><year>2021</year><volume>155</volume><issue>4</issue><fpage>506</fpage><lpage>514</lpage><pub-id pub-id-type="doi">10.1093/ajcp/aqaa264</pub-id><pub-id pub-id-type="pmid">33316056</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Polak</surname><given-names>SB</given-names></name>
+<name><surname>Van Gool</surname><given-names>IC</given-names></name>
+<name><surname>Cohen</surname><given-names>D</given-names></name>
+<name><surname>von der Th&#x000fc;sen</surname><given-names>JH</given-names></name>
+<name><surname>van Paassen</surname><given-names>J.</given-names></name>
+</person-group><article-title>A systematic review of pathological findings in COVID-19 a pathophysiological timeline and possible mechanisms of disease progression</article-title><source>Mod Pathol</source><year>2020</year><volume>33</volume><issue>11</issue><fpage>2128</fpage><lpage>2138</lpage><pub-id pub-id-type="doi">10.1038/s41379-020-0603-3</pub-id><pub-id pub-id-type="pmid">32572155</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Flaifel</surname><given-names>A</given-names></name>
+<name><surname>Kwok</surname><given-names>B</given-names></name>
+<name><surname>Ko</surname><given-names>J</given-names></name>
+<name><surname>Chang</surname><given-names>S</given-names></name>
+<name><surname>Smith</surname><given-names>D</given-names></name>
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+</person-group><article-title>Pulmonary Pathology of End-Stage COVID-19 Disease in Explanted Lungs and Outcomes After Lung Transplantation</article-title><source>Am J Clin Pathol</source><year>2022</year><volume>157</volume><issue>6</issue><fpage>908</fpage><lpage>926</lpage><pub-id pub-id-type="doi">10.1093/ajcp/aqab208</pub-id><pub-id pub-id-type="pmid">34999755</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bharat</surname><given-names>A</given-names></name>
+<name><surname>Machuca</surname><given-names>TN</given-names></name>
+<name><surname>Querrey</surname><given-names>M</given-names></name>
+<name><surname>Kurihara</surname><given-names>C</given-names></name>
+<name><surname>Garza-Castillon</surname><given-names>R</given-names><suffix>Jr</suffix></name>
+<name><surname>Kim</surname><given-names>S</given-names></name>
+</person-group><article-title>Early outcomes after lung transplantation for severe COVID-19 a series of the first consecutive cases from four countries</article-title><source>Lancet Respir Med</source><year>2021</year><volume>9</volume><issue>5</issue><fpage>487</fpage><lpage>497</lpage><pub-id pub-id-type="doi">10.1016/S2213-2600(21)00077-1</pub-id><pub-id pub-id-type="pmid">33811829</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Konopka</surname><given-names>KE</given-names></name>
+<name><surname>Perry</surname><given-names>W</given-names></name>
+<name><surname>Huang</surname><given-names>T</given-names></name>
+<name><surname>Farver</surname><given-names>CF</given-names></name>
+<name><surname>Myers</surname><given-names>JL</given-names></name>
+</person-group><article-title>Usual Interstitial Pneumonia is the Most Common Finding in Surgical Lung Biopsies from Patients with Persistent Interstitial Lung Disease Following Infection with SARS-CoV-2</article-title><source>EClinicalMedicine</source><year>2021</year><volume>42</volume><fpage>101209</fpage><lpage>101209</lpage><pub-id pub-id-type="doi">10.1016/j.eclinm.2021.101209</pub-id><pub-id pub-id-type="pmid">34841234</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Flikweert</surname><given-names>AW</given-names></name>
+<name><surname>Grootenboers</surname><given-names>MJJH</given-names></name>
+<name><surname>Yick</surname><given-names>DCY</given-names></name>
+<name><surname>du M&#x000e9;e</surname><given-names>AWF</given-names></name>
+<name><surname>van der Meer</surname><given-names>NJM</given-names></name>
+<name><surname>Rettig</surname><given-names>TCD</given-names></name>
+<etal/>
+</person-group><article-title>Late histopathologic characteristics of critically ill COVID-19 patients Different phenotypes without evidence of invasive aspergillosis, a case series</article-title><source>J Crit Care</source><year>2020</year><volume>59</volume><fpage>149</fpage><lpage>155</lpage><pub-id pub-id-type="doi">10.1016/j.jcrc.2020.07.002</pub-id><pub-id pub-id-type="pmid">32674001</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mauad</surname><given-names>T</given-names></name>
+<name><surname>Duarte-Neto</surname><given-names>AN</given-names></name>
+<name><surname>da Silva</surname><given-names>LFF</given-names></name>
+<name><surname>de Oliveira</surname><given-names>EP</given-names></name>
+<name><surname>de Brito</surname><given-names>JM</given-names></name>
+<name><surname>do Nascimento</surname><given-names>ECT</given-names></name>
+</person-group><article-title>Tracking the time course of pathological patterns of lung injury in severe COVID-19</article-title><source>Respir Res</source><year>2021</year><volume>22</volume><issue>1</issue><fpage>32</fpage><lpage>32</lpage><pub-id pub-id-type="doi">10.1186/s12931-021-01628-9</pub-id><pub-id pub-id-type="pmid">33514373</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bharat</surname><given-names>A</given-names></name>
+<name><surname>Querrey</surname><given-names>M</given-names></name>
+<name><surname>Markov</surname><given-names>NS</given-names></name>
+<name><surname>Kim</surname><given-names>S</given-names></name>
+<name><surname>Kurihara</surname><given-names>C</given-names></name>
+<name><surname>Garza-Castillon</surname><given-names>R</given-names></name>
+</person-group><article-title>Lung transplantation for patients with severe COVID-19</article-title><source>Sci Transl Med</source><year>2020</year><volume>12</volume><issue>574</issue><pub-id pub-id-type="doi">10.1126/scitranslmed.abe4282</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Baldi</surname><given-names>BG</given-names></name>
+<name><surname>Fabro</surname><given-names>AT</given-names></name>
+<name><surname>Franco</surname><given-names>AC</given-names></name>
+<name><surname>Machado</surname><given-names>MHC</given-names></name>
+<name><surname>Prudente</surname><given-names>RA</given-names></name>
+<name><surname>Franco</surname><given-names>ET</given-names></name>
+</person-group><article-title>Clinical, radiological, and transbronchial biopsy findings in patients with long COVID-19 a case series</article-title><source>J Bras Pneumol</source><year>2022</year><volume>48</volume><issue>3</issue><elocation-id>e20210438</elocation-id><pub-id pub-id-type="doi">10.36416/1806-3756/e20210438</pub-id><pub-id pub-id-type="pmid">35508067</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ravaglia</surname><given-names>C</given-names></name>
+<name><surname>Doglioni</surname><given-names>C</given-names></name>
+<name><surname>Chilosi</surname><given-names>M</given-names></name>
+<name><surname>Piciucchi</surname><given-names>S</given-names></name>
+<name><surname>Dubini</surname><given-names>A</given-names></name>
+<name><surname>Rossi</surname><given-names>G</given-names></name>
+<etal/>
+</person-group><article-title>Clinical, radiological, and pathological findings in patients with persistent lung disease following SARS-CoV-2 infection [published online ahead of print, 2022 Mar 17]</article-title><source>Eur Respir J</source><year>2022</year><fpage>2102411</fpage><lpage>2102411</lpage><pub-id pub-id-type="doi">10.1183/13993003.02411-2021</pub-id><pub-id pub-id-type="pmid">35301248</pub-id></element-citation></ref></ref-list></back></article>

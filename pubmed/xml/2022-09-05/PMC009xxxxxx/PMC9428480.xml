@@ -1,0 +1,599 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell J</journal-id><journal-id journal-id-type="iso-abbrev">Cell J</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>Cell Journal (Yakhteh)</journal-title></journal-title-group><issn pub-type="ppub">2228-5806</issn><issn pub-type="epub">2228-5814</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36043409</article-id><article-id pub-id-type="pmc">PMC9428480</article-id><article-id pub-id-type="other">Cell-J-24-410</article-id><article-id pub-id-type="doi">10.22074/cellj.2022.8051</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject><subj-group><subject>Genetics</subject><subject>Gynecology and Female Infertility</subject></subj-group></subj-group></article-categories><title-group><article-title><italic>TGF&#x000df;</italic> Gene Members and Their Regulatory Factors in Granulosa
+Compared to Cumulus Cells in PCOS: A Case-Control Study </article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Alvandian</surname><given-names>Faezeh</given-names></name><degrees>M.Sc</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A2" ref-type="aff">2</xref><xref rid="A3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Hosseini</surname><given-names>Elham</given-names></name><degrees>Ph.D</degrees><xref rid="A4" ref-type="aff">4</xref><xref rid="A5" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Hashemian</surname><given-names>Zohre</given-names></name><degrees>M.Sc</degrees><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Khosravifar</surname><given-names>Mona</given-names></name><degrees>M.Sc</degrees><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Movaghar</surname><given-names>Bahar</given-names></name><degrees>Ph.D</degrees><xref rid="A6" ref-type="aff">6</xref></contrib><contrib contrib-type="author"><name><surname>Shahhoseini</surname><given-names>Maryam</given-names></name><degrees>Ph.D</degrees><xref rid="A2" ref-type="aff">2</xref><xref rid="A7" ref-type="aff">7</xref><xref rid="A8" ref-type="aff">8</xref></contrib><contrib contrib-type="author"><name><surname>Shiva</surname><given-names>Marzieh</given-names></name><degrees>M.D</degrees><xref rid="A9" ref-type="aff">9</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Afsharian</surname><given-names>Parvaneh</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A2" ref-type="aff">2</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><aff id="A1"><label>1</label>Faculty of Sciences and Advanced Technologies in Biology, University of Science and Culture, Tehran, Iran</aff><aff id="A2"><label>2</label>Department of Genetics, Reproductive Biomedicine Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran</aff><aff id="A3"><label>3</label>Deputy of Research and Technology, Hamadam University of Medical Sciences, Hamadan, Iran</aff><aff id="A4"><label>4</label>Department of Obstetrics and Gynecology, Mousavi Hospital, School of Medicine, Zanjan University of Medical Sciences, Zanjan, Iran</aff><aff id="A5"><label>5</label>Zanjan Metabolic Diseases Research Center, Zanjan University of Medical Sciences, Zanjan, Iran</aff><aff id="A6"><label>6</label>Department of Embryology, Reproductive Biomedicine Research Center, Royan Institute for Reproductive Biomedicine, ACECR,
+Tehran, Iran</aff><aff id="A7"><label>7</label>Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran</aff><aff id="A8"><label>8</label>Department of Cell and Molecular Biology, School of Biology, College of Science, University of Tehran, Tehran, Iran</aff><aff id="A9"><label>9</label>Department of Endocrinology and Female Infertility, Reproductive Biomedicine Research Center, Royan Institute for Reproductive
+Biomedicine, ACECR, Tehran, Iran</aff></contrib-group><author-notes><corresp id="cor1">
+<label>*Corresponding Address:</label>
+<addr-line>P.O.Box: 16635-148</addr-line>
+<addr-line>Department of Endocrinology and Female Infertility</addr-line>
+<addr-line>Reproductive Biomedicine Research Center</addr-line>
+<institution>Royan Institute for Reproductive Biomedicine</institution>
+<addr-line>ACECR</addr-line>
+<addr-line>Tehran</addr-line>
+<addr-line>Iran
+Department of Genetics</addr-line>
+<addr-line>Reproductive Biomedicine Research Center</addr-line>
+<institution>Royan Institute for Reproductive Biomedicine</institution>
+<addr-line>ACECR</addr-line>
+<addr-line>Tehran</addr-line>
+<country>Iran</country>
+Emails:<email>m.shiva@royan-rc.ac.ir</email>,<email>p.afsharian@royan-rc.ac.ir</email>
+</corresp></author-notes><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>27</day><month>7</month><year>2022</year></pub-date><volume>24</volume><issue>7</issue><fpage>410</fpage><lpage>416</lpage><history><date date-type="received"><day>20</day><month>4</month><year>2021</year></date><date date-type="accepted"><day>23</day><month>8</month><year>2021</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium,
+with the exception of commercial purposes, is permitted provided the original work is properly cited.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0) License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original
+work is properly cited. </license-p></license></permissions><abstract><sec><title>Objective</title><p> Transforming growth factor-beta (TGF-&#x003b2;) superfamily and its members that include bone morphogenetic
+protein 15 (BMP15), anti-Mullerian hormone (AMH), growth /differentiation factor-9 (GDF9), and their respective
+receptors: BMPR1A, BMPR1B, and BMPR2 have been implicated as key regulators in various aspects of ovarian
+function. The abnormal function of the ovaries is one of the main contributing factors to polycystic ovarian syndrome
+(PCOS), so this study aimed to investigate the mRNA expression profile of these factors in granulosa (GCs) and
+cumulus cells (CCs) of those patients.
+</p></sec><sec><title>Materials and Methods</title><p> The case-control research was conducted on 30 women (15 infertile PCOS and 15
+normo-ovulatory patients, 22&#x02264;age &#x02264;38 years old) who underwent ovarian stimulation for in vitro fertilization (IVF)/
+intracytoplasmic sperm injection (ICSI) cycle. GCs/CCs were obtained during ovarian puncture. The expression
+analysis of the aforementioned genes was quantified using real-time polymerase chain reaction (PCR).
+</p></sec><sec><title>Results</title><p> AMH and BMPR1A expression levels were significantly increased in GCs of PCOS compared to the control group.
+In contrast, GDF9, BMP15, BMPR1B, and BMPR2 expressions were decreased. PCOS' CC showed the same expression
+patterns. GDF9 and AMH were effectively expressed in normal CCs, and <italic>BMP15</italic> and <italic>BMPR1B</italic> in normal GCs (P&#x0003c;0.05).
+</p></sec><sec><title>Conclusion</title><p>Differential gene expression levels of <italic>AMH</italic> and its regulatory factors and their primary receptors were
+detected in granulosa and cumulus cells in PCOS women. Since the same antagonist protocol for ovarian stimulation
+was used in both PCOS and control groups, the results were independent of the protocols. This diversity in gene
+expression pattern may contribute to downstream pathways alteration of these genes, which are involved in oocyte
+competence and maturation.</p></sec></abstract><kwd-group><kwd>Cumulus Cell</kwd><kwd>Granulosa Cell</kwd><kwd>Polycystic Ovarian Syndrome</kwd><kwd>TGF-Beta Superfamily</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Alvandian F, Hosseini E, Hashemian Z, Khosravifar M, Shiva M, Movaghar B, Shahhoseini M, Afsharian P. TGF&#x003b2; gene members and their regulatory
+factors in granulosa compared to cumulus cells in PCOS: a case-control study. Cell J. 2022; 24(7): 410-416. doi: 10.22074/cellj.2022.8051.
+This open-access article has been published under the terms of the Creative Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0).</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Polycystic ovary syndrome (PCOS), one of the most
+common causes of an-ovulatory, is a heterogeneous
+endocrine disorder in infertile women, affecting up to
+6-20% of women of reproductive age (<xref rid="B1" ref-type="bibr">1</xref>).</p><p>PCOS is confirmed by existing at least two of three
+special features based on the Rotterdam criteria:
+clinical/ biochemical evidence of hyperandrogenism,
+oligomenorrhea/ anovulation, and polycystic ovaries (<xref rid="B2" ref-type="bibr">2</xref>).
+A wide variety of genetic alterations in differential tissues
+and cell types impact normal follicular development in
+this syndrome. Imbalanced follicle-stimulating hormone
+(FSH), luteinizing hormone (LH), and some key factors
+that are involved in the inappropriate progression of
+folliculogenesis are the main molecular features associated
+with impaired and arrested development of the germinal
+vesicle stage of oocytes toward the dominant and mature
+follicles in polycystic ovaries (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>).
+</p><p>The delicate communication process between different
+types of cells in the mammalian follicles, namely oocyte
+and its surrounding somatic cells, granulosa (GCs), and
+cumulus cells (CCs), has a pivotal impact on the oogenesis
+process, oocyte maturation, cumulus expansion, and
+ovulation (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B6" ref-type="bibr">6</xref>). Paracrine signals of the oocyte are the
+potent stimulators in GCs/CCs, which regulate the above
+physiological processes and consequently affect female
+fertility (<xref rid="B7" ref-type="bibr">7</xref>).</p><p>Among the secreted factors by the oocyte or follicle somatic cells, transforming growth
+factor-beta (TGF-&#x003b2;) superfamily and its members, including anti-mullerian hormone
+(<italic>AMH</italic>), growth and differentiation factor 9 (<italic>GDF9</italic>), and
+bone morphogenetic protein 15 (<italic>BMP15</italic>) which are expressed in follicular
+stage-related manner, have been implicated as key regulators in various aspects of
+intra-ovarian development (<xref rid="B8" ref-type="bibr">8</xref>). On the other hand, alteration in expression of these factors,
+especially <italic>AMH</italic>, is related to pathological ovarian conditions, such as PCOS
+and Endometriosis (<xref rid="B9" ref-type="bibr">9</xref>).</p><p>AMH is now a quantitative marker of ovarian reserve as
+well as a diagnostic factor for PCOS (<xref rid="B10" ref-type="bibr">10</xref>). TGF-&#x003b2; family
+members bind to their receptors in GCs/CCs which induces
+a cascade of several downstream protein-coding genes.
+Even though GCs are differentiated into CCs and both of
+them have a common progenitor during folliculogenesis,
+the mentioned genes show different expression and even
+regulation patterns in those specialized cell types (<xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B12" ref-type="bibr">12</xref>).
+</p><p>Based on previous studies, alterations in the gene
+expression pattern of granulosa-cumulus cells play a
+definite role in the impaired final maturation of antral
+follicles to later-stage growth, which is one of the main
+contributing factors and underlying causes of polycystic
+ovaries (<xref rid="B13" ref-type="bibr">13</xref>).</p><p>AMH is secreted from ovarian cells in the growing
+follicles and can regulate the FSH-dependent follicle
+development. Previous studies showed that the expression
+and secretion of AMH from granulosa-cumulus cells are
+increased in preovulatory follicles, which contain atretic
+oocytes (<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B15" ref-type="bibr">15</xref>).</p><p>GDF-9 and BMP-15, as other members of the TGF-&#x003b2;
+superfamily, are known as growth promoters during normal
+folliculogenesis (<xref rid="B16" ref-type="bibr">16</xref>). A study of intraovarian interactions,
+regulatory mechanisms, and possible abnormalities
+which interfere with the balance between these molecular
+factors in patients suffering PCOS compared to women
+with normal oogenesis can provide a better overview of
+controlling and monitoring ovarian function that may be
+resulted in improving the fertility of such patients.</p><p>This study aimed to investigate the mRNA expression profile of <italic>BMP15, GDF9, AMH</italic>
+genes, and their respective receptors, which include: <italic>BMPR1A, BMPR1B</italic>, and
+<italic>BMPR2</italic>, in GCs and CCs of PCOS patients, compared to women with normal
+oogenesis undergoing controlled ovarian stimulation (COS) treatment cycles.</p></sec><sec sec-type="materials-methods"><title>Materials and Methods</title><p>The case-control research was endorsed by the
+Royan Institute Ethics Boards (IR.ACECR.ROYAN.
+REC.1394.86). Thirty patients (15 PCOS patients with
+infertility and 15 normo-ovulatory patients, 22&#x02264;age&#x02264;38
+years old) were recruited to the study between November
+2014 and April 2016 who underwent COS for IVF/ICSI
+at the Infertility Clinic (Royan Institute, Iran). Informed
+consent were obtained from all subjects.</p><p>Patients who met the following criteria were included in
+the control group: absence of clinical/ biochemical signs of
+hyperandrogenism or other endocrine diseases, polycystic
+ovaries, diabetes, with regular menstrual cycles (26&#x0003c;cycle
+length&#x0003c;32), having normal hormone profile (TSH, FSH,
+and LH). All controls were undergoing ovarian stimulation
+treatment due to their tubal factor infertility. </p><p>Rotterdam diagnostic criteria are routinely used for PCOS phenotyping which includes:
+chronic oligo and/ or anovulation (&#x0003c;26 or &#x0003e;35 days of cycle length), biochemical or
+clinical evidence of hyperandrogenism (total testosterone concentration &#x0003e;0.5 ng/ml,
+hirsutism, acne, and alopecia), and the presence of 12 or more ovarian cysts with 2-10 mm
+diameter per cyst and/or ovarian volume &#x02265;10 cm<sup>3</sup> on ultrasound (polycystic
+ovaries). </p><p>Inclusion criteria for all women (PCOS and control) were including the first IVF/ICSI
+cycle, ovarian stimulation by antagonist protocol, 22&#x02264;age&#x02264;38 years, and body mass index
+(BMI) of 18-28 kg/m<sup>2</sup> . The severe male factor, including
+oligo-astheno-teratozoospermia, retrieved sperm from testis, and semen freeze was excluded.
+The semen was analyzed in accordance with the criteria of the 5<sup>th</sup> edition of the
+World Health Organization (WHO) in 2010.</p><p>All hormone tests (FSH and LH levels) were carried out on days 2 to 3 of the menstrual
+cycle using electrochemiluminescence immunoassay kits (ECLIA kits, Roche Diagnostics GmbH,
+Germany). Further evaluation of total testosterone concentrations in PCOS patients was
+performed by using ELISA kits (Monobind Inc., USA), and serum AMH levels were assessed using
+an electrochemiluminescence immunoassay by Elecsys<sup>&#x000ae;</sup> and Cobas Immunoassay
+Analyzers (Roche GmbH).</p><sec><title>Control ovarian stimulation protocol</title><p>Down-regulation of the pituitary gland with GnRH
+antagonist protocol [the administration of 75&#x02013;150 IU
+recombinant FSH (Gonal F; Merck Serono, or Puregon;
+MSD, the Netherlands)] was done for all women up to the
+day of human chorionic gonadotropin (hCG, Ovitrelle&#x000ae;,
+Merck-Serono) injection. The COS was performed
+considering the age of the women and the antral follicle
+count (AFC).</p></sec><sec><title>Granulosa and cumulus cells isolation
+</title><p>The following steps were taken to isolate the follicular fluid and extract cumulus and
+granulosa cells from collected cumulus-oocyte complex (COC) as described previously (<xref rid="B17" ref-type="bibr">17</xref>,
+<xref rid="B18" ref-type="bibr">18</xref>). Briefly, follicular fluid (FF) was obtained after hCG injection (34-36 hours) during
+ovarian puncture. COCs were collected from FF and repeatedly washed in culture medium
+G1V5&#x02122; (Vitrolife AB, Sweden), then incubated at 37&#x000b0;C and 5% CO<sub>2 </sub>. Just before
+ICSI, the COC was denuded with hyaluronidase enzyme, then CCs washed in free enzyme
+medium, and cold phosphate buffered saline (PBS), then the cells were pelleted by
+centrifugation twice for 8 minutes at 3000 rpm; the pellet was snap-frozen in liquid
+nitrogen then stored at -80&#x000b0;C (<xref rid="B17" ref-type="bibr">17</xref>).</p><p>After retrieval of COCs, aspirated FF was centrifuged
+for 10 minutes at 2000 rpm. The clear supernatant
+(without blood) was isolated, the pellet was solved in
+Tyrode&#x02019;s solution, and the suspension was added on
+Sill select gradient and centrifuged at 3000 rpm for 13
+minutes. Granulosa cells (The layer formed between
+Sill select gradient and supernatant) were removed and
+washed with 3 ml of DMEM / HamF12 medium 10%. In
+the next step, the suspensions were centrifuged at 3000
+rpm for 13 minutes. Afterward, the diluted hyaluronidase
+enzyme was added, and the suspension was incubated for
+3 minutes; a culture medium was added to neutralize the
+effect of the enzyme, then the suspension was centrifuged
+for 5 minutes at 1500 rpm; Red blood cell lysing buffer
+was added to the cell suspension and incubated for 5
+minutes, the solution was removed; granulosa cells were
+taken for extraction of RNA.</p></sec><sec><title>RNA extraction, cDNA synthesis, and reverse
+transcription-polymerase chain reaction (RT-PCR)</title><p>Total RNA was extracted, then purified by removing
+DNA genomic from the samples using the RNeasy Micro
+Kit (Qiagen, cat. no: 74004) as per the &#x02018; &#x02018;manufacturer&#x02019;s
+protocol which is also previously described (<xref rid="B18" ref-type="bibr">18</xref>).</p><p>After assessment of RNA quantity and quality by
+using the NanoDrop spectrophotometer (NanoDrop 2000
+spectrophotometer), cDNA was synthesized using 20
+nanograms of total RNA according to QuantiTect Whole
+Transcriptome Kit (Qiagen, Cat.No:207045) instruction
+and stored at -20&#x02218;
+C until molecular analysis. </p><p>For granulosa cells&#x02019; RNA extraction, TRIzol Reagent
+(Sigma- Aldrich) was used following the &#x02018; &#x02018;manufacturer&#x02019;s
+protocol. Genomic DNA contaminations were removed
+from all extracted RNA samples by treating them by
+DNaseI (Fermentas, Thermo Scientific, Germany).
+DNase I enzyme was inactivated by incubation for
+7 minutes at 65&#x02218;
+C with EDTA (50 mM, Fermentas,
+Germany). The purity of RNA was detected by NanoDrop
+spectrophotometer to determine A260/A280 ratio. RNA
+(1 &#x000b5;g) was reverse transcribed to cDNA using firststrand cDNA synthesis kit (K1632- Fermentas, Thermo
+Scientific, Germany) instruction, then stored at -20&#x02218;
+C
+until molecular analysis.</p></sec><sec><title>Quantitative real time-polymerase chain reaction</title><p>A quantitative mRNA analysis was performed using the Step-One RT-PCR system for doing
+qRT-PCR (Applied Biosystems, USA). All reactions were run in duplicate. Evaluation of mRNA
+gene expression of <italic>GDF9, BMP15, AMH, BMPR1A, BMPR1B, BMPR2 </italic>between the
+patient and control groups was done by calculation of &#x02206;C<sub>t</sub> and 2<sup>-&#x02206;Ct</sup>.
+To perform this analysis, cDNAs were synthesized from granulosa and cumulus cells of
+patients and healthy individuals. The qPCR was performed with humanspecific primers. The
+product size and primer sets are listed in <xref rid="T1" ref-type="table">Table 1</xref>. <italic>GAPDH</italic> primer was used
+as a control gene expression. PCR products were visualized using Gel Red ZellBio, Germany)
+staining and electrophoreses (1.7%-2% agarose, Paya pazhoh pars, Iran) under UV light by
+Molecular Imager<sup>&#x000ae;</sup> Gel Doc&#x02122; XR+ (BioRad, USA).</p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>Sequence of the primers used for quantitative polymerase chain reaction (qPCR) experiments</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Gene</th><th rowspan="1" colspan="1">Primer sequence (5&#x02032;&#x02192;3&#x02032;)</th><th rowspan="1" colspan="1">Annealing temperature (&#x000b0;C)</th><th rowspan="1" colspan="1">Size (bp)</th></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>GDF9</italic>
+</td><td rowspan="1" colspan="1">F: AGAAGTCACCTCTACAACACTG</td><td rowspan="1" colspan="1">60</td><td rowspan="1" colspan="1">132</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">R: AACGGTAGTAATGCGATCCA</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>BMP15</italic>
+</td><td rowspan="1" colspan="1">TGTGAACTCGTGCTTTTCATG</td><td rowspan="1" colspan="1">60</td><td rowspan="1" colspan="1">102</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">R: CTCAATCAGGGGCAAAGTAGG</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>AMH</italic>
+</td><td rowspan="1" colspan="1">AAGCTGCTCATCAGCCT</td><td rowspan="1" colspan="1">60</td><td rowspan="1" colspan="1">194</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">R: TGCTTGCTGGTCTTTATTGG</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>BMPR1A</italic>
+</td><td rowspan="1" colspan="1">GAACTATTGCCAAACAGATTCAGA</td><td rowspan="1" colspan="1">60</td><td rowspan="1" colspan="1">200</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">R: TGCCGCTATGAAACCAAGTAT</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>BMPR1B</italic>
+</td><td rowspan="1" colspan="1">ATTTGCAGCACAGACGGATATTGTT</td><td rowspan="1" colspan="1">60</td><td rowspan="1" colspan="1">199</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">R: GAGGCAGTGTAGGGTGTAGGTCTT</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>BMPR2</italic>
+</td><td rowspan="1" colspan="1">TGCCGCTATGAAACCAAGTAT</td><td rowspan="1" colspan="1">60</td><td rowspan="1" colspan="1">184</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">R: GACTCACCTATCTGTATACTGCT</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>GAPDH</italic>
+</td><td rowspan="1" colspan="1">AGAAGGCTGGGGCTCATTTG</td><td rowspan="1" colspan="1">60</td><td rowspan="1" colspan="1">228</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">R: TGATGGCATGGACTGTGGT</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr></tbody></table></table-wrap></sec><sec><title>Statistical analysis </title><p>Data obtained were analyzed using the Independent
+Samples t test, using IBM SPSS software version 22.
+The one-sample Kolmogorov-Smirnov (K-S) test was
+used to determine whether the variables come from the
+normal distribution in each group. Data are presented as
+mean &#x000b1; SD at the level of P&#x0003c;0.05.
+</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Demographic information</title><p>Table 2 presents all the demographic data. Age, BMI,
+and duration of infertility were similar between the
+PCOS and control groups (P&#x0003e;0.05). However, there were
+significant differences among them considering the main
+PCOS features and characteristics, such as the ratio of LH/
+FSH, LH and AMH levels (<xref rid="T2" ref-type="table">Table 2</xref>). The PCOS subjects
+showed higher LH level than normo-ovulatory females
+(control group) (P&#x0003c;0.01).</p><table-wrap position="float" id="T2"><label>Table 2</label><caption><p>Demographic information</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Parameters</th><th rowspan="1" colspan="1">PCOS group</th><th rowspan="1" colspan="1">Control group</th><th rowspan="1" colspan="1">P value</th></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">Age (Y)</td><td rowspan="1" colspan="1">28.87 &#x000b1; 6.5</td><td rowspan="1" colspan="1">28.87 &#x000b1; 6.5</td><td rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td rowspan="1" colspan="1">24.5 &#x000b1; 4.5</td><td rowspan="1" colspan="1">25.82 &#x000b1; 4.5</td><td rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Infertility duration (Y)</td><td rowspan="1" colspan="1">2.5-10</td><td rowspan="1" colspan="1">3-15</td><td rowspan="1" colspan="1">0.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of oocyte</td><td rowspan="1" colspan="1">11.5 &#x000b1; 4.5</td><td rowspan="1" colspan="1">8 &#x000b1; 3</td><td rowspan="1" colspan="1">0.7</td></tr><tr><td align="left" rowspan="1" colspan="1">AMH (ng/&#x000b5;l)</td><td rowspan="1" colspan="1">12.43 &#x000b1; 5.9<sup>*</sup></td><td rowspan="1" colspan="1">4.7 &#x000b1; 2.9</td><td rowspan="1" colspan="1">0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">FSH (IU/I)</td><td rowspan="1" colspan="1">6.71 &#x000b1; 3.3</td><td rowspan="1" colspan="1">6.42 &#x000b1; 3.15</td><td rowspan="1" colspan="1">0.6</td></tr><tr><td align="left" rowspan="1" colspan="1">LH (IU/I)</td><td rowspan="1" colspan="1">14.35 &#x000b1; 11.55<sup>*</sup></td><td rowspan="1" colspan="1">3.85 &#x000b1; 3.35</td><td rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">TSH (IU/I)</td><td rowspan="1" colspan="1">2.23 &#x000b1; 1.65</td><td rowspan="1" colspan="1">2.45 &#x000b1; 2.15</td><td rowspan="1" colspan="1">0.5</td></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>The results are reported as mean &#x000b1; SD. AMH; Anti-mullerian hormone, BMI; Body mass index, FSH; Follicle-stimulating hormone, TSH; Thyroid stimulating
+hormone, and *; P&#x0003c;0.05.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>The expression level of <italic>GDF9, BMP15, AMH</italic> and their receptors in GCs
+and CCs from PCOS women compared to non-PCOS women</title><p>As shown in <xref rid="F1" ref-type="fig">Figure 1</xref>, all amplified RT-PCR products were at the expected size for
+<italic>GDF9, BMP15, AMH, BMPR1B, BMPR1A</italic>, and <italic>BMPR2</italic> genes. </p><p>In GCs isolated from PCOS subjects, an overexpression of <italic>AMH</italic>
+(P&#x0003c;0.001) and <italic>BMPR1A</italic> (P&#x0003c;0.001) was observed. In contrast,
+the level of <italic>GDF9</italic> (P&#x0003e;0.001), <italic>BMP15, BMPR1B,</italic> and
+<italic>BMPR2</italic> gene expression were significantly decreased (P&#x0003c;0.001,
+<xref rid="F2" ref-type="fig">Fig .2A</xref>).</p><p>On the other hand, CCs from PCOS patients display the same patterns as observed in
+GCs genes expression increased expression of <italic>AMH</italic> (P&#x0003c;0.001) and
+<italic>BMPR1A</italic> (P&#x0003c;0.038); decreased expression of <italic>GDF9</italic>
+(P&#x0003c;0.001), <italic>BMP15</italic> (P=0.005), <italic>BMPR1B</italic>
+(P&#x0003c;0.004), and <italic>BMPR2</italic> (P&#x0003c;0.001) mRNA significantly
+(<xref rid="F2" ref-type="fig">Fig .2B</xref>).</p><fig position="float" id="F1"><label>Fig 1</label><caption><p>Results of RT-PCR for mRNA expression of <italic>GDF9, BMP15, AMH, BMPR1B, BMPR1A</italic>, and
+<italic>BMPR2</italic> genes (DNA ladder 50 base pair). RT-PCR; Reverse
+transcription polymerase chain reaction.</p></caption><graphic xlink:href="Cell-J-24-410-g01" position="float"/></fig><fig position="float" id="F2"><label>Fig 2</label><caption><p>Expression level of <italic>GDF9, BMP15, AMH</italic> and their receptors in polycystic ovarian
+syndrome (PCOS) women and control group. <bold>A. </bold>Gene expression of granulosa
+cell from PCOS women compared to control group. <bold>B.</bold> Gene expression of
+cumulus cells from PCOS women compared to control group.</p></caption><graphic xlink:href="Cell-J-24-410-g02" position="float"/></fig><fig position="float" id="F3"><label>Fig 3</label><caption><p>Differential gene expression profile in granulosa compared to cumulus cells. <bold>A. </bold>Gene
+expression profile in granulosa cells compared to cumulus cells in polycystic ovarian
+syndrome (PCOS) group. <bold>B.</bold> Gene expression profile in granulosa cells
+compared to cumulus cells in control groups.</p></caption><graphic xlink:href="Cell-J-24-410-g03" position="float"/></fig></sec><sec><title>Differential gene expression profile in GCs compared
+to CCs in control and PCOS women</title><p>Comparing CCs and GCs from PCOS patients
+revealed GDF9, BMP15 (P&#x0003c;0.05) and AMH (P&#x0003c;0.001)
+have higher expression in cumulus cells; in contrast,
+BMPR1A (P&#x0003c;0.05) expression level is higher in GCs
+of such patients (<xref rid="F3" ref-type="fig">Fig .3A</xref>). On the other hand, BMP15
+(P&#x0003c;0.001) and BMPR1B (P&#x0003c;0.03) are effe&#x02206;ively
+expressed in normal granulosa cells compared to
+normal CCs, and AMH (P&#x0003c;0.001) and GDF9 (P&#x0003c;0.001)
+have higher mRNA expression in CCs of control than
+PCOS patients (<xref rid="F3" ref-type="fig">Fig .3B</xref>).</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>The differential gene expression levels of <italic>AMH</italic> and its regulatory factors
+that include <italic>BMP15</italic> and <italic>GDF9</italic>, as well as their primary
+receptors: <italic>BMPR2, BMPR1B</italic>, and <italic>BMPR1A</italic>, were detected in
+granulosa and cumulus cells in PCOS women compared to the control group. In addition, these
+genes showed different expression patterns in two ovarian cells (GCs and CCs). </p><p>Granulosa cells show phenotypic heterogeneity in the
+developing ovarian Follicle. During folliculogenesis, the
+heterogeneous GC populations differentiate and divide
+into mural GCs and CCs. Their function is associated
+with their position in the follicles and proximity to
+the oocyte resulting in different properties and gene
+expression patterns (<xref rid="B19" ref-type="bibr">19</xref>, <xref rid="B20" ref-type="bibr">20</xref>). The mural GCs have a great
+steroidogenic function, a high level of LH receptors, and
+mainly are involved in the acquisition of signals from
+outside Follicle; however, the cumulus cells provide
+essential regulatory factors for oocytes to promote final
+cytoplasmic and nuclear maturation (<xref rid="B21" ref-type="bibr">21</xref>, <xref rid="B22" ref-type="bibr">22</xref>). </p><p>The resumption of oocyte meiosis is regulated by activating some genes in the oocyte itself
+and a broad signaling network in other follicular cells (<xref rid="B23" ref-type="bibr">23</xref>). The increased expression of
+<italic>BMP15</italic> and <italic>BMPR1B </italic>receptors in the periovulatory phase of
+ovarian cells showed their implication in the ovulatory process. On the other hand, these
+BMP proteins, the largest subfamily belonging to the TGF&#x003b2; superfamily, regulate numerous
+main biological processes in the ovarian follicle, including cell differentiation,
+proliferation, and apoptosis (<xref rid="B24" ref-type="bibr">24</xref>). Also, the expression of <italic>BMPR1B</italic> is
+correlated with serum oestradiol (E2) level in normal folliculogenesis (<xref rid="B25" ref-type="bibr">25</xref>). Alterations in
+BMPs signaling are involved in some folliculogenesis disorders such as PCOS (<xref rid="B24" ref-type="bibr">24</xref>). In
+<italic>Bmp15</italic> knockout mice, uni- and bi-lateral cysts developed, ovulation rate
+was decreased and female mice were subfertile due to reduced developmental potential of
+oocytes and ovulation (<xref rid="B26" ref-type="bibr">26</xref>). The reduced expression of this ligand and its receptor in PCOS
+patients, as shown in the present study, has revealed the association mechanism of
+PCOS-related anovulation and impaired oocyte competency and maturation.</p><p>The study performed by Kedem-Dickman et al. (<xref rid="B27" ref-type="bibr">27</xref>) showed a reverse association between GC
+-cumulus <italic>AMH</italic> expression and oocyte maturity in preovulatory follicles. It
+means that corresponding GC-cumulus cells of the Germinal Vesicle oocyte stage express
+higher AMH mRNA levels than the Metaphase stage ones. They suggested that AMH meiosis
+inhibition, which had been confirmed previously (<xref rid="B28" ref-type="bibr">28</xref>), was the mechanism by which the oocytes
+may fail to resume meiosis. </p><p>Some recent studies showed that high levels of AMH decrease the FSH receptors number and
+reduces the sensitivity of GC to FSH, which consequently prevents the provoke activation of
+critical genes in steroidogenesis processes such as <italic>P450scc</italic> and
+<italic>CYP19A1</italic> genes (<xref rid="B29" ref-type="bibr">29</xref>).</p><p>PCOS is a disease in which AMH has putative roles in
+its pathophysiology (<xref rid="B30" ref-type="bibr">30</xref>). Usually, it is the first cause of
+anovulation infertility in women (<xref rid="B31" ref-type="bibr">31</xref>). It seems that AMH
+contributes to the mechanisms leading to antral follicle
+arrest, anovulation, and oligomenorrhoea/ amenorrhoea
+(<xref rid="B32" ref-type="bibr">32</xref>, <xref rid="B33" ref-type="bibr">33</xref>). Taken together, these studies suggest that
+increased AMH levels in PCOS women create an AMHdominated microenvironment, which counteracts the
+action of FSH on follicles selection (<xref rid="B34" ref-type="bibr">34</xref>). The increased
+pre-antral follicle number, which is the primary source of
+AMH, is not merely contributing factor, but also elevated
+AMH concentration in PCOS is largely due to increased
+AMH production by individual follicles (<xref rid="B35" ref-type="bibr">35</xref>).</p><p>These studies have shown indirect confirmation of AMH&#x02019;s role in PCOS. Further observations
+elucidated the mechanism by which <italic>AMH</italic> expression is up-regulated in GCs. A
+limited number of BMPs such as BMP15 can bind to BMPR1B and BMPR2 receptors, and the
+activated receptors recognize SMAD1, which is translocated to the AMH promoter sequence.
+This mechanism significantly causes the <italic>AMH</italic> expression induction in human
+GCs (<xref rid="B36" ref-type="bibr">36</xref>, <xref rid="B37" ref-type="bibr">37</xref>). In our study, mRNA expression of BMP15 in cumulus cells of PCOS patients is
+higher than in granulosa ones, and <italic>AMH</italic> expression was also higher in these
+cells. However, when CCs/GCs of PCOS are compared to normal oogenesis ones, this pattern was
+not observed. The high level of <italic>AMH</italic> expression in PCOS may be due to an
+additional source of BMP15 secretion, especially from the corresponding oocyte, which could
+induce <italic>AMH</italic> expression in CCs/GCs of such patients.</p><p>In PCOS, however, <italic>BMPR1A</italic> in GCs and <italic>GDF9, BMP15</italic> and
+<italic>AMH</italic> in CCs have a substantial expression. These distinct alterations in
+the follicular microenvironment of PCOS patients may negatively interfere with
+intra-follicular signals such as the follicle sensitivity to FSH, compromise the dominant
+follicle selection and the other functions of the GC/CC cells from the viewpoint of the
+oocyte maturation aspect and reproductive processes (<xref rid="B38" ref-type="bibr">38</xref>, <xref rid="B39" ref-type="bibr">39</xref>). </p><p>On the other hand, in ovarian cells, the most important
+receptor for AMH is BMPR-1A. Therefore some members
+of the TGF-&#x003b2; superfamily share their signaling pathway with
+AMH, and target genes involved in folliculogenesis and GCs
+differentiation could also be regulated by AMH (<xref rid="B40" ref-type="bibr">40</xref>). </p><p>To explore whether gene expression pattern is diverse between cumulus cells and granulosa
+cells, we analyzed the expression profile. Data showed a differential overexpression of
+GDF9, <italic>BMP15</italic>, and <italic>AMH</italic> in infertile PCOS cumulus cells in
+comparison to PCOS granulosa cells. However, <italic>AMH</italic> and <italic>GDF9</italic>
+have the same pattern in normal cyclic cumulus cells, but <italic>BMP15</italic> and
+<italic>BMPR1B</italic> significantly decreased in granulosa cells of normal patients.
+Therefore, the gene expression profile in both GC and CC cells showed interesting diversity.
+Since the same antagonist protocol for ovarian stimulation was used in both PCOS and control
+groups, the results were independent of the protocols.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>To conclude, based on the previous results, increased gene expression of
+<italic>AMH</italic> and <italic>BMPR1A</italic> and decreased gene expression of
+<italic>GDF9, BMP15</italic>, and <italic>BMPR1B</italic> may contribute to alterations in
+the downstream pathway, which are involved in ovulatory function, follicular growth, and
+oocyte maturation. The results of the current study are important for understanding the
+mechanisms of follicular growth arresting and anovulation cycles in patients suffering from
+PCOS. It will be considered to screen the epigenetic regulatory mechanism of the promoter
+regions of the TGF&#x003b2; family members and corresponding receptors in future studies. </p></sec></body><back><ack><title>Acknowledgements</title><p>This study was financially sponsored by the Genetics
+Department of Royan Institute Tehran, Iran. The authors
+dedicate this article to the memory of Dr. Saeid Kazemi
+Ashtiani, the late founder of Royan Institut. There is no
+conflict of interest.</p></ack><bio id="d64e893"><title>Authors&#x02019; Contributions</title><p>F.A., P.A., M.Shi, M.Sha, E.H.; Contributed to conception
+and design. F.A.; Contributed to all experimental work,
+data and statistical analysis, and interpretation of data.
+P.A., M.Shi.; Were responsible for overall supervision.
+B.M., M.Shi.; Cooperated in the sampling section. M.Shi.;
+Was responsible for patients assessment and diagnosis,
+also for patient recruitment to study. F.A.; Collected the
+sample. Z.H., M.Kh.; Cooperated with some experimental
+tests. F.A., E.H.; Drafted the initial manuscript and wrote
+the manuscript. P.A., E.H., M.Shi.; Contributed to revise
+and edit the manuscript. All authors read and approved
+the final manuscript.</p></bio><ref-list><ref id="B1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Lizneva</surname><given-names>D</given-names></name>
+<name><surname>Atabiekov</surname><given-names>I</given-names></name>
+<name><surname>Azziz</surname><given-names>R</given-names></name>
+</person-group><part-title>Polycystic ovary syndrome</part-title><person-group person-group-type="editor">
+<name><surname>skinner</surname><given-names>MK</given-names></name>
+</person-group><source>encyclopedia of reproduction (second edition)</source><edition>Oxford</edition><publisher-name>Academic Press</publisher-name><year>2018</year><fpage>59</fpage><lpage>69</lpage></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alzamil</surname><given-names>H</given-names></name>
+<name><surname>Aloraini</surname><given-names>K</given-names></name>
+<name><surname>AlAgeel</surname><given-names>R</given-names></name>
+<name><surname>Ghanim</surname><given-names>A</given-names></name>
+<name><surname>Alsaaran</surname><given-names>R</given-names></name>
+<name><surname>Alsomali</surname><given-names>N</given-names></name>
+<etal/>
+</person-group><article-title>Disparity among Endocrinologists and Gynaecologists in the Diagnosis of Polycystic Ovarian Syndrome</article-title><source>Sultan Qaboos Univ Med J</source><year>2020</year><volume>20</volume><issue>3</issue><fpage>e323</fpage><lpage>e329</lpage><pub-id pub-id-type="pmid">33110648</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arroyo</surname><given-names>A</given-names></name>
+<name><surname>Kim</surname><given-names>B</given-names></name>
+<name><surname>Yeh</surname><given-names>J</given-names></name>
+</person-group><article-title>Luteinizing hormone action in human oocyte maturation and quality: signaling pathways, regulation, and clinical impact</article-title><source>Reprod Sci</source><year>2020</year><volume>27</volume><issue>6</issue><fpage>1223</fpage><lpage>1252</lpage><pub-id pub-id-type="pmid">32046451</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Albu</surname><given-names>D</given-names></name>
+<name><surname>Albu</surname><given-names>A</given-names></name>
+</person-group><article-title>The ratio of exogenous Luteinizing hormone to Follicle stimulating hormone administered for controlled ovarian stimulation is associated with oocytes&#x02019; number and competence</article-title><source>Biosci Rep</source><year>2020</year><volume>40</volume><issue>1</issue><fpage>BSR20190811</fpage><lpage>BSR20190811</lpage><pub-id pub-id-type="pmid">31850491</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Burnik Papler</surname><given-names>T</given-names></name>
+<name><surname>Vrtacnik Bokal</surname><given-names>E</given-names></name>
+<name><surname>Lovrecic</surname><given-names>L</given-names></name>
+<name><surname>Kopitar</surname><given-names>AN</given-names></name>
+<name><surname>Maver</surname><given-names>A</given-names></name>
+</person-group><article-title>No specific gene expression signature in human granulosa and cumulus cells for prediction of oocyte fertilisation and embryo implantation</article-title><source>PLoS One</source><year>2015</year><volume>10</volume><issue>3</issue><fpage>e0115865</fpage><lpage>e0115865</lpage><pub-id pub-id-type="pmid">25769026</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Feuerstein</surname><given-names>P</given-names></name>
+<name><surname>Cadoret</surname><given-names>V</given-names></name>
+<name><surname>Dalbies-Tran</surname><given-names>R</given-names></name>
+<name><surname>Guerif</surname><given-names>F</given-names></name>
+<name><surname>Bidault</surname><given-names>R</given-names></name>
+<name><surname>Royere</surname><given-names>D</given-names></name>
+</person-group><article-title>Gene expression in human cumulus cells: one approach to oocyte competence</article-title><source>Hum Reprod</source><year>2007</year><volume>22</volume><issue>12</issue><fpage>3069</fpage><lpage>3077</lpage><pub-id pub-id-type="pmid">17951581</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Belli</surname><given-names>M</given-names></name>
+<name><surname>Shimasaki</surname><given-names>S</given-names></name>
+</person-group><article-title>Molecular aspects and clinical relevance of GDF9 and BMP15 in ovarian function</article-title><source>Vitam Horm</source><year>2018</year><volume>107</volume><fpage>317</fpage><lpage>348</lpage><pub-id pub-id-type="pmid">29544636</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Raja-Khan</surname><given-names>N</given-names></name>
+<name><surname>Urbanek</surname><given-names>M</given-names></name>
+<name><surname>Rodgers</surname><given-names>RJ</given-names></name>
+<name><surname>Legro</surname><given-names>RS</given-names></name>
+</person-group><article-title>The role of TGF-&#x003b2; in polycystic ovary syndrome</article-title><source>Reprod Sci</source><year>2014</year><volume>21</volume><issue>1</issue><fpage>20</fpage><lpage>31</lpage><pub-id pub-id-type="pmid">23585338</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Romanski</surname><given-names>PA</given-names></name>
+<name><surname>Brady</surname><given-names>PC</given-names></name>
+<name><surname>Farland</surname><given-names>LV</given-names></name>
+<name><surname>Thomas</surname><given-names>AM</given-names></name>
+<name><surname>Hornstein</surname><given-names>MD</given-names></name>
+</person-group><article-title>The effect of endometriosis on the antim&#x000fc;llerian hormone level in the infertile population</article-title><source>J Assist Reprod Genet</source><year>2019</year><volume>36</volume><issue>6</issue><fpage>1179</fpage><lpage>1184</lpage><pub-id pub-id-type="pmid">31020439</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van Houten</surname><given-names>EL</given-names></name>
+<name><surname>Themmen</surname><given-names>AP</given-names></name>
+<name><surname>Visser</surname><given-names>JA</given-names></name>
+</person-group><article-title>Anti-M&#x000fc;llerian hormone (AMH): regulator and marker of ovarian function</article-title><source>Ann Endocrinol (Paris)</source><year>2010</year><volume>71</volume><issue>3</issue><fpage>191</fpage><lpage>197</lpage><pub-id pub-id-type="pmid">20362961</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rybska</surname><given-names>M</given-names></name>
+<name><surname>Knap</surname><given-names>S</given-names></name>
+<name><surname>Stefa&#x00144;ska</surname><given-names>K</given-names></name>
+<name><surname>Jankowski</surname><given-names>M</given-names></name>
+<name><surname>Chamier- Gliszczy&#x00144;ska</surname><given-names>A</given-names></name>
+<name><surname>Popis</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Transforming growth factor (TGF) - is it a key protein in mammalian reproductive biology?</article-title><source>Med J Cell Biol</source><year>2018</year><volume>6</volume><issue>3</issue><fpage>125</fpage><lpage>30</lpage></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>B</given-names></name>
+<name><surname>Wu</surname><given-names>X</given-names></name>
+<name><surname>Yuan</surname><given-names>Y</given-names></name>
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Du</surname><given-names>R</given-names></name>
+<etal/>
+</person-group><article-title>Gene expression of granulosa and cumulus cells: The prospect in predicting the quality and developmental competence of oocytes in vitro maturation</article-title><source>Biocell</source><year>2020</year><volume>44</volume><issue>4</issue><fpage>487</fpage><lpage>499</lpage></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dumesic</surname><given-names>DA</given-names></name>
+<name><surname>Meldrum</surname><given-names>DR</given-names></name>
+<name><surname>Katz-Jaffe</surname><given-names>MG</given-names></name>
+<name><surname>Krisher</surname><given-names>RL</given-names></name>
+<name><surname>Schoolcraft</surname><given-names>WB</given-names></name>
+</person-group><article-title>Oocyte environment: follicular fluid and cumulus cells are critical for oocyte health</article-title><source>Fertil Steril</source><year>2015</year><volume>103</volume><issue>2</issue><fpage>303</fpage><lpage>316</lpage><pub-id pub-id-type="pmid">25497448</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Field</surname><given-names>SL</given-names></name>
+<name><surname>Dasgupta</surname><given-names>T</given-names></name>
+<name><surname>Cummings</surname><given-names>M</given-names></name>
+<name><surname>Orsi</surname><given-names>NM</given-names></name>
+</person-group><article-title>Cytokines in ovarian folliculogenesis, oocyte maturation and luteinisation</article-title><source>Mol Reprod Dev</source><year>2014</year><volume>81</volume><issue>4</issue><fpage>284</fpage><lpage>314</lpage><pub-id pub-id-type="pmid">24273059</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>P-P</given-names></name>
+<name><surname>Jin</surname><given-names>M</given-names></name>
+<name><surname>Rao</surname><given-names>J-P</given-names></name>
+<name><surname>Chen</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>L-Q</given-names></name>
+<name><surname>Huang</surname><given-names>C-C</given-names></name>
+<etal/>
+</person-group><article-title>Role of anti-M&#x000fc;llerian hormone and testosterone in follicular growth: a cross-sectional study</article-title><source>BMC Endocr Disord</source><year>2020</year><volume>20</volume><issue>1</issue><fpage>101</fpage><lpage>101</lpage><pub-id pub-id-type="pmid">32641160</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sanfins</surname><given-names>A</given-names></name>
+<name><surname>Rodrigues</surname><given-names>P</given-names></name>
+<name><surname>Albertini</surname><given-names>DF</given-names></name>
+</person-group><article-title>GDF-9 and BMP-15 direct the follicle symphony</article-title><source>J Assist Reprod Genet</source><year>2018</year><volume>35</volume><issue>10</issue><fpage>1741</fpage><lpage>1750</lpage><pub-id pub-id-type="pmid">30039232</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hosseini</surname><given-names>E</given-names></name>
+<name><surname>Shahhoseini</surname><given-names>M</given-names></name>
+<name><surname>Afsharian</surname><given-names>P</given-names></name>
+<name><surname>Karimian</surname><given-names>L</given-names></name>
+<name><surname>Ashrafi</surname><given-names>M</given-names></name>
+<name><surname>Mehraein</surname><given-names>F</given-names></name>
+<etal/>
+</person-group><article-title>Role of epigenetic modifications in the aberrant CYP19A1 gene expression in polycystic ovary syndrome</article-title><source>Arch Med Sci</source><year>2019</year><volume>15</volume><issue>4</issue><fpage>887</fpage><lpage>895</lpage><pub-id pub-id-type="pmid">31360184</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hosseini</surname><given-names>E</given-names></name>
+<name><surname>Mehraein</surname><given-names>F</given-names></name>
+<name><surname>Shahhoseini</surname><given-names>M</given-names></name>
+<name><surname>Karimian</surname><given-names>L</given-names></name>
+<name><surname>Nikmard</surname><given-names>F</given-names></name>
+<name><surname>Ashrafi</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Epigenetic alterations of CYP19A1 gene in Cumulus cells and its relevance to infertility in endometriosis</article-title><source>J Assist Reprod Genet</source><year>2016</year><volume>33</volume><issue>8</issue><fpage>1105</fpage><lpage>1113</lpage><pub-id pub-id-type="pmid">27167072</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Andrei</surname><given-names>D</given-names></name>
+<name><surname>Nagy</surname><given-names>RA</given-names></name>
+<name><surname>van Montfoort</surname><given-names>A</given-names></name>
+<name><surname>Tietge</surname><given-names>U</given-names></name>
+<name><surname>Terpstra</surname><given-names>M</given-names></name>
+<name><surname>Kok</surname><given-names>K</given-names></name>
+<etal/>
+</person-group><article-title>Differential miRNA expression profiles in cumulus and mural granulosa cells from human pre-ovulatory follicles</article-title><source>MicroRNA</source><year>2019</year><volume>8</volume><issue>1</issue><fpage>61</fpage><lpage>67</lpage><pub-id pub-id-type="pmid">30207252</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Turathum</surname><given-names>B</given-names></name>
+<name><surname>Gao</surname><given-names>EM</given-names></name>
+<name><surname>Chian</surname><given-names>RC</given-names></name>
+</person-group><article-title>The function of cumulus cells in oocyte growth and maturation and in subsequent ovulation and fertilization</article-title><source>Cells</source><year>2021</year><volume>10</volume><issue>9</issue><fpage>2292</fpage><lpage>2292</lpage><pub-id pub-id-type="pmid">34571941</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Z</given-names></name>
+<name><surname>Wells</surname><given-names>D</given-names></name>
+</person-group><article-title>The human oocyte and cumulus cells relationship: new insights from the cumulus cell transcriptome</article-title><source>Mol Hum Reprod</source><year>2010</year><volume>16</volume><issue>10</issue><fpage>715</fpage><lpage>725</lpage><pub-id pub-id-type="pmid">20435609</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ouandaogo</surname><given-names>ZG</given-names></name>
+<name><surname>Haouzi</surname><given-names>D</given-names></name>
+<name><surname>Assou</surname><given-names>S</given-names></name>
+<name><surname>Dechaud</surname><given-names>H</given-names></name>
+<name><surname>Kadoch</surname><given-names>IJ</given-names></name>
+<name><surname>De Vos</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>Human cumulus cells molecular signature in relation to oocyte nuclear maturity stage</article-title><source>PLoS One</source><year>2011</year><volume>6</volume><issue>11</issue><fpage>e27179</fpage><lpage>e27179</lpage><pub-id pub-id-type="pmid">22087263</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Assidi</surname><given-names>M</given-names></name>
+<name><surname>Dieleman</surname><given-names>SJ</given-names></name>
+<name><surname>Sirard</surname><given-names>M-A</given-names></name>
+</person-group><article-title>Cumulus cell gene expression following the LH surge in bovine preovulatory follicles: potential early markers of oocyte competence</article-title><source>Reproduction</source><year>2010</year><volume>140</volume><issue>6</issue><fpage>835</fpage><lpage>852</lpage><pub-id pub-id-type="pmid">20724459</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khalaf</surname><given-names>M</given-names></name>
+<name><surname>Morera</surname><given-names>J</given-names></name>
+<name><surname>Bourret</surname><given-names>A</given-names></name>
+<name><surname>Reznik</surname><given-names>Y</given-names></name>
+<name><surname>Denoual</surname><given-names>C</given-names></name>
+<name><surname>Herlicoviez</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>BMP system expression in G.C.s from polycystic ovary syndrome women and the in vitro effects of BMP4, BMP6, and BMP7 on GC steroidogenesis</article-title><source>Eur J Endocrinol</source><year>2013</year><volume>168</volume><issue>3</issue><fpage>437</fpage><lpage>444</lpage><pub-id pub-id-type="pmid">23243014</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Paradis</surname><given-names>F</given-names></name>
+<name><surname>Novak</surname><given-names>S</given-names></name>
+<name><surname>Murdoch</surname><given-names>GK</given-names></name>
+<name><surname>Dyck</surname><given-names>MK</given-names></name>
+<name><surname>Dixon</surname><given-names>WT</given-names></name>
+<name><surname>Foxcroft</surname><given-names>GR</given-names></name>
+</person-group><article-title>Temporal regulation of BMP2, BMP6, BMP15, GDF9, BMPR1A, BMPR1B, BMPR2 and TGFBR1 mRNA expression in the oocyte, granulosa and theca cells of developing preovulatory follicles in the pig</article-title><source>Reproduction</source><year>2009</year><volume>138</volume><issue>1</issue><fpage>115</fpage><lpage>129</lpage><pub-id pub-id-type="pmid">19359354</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>P</given-names></name>
+<name><surname>DeMayo</surname><given-names>J</given-names></name>
+<name><surname>DeMayo</surname><given-names>FJ</given-names></name>
+<name><surname>Elvin</surname><given-names>JA</given-names></name>
+<name><surname>Carino</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>Synergistic roles of bone morphogenetic protein 15 and growth differentiation factor 9 in ovarian function</article-title><source>Mol Endocrinol</source><year>2001</year><volume>15</volume><issue>6</issue><fpage>854</fpage><lpage>866</lpage><pub-id pub-id-type="pmid">11376106</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kedem-Dickman</surname><given-names>A</given-names></name>
+<name><surname>Maman</surname><given-names>E</given-names></name>
+<name><surname>Yung</surname><given-names>Y</given-names></name>
+<name><surname>Yerushalmi</surname><given-names>G</given-names></name>
+</person-group><article-title>M., Hemi R, Hanochi M, et al.Anti-M&#x000fc;llerian hormone is highly expressed and secreted from cumulus granulosa cells of stimulated preovulatory immature and atretic oocytes</article-title><source>Reprod Biomed Online</source><year>2012</year><volume>24</volume><issue>5</issue><fpage>540</fpage><lpage>546</lpage><pub-id pub-id-type="pmid">22421733</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nilsson</surname><given-names>EE</given-names></name>
+<name><surname>Schindler</surname><given-names>R</given-names></name>
+<name><surname>Savenkova</surname><given-names>MI</given-names></name>
+<name><surname>Skinner</surname><given-names>MK</given-names></name>
+</person-group><article-title>Inhibitory actions of Anti-M&#x000fc;llerian Hormone (AMH) on ovarian primordial follicle assembly</article-title><source>PLoS One</source><year>2011</year><volume>6</volume><issue>5</issue><fpage>e20087</fpage><lpage>e20087</lpage><pub-id pub-id-type="pmid">21637711</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sacchi</surname><given-names>S</given-names></name>
+<name><surname>&#x02018;D&#x02019;Ippolito</surname><given-names>G</given-names></name>
+<name><surname>Sena</surname><given-names>P</given-names></name>
+<name><surname>Marsella</surname><given-names>T</given-names></name>
+<name><surname>Tagliasacchi</surname><given-names>D</given-names></name>
+<name><surname>Maggi</surname><given-names>E</given-names></name>
+<etal/>
+</person-group><article-title>The anti-M&#x000fc;llerian hormone (AMH) acts as a gatekeeper of ovarian steroidogenesis inhibiting the granulosa cell response to both FSH and LH</article-title><source>J Assist Reprod Genet</source><year>2016</year><volume>33</volume><issue>1</issue><fpage>95</fpage><lpage>100</lpage><pub-id pub-id-type="pmid">26631403</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pasquali</surname><given-names>R</given-names></name>
+</person-group><article-title>New perspectives on the role of anti-M&#x000fc;llerian hormone (AMH) in women</article-title><source>Ann Transl Med</source><year>2018</year><volume>6</volume><issue>Suppl 2</issue><fpage>s94</fpage><lpage>s94</lpage><pub-id pub-id-type="pmid">30740415</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Capuzzo</surname><given-names>M</given-names></name>
+<name><surname>La Marca</surname><given-names>A</given-names></name>
+</person-group><article-title>Use of AMH in the differential diagnosis of anovulatory disorders including PCOS</article-title><source>Front Endocrinol (Lausanne)</source><year>2021</year><volume>11</volume><fpage>616766</fpage><lpage>616766</lpage><pub-id pub-id-type="pmid">33633686</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fr&#x000e9;our</surname><given-names>T</given-names></name>
+<name><surname>Miralli&#x000e9;</surname><given-names>S</given-names></name>
+<name><surname>Colombel</surname><given-names>A</given-names></name>
+<name><surname>Bach-Ngohou</surname><given-names>K</given-names></name>
+<name><surname>Masson</surname><given-names>D</given-names></name>
+<name><surname>Barri&#x000e8;re</surname><given-names>P</given-names></name>
+</person-group><article-title>Anti-mullerian hormone: clinical relevance in assisted reproductive therapy</article-title><source>Ann Endocrinol</source><year>2006</year><volume>67</volume><issue>6</issue><fpage>567</fpage><lpage>574</lpage></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Garg</surname><given-names>D</given-names></name>
+<name><surname>Tal</surname><given-names>R</given-names></name>
+</person-group><article-title>The role of AMH in the pathophysiology of polycystic ovarian syndrome</article-title><source>Reprod Biomed Online</source><year>2016</year><volume>33</volume><issue>1</issue><fpage>15</fpage><lpage>28</lpage><pub-id pub-id-type="pmid">27174394</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Oh</surname><given-names>SR</given-names></name>
+<name><surname>Choe</surname><given-names>SY</given-names></name>
+<name><surname>Cho</surname><given-names>YJ</given-names></name>
+</person-group><article-title>Clinical application of serum anti-M&#x000fc;llerian hormone in women</article-title><source>Clin Exp Reprod Med</source><year>2019</year><volume>46</volume><issue>2</issue><fpage>50</fpage><lpage>59</lpage><pub-id pub-id-type="pmid">31181872</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pellatt</surname><given-names>L</given-names></name>
+<name><surname>Hanna</surname><given-names>L</given-names></name>
+<name><surname>Brincat</surname><given-names>M</given-names></name>
+<name><surname>Galea</surname><given-names>R</given-names></name>
+<name><surname>Brain</surname><given-names>H</given-names></name>
+<name><surname>Whitehead</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>Granulosa cell production of anti-mullerian hormone is increased in polycystic ovaries</article-title><source>J Clin Endocrinol Metab</source><year>2007</year><volume>92</volume><issue>1</issue><fpage>240</fpage><lpage>245</lpage><pub-id pub-id-type="pmid">17062765</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ogura-Nose</surname><given-names>S</given-names></name>
+<name><surname>Yoshino</surname><given-names>O</given-names></name>
+<name><surname>Osuga</surname><given-names>Y</given-names></name>
+<name><surname>Shi</surname><given-names>J</given-names></name>
+<name><surname>Hiroi</surname><given-names>H</given-names></name>
+<name><surname>Yano</surname><given-names>T</given-names></name>
+<etal/>
+</person-group><article-title>Anti-mullerian hormone (AMH) is induced by bone morphogenetic protein (BMP) cytokines in human granulosa cells</article-title><source>Eur J Obstet Gynecol Reprod Biol</source><year>2012</year><volume>164</volume><issue>1</issue><fpage>44</fpage><lpage>47</lpage><pub-id pub-id-type="pmid">22682966</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Estienne</surname><given-names>A</given-names></name>
+<name><surname>Pierre</surname><given-names>A</given-names></name>
+<name><surname>di Clemente</surname><given-names>N</given-names></name>
+<name><surname>Picard</surname><given-names>JY</given-names></name>
+<name><surname>Jarrier</surname><given-names>P</given-names></name>
+<name><surname>Mansanet</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>Anti-M&#x000fc;llerian hormone regulation by the bone morphogenetic proteins in the sheep ovary: deciphering a direct regulatory pathway</article-title><source>Endocrinology</source><year>2015</year><volume>156</volume><issue>1</issue><fpage>301</fpage><lpage>313</lpage><pub-id pub-id-type="pmid">25322464</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Chen</surname><given-names>H</given-names></name>
+<name><surname>Gou</surname><given-names>M</given-names></name>
+<name><surname>Tian</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>H</given-names></name>
+<name><surname>Song</surname><given-names>X</given-names></name>
+<etal/>
+</person-group><source>Comprehensive molecular features of polycystic ovary syndrome revealed by transcriptome analysis of oocytes and cumulus cells.bioRxiv</source><publisher-name>bioRxiv</publisher-name><year>2021</year></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rosenfield</surname><given-names>RL</given-names></name>
+<name><surname>Ehrmann</surname><given-names>DA</given-names></name>
+</person-group><article-title>The pathogenesis of polycystic ovary syndrome (PCOS): the hypothesis of PCOS as functional ovarian hyperandrogenism revisited</article-title><source>Endocr Rev</source><year>2016</year><volume>37</volume><issue>5</issue><fpage>467</fpage><lpage>520</lpage><pub-id pub-id-type="pmid">27459230</pub-id></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>S&#x000e8;des</surname><given-names>L</given-names></name>
+<name><surname>Leclerc</surname><given-names>A</given-names></name>
+<name><surname>Moindjie</surname><given-names>H</given-names></name>
+<name><surname>Cate</surname><given-names>RL</given-names></name>
+<name><surname>Picard</surname><given-names>JsY</given-names></name>
+<name><surname>Di Clemente</surname><given-names>N</given-names></name>
+<etal/>
+</person-group><article-title>Anti-M&#x000fc;llerian hormone recruits BMPR-IA in immature granulosa cells</article-title><source>PLoS One</source><year>2013</year><volume>8</volume><issue>11</issue><fpage>e81551</fpage><lpage>e81551</lpage><pub-id pub-id-type="pmid">24312319</pub-id></element-citation></ref></ref-list></back></article>

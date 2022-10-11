@@ -1,0 +1,585 @@
+<!-- PMCEdits, 09/02/2022 (davenpor),
+   Edit 1, .
+  -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Surg Innov</journal-id><journal-id journal-id-type="iso-abbrev">Surg Innov</journal-id><journal-id journal-id-type="hwp">spsri</journal-id><journal-id journal-id-type="publisher-id">SRI</journal-id><journal-title-group><journal-title>Surgical Innovation</journal-title></journal-title-group><issn pub-type="ppub">1553-3506</issn><issn pub-type="epub">1553-3514</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage CA: Los Angeles, CA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35137646</article-id><article-id pub-id-type="pmc">PMC9438748</article-id><article-id pub-id-type="publisher-id">10.1177_15533506211054240</article-id><article-id pub-id-type="doi">10.1177/15533506211054240</article-id><article-categories><subj-group subj-group-type="heading"><subject>Surgical Education: Training for the Future</subject></subj-group></article-categories><title-group><article-title><italic toggle="yes">VolumetricOR:</italic> A New Approach to Simulate Surgical
+Interventions in Virtual Reality for Training and Education</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7917-9231</contrib-id><name><surname>Queisner</surname><given-names>Moritz</given-names></name><degrees>MA, PhD</degrees><xref rid="aff1-15533506211054240" ref-type="aff">1</xref><xref rid="aff2-15533506211054240" ref-type="aff">2</xref><xref rid="aff3-15533506211054240" ref-type="aff">3</xref><xref rid="corresp1-15533506211054240" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Pogorzhelskiy</surname><given-names>Michael</given-names></name><degrees>MA</degrees><xref rid="aff3-15533506211054240" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Remde</surname><given-names>Christopher</given-names></name><degrees>BA</degrees><xref rid="aff3-15533506211054240" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Pratschke</surname><given-names>Johann</given-names></name><degrees>MD, PhD</degrees><xref rid="aff1-15533506211054240" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Sauer</surname><given-names>Igor M.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff1-15533506211054240" ref-type="aff">1</xref></contrib><aff id="aff1-15533506211054240"><label>1</label>Department of Surgery, CCM|CVK,
+Experimental Surgery, <institution-wrap><institution-id institution-id-type="Ringgold">14903</institution-id><institution content-type="university">Charit&#x000e9; &#x02013; Universit&#x000e4;tsmedizin
+Berlin</institution></institution-wrap>, Germany</aff><aff id="aff2-15533506211054240"><label>2</label><institution-wrap><institution content-type="university">University of Arts and Design
+Karlsruhe</institution></institution-wrap>, Germany</aff><aff id="aff3-15533506211054240"><label>3</label><institution-wrap><institution content-type="university">Cluster of Excellence Image Knowledge Gestaltung.
+Interdisciplinary Laboratory</institution></institution-wrap>, Berlin, Germany</aff></contrib-group><author-notes><corresp id="corresp1-15533506211054240">Moritz Queisner, Department of Surgery, CCM|CVK,
+Charit&#x000e9; &#x02013; Universit&#x000e4;tsmedizin Berlin, corporate member of Freie Universit&#x000e4;t Berlin,
+Humboldt-Universit&#x000e4;t zu Berlin, and Berlin Institute of Health Augustenburger Platz 1,
+Berlin 13353, Germany. Email: <email>moritz.queisner@charite.de</email></corresp></author-notes><pub-date pub-type="epub"><day>9</day><month>2</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2022</year></pub-date><volume>29</volume><issue>3</issue><fpage>406</fpage><lpage>415</lpage><permissions><copyright-statement>&#x000a9; The Author(s) 2022</copyright-statement><copyright-year>2022</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which permits
+non-commercial use, reproduction and distribution of the work without further permission
+provided the original work is attributed as specified on the SAGE and Open Access page
+(<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><sec><title>Background</title><p>Surgical training is primarily carried out through observation during assistance or
+on-site classes, by watching videos as well as by different formats of simulation. The
+simulation of physical presence in the operating theatre in virtual reality might
+complement these necessary experiences. A prerequisite is a new education concept for
+virtual classes that communicates the unique workflows and decision-making paths of
+surgical health professions (i.e. surgeons, anesthesiologists and surgical assistants)
+in an authentic and immersive way. For this project, media scientists, designers and
+surgeons worked together to develop the foundations for new ways of conveying knowledge
+using virtual reality in surgery.</p></sec><sec><title>Materials and method</title><p>A technical workflow to record and present volumetric videos of surgical interventions
+in a photorealistic virtual operating room was developed. Situated in the virtual
+reality demonstrator called <italic toggle="yes">VolumetricOR</italic>, users can experience and
+navigate through surgical workflows as if they are physically present. The concept is
+compared with traditional video-based formats of digital simulation in surgical
+training.</p></sec><sec><title>Results</title><p><italic toggle="yes">VolumetricOR</italic> let trainees experience surgical action and workflows (a)
+three-dimensionally, (b) from any perspective and (c) in real scale. This improves the
+linking of theoretical expertise and practical application of knowledge and shifts the
+learning experience from observation to participation.</p></sec><sec><title>Discussion</title><p>Volumetric training environments allow trainees to acquire procedural knowledge before
+going to the operating room and could improve the efficiency and quality of the learning
+and training process for professional staff by communicating techniques and workflows
+when the possibilities of training on-site are limited.</p></sec></abstract><kwd-group><kwd>Virtual reality</kwd><kwd>surgical training</kwd><kwd>volumetric video</kwd><kwd>procedural knowledge</kwd><kwd>3D simulation</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="award1-15533506211054240"><funding-source id="funding1-15533506211054240">
+<institution-wrap><institution>Deutsche Forschungsgemeinschaft</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/501100001659</institution-id></institution-wrap>
+</funding-source><award-id rid="funding1-15533506211054240">1027/1</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>typesetter</meta-name><meta-value>ts10</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec5-15533506211054240"><title>Background: The Simulation Paradigm in Surgical Education</title><p>Today, surgical training with the exchange of surgical skills and experience is primarily
+carried out through observation during assistance or on-site classes, by presenting videos,
+for instance, at conferences or online as well as by different formats of simulation. These
+methods are essential to connect theory and practice in order to transfer knowledge into
+skills. Observing is an essential part of life-long surgical education and remains valuable
+for the provision of care. However, digital media fosters newly formatted ways of training
+and educating that challenge and expand the traditional ways of knowledge transfer. Today,
+it is widely accepted that digital training environments can improve operating room
+performance.<sup><xref rid="bibr1-15533506211054240" ref-type="bibr">1</xref>,<xref rid="bibr2-15533506211054240" ref-type="bibr">2</xref></sup> Digital training
+particularly expands the scope of video-based education as well as of existing forms of
+physical simulations.<sup><xref rid="bibr3-15533506211054240" ref-type="bibr">3</xref>,<xref rid="bibr4-15533506211054240" ref-type="bibr">4</xref></sup> Besides the
+well-established methods of simulation that rely on mannequins, role-playing games,
+standardized patients or cadavers, digital media has yielded a variety of new formats that
+enhance the range of skills and competencies of simulation-based education. Especially the
+field of virtual reality simulation allows trainees and residents to develop clinical
+competence by experiencing working situations in an authentic way. Virtual reality promises
+a more effective bridging between theoretical and participatory forms of learning and
+training, as it allows physicians to acquire knowledge and practical skills outside of the
+operating room.</p><p>Historically the rise of digital simulation is often associated with the decline of the
+apprenticeship model of surgical residency training<sup><xref rid="bibr5-15533506211054240" ref-type="bibr">5</xref>,<xref rid="bibr6-15533506211054240" ref-type="bibr">6</xref></sup> devised by <italic toggle="yes">William Stewart
+Halsted</italic> at Johns Hopkins Hospital in Baltimore in the late 19th century.<sup>
+<xref rid="bibr7-15533506211054240" ref-type="bibr">7</xref>
+</sup>
+<italic toggle="yes">Halsted</italic> established an opportunity-based training approach of &#x02018;<italic toggle="yes">see
+one, do one, teach one</italic>&#x02019; that was built upon the subjective as well as the time
+and case dependent knowledge transfer between the resident and the supervising surgeon. This
+type of on-site class within the operating room is still relevant and will remain valuable
+to help physicians and trainees learn and improve surgical skills and workflows. But given
+the limited availability and scalability of the possibilities of participatory observation
+and assisted intervention, the operating room no longer seems to be the most efficient
+environment for knowledge transfer to junior surgeons and colleagues.<sup>
+<xref rid="bibr8-15533506211054240" ref-type="bibr">8</xref>
+</sup> This has a number of reasons: The demand for digital training environments is
+fostered by constraints of the economic, social and regulatory aspects of surgical training
+and practice.<sup>
+<xref rid="bibr8-15533506211054240" ref-type="bibr">8</xref>
+</sup> On the economic level, the pressure for increased productivity has shortened
+operating room time.<sup>
+<xref rid="bibr9-15533506211054240" ref-type="bibr">9</xref>
+</sup> The implementation of work-hour regulations has further diminished the resources
+available for the time-consuming process of transferring knowledge in the operating room.<sup>
+<xref rid="bibr10-15533506211054240" ref-type="bibr">10</xref>
+</sup> As an effect, operating room time has become &#x02018;too valuable to permit acquisition of
+basic technical skills&#x02019;<sup>
+<xref rid="bibr11-15533506211054240" ref-type="bibr">11</xref>
+</sup> and &#x02018;residents are often relegated to roles as mere observers&#x02019;.<sup>
+<xref rid="bibr12-15533506211054240" ref-type="bibr">12</xref>
+</sup> This limitation is further emphasized with the availability of image-guided and
+computer-assisted procedures that physically limit the ability to supervise surgeons to
+guide interventions. Especially in robot-assisted procedures the surgeon&#x02019;s attention and
+focus shift from the operating table to computer terminals that limit knowledge exchange,
+impede a shared view of a situation and leave less space for cooperation. Altogether these
+developments have a profound impact on the quality of education and the efficiency of
+surgical care, which become visible and are further intensified by the restrictions posed
+upon clinical infrastructures by the COVID-19 pandemic. In order to cope with these
+challenges of surgical training and knowledge transfer, hospitals need to enhance their
+existing training facilities with digital tools and environments.</p><p>With the goal to provide a new method for knowledge exchange, <italic toggle="yes">VolumetricOR</italic>
+proposes such a digital solution for the simulation of surgical workflows based on the
+combination of virtual reality and 4D video. The concept of <italic toggle="yes">VolumetricOR</italic> is
+based on a workflow to transfer real surgical interventions in the operating room into a
+virtual reality environment without the need for cost-intensive hardware and software
+solutions or time-consuming post-production. The developed prototype should demonstrate how
+virtual reality can serve as a digital classroom to simulate the complex interaction and
+collaboration of surgical health professions, that is, surgeons, anesthesiologists and
+surgical assistants in a virtual operating room. It offers an immersive and interactive
+education and training tool for students and staff with the objective to improve and enhance
+the mutual understanding of the unique workflows and decision-making paths of each
+individual team member (see video abstract in supplemental material or via <ext-link xlink:href="https://youtu.be/jFQOU1nyThI" ext-link-type="uri">https://youtu.be/jFQOU1nyThI</ext-link>).</p></sec><sec sec-type="materials|methods" id="sec6-15533506211054240"><title>Materials and Methods</title><p>The concept of <italic toggle="yes">VolumetricOR</italic> is based on a virtual reality application,
+that has been developed during an interdisciplinary research collaboration between surgery,
+design and media studies at the Department of Surgery at Charit&#x000e9; &#x02013; Universit&#x000e4;tsmedizin
+Berlin and the Cluster of Excellence <italic toggle="yes">Image Knowledge Gestaltung</italic> at
+Humboldt-Universit&#x000e4;t zu Berlin. The virtual reality application lets users explore an
+operation room at Charit&#x000e9; &#x02013; Universit&#x000e4;tsmedizin Berlin and navigate through sequences of a
+living kidney donation surgery. By wearing a virtual reality headset
+<italic toggle="yes">VolumetricOR</italic> places users within the surgical scene in a way that lets
+them experience surgical action and workflows three-dimensionally, from any perspective and
+in real scale. The core of <italic toggle="yes">VolumetricOR</italic> is a technical workflow that
+consists in 3 elements: a) a photogrammetric reconstruction of an operating room at Charit&#x000e9;
+&#x02013; Universit&#x000e4;tsmedizin Berlin, Campus Mitte, b) volumetric video sequences which are recorded
+directly in the operating room and c) location-based metadata that adds a digital layer of
+interactive information inside the surgical scene.</p><p><bold>Photogrammetry</bold>, a photography-based image measurement method in which the
+spatial position of objects is reconstructed from the coordinates of overlapping pixels
+within photos was used: The photos of the operating room are transformed into a 3D model
+using the software <italic toggle="yes">Metashape</italic> (Agisoft Inc., St. Petersburg, Russia.). The
+3D model is then imported into the game engine <italic toggle="yes">Unreal Engine</italic> (Epic Games
+Inc., Cary, USA), a software development environment to build video games (<xref rid="fig1-15533506211054240" ref-type="fig">Figure 1</xref>). This digital representation
+of an operating room serves as the scene for displaying volumetric video sequences and
+additional metadata. Using any <italic toggle="yes">SteamVR</italic> compatible virtual reality headset,
+such as <italic toggle="yes">Vive</italic> (HTC Inc., New Taipei, Taiwan) users can experience the model
+in real scale, from any perspective, and in a photorealistic manner.<fig position="float" fig-type="figure" id="fig1-15533506211054240"><label>Figure 1.</label><caption><p>Photogrammetry model of the operating room at Campus Mitte, Charit&#x000e9; -
+Universit&#x000e4;tsmedizin Berlin (a); detail (b) with wireframe model overlay (c).</p></caption><graphic xlink:href="10.1177_15533506211054240-fig1" position="float"/></fig></p><p>In order to represent the actions and routines of the surgical staff, we developed a
+workflow to capture dynamic three-dimensional scenes in the operating room (<xref rid="fig2-15533506211054240" ref-type="fig">Figure 2</xref>). For this purpose, we
+combined the spatial information of depth sensors (<italic toggle="yes">Kinect</italic>, Microsoft
+Corporation, Redmond, U.S. and <italic toggle="yes">Realsense</italic>, Intel Corporation, Santa Clara,
+U.S.) with the surface textures of a video camera (<italic toggle="yes">EOS 80D</italic>, Canon Inc.,
+Tokyo, Japan). The result is a spatial video that presents a surgical scene in 4D, viewable
+from any perspective. This so-called <bold>volumetric video</bold> is an emerging image
+format that provides the ability to capture and display spatial information in a video-based
+format. This method of recording surgical interventions is a new approach to convey space,
+that goes beyond traditional formats of video-based recording of surgical interventions. The
+core of the workflow is the software <italic toggle="yes">Depthkit</italic> (Scatter Studios LLC,
+Brooklyn, U.S.) that consists in a volumetric capture module and a volumetric
+post-processing module. The capture module records the surgical scene using multiple depth
+sensors, so-called RGBD cameras and video cameras. The depth sensors record spatial
+information as a point cloud and the video camera provides colour information in the form of
+a texture as well as an audio signal. Each individual sensor-camera combination is connected
+to a microcomputer and is controlled by a server computer outside of the operating room
+using the software <italic toggle="yes">TeamViewer</italic> (TeamViewer GmbH, G&#x000f6;ppingen, Germany).<fig position="float" fig-type="figure" id="fig2-15533506211054240"><label>Figure 2.</label><caption><p>Workflow overview of volumetric capture: recording (a), image fusion (b), quality
+improvement (c), VR export in game engine (d).</p></caption><graphic xlink:href="10.1177_15533506211054240-fig2" position="float"/></fig></p><p>After the recording, the data are imported in the post-processing software module in order
+to fuse depth information and colour values. For this purpose, the video data are mapped as
+surface textures onto the depth information. For this step (the so-called image fusion) the
+point cloud data of the RGBD camera are converted into a polygon net (a so-called mesh) in
+order to form a closed surface on which the colour information can be projected as RGB
+images. An optional step is the quality improvement of the video by removing artifacts using
+the software <italic toggle="yes">3ds Max</italic> (Autodesk Inc., San Rafael, U.S.) and
+<italic toggle="yes">FFmpeg</italic> (Fabrice Bellard). In the last step the data of each individual
+frame are exported to the game engine <italic toggle="yes">Unreal Engine</italic> in the alembic format,
+where the volumetric video of each sensor module is combined and is then integrated into the
+photogrammetric scene (<xref rid="fig3-15533506211054240" ref-type="fig">Figure
+3</xref>).<fig position="float" fig-type="figure" id="fig3-15533506211054240"><label>Figure 3.</label><caption><p>Volumetric recording of a living donor kidney transplantation procedure at Charit&#x000e9; -
+Universit&#x000e4;tsmedizin Berlin (a), embodied learning - users can view the surgical scene
+in real space and scale (b,c).</p></caption><graphic xlink:href="10.1177_15533506211054240-fig3" position="float"/></fig></p><p>In order to be able to interact with the scene, users can access a layer of metadata and
+context information. With the controllers of the VR headset <italic toggle="yes">Vive</italic> (HTC Inc.,
+New Taipei, Taiwan) they can navigate through the scene based on an interactive interface
+that lets them select, stop, loop and rewind the sequences of the intervention, identify
+objects and areas, such as the sterile zone and select points of interest to access
+additional metadata via interactive text boxes, that adapt to each user&#x02019;s position (<xref rid="fig4-15533506211054240" ref-type="fig">Figure 4</xref>), such as information on tools
+or machines. In this way, users can get familiar with instrument arrangements and positions
+as well as with other site-specific objects and infrastructure. <bold>Location-based
+graphical metadata</bold> overlays allow for a context-sensitive access to learning
+content that can be adapted to the hospital&#x02019;s infrastructure and working situations.<fig position="float" fig-type="figure" id="fig4-15533506211054240"><label>Figure 4.</label><caption><p>User interface overlay for navigating through the surgical workflow (a), and points
+of interest, that offer additional information by selecting spatial markers via a &#x0201c;+&#x0201d;
+button (b,c).</p></caption><graphic xlink:href="10.1177_15533506211054240-fig4" position="float"/></fig></p></sec><sec id="sec7-15533506211054240"><title>Results: Embodied Training in Virtual Reality</title><p>The concept of <italic toggle="yes">VolumetricOR</italic> allows hospitals to transfer surgical training
+from the operating room to a virtual reality environment for comparatively low costs of
+approximately 5000 US Dollars covering expenses for software licenses, depth sensors,
+cameras and computers. Based on the concept and technical setup of
+<italic toggle="yes">VolumetricOR</italic> hospitals can create virtual classrooms based on their
+original operating rooms, technical infrastructure and individual workflows in order to
+improve the acquisition of surgical skills. Studies have already shown that virtual reality
+simulations provide a more immersive, interactive and authentic experience of surgical
+action and workflows than other forms of simulation, which places users in front of a
+monitor.<sup><xref rid="bibr4-15533506211054240" ref-type="bibr">4</xref>,<xref rid="bibr8-15533506211054240" ref-type="bibr">8</xref>,<xref rid="bibr9-15533506211054240" ref-type="bibr">9</xref>,<xref rid="bibr13-15533506211054240" ref-type="bibr">13</xref>-<xref rid="bibr20-15533506211054240" ref-type="bibr">20</xref>,<xref rid="bibr23-15533506211054240" ref-type="bibr">23</xref>,<xref rid="bibr25-15533506211054240" ref-type="bibr">25</xref></sup> They extend video-based formats of
+digital education and training as trainees can experience surgical action and workflows (a)
+three-dimensionally, (b) from any perspective and (c) in real scale.
+<italic toggle="yes">VolumetricOR</italic> further extends this potential by offering the integration
+of video into virtual reality simulations. This has 3 major benefits for the use of videos
+in surgical education and training:</p><sec id="sec8-15533506211054240"><title>First-Person Perspective</title><p>Most video-based education concepts, such as videos presented at conferences or surgical
+learning platforms primarily show the operating field in order to present specific
+techniques and procedural steps. Volumetric videos expand this limited experience of the
+surgical situation, as they show the surgical workspace from the individual perspective of
+the user. This distinguishes them from conventional and even stereoscopic video formats,
+such as 360-degree video, which present a scene only from a fixed point of view &#x02013; the
+camera&#x02019;s perspective. Volumetric videos allow for the combination of translational
+movement (moving forward and backward, up and down, left and right) and rotational
+movement (tilting side to side, forward and backward, left and right) inside the scene
+(<xref rid="fig5-15533506211054240" ref-type="fig">Figure 5</xref>). While 360-degree
+video only allows users to look left or right and up and down from a fixed point, native
+virtual reality environments such as <italic toggle="yes">VolumetricOR,</italic> allow spectators to
+physically move through the scene due to the ability to measure the user&#x02019;s exact location
+within the scene. This allows users to move naturally within the virtual operating
+room.<fig position="float" fig-type="figure" id="fig5-15533506211054240"><label>Figure 5.</label><caption><p>Difference between 360-degree video (a) and volumetric video (b). Volumetric video
+is a native virtual reality video format that can address movement, size and the
+position of the user, whereas 360-degree video only accounts for rotational
+movement.</p></caption><graphic xlink:href="10.1177_15533506211054240-fig5" position="float"/></fig></p><p><italic toggle="yes">VolumetricOR</italic> can furthermore strengthen the cooperation between
+individual team members, as volumetric recordings make the whole surgical scene visible
+and physically accessible. As a result, users are no longer bound to the perspective and
+narration of the video. Instead, they can experience the surgical scene and the operating
+room from a native first-person view. This provides more context information and spatial
+awareness which is particularly helpful to understand specific workflows.<sup>
+<xref rid="bibr14-15533506211054240" ref-type="bibr">14</xref>
+</sup> Users can situate themselves anywhere in the surgical scene and watch the
+intervention from the point of view of any role or staff member, for instance, to study
+the exchange of instruments between the surgeon and the surgical assistant or particular
+settings and gestures. Trainees and residents can observe routines and protocols and the
+interaction of different professions working together in the operating room, for example,
+the surgical &#x02018;time out&#x02019; from the perspective and position of each individual staff, or
+specific manoeuvers like an emergency resuscitation. The first-person view complements and
+extends existing forms of video-based learning,<sup>
+<xref rid="bibr15-15533506211054240" ref-type="bibr">15</xref>
+</sup> such as monitor-based or tablet-based tutorials. This could make it an effective
+strategy to understand the complex cooperation within the surgical team and to accelerate
+a practice-based knowledge transfer.<sup>
+<xref rid="bibr16-15533506211054240" ref-type="bibr">16</xref>
+</sup></p></sec><sec id="sec9-15533506211054240"><title>Interaction in Real Space and Scale</title><p>Standard formats of video-based training and education are cost and time effective
+methods to study surgical practices and workflows. But they cannot depict the whole
+surgical scene. Videos impede an active accumulation of skills and techniques because they
+assign viewers a passive role as observers who cannot interact with the scene. Although
+stereoscopic video has added depth to the viewing experience and 360-degree video
+technology has extended the viewing angle, viewers are bound to the camera&#x02019;s position. In
+<italic toggle="yes">VolumetricOR</italic>, the virtual scene becomes responsive to the user&#x02019;s scale,
+position and movement. Persons and objects appear in a human-scale dimension. The software
+even accounts for the user&#x02019;s individual height, which is a factor that significantly
+limits the experience of 360-degree video in virtual reality environments. Being able to
+experience the surgical scene not only in 3D but also in real scale transforms the way
+users navigate through the surgical workflow. This requires new strategies of narration
+and interaction in order to engage trainees with the surgical scene. Techniques such as
+cut, zoom or frame do longer comply with the concept of volumetric video. Instead,
+learning objectives need to be conceptualized separately from the perspective of the
+camera and can be integrated as 3D coordinates that respond to the users position and
+point of view. The interaction in real scale lets users move naturally as if they would be
+situated in a real operating room. Compared to observing a video, this connection of
+sensor and motor activity gives users a feeling of presence and lets them apply acquired
+theoretical knowledge in a practice-oriented manner.<sup>
+<xref rid="bibr18-15533506211054240" ref-type="bibr">18</xref>
+</sup> Instead of consuming information passively in front of a monitor virtual reality
+settings such as <italic toggle="yes">VolumetricOR</italic> could improve visuospatial skills<sup>
+<xref rid="bibr17-15533506211054240" ref-type="bibr">17</xref>
+</sup> as they create a better appreciation of space. Being able to physically imitate
+actions, memorize gestures and movements as well as understanding the dimensions of tools
+and objects before going to the operating room facilitates &#x02018;the transition from the
+learning environment to the clinical environment&#x02019;, for instance, regarding instrumental
+arrangements or the testing of new equipment or specific workflows.<sup>
+<xref rid="bibr15-15533506211054240" ref-type="bibr">15</xref>
+</sup> The learning and training experience is shifted &#x02018;<italic toggle="yes">from observation to
+participation</italic>&#x02019; and &#x02018;<italic toggle="yes">from screen to space</italic>&#x02019;.</p></sec><sec id="sec10-15533506211054240"><title>Realism</title><p>A major critique of current virtual reality simulations is their lack of authenticity.<sup>
+<xref rid="bibr19-15533506211054240" ref-type="bibr">19</xref>
+</sup> Especially due to their computer-based graphic design, most virtual reality
+learning scenarios lack a realism of tasks<sup>
+<xref rid="bibr20-15533506211054240" ref-type="bibr">20</xref>
+</sup> which gives participants the awareness of being in a training environment.<sup>
+<xref rid="bibr21-15533506211054240" ref-type="bibr">21</xref>
+</sup> Accordingly, the majority of virtual reality simulators on the market are not
+designed to look photorealistic. Their aim is not to communicate the
+<italic toggle="yes">Halstedian</italic> case-related and process-related knowledge but to replicate
+single tasks and action sequences of a procedure with the goal to improve psychomotor
+skills, such as hand-eye coordination. Current virtual reality simulations particularly
+facilitate tacit knowledge, such as movement and mechanical force used on tissue<sup>
+<xref rid="bibr22-15533506211054240" ref-type="bibr">22</xref>
+</sup> but lack context and authenticity. This makes them mainly a tool that targets skill
+acquisition rather than a tool for the simulation of workflows and settings.<sup>
+<xref rid="bibr23-15533506211054240" ref-type="bibr">23</xref>
+</sup> While this is not a significant drawback when training standardized interventions
+or single tasks that are easily repeatable, it considerably falls short when communicating
+factors such as stress, teamwork or gestures.</p><p>Especially in the operating room, where the quality of care significantly depends on the
+complex interaction and collaboration of the team, computer-animated simulations cannot
+yet cope with video-based forms of learning.<sup>
+<xref rid="bibr21-15533506211054240" ref-type="bibr">21</xref>
+</sup> The operating room is a complex and information-rich working environment in which
+team members with divergent disciplinary backgrounds need to work closely together in
+order to deliver the best results. The knowledge and the experience distributed amongst
+the surgical team are difficult to communicate outside of real working situations.<sup>
+<xref rid="bibr24-15533506211054240" ref-type="bibr">24</xref>
+</sup> Although existing analogue simulation methods, such as role-playing games can
+effectively convey certain techniques and learning tasks, the experience usually remains
+separated from the real situation in the operating room and is often not capable of
+representing working contexts and routines in a realistic manner. This is why current
+digital simulation solutions on the market are usually not designed for teamwork or for
+situational decision-making.<sup>
+<xref rid="bibr16-15533506211054240" ref-type="bibr">16</xref>
+</sup> For acquiring processual knowledge, knowledge exchange on-site in the (real)
+operating room is still the preferred choice because it provides an authentic experience
+and a better contextual awareness.</p><p>In summary, the concept of <italic toggle="yes">VolumetricOR</italic> fills a gap within the existing
+formats of simulation. By connecting video-based data with the advantages of virtual
+reality it enables users to cognitively and physically enter a virtual operating room with
+a sense of presence for the real clinical environment. This makes it particularly useful
+to convey the process and the context of conducting surgical interventions. Hospitals
+equipped with the proposed sensor setup could create site-specific content based on their
+individual clinical operating room infrastructure and workflows. In this way clinical
+staff does not only need to rely on standardized and sometimes poorly reproduced virtual
+training scenes. Compared to the aesthetics of virtual training scenes, video-based
+simulation is supposed to increase identification with the learning experience and fosters
+a higher involvement with the situation. However, those conceptual considerations require
+further validation by empirical data. Backing these advantages with data needs to be the
+next step to establish volumetric video as a training tool.</p><p>Furthermore, the technical devices used in the developed prototype do not yet offer a
+sufficient video quality. While the photogrammetric reconstruction of
+<italic toggle="yes">VolumetricOR</italic> achieves a highly photorealistic representation of the
+surgical working environment that users could hardly distinguish from reality, the
+volumetric recording of the surgical scene still requires quality improvements. A more
+stable video image with less artifacts can be achieved by deploying the latest generation
+of depth sensors, such as the <italic toggle="yes">Azure Kinect</italic> system (Microsoft Corporation,
+Redmond, U.S.), a time-of-flight depth sensor that features multi-sensor calibration and
+onboard graphics processing. Furthermore, commercial volumetric service solutions have
+recently entered the market and offer out-of-the-box software solutions, such as
+<italic toggle="yes">Depthkit</italic> (Similie Inc., Brooklyn, U.S.), <italic toggle="yes">Metastage</italic>
+(Metastage Inc., Los Angeles, U.S.), <italic toggle="yes">Jaunt</italic> (Jaunt Inc. San Mateo, U.S.)
+or <italic toggle="yes">EF Eve</italic> (EF Eve Inc., London, U.K.). However, their setup is not yet
+capable of operating in sensitive environments such as the operating room. Overall, the
+concept of <italic toggle="yes">VolumetricOR</italic> does not seek to provide a market-ready solution,
+instead, the goal is to demonstrate the potential of volumetric simulation for surgical
+education to healthcare providers and clinical practitioners.</p></sec></sec><sec id="sec11-15533506211054240"><title>Conclusion: Procedure Simulation for Surgical Education</title><p>Technical, economic, social and regulatory constraints of surgical learning and training in
+the operating room require alternative approaches for the exchange of surgical skills and
+experience. Hospitals need to respond to these challenges by providing customized and
+scalable digital education solutions that allow surgical staff to effectively convey the
+knowledge they need. With the emerging technology of virtual reality, hospitals can conduct
+practice-based digital learning and training simulations outside of the operating room more effectively.<sup>
+<xref rid="bibr25-15533506211054240" ref-type="bibr">25</xref>
+</sup> The transfer of elements of on-site classes from the operating room into a
+photorealistic virtual learning environment will not replace on-site observation and
+participation but intertwines digital and on-site strategies of surgical education. Compared
+to on-site classes, virtual reality has the advantage to separate complex operative tasks
+into comprehensible and measurable steps without risking a patient&#x02019;s safety.<sup>
+<xref rid="bibr16-15533506211054240" ref-type="bibr">16</xref>
+</sup></p><p>The surplus of <italic toggle="yes">VolumetricOR</italic> is to provide a concept and a technical setup
+that enhance virtual reality applications with volumetric videos of surgical workflows. This
+gives user the advantage to be able to move and see in the same scale and dimension as in a
+real surgical environment. This embodied form of knowledge acquisition distinguishes
+<italic toggle="yes">VolumetricOR</italic> from other forms of digital simulation. While current
+virtual reality simulation capabilities mostly focus on skill-based training, such as
+improving dexterity with instruments,<sup>
+<xref rid="bibr11-15533506211054240" ref-type="bibr">11</xref>
+</sup>
+<italic toggle="yes">VolumetricOR</italic> lets trainees experience surgical interventions similar to
+being physically present. With the ability to swap to any position within the operating
+room, trainees can learn both the cognitive reasoning and the understanding of the workflow
+from the perspective of each individual team member &#x02013; something which is usually not
+possible during a real intervention. In this way, they could better understand and
+appreciate the different decision-making paths that affect the complex cooperation of the
+surgical team. This could facilitate the acquisition of procedural knowledge.</p><p>Furthermore, volumetric video does not stand in opposition to established formats of
+video-based learning and training but complement each other. In many situations standard
+video will remain a more practical and cost-effective medium to study surgical
+interventions. Volumetric video may exceed the limitations of standard video when it comes
+to understanding spatially related information, such as cooperation between team members or
+the setup of technical infrastructure. A possible use case is the spatial configuration of a
+robotic system: studying the technical setup three-dimensionally, from any perspective and
+in real scale could decrease the time of the docking process and shorten operating room
+time. Additionally, a &#x02018;picture-in-picture&#x02019; integration of the laparoscopic video stream on
+top of the surgical site could help to train the linking between the video and the robotic
+arms, that is, when adjusting the camera manually.</p><p>Altogether, <italic toggle="yes">VolumetricOR</italic> provides a new type of virtual class based on
+real workflows and real infrastructure, that is particularly suitable to communicate spatial
+and procedural knowledge, which is usually acquired over time through observation,
+assistance and individual experience in the operating room.<sup>
+<xref rid="bibr8-15533506211054240" ref-type="bibr">8</xref>
+</sup> We propose 4 areas of application to further validate the potential and impact of
+<italic toggle="yes">VolumetricOR</italic> for surgical learning and training:<list list-type="simple" id="list1-15533506211054240"><list-item><p>a) From our perspective the key area of application will be training for junior
+physicians during the transition between general education and initial work
+experience. They will be able to acquire procedural knowledge in an authentic way
+before going to the operating room. For trainees we expect to increase the learning
+curve as they could more effectively close the gap between theoretical expertise and
+practical application of knowledge, that is, to transfer knowledge into skills more
+effectively and reduce the risk of making mistakes. In later, more experienced career
+stages, the added value will probably drop, as physicians will have sufficient on-site
+experience.</p></list-item><list-item><p>b) For residents, VolumetricOR may still extend the levels of professionalization as
+it improves the communication of new techniques and workflows when the possibilities
+of on-site training are limited. Based on the ability to record and transmit on-site
+classes in 4D and to present them in a virtual reality environment in real time could
+facilitate knowledge exchange and reduce travel costs for residents.</p></list-item><list-item><p>c) With the ability to quantitatively track, measure and review the performance of
+the surgical team, VolumetricOR can also function as a tool for quality assessment and
+control as it records interventions as machine-readable three-dimensional geometric
+data. Connected to automated image and data analysis tools, this could provide a
+powerful tool to improve workflows and logistics in the operating room.</p></list-item><list-item><p>d) In order to provide potential trainees such as surgical assistants or nurses with
+an immersive insight into the operating room, volumetric simulations can also
+facilitate recruitment processes. Using a virtual reality headset, candidates could
+experience the tasks and working situations of respective job profiles in an authentic
+way, for example, at job fairs or online. Taking a first-person perspective in real
+scale enables participants to get a more precise idea of their potential tasks and
+working situations. The demand for this type of simulation will be further intensified
+by the demographic change that will significantly strengthen the labour market in many
+countries.</p></list-item></list></p></sec><sec sec-type="supplementary-material" id="sec13-15533506211054240" specific-use="figshare"><title>Supplemental Material</title><!--      <supplementary-material id="suppl1-15533506211054240" mimetype="application/mp4"
+        xlink:href="sj-mp4-1-sri-10.1177_15533506211054240.mp4">--><supplementary-material id="suppl1-15533506211054240" position="float" content-type="local-data"><p>
+<fig id="other1" position="anchor"><caption><p>Volumetric Operating Room &#x02013; Virtual Reality Concept for Surgical Training</p></caption><media xlink:href="sj-mp4-1-sri-10.1177_15533506211054240.mp4" mimetype="video" mime-subtype="mp4"><object-id pub-id-type="media-player-id">SAGE-Journals-Accessible-Video-Player</object-id><object-id pub-id-type="doi">10.1177/15533506211054240.M1</object-id><object-id content-type="media-stream-id" pub-id-type="other">sj-mp4-1-sri-10.1177_15533506211054240</object-id></media></fig>
+</p></supplementary-material></sec></body><back><ack><title>Acknowledgments</title><p>The authors would like to thank Peter Tang and Dr. Simon Moosburner (both Charit&#x000e9; &#x02013;
+Universit&#x000e4;tsmedizin Berlin) for their technical support and expertise.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of Conflicting Interests:</bold> The author(s) declared no potential conflicts of interest with respect to the research,
+authorship and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The authors disclosed receipt of the following financial support for the research,
+authorship and/or publication of this article: This work was supported by the Cluster of
+Excellence <italic toggle="yes">Image Knowledge Gestaltung. An Interdisciplinary Laboratory</italic> at
+the Humboldt-Universit&#x000e4;t zu Berlin [grant number Excellence Initiative of the German
+Council of Science and Humanities and the German Research Foundation 1027/1].</p></fn><fn fn-type="other"><p><bold>Research ethics:</bold> We declare that the submitted manuscript complies with the ICMJE Recommendations for the
+Conduct, Reporting, Editing and Publication of Scholarly Work in Medical Journals.</p></fn><fn fn-type="other"><p><bold>Data accessibility statement:</bold> The software prototype <italic toggle="yes">VolumetricOR</italic> is available via <ext-link xlink:href="https://doi.org/10.18452/20470" ext-link-type="uri">https://doi.org/10.18452/20470</ext-link>, <italic toggle="yes">Creative Commons</italic> license
+<italic toggle="yes">Attribution-Non-Commercial 4.0 International (CC BY-NC 4.0)</italic>.
+<italic toggle="yes">VolumetricOR</italic> is a virtual reality application for procedural surgical
+education and training which is optimized for use with the <italic toggle="yes">Vive</italic> headset
+and compatible with any <italic toggle="yes">SteamVR</italic> headset. Modification and examination of
+the source code requires the <italic toggle="yes">Unreal Engine</italic> version 4.19 (Epic Games Inc.,
+Cary, U.S). Raw data sets for <italic toggle="yes">VolumetricOR</italic> are available via <ext-link xlink:href="https://doi.org/10.18452/20470" ext-link-type="uri">https://doi.org/10.18452/20470</ext-link>, <italic toggle="yes">Creative Commons</italic> license
+<italic toggle="yes">Attribution-Non-Commercial 4.0 International (CC BY-NC 4.0)</italic>.</p></fn></fn-group><fn-group><fn fn-type="supplementary-material"><p><bold>Supplemental Material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><sec id="sec12-15533506211054240"><title>ORCID iD</title><p>Moritz Queisner <ext-link xlink:href="https://orcid.org/0000-0001-7917-9231" ext-link-type="uri">https://orcid.org/0000-0001-7917-9231</ext-link></p></sec><ref-list><title>References</title><ref id="bibr1-15533506211054240"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sachdeva</surname><given-names>AK</given-names></name>
+<name><surname>Bell</surname><given-names>RH</given-names></name>
+<name><surname>Britt</surname><given-names>LD</given-names></name>
+<name><surname>Tarpley</surname><given-names>JL</given-names></name>
+<name><surname>Blair</surname><given-names>PG</given-names></name>
+<name><surname>Tarpley</surname><given-names>MJ</given-names></name>
+</person-group>. <article-title>National efforts to reform residency education in
+surgery</article-title>. <source>Acad Med</source>.
+<year>2007</year>;<volume>82</volume>(<issue>12</issue>):<fpage>1200</fpage>-<lpage>1210</lpage>.<pub-id pub-id-type="pmid">18046129</pub-id></mixed-citation></ref><ref id="bibr2-15533506211054240"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seymour</surname><given-names>NE</given-names></name>
+</person-group>. <article-title>VR to OR: a review of the evidence that virtual reality
+simulation improves operating room performance</article-title>. <source>World J
+Surg</source>.
+<year>2007</year>;<volume>32</volume>:<fpage>182</fpage>-<lpage>188</lpage>.</mixed-citation></ref><ref id="bibr3-15533506211054240"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alaker</surname><given-names>M</given-names></name>
+<name><surname>Wynn</surname><given-names>GR</given-names></name>
+<name><surname>Arulampalam</surname><given-names>T</given-names></name>
+</person-group>. <article-title>Virtual reality training in laparoscopic surgery: A
+systematic review &#x00026; meta-analysis</article-title>. <source>Int J Surg</source>.
+<year>2016</year>;<volume>29</volume>:<fpage>85</fpage>-<lpage>94</lpage>.<pub-id pub-id-type="pmid">26992652</pub-id></mixed-citation></ref><ref id="bibr4-15533506211054240"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vitish-Sharma</surname><given-names>P</given-names></name>
+<name><surname>Knowles</surname><given-names>J</given-names></name>
+<name><surname>Patel</surname><given-names>B</given-names></name>
+</person-group>. <article-title>Acquisition of fundamental laparoscopic skills: is a box
+really as good as a virtual reality trainer?</article-title>
+<source>Int J Surg</source>.
+<year>2011</year>;<volume>9</volume>:<fpage>659</fpage>-<lpage>661</lpage>.<pub-id pub-id-type="pmid">21964217</pub-id></mixed-citation></ref><ref id="bibr5-15533506211054240"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nataraja</surname><given-names>RM</given-names></name>
+<name><surname>Webb</surname><given-names>N</given-names></name>
+<name><surname>Lopez</surname><given-names>PJ</given-names></name>
+</person-group>. <article-title>Simulation in paediatric urology and surgery, part 2: An
+overview of simulation modalities and their applications</article-title>. <source>J
+Pediatr Urol</source>.
+<year>2018</year>;<volume>14</volume>:<fpage>125</fpage>-<lpage>131</lpage>.<pub-id pub-id-type="pmid">29456118</pub-id></mixed-citation></ref><ref id="bibr6-15533506211054240"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shaharan</surname><given-names>S</given-names></name>
+<name><surname>Neary</surname><given-names>P</given-names></name>
+</person-group>. <article-title>Evaluation of surgical training in the era of
+simulation</article-title>. <source>World J Gastrointest Endosc</source>.
+<year>2014</year>;<volume>6</volume>:<fpage>436</fpage>-<lpage>447</lpage>.<pub-id pub-id-type="pmid">25228946</pub-id></mixed-citation></ref><ref id="bibr7-15533506211054240"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Halsted</surname><given-names>WS</given-names></name>
+</person-group>. <article-title>The training of the surgeon</article-title>. <source>Johns
+Hopkins Bulletin</source>.
+<year>1904</year>;<volume>15</volume>:<fpage>267</fpage>-<lpage>275</lpage>.</mixed-citation></ref><ref id="bibr8-15533506211054240"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Robison</surname><given-names>RA</given-names></name>
+<name><surname>Liu</surname><given-names>CY</given-names></name>
+<name><surname>Apuzzo</surname><given-names>ML</given-names></name>
+</person-group>. <article-title>Man, mind, and machine: the past and future of virtual
+reality simulation in neurologic surgery</article-title>. <source>World
+Neurosurg</source>.
+<year>2011</year>;<volume>76</volume>:<fpage>419</fpage>-<lpage>430</lpage>.<pub-id pub-id-type="pmid">22152571</pub-id></mixed-citation></ref><ref id="bibr9-15533506211054240"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Patel</surname><given-names>HRH</given-names></name>
+<name><surname>Patel</surname><given-names>BP</given-names></name>
+</person-group>. <article-title>Virtual reality surgical simulation in
+training</article-title>. <source>Expert Rev Anticancer Ther</source>.
+<year>2012</year>;<volume>12</volume>(<issue>4</issue>):<fpage>417</fpage>-<lpage>420</lpage>.<pub-id pub-id-type="pmid">22500677</pub-id></mixed-citation></ref><ref id="bibr10-15533506211054240"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hopmans</surname><given-names>CJ</given-names></name>
+<name><surname>Pieter</surname><given-names>TH</given-names></name>
+<name><surname>van der Laan</surname><given-names>L</given-names></name>
+<name><surname>van der Harst</surname><given-names>E</given-names></name>
+<name><surname>van der Elst</surname><given-names>M</given-names></name>
+<name><surname>Mannaerts</surname><given-names>GHH</given-names></name>
+</person-group>. <article-title>Impact of the European Working Time Directive (EWTD) on
+the operative experience of surgery residents</article-title>. <source>Surgery</source>.
+<year>2015</year>;<volume>157</volume>:<fpage>634</fpage>-<lpage>641</lpage>.<pub-id pub-id-type="pmid">25704424</pub-id></mixed-citation></ref><ref id="bibr11-15533506211054240"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Polavarapu</surname><given-names>HV</given-names></name>
+<name><surname>Kulaylat</surname><given-names>AN</given-names></name>
+<name><surname>Sun</surname><given-names>S</given-names></name>
+<name><surname>Hamed</surname><given-names>OH</given-names></name>
+</person-group>. <article-title>100 years of surgical education: the past, present, and
+future</article-title>. <source>Bull Am Coll Surg</source>.
+<year>2013</year>;<volume>98</volume>:<fpage>22</fpage>-<lpage>27</lpage>.</mixed-citation></ref><ref id="bibr12-15533506211054240"><label>12</label><mixed-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Ludmerer</surname><given-names>K</given-names></name>
+</person-group>. <source>Time to heal: american medical education from the turn of the
+century to the era of managed care</source>. <publisher-name>Oxford University
+Press</publisher-name>; <year>1999</year>.</mixed-citation></ref><ref id="bibr13-15533506211054240"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Guti&#x000e9;rrez</surname><given-names>F</given-names></name>
+<name><surname>Pierce</surname><given-names>J</given-names></name>
+<name><surname>Vergara</surname><given-names>VM</given-names></name>
+<name><surname>Coulter</surname><given-names>R</given-names></name>
+<name><surname>Saland</surname><given-names>L</given-names></name>
+<name><surname>Caudell</surname><given-names>TP</given-names></name>
+</person-group>. <article-title>The effect of degree of immersion upon learning
+performance in virtual reality simulations for medical education</article-title>.
+<source>Stud Health Technol Inform</source>.
+<year>2007</year>;<volume>125</volume>:<fpage>155</fpage>-<lpage>160</lpage>.<pub-id pub-id-type="pmid">17377256</pub-id></mixed-citation></ref><ref id="bibr14-15533506211054240"><label>14</label><mixed-citation publication-type="confproc"><person-group person-group-type="author">
+<name><surname>Kleven</surname><given-names>NF</given-names></name>
+<name><surname>Prasolova-Forland</surname><given-names>E</given-names></name>
+<name><surname>Fominykh</surname><given-names>M</given-names></name>
+<name><surname>Rasmussen</surname><given-names>G</given-names></name>
+<name><surname>Sagberg</surname><given-names>LM</given-names></name>
+<name><surname>Lindseth</surname><given-names>F</given-names></name>
+</person-group>. <article-title>Training nurses and educating the public using a virtual
+operating room with Oculus Rift</article-title>. <conf-name>Paper presented at:
+International Conference on Virtual Systems &#x00026; Multimedia</conf-name>,
+<conf-date>December 9&#x02013;12</conf-date>, <conf-loc>Hong Kong, China</conf-loc>;
+<year>2014</year>.</mixed-citation></ref><ref id="bibr15-15533506211054240"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khor</surname><given-names>WS</given-names></name>
+<name><surname>Baker</surname><given-names>B</given-names></name>
+<name><surname>Amin</surname><given-names>K</given-names></name>
+<name><surname>Chan</surname><given-names>A</given-names></name>
+<name><surname>Patel</surname><given-names>K</given-names></name>
+<name><surname>Wong</surname><given-names>J</given-names></name>
+</person-group>. <article-title>Augmented and virtual reality in surgery &#x02013; the digital
+surgical environment: applications limitations and legal pitfalls</article-title>.
+<source>Ann Transl Med</source>.
+<year>2016</year>;<volume>4</volume>(<issue>23</issue>):<fpage>454</fpage>.<pub-id pub-id-type="pmid">28090510</pub-id></mixed-citation></ref><ref id="bibr16-15533506211054240"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kotsis</surname><given-names>SV</given-names></name>
+<name><surname>Chung</surname><given-names>KC</given-names></name>
+</person-group>. <article-title>Application of the see one, do one, teach one concept in
+surgical training</article-title>. <source>Plast Reconstr Surg</source>.
+<year>1999</year>;<volume>131</volume>:<fpage>1194</fpage>-<lpage>1201</lpage>.</mixed-citation></ref><ref id="bibr17-15533506211054240"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bernardo</surname><given-names>A</given-names></name>
+</person-group>. <article-title>Virtual Reality and Simulation in Neurosurgical
+Training</article-title>. <source>World Neurosurg</source>.
+<year>2017</year>;<volume>106</volume>:<fpage>1015</fpage>-<lpage>1029</lpage>.<pub-id pub-id-type="pmid">28985656</pub-id></mixed-citation></ref><ref id="bibr18-15533506211054240"><label>18</label><mixed-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Kapralos</surname><given-names>B</given-names></name>
+<name><surname>Moussa</surname><given-names>F</given-names></name>
+<name><surname>Dubrowski</surname><given-names>A</given-names></name>
+</person-group>. <article-title>An Overview of Virtual Simulation and Serious Gaming for
+Surgical Education and Training</article-title>. In: <person-group person-group-type="editor">
+<name><surname>Brooks</surname><given-names>AL</given-names></name>
+<name><surname>Brahnam</surname><given-names>S</given-names></name>
+<name><surname>Jain</surname><given-names>LC</given-names></name>
+</person-group>, eds. <source>Technologies of Inclusive Well-Being. Serious Games,
+Alternative Realities, and Play Therapy</source>.
+<publisher-name>Springer</publisher-name>;
+<year>2014</year>:<fpage>289</fpage>-<lpage>306</lpage>.</mixed-citation></ref><ref id="bibr19-15533506211054240"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van Dongen</surname><given-names>KW</given-names></name>
+<name><surname>van der Wal</surname><given-names>WA</given-names></name>
+<name><surname>Rinkes</surname><given-names>IH</given-names></name>
+<name><surname>Schijven</surname><given-names>MP</given-names></name>
+<name><surname>Broeders</surname><given-names>IA</given-names></name>
+</person-group>. <article-title>Virtual reality training for endoscopic surgery: voluntary
+or obligatory?</article-title>
+<source>Surg Endosc</source>.
+<year>2007</year>;<volume>22</volume>(<issue>3</issue>):<fpage>664</fpage>-<lpage>667</lpage>.</mixed-citation></ref><ref id="bibr20-15533506211054240"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huber</surname><given-names>T</given-names></name>
+<name><surname>Wunderling</surname><given-names>T</given-names></name>
+<name><surname>Paschold</surname><given-names>M</given-names></name>
+<name><surname>Lang</surname><given-names>H</given-names></name>
+<name><surname>Kneist</surname><given-names>W</given-names></name>
+<name><surname>Hansen</surname><given-names>C</given-names></name>
+</person-group>. <article-title>Highly immersive virtual reality laparoscopy simulation:
+development and future aspects</article-title>. <source>Int J Comput Assist Radiol
+Surg</source>.
+<year>2918</year>;<volume>13</volume>:<fpage>281</fpage>-<lpage>290</lpage>.</mixed-citation></ref><ref id="bibr21-15533506211054240"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huber</surname><given-names>T</given-names></name>
+<name><surname>Kirschniak</surname><given-names>A</given-names></name>
+<name><surname>Johannink</surname><given-names>J</given-names></name>
+</person-group>. <article-title>Survey of training in laparoscopic skills in
+Germany</article-title>. <source>Zentralbl Chir</source>.
+<year>2017</year>;<volume>142</volume>:<fpage>67</fpage>-<lpage>71</lpage>.<pub-id pub-id-type="pmid">27657675</pub-id></mixed-citation></ref><ref id="bibr22-15533506211054240"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Prentice</surname><given-names>R.</given-names></name>
+</person-group>
+<article-title>The anatomy of a surgical simulation</article-title>. <source>Soc Stud
+Sci</source>.
+<year>2005</year>;<volume>35</volume>(<issue>6</issue>):<fpage>837</fpage>-<lpage>866</lpage>.</mixed-citation></ref><ref id="bibr23-15533506211054240"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gallagher</surname><given-names>AG</given-names></name>
+<name><surname>Ritter</surname><given-names>EM</given-names></name>
+<name><surname>Champion</surname><given-names>H</given-names></name>
+<name><surname>Higgins</surname><given-names>G</given-names></name>
+<name><surname>Fried</surname><given-names>MP</given-names></name>
+<name><surname>Moses</surname><given-names>G</given-names></name>
+</person-group>. <article-title>Virtual reality simulation for the operating room:
+proficiency-based training as a paradigm shift in surgical skills
+training</article-title>. <source>Ann Surg</source>.
+<year>2005</year>;<volume>241</volume>:<fpage>364</fpage>-<lpage>372</lpage>.<pub-id pub-id-type="pmid">15650649</pub-id></mixed-citation></ref><ref id="bibr24-15533506211054240"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pugh</surname><given-names>CM</given-names></name>
+<name><surname>Santacaterina</surname><given-names>S</given-names></name>
+<name><surname>DaRosa</surname><given-names>DA</given-names></name>
+<name><surname>Clark</surname><given-names>RE</given-names></name>
+</person-group>. <article-title>Intra-operative decision making more than meets the
+eye</article-title>. <source>J Biomed Inform</source>.
+<year>2011</year>;<volume>44</volume>:<fpage>486</fpage>-<lpage>496</lpage>.<pub-id pub-id-type="pmid">20096376</pub-id></mixed-citation></ref><ref id="bibr25-15533506211054240"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chan</surname><given-names>S</given-names></name>
+<name><surname>Conti</surname><given-names>F</given-names></name>
+<name><surname>Salisbury</surname><given-names>K</given-names></name>
+<name><surname>Blevins</surname><given-names>NH</given-names></name>
+</person-group>. <article-title>Virtual reality simulation in neurosurgery: technologies
+and evolution</article-title>. <source>Neurosurg</source>.
+<year>2013</year>;<volume>72</volume>(<issue>Suppl
+1</issue>):<fpage>154</fpage>-<lpage>164</lpage>.</mixed-citation></ref></ref-list></back></article>

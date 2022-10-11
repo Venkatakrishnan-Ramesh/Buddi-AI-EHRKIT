@@ -1,0 +1,754 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700473</article-id><article-id pub-id-type="pmc">PMC9426324</article-id><article-id pub-id-type="publisher-id">30922</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.30922</article-id><article-categories><subj-group subj-group-type="heading"><subject>Art&#x000ed;culos Originales</subject></subj-group></article-categories><title-group><article-title>Caracterizaci&#x000f3;n de la problem&#x000e1;tica del uso terap&#x000e9;utico del Aceite de Cannabis en C&#x000f3;rdoba, Argentina</article-title><trans-title-group xml:lang="en"><trans-title>Characterization of the problem of the therapeutic use of Cannabis Oil in C&#x000f3;rdoba, Argentina</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Caracteriza&#x000e7;&#x000e3;o do problema do uso terap&#x000ea;utico do &#x000f3;leo de cannabis em C&#x000f3;rdoba, Argentina</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Manzo</surname><given-names>Pablo Gabriel</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>pgmanzo@gmail.com</email></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Mart&#x000ed;n</surname><given-names>Sandra</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>martins@fcq.unc.edu.ar</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-6982-0440</contrib-id><name><surname>Uema</surname><given-names>Sonia</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>suema@fcq.unc.edu.ar</email></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Charles</surname><given-names>Germ&#x000e1;n</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>gcharles@fcq.unc.edu.ar</email></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Montero Bruni</surname><given-names>Felipe</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>elipe.m@live.cl</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-2030-0890</contrib-id><name><surname>N&#x000fa;&#x000f1;ez Montoya</surname><given-names>Susana</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref><email>sununez@unc.edu.ar</email></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Bertotto</surname><given-names>Mar&#x000ed;a Eugenia</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><email>mebertotto@unc.edu.ar</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-1559-0838</contrib-id><name><surname>Eynard</surname><given-names>Mart&#x000ed;n</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><email>eynardmartin@yahoo.com.ar</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-9669-0338</contrib-id><name><surname>Armando</surname><given-names>Pedro</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><email>pdarmando@yahoo.es</email></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Bustos Fierro</surname><given-names>Carolina</given-names></name><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref><email>carobustosfierro@gmail.com</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Universidad Nacional de C&#x000f3;rdoba, Facultad de Ciencias Qu&#x000ed;micas, Centro de Qu&#x000ed;mica Aplicada (Cequimap)</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Universidad Nacional de C&#x000f3;rdoba, Facultad de Ciencias Qu&#x000ed;micas, Departamento de Qu&#x000ed;mica Org&#x000e1;nica</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Universidad Nacional de C&#x000f3;rdoba, Facultad de Ciencias Qu&#x000ed;micas, Centro de Informaci&#x000f3;n de Medicamentos (CIME)</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff4">
+<label>4</label>
+<institution>Universidad Nacional de C&#x000f3;rdoba, Facultad de Ciencias Qu&#x000ed;micas, Departamento de Farmacolog&#x000ed;a</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff5">
+<label>5</label>
+<institution>Universidad Nacional de C&#x000f3;rdoba, Facultad de Ciencias M&#x000e9;dicas, C&#x000e1;tedra de Medicina Antropol&#x000f3;gica</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff6">
+<label>6</label>
+<institution>Universidad Nacional de C&#x000f3;rdoba, Facultad de Ciencias M&#x000e9;dicas, Hospital Nacional de Cl&#x000ed;nicas, Farmacia Central</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff7">
+<label>4</label>
+<institution>Universidad Nacional de C&#x000f3;rdoba, Facultad de Ciencias Qu&#x000ed;micas, Departamento de Ciencias Farmac&#x000e9;uticas</institution>
+<city>C&#x000f3;rdoba</city>
+<country country="AR">Argentina</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>123</fpage><lpage>131</lpage><history><date date-type="received" iso-8601-date="2020-11-16"><day>16</day><month>11</month><year>2020</year></date><date date-type="accepted" iso-8601-date="2021-05-16"><day>16</day><month>5</month><year>2021</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/30922/37665">https://revistas.unc.edu.ar/index.php/med/article/view/30922/37665</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/30922/37535">https://revistas.unc.edu.ar/index.php/med/article/view/30922/37535</self-uri><abstract abstract-type="section"><title>Resumen</title><sec><title>Introducci&#x000f3;n:</title><p>El uso terap&#x000e9;utico del aceite de &#x0201c;cannabis&#x0201d; es una problem&#x000e1;tica social que pone en tensi&#x000f3;n aspectos legales, sanitarios, cient&#x000ed;ficos y culturales. La dificultad en el acceso genera un vac&#x000ed;o aprovechado por el mercado ilegal, al que recurren pacientes y familiares para mejorar su salud y calidad de vida. Estos aceites, de composici&#x000f3;n qu&#x000ed;mica desconocida, se emplean sin un seguimiento terap&#x000e9;utico. Un equipo interdisciplinario de la Universidad Nacional de C&#x000f3;rdoba (UNC) inici&#x000f3; el estudio de esta problem&#x000e1;tica con el objetivo de caracterizar el uso socio-terap&#x000e9;utico del aceite de &#x0201c;cannabis&#x0201d; en C&#x000f3;rdoba y establecer una relaci&#x000f3;n con el contenido real de cannabinoides.</p></sec><sec><title>Metodolog&#x000ed;a:</title><p>Estudio observacional-descriptivo y transversal, aprobado por el Comit&#x000e9; Institucional de &#x000c9;tica de las Investigaciones en Salud del Hospital Nacional de Cl&#x000ed;nicas de la UNC (CIEIS-HNC-UNC): entrevistas a pacientes/cuidadores mayores de edad que usaban el aceite (a&#x000f1;o 2019). Estudio experimental: an&#x000e1;lisis de muestras de aceites provistos por los entrevistados para determinar su contenido de cannabinoides, espec&#x000ed;ficamente delta-9-tetrahidrocannabinol (THC) y cannabidiol (CBD), mediante cromatograf&#x000ed;a l&#x000ed;quida de alta resoluci&#x000f3;n (HPLC, siglas en ingl&#x000e9;s).</p></sec><sec><title>Resultados:</title><p>Se realizaron 37 entrevistas y se analizaron 48 muestras. El 73% fueron adultos y adultos - mayores. El 92% inici&#x000f3; el uso del aceite sin prescripci&#x000f3;n o sugerencia m&#x000e9;dica, principalmente debido a la falta de efectividad de otras terapias (54%) y en la b&#x000fa;squeda de alternativas terap&#x000e9;uticas (33%). El 84% lo percibe efectivo (moderado-muy efectivo) y el 78% no manifest&#x000f3; eventos adversos. Usos principales: epilepsia refractaria 27% y artritis/artrosis 24%. El 15% de las muestras no presentaron contenidos cuantificables de CBD y THC, y el 67% present&#x000f3; THC sin CBD. El contenido de cannabinoides cuantificables fue muy bajo. Conclusiones</p></sec><sec><title>Conclusi&#x000f3;n:</title><p>Este trabajo permiti&#x000f3; realizar un relevamiento preliminar sobre varios aspectos (sociales y terap&#x000e9;uticos) acerca del uso del aceite de &#x0201c;cannabis&#x0201d; en C&#x000f3;rdoba, y analizar la calidad qu&#x000ed;mica de los aceites consumidos. Un hallazgo importante fue la discrepancia entre la efectividad percibida por los usuarios y el bajo contenido de cannabinoides detectados.</p></sec></abstract><trans-abstract xml:lang="en" abstract-type="section"><title>Abstract</title><sec><title>Introduction:</title><p>The therapeutic use of the &#x0201c;cannabis&#x0201d; oil is a social problem that puts legal, health, scientific and cultural aspects under stress. Difficulty in access generates an emptiness exploited by the illegal market, to which patients and relatives resort to improve their health and quality of life. These oils, with unknown chemical composition, are used without therapeutic follow-up. An interdisciplinary team from the Universidad Nacional de C&#x000f3;rdoba (UNC) started the study of this problem with the aim of characterizing the socio-therapeutic use of &#x0201c;cannabis" oil in C&#x000f3;rdoba and establishing a relationship with the real content of cannabinoids.</p></sec><sec><title>Methodology:</title><p>Observational-descriptive and cross-sectional study approved by the Comit&#x000e9; Institucional de &#x000c9;tica de las Investigaciones en Salud, Hospital Nacional de Cl&#x000ed;nicas from UNC (CIEIS-HNC-UNC): interviews with patients/caregivers of legal age who used the &#x0201c;cannabis&#x0201d; oil (year 2019). Experimental study: analysis of oil samples obtained from interviewees to determine their cannabinoid content, specifically delta-9-tetrahydrocannabinol (THC) and cannabidiol (CBD), by High Performance Liquid Chromatography analysis (HPLC).</p></sec><sec><title>Results:</title><p>thirty-seven interviews were conducted, and 48 samples were analysed. The 73% were adults and older adults. The 92% started using the oil without prescription or medical suggestion, mainly due to the lack of effectiveness of other therapies (54%) and in the search for therapeutic alternatives (33%). The 84% perceived it to be effective (moderate to highly effective), and 78% reported no adverse events. Main uses: refractory epilepsy 27% and arthritis/arthrosis 24%. Fifteen percent of the samples showed no quantifiable content of CBD and THC, and 67% had only THC. The quantifiable content of cannabinoids was very low.</p></sec><sec><title>Conclusion:</title><p>This work allowed carrying out a preliminary information-gathering on several aspects (social and therapeutic) about the use of &#x0201c;cannabis&#x0201d; oil in C&#x000f3;rdoba, and to analyze the chemical quality of the oils consumed. An important finding was the discrepancy between the effectiveness perceived by users and the low cannabinoid content detected.</p></sec></trans-abstract><trans-abstract xml:lang="pt" abstract-type="section"><title>Resumo</title><sec><title>Introdu&#x000e7;&#x000e3;o:</title><p>O uso terap&#x000ea;utico do &#x000f3;leo de &#x0201c;cannabis&#x0201d; &#x000e9; um problema social que coloca em tens&#x000e3;o aspectos legais, sanit&#x000e1;rios, cient&#x000ed;ficos e culturais. A dificuldade de acesso gera um vazio que &#x000e9; explorado pelo mercado ilegal, ao qual os pacientes e familiares recorrem para melhorar a sua sa&#x000fa;de e qualidade de vida. Estes &#x000f3;leos, de composi&#x000e7;&#x000e3;o qu&#x000ed;mica desconhecida, s&#x000e3;o utilizados sem acompanhamento terap&#x000ea;utico. Uma equipe interdisciplinar da Universidade Nacional de C&#x000f3;rdoba (UNC) iniciou o estudo deste problema com o objetivo de caracterizar o uso s&#x000f3;cio-terap&#x000ea;utico do &#x000f3;leo "cannabis" em C&#x000f3;rdoba e de estabelecer uma rela&#x000e7;&#x000e3;o com o conte&#x000fa;do real dos canabin&#x000f3;ides.</p></sec><sec><title>Metodologia:</title><p>Estudo observacional-descritivo e transversal, aprovado pelo Comit&#x000ea; Institucional de &#x000c9;tica na Investiga&#x000e7;&#x000e3;o em Sa&#x000fa;de do Hospital Nacional de Cl&#x000ed;nicas da UNC (CIEIS-HNC-UNC): entrevistas com pacientes/cuidadores maiores de idade que faziam uso de &#x000f3;leo de &#x0201c;cannabis&#x0201d; (ano 2019). Estudo experimental: an&#x000e1;lise de amostras de &#x000f3;leo obtidas dos entrevistados para determina&#x000e7;&#x000e3;o do teor de canabin&#x000f3;ides, especificamente delta-9-tetrahidrocanabinol (THC) e canabidiol (CBD), por cromatografia l&#x000ed;quida de alto rendimento (HPLC, acr&#x000f3;nimo ingl&#x000ea;s).</p></sec><sec><title>Resultados:</title><p>foram realizadas trinta e sete entrevistas e analisadas 48 amostras. Os 73% eram adultos e idosos. Os 92% come&#x000e7;aram a utilizar o &#x000f3;leo sem receita m&#x000e9;dica ou sugest&#x000e3;o m&#x000e9;dica, principalmente devido &#x000e0; falta de efic&#x000e1;cia de outras terapias (54%) e na procura de alternativas terap&#x000ea;uticas (33%). Os 84% perceberam que &#x000e9; eficaz (moderado a altamente eficaz) e 78% n&#x000e3;o relataram eventos adversos. Utiliza&#x000e7;&#x000f5;es principais: epilepsia refrat&#x000e1;ria 27% e artrite/artrose 24%. Quinze por cento das amostras n&#x000e3;o apresentaram qualquer conte&#x000fa;do quantific&#x000e1;vel de CBD e THC, e 67% tinham apenas THC. Os conte&#x000fa;dos quantific&#x000e1;veis de canabin&#x000f3;ides eram muito baixos.</p></sec><sec><title>Conclus&#x000e7;&#x000e3;o:</title><p>Este trabalho permitiu um levantamento aproximado de v&#x000e1;rios aspectos (sociais e terap&#x000ea;uticos) sobre o uso do &#x000f3;leo de &#x0201c;cannabis&#x0201d; em C&#x000f3;rdoba, e analisar a qualidade qu&#x000ed;mica dos &#x000f3;leos consumidos. Uma descoberta importante foi a discrep&#x000e2;ncia entre a efic&#x000e1;cia percebida pelos utilizadores e o baixo teor de canabin&#x000f3;ides detectados.</p></sec></trans-abstract><kwd-group><title>Palabras clave</title><kwd>cannabinoides (uso terap&#x000e9;utico)</kwd><kwd>dronabinol</kwd><kwd>cannabidiol</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>cannabinoids (therapeutic use)</kwd><kwd>dronabinol</kwd><kwd>cannabidiol</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>canabinoides (uso terap&#x000e9;utico)</kwd><kwd>dronabinol</kwd><kwd>canabidiol</kwd></kwd-group><counts><fig-count count="5"/><table-count count="2"/><equation-count count="0"/><ref-count count="37"/><page-count count="9"/></counts></article-meta></front><body><boxed-text position="float"><p>El incremento del consumo de preparados de &#x0201c;cannabis&#x0201d;, com&#x000fa;nmente denominados aceites de &#x0201c;cannabis&#x0201d;, se ha transformado en una problem&#x000e1;tica social que pone en tensi&#x000f3;n aspectos legales, sanitarios, cient&#x000ed;ficos y culturales. Existen numerosos colectivos sociales organizados en torno al uso terap&#x000e9;utico y su preparaci&#x000f3;n artesanal para ser utilizado en varias patolog&#x000ed;as; su provisi&#x000f3;n se realiza por canales externos al sistema de salud, desconociendo su composici&#x000f3;n qu&#x000ed;mica, la dosis a utilizar y la forma de realizar el seguimiento cl&#x000ed;nico. En el presente trabajo, se gener&#x000f3; un espacio interactivo entre pacientes y profesionales universitarios para la caracterizaci&#x000f3;n del uso terap&#x000e9;utico del aceite de &#x0201c;cannabis&#x0201d; en C&#x000f3;rdoba, poniendo de manifiesto cuestiones terap&#x000e9;uticas y de calidad de los mismos.</p></boxed-text><boxed-text position="float"><sec><title>Conceptos clave</title><sec><title>Qu&#x000e9; se sabe sobre el tema:</title><list list-type="bullet"><list-item><p>En los &#x000fa;ltimos a&#x000f1;os la utilizaci&#x000f3;n de aceite de &#x0201c;cannabis&#x0201d; con fines terap&#x000e9;uticos se ha transformado en una problem&#x000e1;tica social que pone en tensi&#x000f3;n aspectos legales, sanitarios, cient&#x000ed;ficos y culturales.</p></list-item><list-item><p>En la literatura cient&#x000ed;fica est&#x000e1;n descriptas una serie de patolog&#x000ed;as en las que el &#x0201c;cannabis&#x0201d; ha sido utilizado con un grado variable de eficacia terap&#x000e9;utica, en muchos casos cuestionable.</p></list-item><list-item><p>En nuestro pa&#x000ed;s, en el a&#x000f1;o 2017 se sancion&#x000f3; y reglament&#x000f3; la Ley 27350 que regula la investigaci&#x000f3;n m&#x000e9;dica y cient&#x000ed;fica del uso medicinal, terap&#x000e9;utico y/o paliativo del dolor, de la planta de &#x0201c;cannabis&#x0201d; y sus derivados, con el objeto de garantizar y promover el cuidado integral de la salud. En noviembre de 2020, el Decreto 883/2020 PEN reglament&#x000f3; la Ley derogando una reglamentaci&#x000f3;n parcial previa de 2017.</p></list-item><list-item><p>En Argentina, no se produce formalmente aceite de &#x0201c;cannabis&#x0201d; de manufactura de calidad (un preparado normalizado o estandarizado) que asegure la pureza, uniformidad y un contenido est&#x000e1;ndar de cannabinoides.</p></list-item></list></sec><sec><title>Qu&#x000e9; se aporta con el trabajo:</title><list list-type="bullet"><list-item><p>El presente trabajo ofrece una primera aproximaci&#x000f3;n de lo que ocurre en la realidad sobre el uso de aceites de &#x0201c;cannabis&#x0201d; con fines terap&#x000e9;uticos en C&#x000f3;rdoba (Argentina). Se logr&#x000f3; establecer y fortalecer lazos de articulaci&#x000f3;n entre diversos actores universitarios y extrauniversitarios, en torno a una problem&#x000e1;tica de salud de alta sensibilidad social.</p></list-item><list-item><p>En la mayor&#x000ed;a de las muestras analizadas de aceite de &#x0201c;cannabis&#x0201d; de elaboraci&#x000f3;n artesanal se detect&#x000f3; THC. Se puso en evidencia la discrepancia por la elevada percepci&#x000f3;n en la efectividad del aceite de &#x0201c;cannabis&#x0201d; y el bajo contenido de cannabinoides hallado en la mayor&#x000ed;a de las muestras de aceite analizadas.</p></list-item></list></sec></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCI&#x000d3;N</title><p>En los &#x000fa;ltimos a&#x000f1;os, la utilizaci&#x000f3;n con fines medicinales de preparados de <italic toggle="yes">Cannabis sativa</italic> L. (Cannabaceae), com&#x000fa;nmente denominada "cannabis", tales como los aceites de "cannabis", se ha transformado en una problem&#x000e1;tica social que pone en tensi&#x000f3;n aspectos legales, sanitarios, cient&#x000ed;ficos y culturales. En la mayor&#x000ed;a de las legislaciones nacionales, incluida Argentina, el "cannabis" y sus derivados est&#x000e1;n clasificados como estupefacientes y sustancia de uso restringido a fines m&#x000e9;dicos o de investigaci&#x000f3;n
+<sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+</sup>
+. Esta clasificaci&#x000f3;n, vinculada a dependencia, adicci&#x000f3;n y narcotr&#x000e1;fico, genera en gran parte de la sociedad una idea de peligrosidad para la salud, que entra en conflicto con sus posibles usos medicinales
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+. Otro aspecto controvertido es su eficacia en un espectro de indicaciones terap&#x000e9;uticas. En la literatura cient&#x000ed;fica se mencionan varias patolog&#x000ed;as en las que los extractos de "cannabis" y sus principales cannabinoides (principios activos) han sido utilizados con un grado variable -y en muchos casos cuestionable- de eficacia terap&#x000e9;utica, como son: algunos tipos de c&#x000e1;ncer; espasticidad muscular; dolores cr&#x000f3;nicos; anorexia; epilepsia; estimulaci&#x000f3;n del apetito en pacientes con HIV; s&#x000ed;ndrome de Tourette; entre otros
+<sup>
+<xref rid="B3" ref-type="bibr">3-6</xref>
+</sup>
+. Sin embargo, la eficacia y la seguridad de estas sustancias todav&#x000ed;a permanecen en discusi&#x000f3;n, debido a numerosas deficiencias metodol&#x000f3;gicas en los ensayos cl&#x000ed;nicos como el reducido n&#x000fa;mero de pacientes, la escasez de ensayos cl&#x000ed;nicos comparativos con otras alternativas terap&#x000e9;uticas, la corta duraci&#x000f3;n de los estudios, la variabilidad en dosis y productos utilizados, entre las principales. Excepto en epilepsia refractaria, para la cual la certeza de la evidencia disponible es moderada, ya que cuenta con extensos ensayos cl&#x000ed;nicos de fase 3 con gran n&#x000fa;mero de pacientes y seguimiento a largo plazo
+<sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+</sup>
+. Resulta importante destacar que, en general, se plantea el uso de los cannabinoides como un potenciador o coadyuvante del tratamiento de base, que permitir&#x000ed;a suprimir o reducir la dosis de alg&#x000fa;n f&#x000e1;rmaco. Consecuentemente, no se considera el uso de "cannabis" como &#x000fa;nico tratamiento ni como primera opci&#x000f3;n terap&#x000e9;utica para ninguna condici&#x000f3;n cl&#x000ed;nica
+<sup>
+<xref rid="B3" ref-type="bibr">3-7</xref>
+</sup>
+.
+</p><p>En nuestro pa&#x000ed;s, en 2017, se sancion&#x000f3; y reglament&#x000f3; parcialmente la Ley 27350, la cual crea el "Programa Nacional para el Estudio y la Investigaci&#x000f3;n del Uso Medicinal de la planta de Cannabis, sus Derivados y Tratamientos no Convencionales". Durante el per&#x000ed;odo de este estudio, los pacientes con epilepsia refractaria y prescripci&#x000f3;n de uso de "cannabis" inscriptos en un Registro Nacional de pacientes (RECANN) pod&#x000ed;an ser incorporados al Programa para acceder a la provisi&#x000f3;n del producto prescripto. Actualmente, las normativas existentes contemplan la posibilidad de incorporar otras patolog&#x000ed;as, pero hasta ese momento el resto de los pacientes deb&#x000ed;an utilizar la v&#x000ed;a de acceso de excepci&#x000f3;n de medicamentos no registrados, que autoriza la importaci&#x000f3;n del aceite de "cannabis", y afrontar los costos del tratamiento
+<sup>
+<xref rid="B7" ref-type="bibr">7-10</xref>
+</sup>
+. Este mecanismo formal para acceder a un tratamiento con "cannabis", a pesar de ser una alternativa posible, fue muy poco utilizado por su complejidad, los tiempos asociados y los costos implicados. Si bien los actores sociales involucrados ven con expectativa estos avances en el marco legislativo, predomina cierto escepticismo sobre la aparici&#x000f3;n de mecanismos que sustituyan las actuales pr&#x000e1;cticas informales en el corto plazo.
+</p><p>En Argentina, hasta la fecha, no se produce formalmente aceite de "cannabis" (entendido como extracto de inflorescencias y hojas superiores de <italic toggle="yes">C. sativa</italic>) de calidad controlada y estandarizada, que asegure pureza, estabilidad y un contenido normalizado de cannabinoides. Hoy en d&#x000ed;a, hay una importante cantidad de personas que emplean productos derivados de "cannabis" para el tratamiento de diversas patolog&#x000ed;as, en virtud de percibir mejoras y beneficios en sus respectivos estados de salud
+<sup>
+<xref rid="B11" ref-type="bibr">11-13</xref>
+</sup>
+. A juicio de los usuarios y sus familiares, esto justifica los riesgos relacionados al estatus legal de esta planta, a la controversia en torno a su eficacia, a los efectos adversos que se presentan
+<sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+y a las posibles interacciones entre medicamentos. Estos tratamientos ocurren, en la mayor&#x000ed;a de las situaciones, en un contexto de informalidad terap&#x000e9;utica, donde la provisi&#x000f3;n del aceite de "cannabis" se realiza por canales externos al sistema de salud, desconociendo en muchos casos su composici&#x000f3;n qu&#x000ed;mica, las dosificaciones a utilizar y la forma de realizar el seguimiento cl&#x000ed;nico (evoluci&#x000f3;n) de la patolog&#x000ed;a abordada. Sin embargo y a partir de experiencias propias, muchos de estos usuarios han acumulado importante informaci&#x000f3;n que, si bien no est&#x000e1; estrictamente protocolizada, puede constituir una importante base para estudios posteriores.
+</p><p>Dada esta problem&#x000e1;tica y en funci&#x000f3;n de no lograr una contenci&#x000f3;n efectiva en el marco del sistema de salud, muchos pacientes y sus familiares se organizan en agrupaciones o colectivos sociales, para compartir conocimientos, emp&#x000ed;ricos o te&#x000f3;ricos, formales o informales. En estos espacios se abordan aspectos relacionados a los efectos terap&#x000e9;uticos y a la forma de conseguir muestras de aceite de "cannabis" con determinadas caracter&#x000ed;sticas, compartiendo y promoviendo incluso acciones de "autocultivo" de la planta de "cannabis", para la elaboraci&#x000f3;n posterior de aceites. Estas agrupaciones, en algunos casos, est&#x000e1;n formalizadas como Fundaciones y, en otros, son colectivos sociales con cierto grado de articulaci&#x000f3;n operativa, fundamentalmente a trav&#x000e9;s de redes sociales; quienes, adem&#x000e1;s, mantienen encuentros o reuniones con cierta periodicidad. Desde estos colectivos surgen actualmente demandas concretas orientadas a establecer nuevos marcos legales y sanitarios superadores
+<sup><xref rid="B14" ref-type="bibr">14</xref>.
+<xref rid="B15" ref-type="bibr">15</xref>
+</sup>
+.
+</p><p>La planta de "cannabis" (nombre popular asociado a fines medicinales que se diferencia del nombre vulgar "marihuana" asociado a efectos psicoactivos) corresponde a la especie <italic toggle="yes">Cannabis sativa</italic> L. (Cannabaceae), incluidos sus morfotipos y quimiotipos
+<sup>
+<xref rid="B16" ref-type="bibr">16</xref>
+</sup>
+. Contiene una mezcla compleja de sustancias qu&#x000ed;micas entre las que se encuentran alrededor de 120 compuestos terpeno-fen&#x000f3;licos, farmacol&#x000f3;gicamente activos, denominados cannabinoides, de los cuales los m&#x000e1;s estudiados son el cannabidiol (CBD) y el delta-9-tetrahidrocannabinol (&#x00394;9-THC o simplemente THC)
+<sup>
+<xref rid="B17" ref-type="bibr">17</xref>
+</sup>
+. El aceite de "cannabis" se prepara a partir de un extracto vegetal concentrado, obtenido por extracci&#x000f3;n de las flores secas y en algunos casos, tambi&#x000e9;n de las hojas superiores de la planta de "cannabis", que luego es vehiculizado en un aceite fijo para su posterior utilizaci&#x000f3;n. El prop&#x000f3;sito de la extracci&#x000f3;n es disponer de los cannabinoides en altas concentraciones y en su forma activa
+<sup>
+<xref rid="B18" ref-type="bibr">18</xref>
+</sup>
+. Sin embargo, la composici&#x000f3;n qu&#x000ed;mica (cualitativa y cuantitativa) del extracto y del aceite preparado a partir de &#x000e9;ste, est&#x000e1; vinculada a muchos factores tales como: morfotipo/quimiotipo de "cannabis" utilizado; condiciones de cultivo; forma de recolecci&#x000f3;n y desecaci&#x000f3;n de la planta; partes de la planta utilizada y m&#x000e9;todo de extracci&#x000f3;n empleado. La falta de estandarizaci&#x000f3;n de los m&#x000e9;todos utilizados en la producci&#x000f3;n de extractos y aceites, como la selecci&#x000f3;n del prop&#x000e1;gulo a cultivar (tipo de semilla, esqueje, clon), puede influir significativamente en el contenido relativo de los cannabinoides presentes en los productos finales, con el consecuente impacto en el efecto terap&#x000e9;utico posterior, dado que distintas proporciones de cannabinoides pueden conducir a efectos terap&#x000e9;uticos y adversos diferentes
+<sup>
+<xref rid="B19" ref-type="bibr">19</xref>
+</sup>
+. Debido a que la cadena de provisi&#x000f3;n no est&#x000e1; formalizada, no hay garant&#x000ed;as de composici&#x000f3;n ni de calidad; por lo que estos aspectos son directamente testeados con la respuesta del paciente usuario. La situaci&#x000f3;n se torna compleja si se considera que, adem&#x000e1;s, la utilizaci&#x000f3;n terap&#x000e9;utica de cannabinoides puede producir efectos adversos. En la literatura cient&#x000ed;fica los efectos adversos m&#x000e1;s frecuentemente descriptos son: somnolencia, mareos, fatiga, sequedad de boca, debilidad muscular, dolor muscular y palpitaciones; y con menor frecuencia: desorientaci&#x000f3;n, sensaci&#x000f3;n de embriaguez, alteraciones de la memoria y la capacidad de concentraci&#x000f3;n, temblores, incoordinaci&#x000f3;n motora, n&#x000e1;useas, hipotensi&#x000f3;n, taquicardia, estre&#x000f1;imiento, visi&#x000f3;n borrosa, nerviosismo, ansiedad, depresi&#x000f3;n, paranoia y alucinaciones
+<sup><xref rid="B2" ref-type="bibr">2</xref>.<xref rid="B5" ref-type="bibr">5</xref>.
+<xref rid="B20" ref-type="bibr">20</xref>
+</sup>
+. La mayor&#x000ed;a de estos efectos adversos fueron reportados durante el uso terap&#x000e9;utico de formulaciones estandarizadas de cannabinoides y, por lo tanto, la incidencia y gravedad de los mismos, no puede extenderse a preparaciones artesanales de aceite de "cannabis".
+</p><p>En este contexto general, es importante investigar sobre los siguientes interrogantes: &#x000bf;qu&#x000e9; composici&#x000f3;n tienen las muestras que se utilizan en nuestro entorno regional?; &#x000bf;cu&#x000e1;l es el espectro de afecciones/patolog&#x000ed;as para las que se usa?; &#x000bf;qu&#x000e9; eventos adversos se manifiestan?; &#x000bf;cu&#x000e1;les son los factores principales que tienen en cuenta los usuarios y sus familiares para la toma de decisiones en torno a esta problem&#x000e1;tica?</p><p>Con el fin de dar respuestas a algunos de estos interrogantes, un equipo interdisciplinario de profesionales plante&#x000f3; la realizaci&#x000f3;n de un proyecto de extensi&#x000f3;n universitaria. El objetivo del mismo fue caracterizar el uso socio-terap&#x000e9;utico del aceite de "cannabis" en C&#x000f3;rdoba y establecer una relaci&#x000f3;n con el contenido real de cannabinoides, a trav&#x000e9;s de un estudio de percepci&#x000f3;n, mediante entrevistas a usuarios-pacientes (o cuidadores), y otro experimental en las muestras de aceite utilizadas.</p></sec><sec sec-type="materials|methods"><title>MATERIALES Y METODOLOG&#x000cd;A</title><p>En el trabajo participaron profesionales de diferentes dependencias de la Facultad de Ciencias Qu&#x000ed;micas (FCQ) y de la Facultad de Ciencias M&#x000e9;dicas (FCM), de la Universidad Nacional de C&#x000f3;rdoba (UNC).</p><p>El proyecto fue aprobado y financiado por la FCQ-UNC, Res. HCD 1178/2018 y visado por la Direcci&#x000f3;n de Asuntos Jur&#x000ed;dicos-UNC. Cont&#x000f3; con el aval del Hospital Nacional de Cl&#x000ed;nicas (HNC) de la FCM-UNC como instituci&#x000f3;n universitaria y fue aprobado por el Comit&#x000e9; Institucional de &#x000c9;tica de las Investigaciones en Salud (CIEIS) de dicho establecimiento. Per&#x000ed;odo: noviembre de 2018 a diciembre de 2019.</p><list list-type="order"><list-item><title>Estudio observacional-descriptivo y transversal</title><p>se realizaron entrevistas a pacientes/cuidadores mayores de edad, utilizando un cuestionario semiestructurado elaborado para tal fin.</p><list list-type="alpha-lower"><list-item><title>Criterios de inclusi&#x000f3;n:</title><p>pacientes/familiares mayores de edad con uso terap&#x000e9;utico de aceite de "cannabis". Los individuos seleccionados fueron voluntarios provenientes de agrupaciones que otorgaron el aval a la realizaci&#x000f3;n del proyecto: Organizaci&#x000f3;n Mam&#x000e1; Cultiva Argentina, Asociaci&#x000f3;n Civil Manuel Belgrano y Agrupaci&#x000f3;n de pacientes autoconvocados que hacen uso del aceite de "cannabis".</p><p>Estas personas fueron invitadas a participar en las reuniones que se realizaron en la UNC, donde se explicaron las generalidades del proyecto, aspectos espec&#x000ed;ficos de la encuesta y alcances de los ensayos qu&#x000ed;micos a realizar en las muestras de aceite de "cannabis" aportadas. Todos los voluntarios recibieron un documento informativo sobre los alcances del proyecto y firmaron su consentimiento de participaci&#x000f3;n.</p></list-item><list-item><title>Aspectos generales de la entrevista:</title><p>Durante la entrevista a pacientes/cuidadores se realiz&#x000f3; la encuesta utilizando un cuestionario o formulario en l&#x000ed;nea para guiar la entrevista y obtener informaci&#x000f3;n relevante acerca del uso terap&#x000e9;utico de las muestras de aceite de "cannabis". La elaboraci&#x000f3;n del cuestionario estuvo a cargo de 5 de los autores y fue revisado por otros 10 integrantes acad&#x000e9;micos del proyecto, a modo de panel de expertos. Adem&#x000e1;s, el instrumento dise&#x000f1;ado se present&#x000f3; y consensu&#x000f3; con los participantes involucrados, obteni&#x000e9;ndose la versi&#x000f3;n final en marzo de 2019. Las entrevistas fueron realizadas entre abril-octubre de 2019, en el HNC. El tiempo aproximado de cada una fue de 30 minutos. La informaci&#x000f3;n se registr&#x000f3; en formato electr&#x000f3;nico.
+</p><p>El cuestionario cont&#x000f3; con preguntas destinadas a obtener datos de contacto y sociodemogr&#x000e1;ficos del paciente y del tutor o cuidador, e informaci&#x000f3;n descriptiva vinculada al uso terap&#x000e9;utico del aceite de "cannabis": tipo de patolog&#x000ed;a, modalidad de tratamiento, grado de formalidad del procedimiento, posolog&#x000ed;a, obtenci&#x000f3;n del aceite, entre otros aspectos.</p></list-item></list></list-item><list-item><title>Estudio experimental:</title><p>se analizaron muestras de aceite de "cannabis" provistas por los entrevistados para determinar su contenido de cannabinoides (THC y CBD) por Cromatograf&#x000ed;a L&#x000ed;quida de Alta Resoluci&#x000f3;n (HPLC, por sus siglas en ingl&#x000e9;s).</p><list list-type="alpha-lower"><list-item><title>Recolecci&#x000f3;n de muestras de aceite de "cannabis"</title><p>Finalizada la entrevista, se solicit&#x000f3; al paciente/cuidador una muestra de 1 mL del/de los aceite/s de "cannabis" que estaba utilizando en su tratamiento. Se codificaron para mantener al resguardo la identidad de cada paciente y la procedencia de las muestras al momento de su an&#x000e1;lisis. Una vez rotuladas con el c&#x000f3;digo asignado, se registraron y almacenaron en condiciones adecuadas (heladera y al resguardo de la luz), para luego ser remitidas a la FCQ para su posterior ensayo.</p></list-item><list-item><title>An&#x000e1;lisis de muestras de aceite de "cannabis" por HPLC</title><p>Las muestras de aceite de "cannabis" fueron analizadas en dos lotes (junio y noviembre 2019). Se cuantificaron las concentraciones de THC y CBD, utilizando sustancias de referencia certificadas. Los l&#x000ed;mites de cuantificaci&#x000f3;n del m&#x000e9;todo (LCM) son: para CBD: 0,06% P/V y para THC: 0,02% P/V.
+</p><p>Las muestras fueron analizadas por triplicado. Para su an&#x000e1;lisis, fueron diluidas cuantitativamente en hexano, filtradas con membrana de 0,22 micras y posteriormente analizadas mediante HPLC con detecci&#x000f3;n UV-visible. Para ello se emple&#x000f3; un cromat&#x000f3;grafo <italic toggle="yes">Agilent 1200</italic> Series, equipado con una bomba cuaternaria (<italic toggle="yes">Agilent</italic> G1311A), columna C18- 250 mm x 4,6 mm, 5 &#x000b5;m, 100 A. La temperatura de la columna fue de 40 &#x000b0;C. El volumen de inyecci&#x000f3;n fue de 20 &#x000b5;L y la longitud de onda para la determinaci&#x000f3;n fue 210 nm.
+</p><p>Como fase m&#x000f3;vil se utiliz&#x000f3; un gradiente de dos soluciones: Acetonitrilo/&#x000c1;cido Ac&#x000e9;tico (0,25 %) y Agua/&#x000c1;cido Ac&#x000e9;tico (0,4 %).</p><p>El gradiente de fase m&#x000f3;vil se detalla en la (<xref rid="t1" ref-type="table">Tabla 1</xref>).
+</p></list-item></list></list-item><list-item><title>Actividades de articulaci&#x000f3;n con las organizaciones civiles</title><p>Se llevaron a cabo tres instancias de articulaci&#x000f3;n entre los distintos actores participantes, para definir las acciones operativas: 1) reuni&#x000f3;n de trabajo inicial para acordar aspectos generales de coordinaci&#x000f3;n, 2) actividad en formato de conversatorio, entendido como un espacio institucionalizado para el intercambio de ideas, y 3) taller de presentaci&#x000f3;n y discusi&#x000f3;n de resultados.
+</p></list-item></list><table-wrap position="float" id="t1"><label>Tabla N&#x000b0; 1</label><caption><title>Gradiente de fase m&#x000f3;vil</title></caption><table frame="hsides" rules="groups" width="100%"><thead><tr><th rowspan="1" colspan="1">Tiempo (min)</th><th rowspan="1" colspan="1">% Acetonitrilo/ &#x000c1;cido Ac&#x000e9;tico (0,25 %)</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">
+<p>0</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>65,0</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>14,0</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>88,8</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>14,1</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>100,0</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>16,0</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>100,0</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>16,1</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>65,0</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>21,0</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>65,0</p>
+</td></tr></tbody></table></table-wrap></sec><sec sec-type="results"><title>RESULTADOS</title><sec><title>Relevamiento del uso terap&#x000e9;utico del aceite de "cannabis"</title><p>Los principales resultados de las 37 entrevistas realizadas, son descritos a continuaci&#x000f3;n.</p><p>En la <xref rid="f1" ref-type="fig">Figura 1</xref>, se puede observar la distribuci&#x000f3;n de edades de los pacientes entrevistados. Los grupos m&#x000e1;s significativos son adultos mayores y adultos, seguidos por adolescentes y, en menor medida, ni&#x000f1;os.
+</p><p>
+<fig position="float" id="f1"><label>Figura N&#x000b0;1</label><caption><title>Edad de los pacientes</title><p>N=37. Ni&#x000f1;ez: menos a 10 a&#x000f1;os; Adolescencia: de 10 a020 a&#x000f1;os; Adultez: de 21 a 60 a&#x000f1;os; Adultos mayores: mayores de 60 a&#x000f1;os.</p></caption><graphic xlink:href="1853-0605-79-2-123-g001" position="float"/></fig>
+</p><p>En lo que respecta a las patolog&#x000ed;as involucradas (<xref rid="f2" ref-type="fig">Figura 2</xref>), se observa una prevalencia de cuadros de epilepsia refractaria y de artritis/artrosis, que conjuntamente superan el 50%. En menor medida, aparece enfermedad de Parkinson, fibromialgia y autismo, aunque tambi&#x000e9;n existen otros cuadros cl&#x000ed;nicos que individualmente no superan el 5%, por lo que fueron integrados conjuntamente como "otros".
+</p><p>
+<fig position="float" id="f2"><label>Figura N&#x000b0;2</label><caption><title>Problema de salud en que emplea el aceite</title><p>N=37</p></caption><graphic xlink:href="1853-0605-79-2-123-g002" position="float"/></fig>
+</p><p>En relaci&#x000f3;n con la forma en que los pacientes tomaron contacto con el aceite de "cannabis", se constata que ingresan a este tipo tratamiento por circuitos que est&#x000e1;n fuera del &#x000e1;mbito de la salud: principalmente comienzan por recomendaci&#x000f3;n de parientes/amigos (41%), por iniciativa propia (38%) o por comentarios de otros pacientes (13%). Solo un 8% de los entrevistados (que corresponde a 3 pacientes) declara haber comenzado su tratamiento con aceite de "cannabis" de elaboraci&#x000f3;n artesanal por recomendaci&#x000f3;n de alg&#x000fa;n profesional de la salud. Otros dos pacientes con diagn&#x000f3;stico de epilepsia refractaria que inicialmente usaban aceite de elaboraci&#x000f3;n artesanal, accedieron luego, por prescripci&#x000f3;n m&#x000e9;dica, al aceite importado por la v&#x000ed;a de excepci&#x000f3;n.</p><p>Las causas principales por la que los pacientes iniciaron sus tratamientos, est&#x000e1;n categorizadas en la <xref rid="f3" ref-type="fig">Figura 3</xref>. M&#x000e1;s de la mitad declara falta de efectividad de otras terapias y un tercio por la b&#x000fa;squeda de alternativas que le mejoren su calidad de vida. Un 8% de los pacientes refieren que los eventos adversos manifestados con otras terapias es lo que motiv&#x000f3; a usar aceite de "cannabis".
+</p><p>
+<fig position="float" id="f3"><label>Figura N&#x000ba; 3</label><caption><title>Causa principal que lo llev&#x000f3; a emplearlo</title><p>N=37</p></caption><graphic xlink:href="1853-0605-79-2-123-g003" position="float"/></fig>
+</p><p>En relaci&#x000f3;n con el tiempo de adhesi&#x000f3;n al tratamiento con aceite de "cannabis", el 50% manifiesta que hace m&#x000e1;s de 1 a&#x000f1;o que est&#x000e1; bajo tratamiento, mientras que un 37% declara estar en tratamiento en un periodo que va de 1 a 6 meses. Un 10% de los pacientes lleva menos de 1 mes bajo tratamiento y un 3% ha tomado contacto con esta terapia en un lapso que va de 6 meses a 1 a&#x000f1;o. Por otra parte, el 66% de los pacientes manifest&#x000f3; que usa de manera continua el aceite de "cannabis", esto es sin interrupciones prolongadas.</p><p>Respecto a la percepci&#x000f3;n por parte de los pacientes sobre la efectividad del tratamiento con aceite de "cannabis" (<xref rid="f4" ref-type="fig">Figura 4</xref>), la mayor&#x000ed;a declara que es muy efectivo, seguida por quienes consideran moderado el efecto y los restantes se reparten entre indefinido/variable y nada/muy poco. Adem&#x000e1;s, se consult&#x000f3; si durante el tratamiento o utilizaci&#x000f3;n de aceite de "cannabis", percibieron otros efectos o problemas de salud, a lo que el 78% de los pacientes manifest&#x000f3; que no. Del total de pacientes entrevistados, 8 expresaron haber tenido alg&#x000fa;n evento adverso como sue&#x000f1;o (n=1), aumento (n=1) o disminuci&#x000f3;n (n=1) de apetito, boca seca (n=1), n&#x000e1;useas/v&#x000f3;mitos (n=1) e irritabilidad, ansiedad y conducta agresiva (n=3).
+</p><p>
+<fig position="float" id="f4"><label>Figura N&#x000b0;4</label><caption><title>Considera que el aceite es efectivo para el problema en cuesti&#x000f3;n</title><p>N=37</p></caption><graphic xlink:href="1853-0605-79-2-123-g004" position="float"/></fig>
+</p></sec><sec><title>Resultados de las muestras de aceite de "cannabis": ensayos qu&#x000ed;micos</title><p>Se ensayaron un total de 48 muestras dado que algunos de los 37 pacientes usaban m&#x000e1;s de un aceite a la vez. En aquellos que aportaron m&#x000e1;s de una muestra se present&#x000f3; alguna de las siguientes situaciones:</p><list list-type="order"><list-item><p>usaban un aceite comprado (elaborado artesanalmente) y otro importado a trav&#x000e9;s de la autoridad sanitaria.</p></list-item><list-item><p>usaban un aceite comprado (elaborado artesanalmente) y otro aceite elaborado por ellos mismos o por sus familiares.</p></list-item><list-item><p>usaban aceites comprados (elaborados artesanalmente) de diferentes elaboradores.</p></list-item></list><p>Los aceites de elaboraci&#x000f3;n artesanal ten&#x000ed;an diversas procedencias, algunos eran elaborados en las provincias de C&#x000f3;rdoba, Santa Fe y Mendoza, y otros proven&#x000ed;an de Chile y Uruguay. Sus presentaciones eran de 10, 15, 20, 25 y 30 mL y con diferentes agregados como saborizantes.</p><p>Solo dos de las muestras fueron adquiridas a trav&#x000e9;s de la autoridad sanitaria para su uso compasivo, mientras que el resto fueron elaboradas artesanalmente.</p><p>El grupo mayoritario (67%) present&#x000f3; alg&#x000fa;n contenido de THC con ausencia de CBD, mientras que muy pocas conten&#x000ed;an CBD en concentraciones iguales o superiores al LCM, sin presencia simult&#x000e1;nea de THC. Esta distribuci&#x000f3;n de contenidos de cannabinoides puede observarse en la <xref rid="f5" ref-type="fig">Figura 5</xref> y el detalle en la <xref rid="t1" ref-type="table">Tabla 1</xref>.
+</p><p>
+<fig position="float" id="f5"><label>Figura N&#x000b0;5</label><caption><title>Contenido de CBD y THC</title><p>N=48</p><p>CBD: cannabidiol</p><p>HTC: delta-9-tetrahidrocannabinol</p><p>&#x0003c;LCM: menor al l&#x000ed;mite de cuantificaci&#x000f3;n del m&#x000e9;todo</p><p>&#x02265;LCM: mayor o igual al l&#x000ed;mite de cuantificaci&#x000f3;n del m&#x000e9;todo</p></caption><graphic xlink:href="1853-0605-79-2-123-g005" position="float"/></fig>
+</p><table-wrap position="float" id="t2"><label>Tabla N&#x000b0; 2</label><caption><title>Contenido de cannabinoides en las muestras recolectadas</title></caption><table frame="hsides" rules="groups" width="100%"><thead><tr><th rowspan="1" colspan="1">C&#x000f3;digo de muestra</th><th rowspan="1" colspan="1">[CBD] %P/V (g en 100 mL)</th><th rowspan="1" colspan="1">[THC] %P/V (g en 100 mL)</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">
+<p>001A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,26</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,65</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>001B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>2,67</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,60</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>001C</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,27</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>002A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,04</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>002B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>7,06</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,17</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>003A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,20</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>003B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,03</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>004</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,32</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>005</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>6,91</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,16</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>006A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,08</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>006B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,72</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>1,02</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>007</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,05</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>008</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,09</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>009</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,52</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>010A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>010B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>010C</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>011</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,24</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>012</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,05</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>013A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,26</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>013B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,12</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>013C</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,12</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>014</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,10</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>016A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,22</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>016B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,36</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>017</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>018</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,16</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>019</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>1,11</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>021</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,18</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>022</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>023</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>024A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,06</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>024B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,15</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>025</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,09</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>026A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,05</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>026B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,10</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>027A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,37</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>027B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,03</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>028</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,25</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,27</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>029</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>1,56</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,02</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>030</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,23</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>031</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,08</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>032</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,18</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>033</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,21</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>034</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,39</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>035</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,04</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>036A</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>0,05</p>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<p>036B</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>&#x0003c;LCM</p>
+</td></tr></tbody></table><table-wrap-foot><p>&#x0003c;LCM: Menor al l&#x000ed;mite de cuantificaci&#x000f3;n del m&#x000e9;todo; LCM para CBD: 0,06% P/V; LCM para THC: 0,02% P/V.</p></table-wrap-foot></table-wrap><p>Los resultados expresados en la Tabla 1 corresponden al promedio de las determinaciones. El coeficiente variacional obtenido del an&#x000e1;lisis del conjunto de muestras cuantificadas, fue del 5% para ambos analitos (CBD y THC).</p></sec><sec><title>Actividades p&#x000fa;blicas con los participantes</title><list list-type="bullet"><list-item><p>Reuni&#x000f3;n de trabajo inicial (21/12/2018) con los representantes de las organizaciones extrauniversitarias y de las dependencias universitarias que participaron en el proyecto. Participaron 13 personas.</p></list-item></list><list list-type="bullet"><list-item><p>Una actividad en formato de conversatorio (15/02/2019) conducida por un moderador, soci&#x000f3;logo, donde se presentaron: a) caracterizaci&#x000f3;n general de la problem&#x000e1;tica; b) definici&#x000f3;n de los aspectos operativos para la convocatoria de los voluntarios, dise&#x000f1;o y utilizaci&#x000f3;n del formulario encuesta; c) consideraciones &#x000e9;ticas y consentimiento informado de registro de datos; d) usos terap&#x000e9;uticos del aceite de "cannabis", sus eventos adversos y la definici&#x000f3;n de elementos comunicacionales para la difusi&#x000f3;n de los resultados del proyecto. Participaron 15 personas.</p></list-item></list><list list-type="bullet"><list-item><p>Taller de presentaci&#x000f3;n y discusi&#x000f3;n de resultados (09/11/2019): se expusieron los resultados generales del proyecto, se intercambiaron opiniones sobre los mismos con la moderaci&#x000f3;n del soci&#x000f3;logo y se entregaron los informes individuales a cada paciente/familiar entrevistado con los an&#x000e1;lisis de las muestras. Los resultados de los ensayos qu&#x000ed;micos se presentaron conjuntamente con los resultados de las entrevistas, particularmente en lo que respecta a la percepci&#x000f3;n de la efectividad y la seguridad de los productos utilizados. Participaron 28 personas.</p></list-item></list></sec></sec><sec sec-type="discussion"><title>DISCUSI&#x000d3;N</title><p>El presente estudio representa una primera aproximaci&#x000f3;n para conocer sobre los aceites de "cannabis" utilizados en C&#x000f3;rdoba con fines terap&#x000e9;uticos y pretende ofrecer un panorama preliminar sobre esta problem&#x000e1;tica de salud. Sin embargo, deben reconocerse las limitaciones de dise&#x000f1;o del trabajo. Los diagn&#x000f3;sticos de los problemas de salud manifestados por los usuarios, no fueron constatados con informes m&#x000e9;dicos. La elaboraci&#x000f3;n de un cuestionario semiestructurado para registrar experiencias subjetivas introduce la posibilidad de fuentes de confusi&#x000f3;n, por ejemplo: sesgo de selecci&#x000f3;n de los participantes, sus expectativas, ausencia de controles con placebo y auto-evaluaci&#x000f3;n de efectividad y tolerabilidad
+<sup>
+<xref rid="B21" ref-type="bibr">21</xref>
+</sup>
+. Esto se manifiesta en la discrepancia entre la elevada tasa de efectividad del aceite de "cannabis" percibida por pacientes/cuidadores y el bajo contenido de cannabinoides hallado en las muestras analizadas. Los aceites consumidos por los pacientes que los consideraron muy efectivos (62% en Figura 4), ten&#x000ed;an CBD por debajo de su LCM a excepci&#x000f3;n de uno de origen importado.
+</p><p>La elevada efectividad reportada supera ampliamente el efecto placebo presente al evaluar eficacia en ensayos cl&#x000ed;nicos que fue aproximadamente del 17% en ensayos con extractos de CBD
+<sup><xref rid="B22" ref-type="bibr">22</xref>.
+<xref rid="B23" ref-type="bibr">23</xref>
+</sup>
+. Tampoco puede descartarse que otros medicamentos de uso concomitante u otras sustancias presentes en las muestras de aceite (no analizadas) hayan contribuido en la alta tasa de efectividad percibida.
+</p><p>La mayor&#x000ed;a de las muestras de aceite de "cannabis" analizadas provienen de la elaboraci&#x000f3;n artesanal; no se corresponden con formulaciones estrictamente estandarizadas, ni de calidad o grado farmac&#x000e9;utico, que puedan asegurar la pureza y uniformidad de contenido del aceite
+<sup>
+<xref rid="B24" ref-type="bibr">24</xref>
+</sup>
+. Se observ&#x000f3; que los aceites elaborados artesanalmente pose&#x000ed;an una gran variedad de procedencias. No obstante, no se puede descartar que algunos tengan el mismo origen, debido a la falta de un registro formal de los elaboradores y que no se pudo indagar al respecto.
+</p><p>Espec&#x000ed;ficamente, en los aceites de "cannabis" utilizados para epilepsia refractaria se recomienda que sean de buena calidad y el CBD se encuentre en una concentraci&#x000f3;n nunca menor al 96% con respecto al THC
+<sup><xref rid="B25" ref-type="bibr">25</xref>.
+<xref rid="B26" ref-type="bibr">26</xref>
+</sup>
+. El empleo de una formulaci&#x000f3;n de manufactura casera conteniendo cantidades elevadas de THC podr&#x000ed;a llegar a ser perjudicial, debido a los efectos psicoactivos y el potencial adictivo del THC; adem&#x000e1;s del deterioro cognitivo que podr&#x000ed;a ocasionar en ni&#x000f1;os su uso a largo plazo
+<sup>
+<xref rid="B27" ref-type="bibr">27</xref>
+</sup>
+. Tampoco puede descartarse que otros constituyentes y contaminantes presentes en la preparaci&#x000f3;n puedan generar efectos adversos adicionales a los reportados para los extractos enriquecidos en CBD. As&#x000ed;, el perfil de reacciones adversas y dem&#x000e1;s datos de seguridad provenientes de extractos de "cannabis" de grado farmac&#x000e9;utico, no pueden extrapolarse a estos preparados artesanales de calidad desconocida
+<sup><xref rid="B28" ref-type="bibr">28</xref>.
+<xref rid="B29" ref-type="bibr">29</xref>
+</sup>
+. El Epidiolex&#x000ae;, &#x000fa;nico medicamento autorizado por FDA (autoridad sanitaria de Estados Unidos) para las convulsiones asociadas a la epilepsia refractaria (espec&#x000ed;ficamente los S&#x000ed;ndromes de Dravet y de Lennox-Gastaut) obtenido a partir del "cannabis" contiene un 99% de CBD (100 mg/mL)
+<sup>
+<xref rid="B20" ref-type="bibr">20</xref>
+</sup>
+. En Argentina, a fines del 2020, la autoridad sanitaria (ANMAT: Administraci&#x000f3;n Nacional de Medicamentos y Tecnolog&#x000ed;as m&#x000e9;dicas) autoriz&#x000f3; una especialidad medicinal similar o equivalente, el Convupidiol&#x000ae;, como tratamiento complementario de convulsiones asociadas con el S&#x000ed;ndrome de Lennox-Gasteaut o el S&#x000ed;ndrome de Dravet en conjunto con clobazam para pacientes desde los 2 a&#x000f1;os. El Convupidiol&#x000ae; constituye la primera especialidad medicinal obtenida a partir del "cannabis" de calidad farmac&#x000e9;utica y de producci&#x000f3;n nacional disponible en el mercado
+<sup>
+<xref rid="B30" ref-type="bibr">30</xref>
+</sup>
+.
+</p><p>Del total de pacientes que usaron aceites de "cannabis" para epilepsia refractaria (27% en Figura 2), un 70% manifest&#x000f3; que los aceites fueron entre muy o moderadamente efectivos. Estos pacientes utilizaron 17 aceites diferentes. El 35% de estos aceites presentaron niveles cuantificables de CBD, s&#x000f3;lo dos tuvieron concentraciones comparables, aunque inferiores a los medicamentos a base de extractos estandarizados (Epidiolex&#x000ae; y Convupidiol&#x000ae;, los cuales contienen 10% P/V de CBD)
+<sup><xref rid="B20" ref-type="bibr">20</xref>.
+<xref rid="B30" ref-type="bibr">30</xref>
+</sup>
+. Estos dos aceites fueron adquiridos para uso compasivo por la v&#x000ed;a de excepci&#x000f3;n. El 76% de los aceites usados para esta patolog&#x000ed;a mostraron un contenido variable de THC entre 0,04 y 1,02 % P/V.
+</p><p>Por otra parte, del total de muestras analizadas, el 81% present&#x000f3; concentraciones cuantificables de THC. Se destaca que s&#x000f3;lo dos aceites conten&#x000ed;an valores alrededor del 1% P/V (con contenido de CBD &#x0003c; LCM), y fueron utilizados uno para fibromialgia y otro en epilepsia refractaria, con una percepci&#x000f3;n de alta efectividad. Solo uno de estos pacientes manifest&#x000f3; como evento adverso irritabilidad y conducta agresiva.</p><p>En concordancia con nuestros resultados, la Facultad de Ciencias Bioqu&#x000ed;micas y Farmac&#x000e9;uticas de la Universidad Nacional de Rosario, detect&#x000f3; un bajo contenido de cannabinoides al analizar muestras de aceites de "cannabis"
+<sup>
+<xref rid="B31" ref-type="bibr">31</xref>
+</sup>
+. La mayor&#x000ed;a de estos aceites tambi&#x000e9;n eran de producci&#x000f3;n artesanal y utilizados sin supervisi&#x000f3;n m&#x000e9;dica. El principal uso reportado para estas muestras fue el tratamiento del dolor (cr&#x000f3;nico, artrosis, artritis, fibromialgia, entre otras).
+</p><p>Braithwaite et al. (2021) expresan que el dolor e insomnio se encuentran entre los usos m&#x000e1;s mencionados de los cannabinoides. Sin embargo, la evidencia es pobre o escasa, con limitaciones o defectos metodol&#x000f3;gicos y sugerencias cuestionables. Se debiera evitar la permisividad del uso basado en su popularidad y en reportes anecd&#x000f3;ticos; en cambio, promover estudios de calidad y revisiones cr&#x000ed;ticas para confirmar su utilidad terap&#x000e9;utica
+<sup>
+<xref rid="B32" ref-type="bibr">32</xref>
+</sup>
+.
+</p><p>Una preocupaci&#x000f3;n declarada por pacientes, usuarios y familiares es el estatus legal que condiciona el acceso a productos de calidad con fines medicinales. La importaci&#x000f3;n de productos industrializados de calidad controlada resulta muy costosa, por lo que recurr&#x000ed;an a v&#x000ed;as alternativas (ilegales o mercado negro). Muy pocos cannabinoides o sus derivados sint&#x000e9;ticos han sido aprobados como medicamentos; mientras que los aceites de "cannabis" son considerados suplementos dietarios
+<sup>
+<xref rid="B33" ref-type="bibr">33</xref>
+</sup>
+.
+</p><p>Esta problem&#x000e1;tica no es exclusiva de Argentina, sino que la dificultad en el acceso a formulaciones de grado farmac&#x000e9;utico tambi&#x000e9;n se extiende a otros pa&#x000ed;ses donde la situaci&#x000f3;n legal del cannabis es compleja. En estos pa&#x000ed;ses, los usuarios acceden a preparados de "cannabis" principalmente por compra en l&#x000ed;nea, donde la oferta abarca productos de calidad y procedencia variable. En general, muestran concentraciones de cannabinoides m&#x000e1;s bajas que las indicadas por los proveedores
+<sup><xref rid="B28" ref-type="bibr">28</xref>.<xref rid="B29" ref-type="bibr">29</xref>.
+<xref rid="B34" ref-type="bibr">34</xref>
+</sup>
+.
+</p><p>Para el presente proyecto se requiri&#x000f3; establecer y fortalecer lazos de articulaci&#x000f3;n entre diversos actores universitarios y extrauniversitarios, en torno a una problem&#x000e1;tica de salud de alta sensibilidad social. Distintos referentes de los grupos de pacientes/familiares bajo tratamiento, se manifestaron respecto a algunos aspectos, tales como: i) la necesidad de tener un acompa&#x000f1;amiento continuo en relaci&#x000f3;n al an&#x000e1;lisis de los aceites que est&#x000e1;n consumiendo en los tratamientos; ii) la importancia de que la Universidad se involucre en esta tem&#x000e1;tica, lo que genera mayor visibilidad y apoyo para intentar modificar los marcos legales; iii) el contraste entre las urgencias personales que requieren tratamientos inmediatos y la lucha social que implica procesos a mediano y largo plazo, adem&#x000e1;s de requerir del compromiso de muchos actores, individuales y colectivos.</p><p>Globalmente, los cambios recientes en la regulaci&#x000f3;n de "cannabis" y la aprobaci&#x000f3;n de cannabidiol como medicamento, est&#x000e1;n acercando las barreras legales y el enfoque m&#x000e1;s centrado en el paciente y personalizado
+<sup><xref rid="B21" ref-type="bibr">21</xref>.<xref rid="B24" ref-type="bibr">24</xref>.<xref rid="B33" ref-type="bibr">33</xref>.
+<xref rid="B35" ref-type="bibr">35</xref>
+</sup>
+. La investigaci&#x000f3;n cl&#x000ed;nica de su uso y los resultados en los pacientes deben ser registrados y documentados para favorecer la disponibilidad de evidencia
+<sup><xref rid="B21" ref-type="bibr">21</xref>.<xref rid="B24" ref-type="bibr">24</xref>.<xref rid="B33" ref-type="bibr">33</xref>.
+<xref rid="B36" ref-type="bibr">36</xref>
+</sup>
+. Incluso se discute si es apropiada la regulaci&#x000f3;n, considerando las limitaciones de acceso para uso medicinal. Aunque se sostiene el requerimiento de un escrutinio riguroso de la evidencia, se sugiere un abordaje diferencial de las plantas medicinales respecto a otros ingredientes farmac&#x000e9;uticos activos, debido a su complejidad. Se plantea la batalla por el acceso al "cannabis" medicinal en t&#x000e9;rminos de un derecho humano
+<sup>
+<xref rid="B23" ref-type="bibr">23</xref>
+</sup>
+. No obstante, persiste la preocupaci&#x000f3;n por los eventos adversos a largo plazo, en particular aquellos irreversibles en el desarrollo del cerebro, la necesidad de continuar investigando otros usos, as&#x000ed; como su comportamiento en s&#x000ed;ntomas de ansiedad y depresi&#x000f3;n de los usuarios y la evaluaci&#x000f3;n sistem&#x000e1;tica del "cannabis" medicinal en problemas de salud mental
+<sup><xref rid="B15" ref-type="bibr">15</xref>.<xref rid="B16" ref-type="bibr">16</xref>.
+<xref rid="B21" ref-type="bibr">21</xref>
+</sup>
+.
+</p></sec><sec sec-type="conclusions"><title>CONCLUSI&#x000d3;N</title><p>Los principales aspectos emergentes del presente trabajo se resumen en los siguientes puntos: i) se estableci&#x000f3; un compromiso institucional por parte de la FCQ al involucrarse en la tem&#x000e1;tica a trav&#x000e9;s de un proyecto de extensi&#x000f3;n, para lo cual hubo que superar barreras formales de aprobaci&#x000f3;n, como fue contar con un dictamen de la Direcci&#x000f3;n de Asuntos Jur&#x000ed;dicos de la UNC; ii) se gener&#x000f3; evidencia t&#x000e9;cnica que constituye un importante antecedente para futuros proyectos de investigaci&#x000f3;n y/o extensi&#x000f3;n; iii) se conform&#x000f3; un grupo de trabajo interdisciplinario, dispuesto a colaborar en otras instancias, que aport&#x000f3; diferentes miradas en una tem&#x000e1;tica muy compleja; iv) se pusieron de manifiesto algunos aspectos de la problem&#x000e1;tica, tanto en las cuestiones terap&#x000e9;uticas como en la calidad de los aceites de "cannabis". En este sentido es necesario remarcar la discrepancia entre la efectividad percibida con la utilizaci&#x000f3;n del aceite de "cannabis", por parte de los pacientes o cuidadores, y
+el bajo contenido de cannabinoides detectados en la mayor&#x000ed;a de las muestras analizadas.
+</p><p>Al momento de la realizaci&#x000f3;n de este estudio, la reglamentaci&#x000f3;n vigente en nuestro pa&#x000ed;s autorizaba el acceso a preparados de "cannabis" s&#x000f3;lo para pacientes con diagn&#x000f3;stico de epilepsia refractaria y con prescripci&#x000f3;n m&#x000e9;dica, por v&#x000ed;a de la excepci&#x000f3;n. La reglamentaci&#x000f3;n actual
+<sup>
+<xref rid="B37" ref-type="bibr">37</xref>
+</sup>
+ampl&#x000ed;a el uso de la planta de "cannabis" y sus derivados a otras patolog&#x000ed;as o como paliativo del dolor. Tambi&#x000e9;n prev&#x000e9; la provisi&#x000f3;n gratuita por parte del Estado (inscripci&#x000f3;n REPROCANN) y la cobertura por las obras sociales y medicina prepaga, siempre con indicaci&#x000f3;n m&#x000e9;dica.
+</p><p>En el cierre del &#x000fa;ltimo encuentro con los participantes, se acord&#x000f3; conformar un grupo de trabajo para el dise&#x000f1;o de instrumentos comunicacionales para difundir los resultados del presente proyecto.</p><p>El presente trabajo constituye un relevamiento preliminar de la problem&#x000e1;tica asociada a los preparados artesanales de aceite de "cannabis" en C&#x000f3;rdoba. No obstante, revela la necesidad de continuar investigando para acrecentar la evidencia cient&#x000ed;fica en cuanto a la efectividad y seguridad de estos preparados, indispensable para la toma de decisiones en beneficio de la salud de las personas usuarias-pacientes.</p></sec></body><back><ack><title>Agradecimientos</title><p>Se agradece por su aporte al presente trabajo a la Secretar&#x000ed;a de Extensi&#x000f3;n de la FCQ y a: Caffarati Mariana, Vallejo Mariana, Ortega Gabriela, Blanco Guillermo, Falchi Ezequiel, Gavelli Mar&#x000ed;a Emilia, Fern&#x000e1;ndez Enrique, D&#x000ed;az Cecilia, Calantoni Miguel, Caballero Fabi&#x000e1;n, N&#x000fa;&#x000f1;ez Mariana, Charles Germ&#x000e1;n, Toselli Ricardo, Montero Felipe, Cancela Liliana, Mart&#x000ed;nez Samanta, Suarez H&#x000e9;ctor, Gallego Cecilia, Guzm&#x000e1;n Andrea.</p></ack><fn-group><fn fn-type="other"><p>
+<bold>Limitaciones de responsabilidad:</bold>
+La responsabilidad de este trabajo es exclusivamente de los autores.
+</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflicto de inter&#x000e9;s:</bold>
+Ninguno.
+</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo:</bold>
+La presente investigaci&#x000f3;n fue un proyecto de Extensi&#x000f3;n financiado por la Facultad de Ciencias Qu&#x000ed;micas de la Universidad Nacional de C&#x000f3;rdoba.
+</p></fn><fn fn-type="other"><p>
+<bold>Originalidad:</bold>
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.
+</p></fn><fn fn-type="other"><p>
+<bold>Cesi&#x000f3;n de derechos:</bold>
+Los participantes de este trabajo ceden el derecho de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la RFCM y realizar las traducciones necesarias.
+</p></fn><fn fn-type="equal"><p>
+<bold>Contribuci&#x000f3;n de los autores:</bold>
+Todos los autores han participado en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, haci&#x000e9;ndose p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.
+</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="book"><source>Estupefacientes. Ley N&#x000b0; 17.818</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>Poder Ejecutivo nacional</publisher-name><year>1961</year><date-in-citation content-type="access-date" iso-8601-date="2020-09-23">[acceso 2020 septiembre 23]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20883/texact.htm" ext-link-type="uri">http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20883/texact.htm</ext-link>
+</comment></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Callado</surname><given-names>LF</given-names></name>
+</person-group><source>Cuestiones de Inter&#x000e9;s en torno a los usos terap&#x000e9;uticos del Cannabis [en l&#x000ed;nea]</source><publisher-name>Departamento de Farmacolog&#x000ed;a (UPV/EHU) y Centro de Investigaci&#x000f3;n Biom&#x000e9;dica en Red de Salud Mental (CIBERSAM)</publisher-name><year>2012</year><comment>Disponible en:
+<ext-link xlink:href="http://www.ararteko.net/RecursosWeb/DOCUMENTOS/1/0_2561_1.pdf" ext-link-type="uri">http://www.ararteko.net/RecursosWeb/DOCUMENTOS/1/0_2561_1.pdf</ext-link>
+</comment></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ben Amar</surname><given-names>M</given-names></name>
+</person-group><article-title>Cannabinoids in medicine: A review of their therapeutic potential</article-title><source>J Ethnopharmacol</source><year iso-8601-date="2006-04-21">2006</year><month>Apr</month><day>21</day><volume>105</volume><issue>1-2</issue><fpage>1</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1016/j.jep.2006.02.001</pub-id><pub-id pub-id-type="pmid">16540272</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lorenzo</surname><given-names>P</given-names></name>
+<name><surname>Leza</surname><given-names>JC</given-names></name>
+</person-group><source>Utilidad terap&#x000e9;utica del Cannabis y derivados</source><year>2000</year><volume>12</volume><fpage>149</fpage><lpage>68</lpage><comment>Disponible en:
+<ext-link xlink:href="https://www.adicciones.es/index.php/adicciones/article/view/678" ext-link-type="uri">https://www.adicciones.es/index.php/adicciones/article/view/678</ext-link>
+</comment></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Administraci&#x000f3;n Nacional de Medicamentos, Alimentos y Tecnolog&#x000ed;a M&#x000e9;dica</collab>
+</person-group><source>Usos terap&#x000e9;uticos de los cannabinoides. Informe ultrarr&#x000e1;pido de evaluaci&#x000f3;n de tecnolog&#x000ed;a sanitaria [en l&#x000ed;nea]</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>Administraci&#x000f3;n Nacional de Medicamentos, Alimentos y Tecnolog&#x000ed;a M&#x000e9;dica, Ministerio de Salud</publisher-name><year iso-8601-date="2016-06-08">2016</year><month>junio</month><day>8</day><comment>Disponible en:
+<ext-link xlink:href="http://www.anmat.gov.ar/ets/ETS_Cannabinoides.pdf" ext-link-type="uri">http://www.anmat.gov.ar/ets/ETS_Cannabinoides.pdf</ext-link>
+</comment></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="website"><person-group person-group-type="author">
+<collab>Epistemonikos Foundation [en l&#x000ed;nea]</collab>
+</person-group><source>Selecci&#x000f3;n FRISBEEs sobre uso m&#x000e9;dico de cannabis y cannabinoides</source><comment>Disponible en:
+<ext-link xlink:href="https://es.epistemonikos.cl/2018/02/14/seleccion-frisbees-sobre-uso-medico-de-cannabis-y-cannabinoides/" ext-link-type="uri">https://es.epistemonikos.cl/2018/02/14/seleccion-frisbees-sobre-uso-medico-de-cannabis-y-cannabinoides/</ext-link>
+</comment></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Bertotto</surname><given-names>ME</given-names></name>
+</person-group><source>Uso terap&#x000e9;utico de Cannabis en Argentina y su marco regulatorio. Informe CIME 2018 [en l&#x000ed;nea]</source><publisher-name>Centro de informaci&#x000f3;n de Medicamientos. Facultad de Ciencias Qu&#x000ed;micas. Universidad Nacional de C&#x000f3;rdoba</publisher-name><year iso-8601-date="2018-03">2018</year><month>marzo</month><comment>Disponible en:
+<ext-link xlink:href="http://cime.fcq.unc.edu.ar/wp-content/uploads/sites/15/2018/04/Cannabis-Informe-CIME-v.final_.pdf" ext-link-type="uri">http://cime.fcq.unc.edu.ar/wp-content/uploads/sites/15/2018/04/Cannabis-Informe-CIME-v.final_.pdf</ext-link>
+</comment></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="book"><source>Investigaci&#x000f3;n m&#x000e9;dica y cient&#x000ed;fica del uso Medicinal de la Planta de Cannabis y sus derivados. Ley 27350</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>Senado y C&#x000e1;mara de Diputados de la Naci&#x000f3;n Argentina</publisher-name><year>2017</year><date-in-citation content-type="access-date" iso-8601-date="2020-09-23">[acceso 2020 septiembre 23]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/273801/norma.htm" ext-link-type="uri">http://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/273801/norma.htm</ext-link>
+</comment></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="book"><source>Investigaci&#x000f3;n m&#x000e9;dica y cient&#x000ed;fica del uso Medicinal de la Planta de Cannabis y sus derivados. (reglamentaci&#x000f3;n) Decreto 738/2017</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>Poder Ejecutivo Nacional, Rep&#x000fa;blica Argentina</publisher-name><year>2017</year><date-in-citation content-type="access-date" iso-8601-date="2020-09-23">[acceso 2020 septiembre 23]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/279831/norma.htm" ext-link-type="uri">http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/279831/norma.htm</ext-link>
+</comment></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="book"><source>Programa Nacional para el estudio y la investigaci&#x000f3;n del uso medicinal de la planta de Cannabis, sus derivados y tratamientos no convencionales. Resoluci&#x000f3;n 1537-E/2017</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>Ministerio de Salud, Rep&#x000fa;blica Argentina</publisher-name><year>2017</year><date-in-citation content-type="access-date" iso-8601-date="2020-09-23">[acceso 2020 septiembre 23]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/279883/norma.htm" ext-link-type="uri">http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/279883/norma.htm</ext-link>
+</comment></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wershoven</surname><given-names>N</given-names></name>
+<name><surname>Kennedy</surname><given-names>AG</given-names></name>
+<name><surname>MacLean</surname><given-names>CD</given-names></name>
+</person-group><article-title>Use and Reported Helpfulness of Cannabinoids Among Primary Care Patients in Vermont</article-title><source>J Prim Care Community Health</source><year>2020</year><season>Jan-Dec</season><volume>11</volume><elocation-id>2150132720946954</elocation-id><pub-id pub-id-type="doi">10.1177/2150132720946954</pub-id><pub-id pub-id-type="pmid">32757826</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hussain</surname><given-names>SA</given-names></name>
+<name><surname>Zhou</surname><given-names>R</given-names></name>
+<name><surname>Jacobson</surname><given-names>C</given-names></name>
+<name><surname>Weng</surname><given-names>J</given-names></name>
+<name><surname>Cheng</surname><given-names>E</given-names></name>
+<name><surname>Lay</surname><given-names>J</given-names></name>
+<name><surname>Hung</surname><given-names>P</given-names></name>
+<name><surname>Lerner</surname><given-names>JT</given-names></name>
+<name><surname>Sankar</surname><given-names>R</given-names></name>
+</person-group><article-title>Perceived efficacy of cannabidiol-enriched cannabis extracts for treatment of pediatric epilepsy: A potential role for infantile spasms and Lennox-Gastaut syndrome</article-title><source>Epilepsy Behav</source><year iso-8601-date="2015-06">2015</year><month>Jun</month><volume>47</volume><fpage>138</fpage><lpage>41</lpage><pub-id pub-id-type="doi">10.1016/j.yebeh.2015.04.009</pub-id><pub-id pub-id-type="pmid">25935511</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>International Association for Cannabinoid Medicines</collab>
+</person-group><source>Bolet&#x000ed;n de la IACM Canabioid medicines</source><publisher-name>IACM</publisher-name><date-in-citation content-type="access-date" iso-8601-date="2021-05-03">[acceso 2021 mayo 03]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="http://www.cannabis-med.org/spanish/bulletin/ww_es_db_cannabis_search.php" ext-link-type="uri">http://www.cannabis-med.org/spanish/bulletin/ww_es_db_cannabis_search.php</ext-link>
+</comment></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="website"><source>Canabis Medicinal Argentina</source><year>2021</year><date-in-citation content-type="access-date" iso-8601-date="2021-04-19">[acceso 2021 abril 19]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="https://www.cannabismedicinal.com.ar/" ext-link-type="uri">https://www.cannabismedicinal.com.ar/</ext-link>
+</comment></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="website"><source>Mam&#x000e1; cultiva Argentina</source><year>2019</year><date-in-citation content-type="access-date" iso-8601-date="2021-04-19">[acceso 2021 abril 19]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="https://www.mamacultivaargentina.org/" ext-link-type="uri">https://www.mamacultivaargentina.org/</ext-link>
+</comment></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sarma</surname><given-names>ND</given-names></name>
+<name><surname>Waye</surname><given-names>A</given-names></name>
+<name><surname>El Sohly</surname><given-names>MA</given-names></name>
+<name><surname>Brown</surname><given-names>PN</given-names></name>
+<name><surname>Elzinga</surname><given-names>S</given-names></name>
+<name><surname>Johnson</surname><given-names>HE</given-names></name>
+<name><surname>Marles</surname><given-names>RJ</given-names></name>
+<name><surname>Melanson</surname><given-names>JE</given-names></name>
+<name><surname>Russo</surname><given-names>E</given-names></name>
+<name><surname>Deyton</surname><given-names>L</given-names></name>
+<name><surname>Hudalla</surname><given-names>C</given-names></name>
+<name><surname>Vrdoljak</surname><given-names>GA</given-names></name>
+<name><surname>Wurzer</surname><given-names>JH</given-names></name>
+<name><surname>Khan</surname><given-names>IA</given-names></name>
+<name><surname>Kim</surname><given-names>NC</given-names></name>
+<name><surname>Giancaspro</surname><given-names>GI</given-names></name>
+</person-group><article-title>Cannabis Inflorescence for Medical Purposes: USP Considerations for Quality Attributes</article-title><source>J Nat Prod</source><year iso-8601-date="2020-04-24">2020</year><month>Apr</month><day>24</day><volume>83</volume><issue>4</issue><fpage>1334</fpage><lpage>1351</lpage><pub-id pub-id-type="doi">10.1021/acs.jnatprod.9b01200</pub-id><pub-id pub-id-type="pmid">32281793</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>El Sohly</surname><given-names>MA</given-names></name>
+<name><surname>Radwan</surname><given-names>MM</given-names></name>
+<name><surname>Gul</surname><given-names>W</given-names></name>
+<name><surname>Chandra</surname><given-names>S</given-names></name>
+<name><surname>Galal</surname><given-names>A</given-names></name>
+</person-group><article-title>Phytochemistry of Cannabis sativa L</article-title><source>Prog Chem Org Nat Prod</source><year>2017</year><volume>103</volume><fpage>1</fpage><lpage>36</lpage><pub-id pub-id-type="doi">10.1007/978-3-319-45541-9_1</pub-id><pub-id pub-id-type="pmid">28120229</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Romano</surname><given-names>LL</given-names></name>
+<name><surname>Hazekamp</surname><given-names>A</given-names></name>
+</person-group><article-title>Cannabis Oil: chemical evaluation of an upcoming cannabis-based medicine</article-title><source>Cannabinoids</source><year>2013</year><volume>1</volume><fpage>1</fpage><lpage>11</lpage><date-in-citation content-type="access-date" iso-8601-date="2020-10-01">[acceso 2020 octubre 1]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="https://www.researchgate.net/publication/297707359_Cannabis_oil_Chemical_evaluation_of_an_upcoming_cannabis-_based_medicine" ext-link-type="uri">https://www.researchgate.net/publication/297707359_Cannabis_oil_Chemical_evaluation_of_an_upcoming_cannabis-_based_medicine</ext-link>
+</comment></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Reddy</surname><given-names>DS</given-names></name>
+<name><surname>Golub</surname><given-names>VM</given-names></name>
+</person-group><article-title>The Pharmacological Basis of Cannabis Therapy for Epilepsy</article-title><source>J Pharmacol Exp Ther</source><year iso-8601-date="2016-04">2016</year><month>Apr</month><volume>357</volume><issue>1</issue><fpage>45</fpage><lpage>55</lpage><pub-id pub-id-type="doi">10.1124/jpet.115.230151</pub-id><pub-id pub-id-type="pmid">26787773</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="report"><person-group person-group-type="author">
+<collab>U.S. Food &#x00026; Drug Administration</collab>
+</person-group><source>Highlights of prescribing information: Epidiolex&#x000ae;</source><year>2018</year><date-in-citation content-type="access-date" iso-8601-date="2020-09-23">[acceso: 2020 septiembre 23]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/210365lbl.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/210365lbl.pdf</ext-link>
+</comment></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Turna</surname><given-names>J</given-names></name>
+<name><surname>Simpson</surname><given-names>W</given-names></name>
+<name><surname>Patterson</surname><given-names>B</given-names></name>
+<name><surname>Lucas</surname><given-names>P</given-names></name>
+<name><surname>Van Ameringen</surname><given-names>M</given-names></name>
+</person-group><article-title>Cannabis use behaviors and prevalence of anxiety and depressive symptoms in a cohort of Canadian medicinal cannabis users</article-title><source>J Psychiatr Res</source><year iso-8601-date="2019-04">2019</year><month>Apr</month><volume>111</volume><fpage>134</fpage><lpage>139</lpage><pub-id pub-id-type="doi">10.1016/j.jpsychires.2019.01.024</pub-id><pub-id pub-id-type="pmid">30738930</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Devinsky</surname><given-names>O</given-names></name>
+<name><surname>Patel</surname><given-names>AD</given-names></name>
+<name><surname>Cross</surname><given-names>JH</given-names></name>
+<name><surname>Villanueva</surname><given-names>V</given-names></name>
+<name><surname>Wirrell</surname><given-names>EC</given-names></name>
+<name><surname>Privitera</surname><given-names>M</given-names></name>
+<name><surname>Greenwood</surname><given-names>SM</given-names></name>
+<name><surname>Roberts</surname><given-names>C</given-names></name>
+<name><surname>Checketts</surname><given-names>D</given-names></name>
+<name><surname>Van Landingham</surname><given-names>KE</given-names></name>
+<name><surname>Zuberi</surname><given-names>SM</given-names></name>
+<collab>GWPCARE3 Study Group</collab>
+</person-group><article-title>Effect of Cannabidiol on Drop Seizures in the Lennox-Gastaut Syndrome</article-title><source>N Engl J Med</source><year iso-8601-date="2018-05-17">2018</year><month>May</month><day>17</day><volume>378</volume><issue>20</issue><fpage>1888</fpage><lpage>1897</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1714631</pub-id><pub-id pub-id-type="pmid">29768152</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Privitera</surname><given-names>M</given-names></name>
+<name><surname>Bhathal</surname><given-names>H</given-names></name>
+<name><surname>Wong</surname><given-names>M</given-names></name>
+<name><surname>Cross</surname><given-names>JH</given-names></name>
+<name><surname>Wirrell</surname><given-names>E</given-names></name>
+<name><surname>Marsh</surname><given-names>ED</given-names></name>
+<name><surname>Mazurkiewicz-Beldzinska</surname><given-names>M</given-names></name>
+<name><surname>Villanueva</surname><given-names>V</given-names></name>
+<name><surname>Checketts</surname><given-names>D</given-names></name>
+<name><surname>Knappertz</surname><given-names>V</given-names></name>
+<name><surname>Van Landingham</surname><given-names>K</given-names></name>
+</person-group><article-title>Time to onset of cannabidiol (CBD) treatment effect in Lennox-Gastaut syndrome: Analysis from two randomized controlled trials</article-title><source>Epilepsia</source><year iso-8601-date="2021-05">2021</year><month>May</month><volume>62</volume><issue>5</issue><fpage>1130</fpage><lpage>1140</lpage><pub-id pub-id-type="doi">10.1111/epi.16878</pub-id><pub-id pub-id-type="pmid">33797076</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ali</surname><given-names>S</given-names></name>
+<name><surname>Parker</surname><given-names>APJ</given-names></name>
+</person-group><article-title>Medicinal use of cannabis-based products: a practical guide for paediatricians</article-title><source>Paediatr Child Health</source><year>2019</year><volume>30</volume><issue>2</issue><fpage>79</fpage><lpage>83</lpage><pub-id pub-id-type="doi">10.1016/j.paed.2019.11.009</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Administraci&#x000f3;n Nacional de Medicamentos Alimentos y Tecnolog&#x000ed;a M&#x000e9;dica</collab>
+</person-group><source>Informe ultrarr&#x000e1;pido de evaluaci&#x000f3;n de tecnolog&#x000ed;a sanitaira: Cannabinoides y epilepsia</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>ANMAT: Ministerio de Salud</publisher-name><year>2017</year><date-in-citation content-type="access-date" iso-8601-date="2020-09-23">[acceso 2020 septiembre 23]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="http://www.anmat.gov.ar/ets/Cannabinoides_y_epilepsia.pdf" ext-link-type="uri">http://www.anmat.gov.ar/ets/Cannabinoides_y_epilepsia.pdf</ext-link>
+</comment></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tzadok</surname><given-names>M</given-names></name>
+<name><surname>Uliel-Siboni</surname><given-names>S</given-names></name>
+<name><surname>Linder</surname><given-names>I</given-names></name>
+<name><surname>Kramer</surname><given-names>U</given-names></name>
+<name><surname>Epstein</surname><given-names>O</given-names></name>
+<name><surname>Menascu</surname><given-names>S</given-names></name>
+<name><surname>Nissenkorn</surname><given-names>A</given-names></name>
+<name><surname>Yosef</surname><given-names>OB</given-names></name>
+<name><surname>Hyman</surname><given-names>E</given-names></name>
+<name><surname>Granot</surname><given-names>D</given-names></name>
+<name><surname>Dor</surname><given-names>M</given-names></name>
+<name><surname>Lerman-Sagie</surname><given-names>T</given-names></name>
+<name><surname>Ben-Zeev</surname><given-names>B</given-names></name>
+</person-group><article-title>CBD-enriched medical cannabis for intractable pediatric epilepsy: The current Israeli experience</article-title><source>Seizure</source><year iso-8601-date="2016-02">2016</year><month>Feb</month><volume>35</volume><fpage>41</fpage><lpage>4</lpage><pub-id pub-id-type="doi">10.1016/j.seizure.2016.01.004</pub-id><pub-id pub-id-type="pmid">26800377</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Englund</surname><given-names>A</given-names></name>
+<name><surname>Freeman</surname><given-names>TP</given-names></name>
+<name><surname>Murray</surname><given-names>RM</given-names></name>
+<name><surname>McGuire</surname><given-names>P</given-names></name>
+</person-group><article-title>Can we make cannabis safer?</article-title><source>Lancet Psychiatry</source><year iso-8601-date="2017-08">2017</year><month>Aug</month><volume>4</volume><issue>8</issue><fpage>643</fpage><lpage>648</lpage><pub-id pub-id-type="doi">10.1016/S2215-0366(17)30075-5</pub-id><pub-id pub-id-type="pmid">28259650</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>White</surname><given-names>CM</given-names></name>
+</person-group><article-title>A Review of Human Studies Assessing Cannabidiol's (CBD) Therapeutic Actions and Potential</article-title><source>J Clin Pharmacol</source><year iso-8601-date="2019-07">2019</year><month>Jul</month><volume>59</volume><issue>7</issue><fpage>923</fpage><lpage>934</lpage><pub-id pub-id-type="doi">10.1002/jcph.1387</pub-id><pub-id pub-id-type="pmid">30730563</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Van Dolah</surname><given-names>HJ</given-names></name>
+<name><surname>Bauer</surname><given-names>BA</given-names></name>
+<name><surname>Mauck</surname><given-names>KF</given-names></name>
+</person-group><article-title>Clinicians' Guide to Cannabidiol and Hemp Oils</article-title><source>Mayo Clin Proc</source><year iso-8601-date="2019-09">2019</year><month>Sep</month><volume>94</volume><issue>9</issue><fpage>1840</fpage><lpage>51</lpage><pub-id pub-id-type="doi">10.1016/j.mayocp.2019.01.003</pub-id><pub-id pub-id-type="pmid">31447137</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Administraci&#x000f3;n Nacional de Medicamentos, Alimentos y Tecnolog&#x000ed;a M&#x000e9;dica</collab>
+</person-group><source>Disposici&#x000f3;n DI-2020-8920-APN-ANMAT#MS, EX-2020-67988515-APN-DFYGR#ANMAT</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>Administraci&#x000f3;n Nacional de Medicamentos, Alimentos y Tecnolog&#x000ed;a M&#x000e9;dica, Ministerio de Salud</publisher-name><year iso-8601-date="2020-12-03">2020</year><month>diciembre</month><day>3</day></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bazzoni</surname><given-names>C</given-names></name>
+</person-group><article-title>Advierten una gran circulaci&#x000f3;n de aceites de cannabis fraudulentos</article-title><source>La Capital</source><year>2019</year><month>mayo</month><day>05</day><date-in-citation content-type="access-date" iso-8601-date="2022-03-31">[acceso 2022 marzo 31]</date-in-citation><comment>Disponible en:
+<ext-link xlink:href="https://www.lacapital.com.ar/la-ciudad/advierten-una-gran-circulacion-aceites-cannabis-fraudulentos-n1761003.html" ext-link-type="uri">https://www.lacapital.com.ar/la-ciudad/advierten-una-gran-circulacion-aceites-cannabis-fraudulentos-n1761003.html</ext-link>
+</comment></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Braithwaite</surname><given-names>I</given-names></name>
+<name><surname>Bhagavan</surname><given-names>C</given-names></name>
+<name><surname>Doppen</surname><given-names>M</given-names></name>
+<name><surname>Kung</surname><given-names>S</given-names></name>
+<name><surname>Oldfield</surname><given-names>K</given-names></name>
+<name><surname>Newton-Howes</surname><given-names>G</given-names></name>
+</person-group><article-title>Medicinal applications of cannabis/cannabinoids</article-title><source>Curr Opin Psychol</source><year iso-8601-date="2021-04">2021</year><month>Apr</month><volume>38</volume><fpage>1</fpage><lpage>10</lpage><pub-id pub-id-type="doi">10.1016/j.copsyc.2020.06.002</pub-id><pub-id pub-id-type="pmid">32652488</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>C&#x000e1;ceres Guido</surname><given-names>P</given-names></name>
+<name><surname>Riva</surname><given-names>N</given-names></name>
+<name><surname>Calle</surname><given-names>G</given-names></name>
+<name><surname>Dell'Orso</surname><given-names>M</given-names></name>
+<name><surname>Gatto</surname><given-names>M</given-names></name>
+<name><surname>Sberna</surname><given-names>N</given-names></name>
+<name><surname>Schaiquevich</surname><given-names>P</given-names></name>
+</person-group><article-title>Medicinal cannabis in Latin America: History, current state of regulation, and the role of the pharmacist in a new clinical experience with cannabidiol oil</article-title><source>J Am Pharm Assoc (2003)</source><year>2020</year><season>Jan-Feb</season><volume>60</volume><issue>1</issue><fpage>212</fpage><lpage>215</lpage><pub-id pub-id-type="doi">10.1016/j.japh.2019.09.012</pub-id><pub-id pub-id-type="pmid">31706799</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bonn-Miller</surname><given-names>MO</given-names></name>
+<name><surname>Loflin</surname><given-names>MJE</given-names></name>
+<name><surname>Thomas</surname><given-names>BF</given-names></name>
+<name><surname>Marcu</surname><given-names>JP</given-names></name>
+<name><surname>Hyke</surname><given-names>T</given-names></name>
+<name><surname>Vandrey</surname><given-names>R</given-names></name>
+</person-group><article-title>Labeling Accuracy of Cannabidiol Extracts Sold Online</article-title><source>JAMA</source><year iso-8601-date="2017-11-07">2017</year><month>Nov</month><day>7</day><volume>318</volume><issue>17</issue><fpage>1708</fpage><lpage>1709</lpage><pub-id pub-id-type="doi">10.1001/jama.2017.11909</pub-id><pub-id pub-id-type="pmid">29114823</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>O&#x02019;Brien</surname><given-names>K</given-names></name>
+</person-group><article-title>Medicinal Cannabis: Issues of evidence</article-title><source>Eur J Integrat Med</source><year>2019</year><volume>28</volume><fpage>114</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1016/j.eujim.2019.05.009</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>C&#x000e1;ceres Guido</surname><given-names>P</given-names></name>
+<name><surname>Riva</surname><given-names>N</given-names></name>
+<name><surname>Caraballo</surname><given-names>R</given-names></name>
+<name><surname>Reyes</surname><given-names>G</given-names></name>
+<name><surname>Huaman</surname><given-names>M</given-names></name>
+<name><surname>Gutierrez</surname><given-names>R</given-names></name>
+<name><surname>Agostini</surname><given-names>S</given-names></name>
+<name><surname>Fabiana Delaven</surname><given-names>S</given-names></name>
+<name><surname>P&#x000e9;rez Montilla</surname><given-names>CA</given-names></name>
+<name><surname>Garc&#x000ed;a Bournissen</surname><given-names>F</given-names></name>
+<name><surname>Schaiquevich</surname><given-names>P</given-names></name>
+</person-group><article-title>Pharmacokinetics of cannabidiol in children with refractory epileptic encephalopathy</article-title><source>Epilepsia</source><year iso-8601-date="2021-01">2021</year><month>Jan</month><volume>62</volume><issue>1</issue><fpage>e7</fpage><lpage>e12</lpage><pub-id pub-id-type="doi">10.1111/epi.16781</pub-id><pub-id pub-id-type="pmid">33280111</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="book"><source>Reglamentaci&#x000f3;n de la Ley 27350. Investigaci&#x000f3;n M&#x000e9;dica y Cient&#x000ed;fica de Uso Medicinal de la Planta de Cannabis y sus derivados&#x0201d;, Anexo (IF-2020-77460970-APN-SSMEIE#MS). Decreto 883/2020</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>Poder Ejecutivo Nacional, Rep&#x000fa;blica Argentina</publisher-name><year>2020</year><comment>Disponible en:
+<ext-link xlink:href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/344131/norma.htm" ext-link-type="uri">http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/344131/norma.htm</ext-link>
+</comment></element-citation></ref></ref-list></back></article>

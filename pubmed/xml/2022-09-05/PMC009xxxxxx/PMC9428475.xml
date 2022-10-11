@@ -1,0 +1,1000 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell J</journal-id><journal-id journal-id-type="iso-abbrev">Cell J</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>Cell Journal (Yakhteh)</journal-title></journal-title-group><issn pub-type="ppub">2228-5806</issn><issn pub-type="epub">2228-5814</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36043403</article-id><article-id pub-id-type="pmc">PMC9428475</article-id><article-id pub-id-type="other">Cell-J-24-353</article-id><article-id pub-id-type="doi">10.22074/cellj.2022.7643</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review Article</subject><subj-group><subject>Biology</subject><subject>Hearth</subject></subj-group></subj-group></article-categories><title-group><article-title>Cell-Free Treatments: A New Generation of Targeted Therapies for
+Treatment of Ischemic Heart Diseases </article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Daneshi</surname><given-names>Nahid</given-names></name><degrees>M.D</degrees><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Bahmaie</surname><given-names>Nazila</given-names></name><degrees>Ph.D</degrees><xref rid="A2" ref-type="aff">2</xref><xref rid="A3" ref-type="aff">3</xref><xref rid="A4" ref-type="aff">4</xref><xref rid="A5" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Esmaeilzadeh</surname><given-names>Abdolreza</given-names></name><degrees>Ph.D</degrees><xref rid="A6" ref-type="aff">6</xref><xref rid="A7" ref-type="aff">7</xref><xref rid="A8" ref-type="aff">8</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><aff id="A1"><label>1</label>School of Medicine, Zanjan University of Medical Sciences, Zanjan, Iran</aff><aff id="A2"><label>2</label>Department of Allergy and Immunology, Faculty of Medicine, Graduate School of Health Science, Near East University, Nicosia,
+Northern Cyprus, Cyprus</aff><aff id="A3"><label>3</label>Private Baskent Hospital, Nicosia, Northern Cyprus, Cyprus</aff><aff id="A4"><label>4</label>Pediatric Ward, Department of Allergy and Immunology, Near East University Affiliated Hospital, Nicosia, Northern Cyprus, Cyprus</aff><aff id="A5"><label>5</label>Network of Immunity in Infection, Malignancy and Autoimmunity, Universal Scientific Education and Research Network, Tehran, Iran</aff><aff id="A6"><label>6</label>Department of Immunology, School of Medicine, Zanjan University of Medical Sciences, Zanjan, Iran</aff><aff id="A7"><label>7</label>Cancer Gene Therapy Research Centre, Zanjan University of Medical Sciences, Zanjan, Iran</aff><aff id="A8"><label>8</label>Immunotherapy Research and Technology Group, Zanjan University of Medical Sciences, Zanjan, Iran</aff></contrib-group><author-notes><corresp id="cor1">
+<label> *Corresponding Address: </label>
+<addr-line>P.O.Box: 4513956111</addr-line>
+<addr-line>Department of Immunology</addr-line>
+<addr-line>School of Medicine</addr-line>
+<institution>Zanjan University of Medical Sciences</institution>
+<addr-line>Zanjan</addr-line>
+<country>Iran</country>
+Email:<email>a46reza@zums.ac.ir</email>
+</corresp></author-notes><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>27</day><month>7</month><year>2022</year></pub-date><volume>24</volume><issue>7</issue><fpage>353</fpage><lpage>363</lpage><history><date date-type="received"><day>28</day><month>5</month><year>2020</year></date><date date-type="accepted"><day>22</day><month>9</month><year>2020</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium,
+with the exception of commercial purposes, is permitted provided the original work is properly cited.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0) License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original
+work is properly cited. </license-p></license></permissions><abstract><p>Although recent progress in medicine has substantially reduced cardiovascular diseases (CVDs)-related mortalities, current
+therapeutics have failed miserably to be beneficial for all patients with CVDs. A wide array of evidence suggests that
+newly-introduced cell-free treatments (CFTs) have more reliable results in the improvement of cardiac function. The main
+regeneration activity of CFTs protocols is based on bypassing cells and using paracrine factors. In this article, we aim to
+compare various stem cell secretomes, a part of a CFTs strategy, to generalize their effective clinical outcomes for patients
+with CVDs. Data for this review article were collected from 70 published articles (original, review, randomized clinical trials
+(RCTs), and case reports/series studies done on human and animals) obtained from Cochrane, Science Direct, PubMed,
+Scopus, Elsevier, and Google Scholar) from 2015 to April 2020 using six keywords. Full-text/full-length articles, abstract,
+section of book, chapter, and conference papers in English language were included. Studies with irrelevant/insufficient/data,
+or undefined practical methods were excluded. CFTs approaches involved in growth factors (GFs); gene-based therapies;
+microRNAs (miRNAs); extracellular vesicles (EVs) [exosomes (EXs) and microvesicles (MVs)]; and conditioned media (CM).
+EXs and CM have shown more remarkable results than stem cell therapy (SCT). GF-based therapies have useful results as
+well as side effects like pathologic angiogenesis. Cell source, cell&#x02032;s aging and CM affect secretomes. Genetic manipulation
+of stem cells can change the secretome&#x02019;s components. Growing progression to end stage heart failure (HF), propounds
+CFTs as an advantageous method with practical and clinical values for replacement of injured myocardium, and induction
+of neovascularization. To elucidate the secrets behind amplifying the expansion rate of cells, increasing life-expectancy, and
+improving quality of life (QOL) for patients with ischemic heart diseases (IHDs), collaboration among cell biologist, basic
+medical scientists, and cardiologists is highly recommended.</p></abstract><kwd-group><kwd>Cardiovascular Diseases</kwd><kwd>Exosomes</kwd><kwd>Extracellular Vesicles</kwd><kwd>Gene Therapy</kwd><kwd>microRNAs</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Daneshi N, Bahmaie N, Esmaeilzadeh A. Cell-free treatments: a new generation of targeted therapies for treatment of ischemic heart diseases.
+Cell J. 2022; 24(7): 353-363. doi: 10.22074/cellj.2022.7643.
+This open-access article has been published under the terms of the Creative Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0).</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>According to the reports of World Health Organization
+(WHO), cardiovascular diseases (CVDs) have been
+among the leading causes of death worldwide for
+the last 15 years. In 2017, they accounted for a
+combined total of 17.8 million recorded deaths; being
+expected to exceed 22.2 million deaths by 2030 (<xref rid="B1" ref-type="bibr">1</xref>).
+Current approaches for treatment of ischemic heart
+diseases (IHDs) include procedures restoring blood
+flow, pharmacological treatments lessening cardiac
+remodeling, cardiovascular surgical interventions, and
+various immunopathophysiological strategies inducing
+revascularization (<xref rid="B2" ref-type="bibr">2</xref>). Unfortunately, current therapeutic
+strategies only postpone the progression from IHDs to
+heart failure (HF). In other words, those aforementioned
+therapeutic approaches lack the ability to completely
+reverse clinical manifestations in patients with CVDs.
+Therefore, loss of myocardial tissues with progression
+to HF remains as a problematic challenge in IHDs
+treatment (<xref rid="B3" ref-type="bibr">3</xref>). Those challenges have encouraged basic
+medical scientists to make a borderless and integrative
+collaboration by the usage of interdisciplinary frameworks
+aimed at seeking for more efficient approaches that are
+based on cellular and molecular immunopathophysiology
+which play an indispensable role in the microenvironment
+of CVDs. Accordingly, stem cell therapy (SCT) is
+considered as a recent, and promising strategy in myocyte
+replacement after a myocardial infarction (MI) (<xref rid="B4" ref-type="bibr">4</xref>). </p><p>In heart tissue regeneration through SCT, wide array of
+stem cells are used aimed at improving clinical outcomes
+to increase angiogenesis, decrease pathological cardiac
+remodeling, increase left ventricular ejection fraction
+(LVEF), amplify regional contractility, decrease scar tissue
+and infarct size, improve New York Heart Association
+(NYHA) classification, and improve quality of life (QOL) for
+patients with CVDs. However, for improving regenerative
+functions of an infarcted heart through SCT, there are many
+unresolved challenges like: selection of an optimal cell type; possible ambiguities with specification of the cell dose,
+route and frequency of administration (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B6" ref-type="bibr">6</xref>); possibility of
+arrythmogenicity, complex cellular mechanisms of action, and
+low number of survived stem cells after transplantation in the
+infarct zone (<xref rid="B7" ref-type="bibr">7</xref>). Thus, SCT remains to be determined as the
+only responsible source for improvement of cardiac function
+(<xref rid="B8" ref-type="bibr">8</xref>). Various cellular and molecular mechanisms have been
+proposed to justify the immunobiological properties-derived
+clinical applications of SCT, including: i. differentiation of
+stem cells into heart muscle cells, ii. differentiation of stem
+cells into blood cells, iii. paracrine effects; and, iv. cell fusion
+(<xref rid="B7" ref-type="bibr">7</xref>). It has been demonstrated that paracrine mechanisms play
+indisputable roles for exacerbating the function of stem cells in
+regenerative medicine for treatment of MI. Paracrine effects,
+as cell-free treatments (CFTs), have attracted the attention of
+researchers because of their clinical potentials in heart tissue
+regeneration (<xref rid="B9" ref-type="bibr">9</xref>). In other words, CFTs have shown advantages
+through paracrine effects in heart regenerative medicine than
+SCT (<xref rid="B10" ref-type="bibr">10</xref>). Not only CFTs-based secretome and paracrine
+mechanisms can mimic the beneficial effects of SCT, but they
+also can reduce some of limitations and drawbacks regarding
+the clinical usages of SCT (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B11" ref-type="bibr">11</xref>). </p><p>In order to design paracrine mechanisms-based therapeutic
+approaches, properties of different stem cell-derived
+secretomes and agents influencing components of the
+secretome are of utmost importance for cell biologists.
+Optimization of cells obtained from cell culture medium
+and preparation of clinically-effective cells, are prime
+examples that should be specified for designation of the most
+therapeutic strategies in heart regeneration. So, comprehensive
+knowledge and outstanding understanding on molecular
+and immunobiological mechanisms of action related to
+CFTs-based regenerative activities [particularly geneticallyremodeling exosomes (EXs)], as well as physiological
+cardiac remodeling can definitely open promising windows
+into recovery of the infarcted area, improvement of QOL,
+and increasing life-expectancy for patients with IHDs. Hence,
+through more collaborations between physicians, cellular
+cellular/molecular biologists, and laboratory scientists,
+preclinical and basic medical studies can simplify translation
+of laboratory-based data into the clinical settings, decipher
+secrets of more accurate medical decisions, make optimal
+clinical outcomes, and increase life-expectancy and QOL for
+patients with CVDs.</p><p>Here, we aim to summarize different mechanisms
+of action and functional roles of CFTs in research
+laboratories, highlight the role of data acquired from basic
+medical sciences, focus on their therapeutic applications
+for treatment of CVDs, and investigate the proficiency and
+clinical efficiency of these strategies to improve clinical
+outcomes for patients with CVDs.</p><sec><title>Types of cell-free treatment</title><p>The hypothesis, "main regeneration activities of stem cells
+are done indirectly through a paracrine manner" is traced back
+to the proposal for bypassing cells and simultaneous usage
+of supposedly-paracrine factors (<xref rid="B12" ref-type="bibr">12</xref>). Stem cell secretomes
+are considered as off-the-shelf therapeutic approaches that
+mitigate safety risks, overcome the risks of occlusion in
+microvasculature, and refrain from unregulated growth
+(particularly for administration of large amounts of viable
+cells). In clinical settings, the promising results acquired
+from mesenchymal stem cells (MSCs)-derived secretomes
+are similar to the results from transplantation of MSCs (<xref rid="B13" ref-type="bibr">13</xref>,
+<xref rid="B14" ref-type="bibr">14</xref>). </p><p>In the CFTs method, heart tissues are regenerated
+by collaborative functions of growth factors (GFs),
+cytokines, microRNAs (miRNAs), involved genes,
+EXs, microvesicles (MVs), and conditioned media
+(CM)-derived from stem cells. Their presence in
+the surrounding tissues leads to the activation of
+intrinsic repairing mechanisms (<xref rid="B15" ref-type="bibr">15</xref>). This secretion
+regulates several procedures like: myocardial protection,
+neovascularization, cardiac remodeling, and induction of
+endogenic cardiac stem cells (CSCs) differentiation (<xref rid="B16" ref-type="bibr">16</xref>).
+Figure 1 lists the regulatory effects of MSCs secretomes
+in heart regeneration (<xref rid="B17" ref-type="bibr">17</xref>, <xref rid="B18" ref-type="bibr">18</xref>). </p><p>Conclusively, since heart is not a post-mitotic organ, it
+seems that there is an imperative need to a comprehensive
+perception from secretomes and paracrine mechanisms to
+design new and practical therapeutic approaches aimed at
+heart tissue regeneration.</p><fig position="float" id="F1"><label>Fig 1</label><caption><p>The effect of MSCs secretomes in heart tissue regeneration. MSCs
+secretomes show their regulatory properties through various paracrine
+processes. CMCs; Cardiomyocytes, CPCs; Cardiac progenitor cells, CSCs;
+Cardiac stem cells, and MSCs; Mesenchymal stem cells.</p></caption><graphic xlink:href="Cell-J-24-353-g01" position="float"/></fig></sec><sec><title>Extracellular vesicles in ischemic heart diseases</title><p>Extracellular vesicles (EVs) include EXs and MVs. The
+components of MVs are 0.1-1 &#x003bc;m in size and they are shed
+from the cell surface of normal or damaged cells during
+membrane blebbing. EVs can &#x02032;hijack&#x02032; both membrane
+components and engulfed cytoplasmic contents. They
+contain several structural proteins and lipids that are similar to those in the membranes of the cells from which
+they are originated. Those EVs also contain intracellular
+proteins, messenger RNAs (mRNAs), regulatory
+miRNAs, and intact organelles such as mitochondria (<xref rid="B10" ref-type="bibr">10</xref>).
+</p><p>EXs have a diameter of 30-100 nm which are secreted by
+different cells through the assimilation of multi-vesicular
+bodies within the plasma membrane. They carry complex of
+proteins, RNAs and miRNAs, mediating cell signals such as
+immune responses, cell survival mechanisms, and intercellular
+communications (<xref rid="B19" ref-type="bibr">19</xref>). EXs can be obtained from three groups
+of cells, including stem cells [MSCs, CSCs, and embryonic
+stem cells (ESCs)]; mature cells present in heart tissues
+[cardiomyocytes (CMCs) and fibroblasts]; and from cells
+exposed to pathological conditions or genetically-modified
+cells (<xref rid="B8" ref-type="bibr">8</xref>). EXs are considered as acceptable therapeutic tools
+for heart regenerative medicine which are categorized into
+more functional members compared to MVs and apoptotic
+bodies. Structurally, the myocardial origin of CMCs-derived
+EXs is characterized by their specific protein cargo patterns
+which are affected by the cellular microenvironment. EXs
+released from cardiosphere derived cells (CDCs) show antiapoptotic and proliferative properties on CMCs (<xref rid="B20" ref-type="bibr">20</xref>). The
+therapeutic potency of EXs is usually functionalized in the
+presence of a biologically-relevant protein or RNA in the EXs
+(<xref rid="B21" ref-type="bibr">21</xref>). In a study on a mouse model of ischemia/reperfusion
+(I/R), intravenous injection of MVs on ischemia had led
+to reduced myocardial injury, diminished infarct size, and
+lessened number of apoptotic CMCs which totally improved
+cardiac function (<xref rid="B22" ref-type="bibr">22</xref>).</p><p>The origin of EXs affects their biological behaviours in the
+microenvironment. CDCs-derived EXs with miR-146a in a
+MI model could improve cardiac function and decrease scar
+mass (<xref rid="B11" ref-type="bibr">11</xref>). Administration of MSCs-derived EXs increased
+the amount of miR-19a with anti-apoptotic properties in a rat
+MI model, which played indisputable roles in activation and
+differentiation of endogenous CSCs in the infarcted heart (<xref rid="B8" ref-type="bibr">8</xref>).
+Table 1 lists the functions of different particles in stem cellderived Exs and their role in the treatment of IHDs. Table 2
+lists a number of EXs that have been recently used in clinical
+studies on MI models. In addition, the age of the donor cells
+appears to be effective on the composition of secretomes.
+Sharma et al. (<xref rid="B23" ref-type="bibr">23</xref>) have reported that neonatal cardiac
+progenitor cells-derived conditioned medium (nCPCs-CM)
+were more effective than adult CPC-CM (aCPCs-CM).
+Surprisingly, nCPCs-CM were more effective than neonatal
+CPCs (nCPCs) and nCPC-EX.</p><p>Compared to other cell-based therapies used for heart regeneration, EXs are very stable
+and preservable. There is no aneuploidy risk, and also the possibility of immune
+rejections after <italic>in vivo</italic> allogeneic administrations is low (<xref rid="B24" ref-type="bibr">24</xref>). Adamiak
+et al. (<xref rid="B25" ref-type="bibr">25</xref>) compared the cardiac reparative capabilities of induced pluripotent stem cells
+(iPSCs)-derived EXs with iPSCs in a mouse model of reperfused MI. Their results showed
+that iPSCs-derived EVs induced superior cardiac repair in vivo compared to iPSCs. In their
+study, injections of iPSCs resulted in teratoma formation, whereas injections of
+iPSCs-derived EVs were safe. They concluded that iPSCsEVs represented a feasible, and
+safer alternative for potential therapeutic applications of EVs in patients with ischemic
+myocardial damages.</p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>The function of different EXs and their effective particles in IHDs</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">EX-derived cells</th><th rowspan="1" colspan="1">EX enriched particles</th><th rowspan="1" colspan="1">Function</th><th rowspan="1" colspan="1">References</th></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">Cardiac endothelial cells</td><td rowspan="1" colspan="1">miR-126 and miR-210</td><td rowspan="1" colspan="1">Proangiogenic</td><td rowspan="1" colspan="1">(26)</td></tr><tr><td align="left" rowspan="1" colspan="1">CPCs</td><td rowspan="1" colspan="1">miR-144</td><td rowspan="1" colspan="1">Cardioprotective</td><td rowspan="1" colspan="1">(26)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">miR-132, miR-146a,</td><td rowspan="1" colspan="1">Proangiogenic</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">miR-210</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">miR-29a</td><td rowspan="1" colspan="1">Anti-fibrotic</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">miR-132, miR-146a,miR-451, miR-210</td><td rowspan="1" colspan="1">Cardioprotective, post-MI neovascularization, and healing of damaged heart tissues</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">CDCs</td><td rowspan="1" colspan="1">miR-146a</td><td rowspan="1" colspan="1">Survival, angiogenesis, and CMCs proliferation</td><td rowspan="1" colspan="1">(15)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">miR-210, miR-132, miR-146a-3p</td><td rowspan="1" colspan="1">Survival</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Angiogenesis</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Sca-1<sup>+</sup>, mouse</td><td rowspan="1" colspan="1">miR-451</td><td rowspan="1" colspan="1">Survival</td><td rowspan="1" colspan="1">(15)</td></tr><tr><td align="left" rowspan="1" colspan="1">Cardiac myocytes</td><td rowspan="1" colspan="1">Hsp60</td><td rowspan="1" colspan="1">Induction of CMCs apoptosis</td><td rowspan="1" colspan="1">(27)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypoxic CMCs</td><td rowspan="1" colspan="1">TNF-&#x003b1;</td><td rowspan="1" colspan="1">Triggers cell death in other CMCs</td><td rowspan="1" colspan="1">(27)</td></tr><tr><td align="left" rowspan="1" colspan="1">iPSCs</td><td rowspan="1" colspan="1">miR-21, miR-210</td><td rowspan="1" colspan="1">Cardioprotective</td><td rowspan="1" colspan="1">(27)</td></tr><tr><td align="left" rowspan="1" colspan="1">MSCs</td><td rowspan="1" colspan="1">miR22</td><td rowspan="1" colspan="1">Anti-apoptotic </td><td rowspan="1" colspan="1">(17)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Improvement of ischemic CMCs injuries</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">20S proteasome subunits (PMSA 1-7)</td><td rowspan="1" colspan="1">Cardioprotective</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">miR-21</td><td rowspan="1" colspan="1">Anti-apoptotic</td><td rowspan="1" colspan="1">(27)</td></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>EX; Exosomes, IHD; Ischemic heart disease, CPCs; Cardiac progenitor cells, CMCs; Cardiomyocytes, MSCs; Mesenchymal stem cells, iPSCs; Induced
+pluripotent stem cells, and MI; Myocardial infarction.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="T2"><label>Table 2</label><caption><p>Comparison of different EXs used as therapeutic tools for different models of IHDs</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Type of EX</th><th rowspan="1" colspan="1">MI model</th><th rowspan="1" colspan="1">Outcome</th><th rowspan="1" colspan="1">Reference</th></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">CPCs-derived EX</td><td rowspan="1" colspan="1">Rat</td><td rowspan="1" colspan="1">Improved cardiac function, Less profound cardiac apoptosis, &#x02191; Intracardiac angiogenesis</td><td rowspan="1" colspan="1">(26)</td></tr><tr><td align="left" rowspan="1" colspan="1">SHH-containing EVs</td><td rowspan="1" colspan="1">Murine</td><td rowspan="1" colspan="1">Proangiogenic, anti-apoptotic, and vasculoprotective effects &#x02193; Infarct size</td><td rowspan="1" colspan="1"> (26)</td></tr><tr><td align="left" rowspan="1" colspan="1">MSCs-derived EX</td><td rowspan="1" colspan="1">MIRI mouse model</td><td rowspan="1" colspan="1">Improved CMCs survival &#x02193; Cardiac fibrosis and apoptosis compared to hearts treated with control EX</td><td rowspan="1" colspan="1">(27)</td></tr><tr><td align="left" rowspan="1" colspan="1">MSCs-IPC EX</td><td rowspan="1" colspan="1">Mouse</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">(27)</td></tr><tr><td align="left" rowspan="1" colspan="1">CDCs EX</td><td rowspan="1" colspan="1">Porcine AMI and CMI</td><td rowspan="1" colspan="1">&#x02193;Scarring, halted adverse remodeling, improved LVEF</td><td rowspan="1" colspan="1">(28)</td></tr><tr><td align="left" rowspan="1" colspan="1">Akt-hucMSC derived EX</td><td rowspan="1" colspan="1">Acute MI rat model</td><td rowspan="1" colspan="1">Improved cardiac function, Promoted angiogenesis</td><td rowspan="1" colspan="1">(29)</td></tr><tr><td align="left" rowspan="1" colspan="1">ESCs derived EX</td><td rowspan="1" colspan="1">Acute MI mouse model</td><td rowspan="1" colspan="1">Enhanced neovascularization, augmented cardiac function after MI, reduced fibrosis, promoted CPC and myocyte survival and proliferation</td><td rowspan="1" colspan="1">(30)</td></tr><tr><td align="left" rowspan="1" colspan="1">iPSCs-derived EX </td><td rowspan="1" colspan="1">Reperfused MI in mice</td><td rowspan="1" colspan="1">Improved LV function, reduced apoptosis, promoted angiogenesis, attenuated LV hypertrophy, and iPSCs-EX injection was safe.</td><td rowspan="1" colspan="1">(25)</td></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>EX; Exosomes, IHD; Ischemic heart disease, CPCs; Cardiac progenitor cells, SHH; Sonic hedgehog, EV; Extracellular vesicles, MSCs; Mesenchymal stem cells,
+IPC; Ischemic preconditioning, CDC; Cardiosphere derived cells, hucMSCs; Umbilical cord mesenchymal stem cells, iPSC; Induced pluripotent stem cells,
+ESC; Embryonic stem cells, iPSCs; Induced pluripotent stem cells, MIRI; Myocardial ischemia-reperfusion injury, AMI; Acute myocardial infarction, CMI;
+Chronic myocardial infarction, MI; Myocardial infarction, CMCs; Cardiomyocytes, and LVEF; Left ventricular ejection fraction.</p></fn></table-wrap-foot></table-wrap><p>From cellular aspects, it has been demonstrated that several
+cellular procedures indicate potential properties in EVs-based
+therapies aimed at regeneration of an infarcted heart. These
+aforesaid cellular processes mainly prevent from apoptosis by
+inducing autophagy via modulation of AMPK/mTOR, Akt/
+mTOR, and Wnt/&#x003b2;-catenin pathways. Hence, clinical usages
+of EVs lead to a wide range of improved clinical outcomes
+like increased survival rate of CMCs in ischemic lesions,
+neovascularization in the peri-infarcted myocardial zone,
+restrained pathological remodeling, and regulation of CMCs
+function (<xref rid="B14" ref-type="bibr">14</xref>). All in all, it sounds that cells used in SCT-based
+approaches now can be genetically altered by GFs, cytokines,
+and hypoxia-exposed stem cells under pathologic conditions.
+Eventually, secretomes derived from these genetically-altered
+stem cells can be used according to the pathophysiological stage
+of the patients with CVDs and optimized to treat them (<xref rid="B10" ref-type="bibr">10</xref>).</p></sec><sec><title>Heart tissues-target therapy with exosomes</title><p>Most systemically-injected EXs are accumulated in organs such as the liver, kidneys,
+lungs, and bone marrow (BM). Despite the high efficacy observed in concentrated and pure
+doses of infused EXs, the therapeutic potentials of EXs mostly depend on their
+bio-distribution. Mostlysecreted EXs tend to be less specific to a particular cell type in
+the cellular microenvironment. EXs are mostly cleared by macrophages within the
+reticulonodular system, limiting their therapeutic applications in clinical trials.
+Therefore, the cardioprotective effects and specific/efficient delivery of administered
+EXs are not well-established (<xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B32" ref-type="bibr">32</xref>). To reduce systemic clearance of EXs and increase
+their numbers, as well as increase tropism of EXs in target tissues, altering the surface
+of these particles by creating ligands is highly recommended. Those ligands bind EXs to
+specific molecules or antibodies in target tissues. In an <italic>in vivo</italic> MI
+study done by Mentkowski and Lang (<xref rid="B31" ref-type="bibr">31</xref>), engineered CDCs expressing LAMP2-cardyomyocytes
+targeting peptide (LAMP2-CMP) on the membranes of secreted Exs, could increase the CMCs
+endocytosis potential of CDCs (which are originated from EXs). LAMP2, a membrane protein
+on the EXs surface, was fused to CMP (a CMC specific peptide). Intramyocardial injection
+of these biologically-engineered EXs showed that they were more likely to be absorbed by
+CMCs than the nonengineered types. In comparison with the non-engineered types, these
+engineered CDCs could significantly reduce apoptosis, increase the survival rate of CMCs
+and induce more cardiac retention.</p><p>Tian et al. (<xref rid="B33" ref-type="bibr">33</xref>) used cyclo (Arg-Gly-Asp-D-Tyr-Lys) peptide [c(RGDyK)] conjugated EXs,
+which were called EXs-c(RGDyK) to treat a mouse model of cerebral ischemia. Biologically,
+c(RGDyK) is a peptide that has a high affinity for binding to integrin &#x003b1;<sub>v</sub>
+&#x003b2;<sub>3</sub> of cerebrovascular endothelial cells after ischemia. The results of their
+study showed that intravenous infusion of this engineered EXs strongly suppressed the
+inflammatory responses, and lowered cell apoptosis in the lesion area of the cerebral
+ischemia.</p><p>As a result, engineered EXs provide a convenient
+and effective way to transfer therapeutic materials into
+different tissues. These engineered EXs could be enriched
+with angiogenic or protective substances to be delivered
+to specific target organs and tissues such as the heart in
+order to produce effective angiogenesis and increase
+CMCs survival for patients with IHDs.</p></sec><sec><title>microRNAs in ischemic heart diseases</title><p>As non-coding RNAs, miRNAs are approximately 22 nucleotides in length, mediating
+regulatory effects on post-transcriptional gene expression (<xref rid="B34" ref-type="bibr">34</xref>). They were initially
+discovered in <italic>Caenorhabditis elegans </italic>(<italic>C. elegans</italic>) two
+decades ago (<xref rid="B35" ref-type="bibr">35</xref>). miRNAs regulate various biological and physiologic pathways such as
+differentiation, proliferation, growth, and apoptosis, as well as pathological processes
+such as cancer, Alzheimer&#x02019;s and CVDs. miRNAs are found in tissues and body fluids such as
+the blood, urine, saliva, plasma and serum (<xref rid="B36" ref-type="bibr">36</xref>). Recently, circulating miRNAs can be used
+for diagnosis, prognosis, and therapeutic applications for a wide range of disorders. In
+case of MI, it has been speculated that heart tissue undergoes various pathological and
+physiological processes such as apoptosis, angiogenesis, tissue perfusion, and fibrosis.
+Generally, inhibition or activation of several families of miRNAs, including miRNAs-15,
+miRNAs-21, miRNAs-24, miRNAs-29, miRNAs-34, miRNAs-92a, miRNAs-101, miRNAs-133a, and
+miRNAs-320 leads to cardiac tissue repair and improved heart function (<xref rid="B37" ref-type="bibr">37</xref>, <xref rid="B38" ref-type="bibr">38</xref>).</p><p>In terms of CVDs, Wang et al. (<xref rid="B39" ref-type="bibr">39</xref>) showed that
+knockdown of miR-16-5p increased cell viability and
+angiogenesis in human microvascular endothelial cells
+(HMVEC), and inhibited cell apoptosis by increasing
+insulin receptor substrate 1 (IRS1). Zhao et al. (<xref rid="B40" ref-type="bibr">40</xref>) tried
+to clarify the regulatory mechanisms of miR-132 in MIinduced myocardial remodeling. They reported that upregulation of miR-132 increased LVEF and LV fractional
+shortening, and inhibited CMCs apoptosis to ameliorate
+myocardial remodeling through down-regulation of IL-1&#x003b2;.</p></sec><sec><title>Growth factor therapy in ischemic heart diseases </title><p>Several GFs and cytokines have been used to treat CVDs
+in clinical and preclinical studies because of their direct and
+distinct effects on several cellular functions such as adhesion,
+proliferation, and migration. GFs can induce regenerative
+mechanisms that include anti-apoptotic pathways, angiogenic
+properties, positive remodeling of the ECM, CMCs
+proliferation, and CSC recruitment. The results of most
+studies indicate that daily subcutaneous injections of GF
+might have cardioprotective effects through up-regulation of
+the Akt pathway, and CPC differentiation (<xref rid="B41" ref-type="bibr">41</xref>, <xref rid="B42" ref-type="bibr">42</xref>). </p><p>Induction of angiogenesis by GFs during coronary artery
+occlusion is an important mechanism that protects heart
+tissues against hypoxemic conditions. The process of
+angiogenesis is regulated by a various GFs, such as vascular
+endothelial growth factor (VEGF), fibroblast growth factor-2
+(FGF-2), and platelet-derived growth factor (PDGF). VEGF
+is a major initiator of angiogenesis and recruitment factor for
+endothelial cells; FGF-2 is a mitogen of various cell types,
+recruitment factor for pericytes, and a producer of the ECM.
+PDGF is a recruitment factor for smooth muscle cells and a
+maturation factor for new vessels, playing an important role
+in angiogenic processes. As a result, these processes lead the
+microenvironment toward increased tissue perfusion, reduced
+inflammation and fibrosis, and ultimate improvement in heart
+muscle performance (<xref rid="B41" ref-type="bibr">41</xref>, <xref rid="B42" ref-type="bibr">42</xref>). </p><p>Several GFs have been used to treat CVDs.
+Thavapalachandran et al. (<xref rid="B43" ref-type="bibr">43</xref>) in their experimental study
+evaluated the therapeutic effects of recombinant human
+platelet-derived growth factor-AB (rhPDGF-AB) protein in
+a clinically-relevant porcine model of myocardial ischemiareperfusion injury (MIRI). They demonstrated that infusion of
+rhPDGF-AB promoted post-MI cardiac repair by altering the
+mechanics of the infarcted scar, being resulted in improved
+LVEF, myocardial contractility, and increased survival rate,
+as well as decreased ventricular arrhythmias. Furthermore,
+injection of stromal-derived factor-1 (SDF-1/CXCR4) in the
+myocardia of patients with IHDs was reported to be a safe
+and experimentally-feasible approach. Patients who received
+the highest doses (15 mg and 30 mg) of SDF-1 had shown
+improvement in QOL, the six-minute walking distance test,
+and NYHA class (<xref rid="B44" ref-type="bibr">44</xref>). </p><p>According to the reported side effects due to
+administration of high or inappropriate dosages of certain
+cytokine/GFs (like organization of aberrant and perforated
+vessels, hypotension, and tumour angiogenesis), there
+is an imperative need for further investigations on the
+proper clinical usage of GFs and cytokines for treatment
+of patients with CVDs (<xref rid="B18" ref-type="bibr">18</xref>).</p></sec><sec><title>Conditioned media in ischemic heart diseases</title><p>As described earlier, secretomes consist of proteins,
+miRNAs, GFs, anti-oxidants, proteasomes, and EXs
+secreted by stem cells. Literally, those culture media which
+are conditioned by secretomes are called CM. A variety
+of paracrine factors, including VEGF, hepatocyte growth
+factor (HGF), insulin-like growth factor-1 (IGF-1), IGF-2
+and SDF-1, are secreted into the cell culture medium during
+the cell culture processes. These factors are associated with
+physiological and pathophysiological processes like cell
+proliferation, apoptosis, inflammation, neovascularization,
+MI, angiogenesis, and fibrosis. It is presumed that addition of
+secretomes to the cell culture media of the damaged organs
+increases metabolic activities, oxygen supply, and remodeling
+the ECM in order to ultimately prevent from increased organ
+damage (<xref rid="B45" ref-type="bibr">45</xref>, <xref rid="B46" ref-type="bibr">46</xref>). </p><p>In case of CVDs, CM can be used to induce clinicallyadvantageous effects on target tissues. For example, either
+CDC-derived CM or MSC-derived CM have the capability
+to increase the survival potential of CMCs against hypoxia
+(<xref rid="B16" ref-type="bibr">16</xref>, <xref rid="B19" ref-type="bibr">19</xref>). Secretomes are the most functional unit of stem
+cells and EXs play an indispensable role in improving
+their therapeutic manifestation; however, Sharma et al.
+(<xref rid="B23" ref-type="bibr">23</xref>) reported that sole administration of EXs does not
+suffice and CM is needed for maximum clinical benefit.
+In addition, they reported that division of CM into EXs
+and EX-free fractions diminishes its capacity to recover
+myocardial function. MVs and CM derived from stem
+cells have the same pro-regenerative potentials as
+infusion of intact cells (<xref rid="B10" ref-type="bibr">10</xref>) which can replace the cells in
+SCT. Fortunately, the allogeneic CM method lacks ethical
+controversies and immune rejection. Then, it appears to be
+a perfect, and promising solution for immediate clinical
+applications with the ability to minimize the amount of
+surgeries invasiveness (<xref rid="B47" ref-type="bibr">47</xref>). Table 3 shows the effects
+of CMs that are originated from different stem cells in
+animal models of IHDs.</p><table-wrap position="float" id="T3"><label>Table 3</label><caption><p>Comparison of different CMs for treatment of IHD models</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Source of CM</th><th rowspan="1" colspan="1">Animal model</th><th rowspan="1" colspan="1">Outcome</th><th rowspan="1" colspan="1">Reference</th></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">hADSCs</td><td rowspan="1" colspan="1">SCID and</td><td rowspan="1" colspan="1">Improved cardiac function</td><td rowspan="1" colspan="1">(48)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">C57BL/6 mice model of MI</td><td rowspan="1" colspan="1">&#x02193; Infarct size</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02191; Reparative angiogenesis</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02193; CMCs apoptosis (The observed effects of ADSCs application on the first three mentioned outcomes were superior to those reported from ADSC-CM.)</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Human STRO-3-mesenchymal precursor cells</td><td rowspan="1" colspan="1">Athymic nude rat model of MI</td><td rowspan="1" colspan="1">&#x02191; Ventricular function</td><td rowspan="1" colspan="1">(48)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02193; Ventricular dilatation and infarct size</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02191; Neovascularization</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Human embryonic stem cell-derived MSCs</td><td rowspan="1" colspan="1">Porcine model of MI</td><td rowspan="1" colspan="1">&#x02191; Capillary density</td><td rowspan="1" colspan="1">(48)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02193; Infarct size</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02191; Myocardial performance</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Porcine peripheral blood endothelial progenitor cells</td><td rowspan="1" colspan="1">Porcine model of MI</td><td rowspan="1" colspan="1">&#x02191; Angiogenesis&#x02191; CMCs remodeling and contractility</td><td rowspan="1" colspan="1">(48)</td></tr><tr><td align="left" rowspan="1" colspan="1">Human MSCs</td><td rowspan="1" colspan="1">Porcine model of MI</td><td rowspan="1" colspan="1">&#x02191; Myocardial capillary density</td><td rowspan="1" colspan="1">(45)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02193; MI size, and preserved systolic and diastolic performance</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">SHED-CM</td><td rowspan="1" colspan="1">Mouse model of I/R</td><td rowspan="1" colspan="1">&#x02193; MI size</td><td rowspan="1" colspan="1">(47)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02193; Apoptosis</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02193;Inflammatory cytokine levels of TNF-&#x003b1;, IL-6, and IL-&#x003b2;</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02191; Cardiac function</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02191;Survival of cardiac myocytes in response to hypoxia</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">nCPCs</td><td rowspan="1" colspan="1">Rodent model of MI</td><td rowspan="1" colspan="1">&#x02191; Recovering cardiac function</td><td rowspan="1" colspan="1">(23)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02191; Stimulation of neovascularization</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02191; Myocardial remodeling</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Hypoxic-ADMSCs</td><td rowspan="1" colspan="1">Rat model of MI</td><td rowspan="1" colspan="1">&#x02193; Infarct size, apoptosis index, and apoptosis related proteins</td><td rowspan="1" colspan="1">(49)</td></tr><tr><th colspan="4" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>HD; Ischemic heart disease, CM; Conditioned media, hADSCs; Human adipose tissue-derived stem cells, MSCs; Mesenchymal stem cells, ADMSCs: Adipose
+tissue-derived mesenchymal stem cells; SHED; Stem cells from human exfoliated deciduous teeth, CPCs; Cardiac progenitor cells, MI; Myocardial infarction,
+CMCs; Cardiomyocytes, I/R; Ischemia/reperfusion, ESCs; Embryonic stem cells, and nCPCs; Neonatal CPCs.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Gene therapy in ischemic heart diseases
+</title><p>Although several GFs have been used to stimulate
+new vessel formation after MI, none of them could
+achieve significant results in phase I/II clinical trials
+of heart regeneration. A clinically-acceptable solution
+to overcome this problematic challenge is gene therapy
+that shows desired clinical outcomes. To date, plasmids
+with adenovirus vectors delivering VEGF, FGF and
+HGF for treatment of patients with severe coronary
+artery diseases (CADs) and MI have been the focus of
+investigation in several randomized controlled trials
+(RCTs). Researchers proposed that the combination of gene-based therapies with SCT could significantly
+improve clinical outcomes in heart regeneration
+medicine (<xref rid="B50" ref-type="bibr">50</xref>). </p><p>Gene-based therapies are techniques that use biological
+carriers to simplify the insertion and expression of a
+therapeutic gene in target cells (<xref rid="B51" ref-type="bibr">51</xref>), in order to induce or
+inhibit synthesis of specific proteins and alter the structure
+and function of the cells in target tissues (<xref rid="B52" ref-type="bibr">52</xref>).</p><p>Gene-based therapies mainly refer to the utilization
+of genetically-altered cells as carriers for the genes and
+plasmids aimed at transferring these target genes to
+damaged heart tissues for treatment of patients with IHDs.
+These genetic changes in cells go back to the fact that they
+are measured out to increase the expressions of specific
+genes, GFs, and cytokines, affecting immunobiological
+processes such as angiogenesis, proliferation and
+differentiation of CSCs, apoptosis, remodeling, and
+ventricular function (<xref rid="B51" ref-type="bibr">51</xref>, <xref rid="B52" ref-type="bibr">52</xref>).</p><p>Various carriers used to transfer the desired genes to the
+target cells include: i. Plasmid carriers for transportation
+of naked DNA, ii. Viral vectors such as Adenoviruses,
+Adeno-associated viruses, Retroviruses, and Lentiviruses
+(<xref rid="B51" ref-type="bibr">51</xref>); and iii. Gene-modified cells (<xref rid="B52" ref-type="bibr">52</xref>). Gene-modified
+cells with the ability to overexpress the transgenes act as
+transgene carriers, leading to reinforced/desired levels of
+therapeutic proteins in target tissues (<xref rid="B52" ref-type="bibr">52</xref>).</p><p>Despite substantial progress in novel therapeutics, there are still several types of
+disorders especially those which have not an efficient and successful treatment, leading
+basic medical scientists and clinical specialists toward novel therapeutic strategies like
+gene-based therapies. For instance, modified BMMSCs that overexpress
+<italic>IL-35</italic> gene in an Imiquimodinduced psoriasis-like mouse model will most
+likely become an effective therapeutic approach for the worldwide problem of psoriasis
+(<xref rid="B53" ref-type="bibr">53</xref>). Lin et al. (<xref rid="B54" ref-type="bibr">54</xref>) investigated whether overexpression of the <italic>IGF-1</italic>
+gene could enhance BM-derived stem cell (BMSC) viability, migration, anti-apoptotic, and
+protective effects of CMCs in an acute MI (AMI) rat model. They reported that BMSCs that
+overexpressed <italic>IGF-1</italic> gene called BMSCs-IGF-1 could significantly rescue
+cardiomyoblasts from hypoxia-induced apoptosis, preserve cell viability under hypoxic
+conditions and reduce the infarct volume. Su et al. (<xref rid="B55" ref-type="bibr">55</xref>) in their study on an AMI rat
+model, loaded Adenoviruses that carried the <italic>SDF-1&#x003b1;</italic> gene onto microbubble
+carriers by ultrasound targeted destruction of these microbubbles. The results of their
+study suggested that ultrasoundmediated transduction of the exogenous
+<italic>SDF-1&#x003b1;</italic> genes into the AMI rats could effectively promote the homing of
+endogenous BMSCs into the infarcted heart. </p><p>Figure 2 shows a schematic presentation of novel
+strategies recruited by CFTs aimed at treatment of patients
+with CVDs.
+</p><fig position="float" id="F2"><label>Fig 2</label><caption><p>Schematic presentation of novel therapeutic strategies for CVDs.
+CFTs includes GFs, gene-based therapies, miRNAs, EVs, and CM. EX and
+CM usually have more remarkable results than stem cell therapy. CVDs;
+Cardiovascular diseases, CFTs; Cell-free treatments, CSCs; Cardiac stem
+cells, GF; Growth factor, miRNAs; microRNAs, EVs; Extracellular vesicles, EX;
+Exosomes, CM; Conditioned media, and MSCs; Mesenchymal stem cells.</p></caption><graphic xlink:href="Cell-J-24-353-g02" position="float"/></fig></sec><sec><title>Route, time, and dosage of cell-free treatment
+administration</title><p>CFTs-based therapy for heart regeneration is
+administered by intravenous, intra-arterial, intramuscular,
+or intramyocardial injections of several recombinant angiopeptides such as VEGF, FGF, and HGF (<xref rid="B56" ref-type="bibr">56</xref>). To be more
+precise, for having an ideal route of administration of
+CFTs (GFs)-based therapies, time- and dose-dependent
+function/efficacy of recruited genes can be considered as
+a major hindrance for heart regeneration. Bauz&#x000e1; et al. (<xref rid="B57" ref-type="bibr">57</xref>)
+investigated whether optimized doses of high mobility group
+box 1 (HMGB1) would promote angiogenesis signaling, and
+expression of specific regenerative genes in sheep with acute
+MI. They reported that intramyocardial injection of high-dose
+(250 &#x003bc;g) HMGB1 had induced angio/arteriogenesis, reduced
+the infarct size, and improved LV function two months posttreatment.</p><p>Although delivery of angiogenic factors has the potential abilities to stimulate
+formation of new blood vessels both <italic>in vivo</italic> and <italic>in
+vitro</italic>, there are some limitations that should not be underestimated. Those
+limitations include the explosive or uncontrolled release of GFs that leads to high
+toxicity; decreased half-life of GFs; and elevated cost for purified GFs. One strategy for
+overcoming these challenges is delivery of the gene of the same factor in the cells for
+producing the required angiogenic GFs (<xref rid="B58" ref-type="bibr">58</xref>). Gene delivery strategies will be discussed in
+the following paragraphs.</p><p>Direct surgical injection, catheter-based intracardiac or
+intracoronary injections, pericardial delivery, the V-focus
+system, and surgical delivery strategies are used for gene transferring and gene delivery to the myocardium.
+Although there is no unique delivery system or a virus
+serotype specifically-optimized for cardiac orientation
+that lacks simultaneous expression in other tissues. The
+molecular cardiac surgery with recirculating delivery
+(MCARD) vector-mediated gene is undoubtedly
+considered as one of the most promising gene transfer
+systems, providing very high expression levels with low
+morbidity, diminished immune responses, and minimal
+simultaneous expression (<xref rid="B59" ref-type="bibr">59</xref>). </p><p>Selection of the most proper transgenes, the most
+efficient routes of gene delivery, the type and quality
+of these recruited vectors for gene-based therapies, and
+dosage are all determining factors for optimal therapeutic
+outcomes in gene-based therapies of CVDs (<xref rid="B60" ref-type="bibr">60</xref>). </p><p>A meta-analysis conducted by Yang et al. (<xref rid="B61" ref-type="bibr">61</xref>) for a
+systematic review of the efficacy of EVs on MI in both
+small and large animals did not show any significant
+associations between efficacy and type of stem cells,
+ligation-to-injection interval, route of delivery, dosage,
+and follow-up period. However, Liu et al. (<xref rid="B62" ref-type="bibr">62</xref>) performed a
+meta-analysis to systematically review the efficacy of EVs
+in preclinical acute kidney injury (AKI) rodent models.
+They reported that the route of delivery, dosage, and cell
+origin of EVs were independent factors that influenced
+clinical effects of the EVs. For achieving maximum
+efficacy without adverse effects in EVs-based therapies,
+determining the optimal dosage, appropriate time window
+for administration of EXs, number of repeated dosages,
+and route of administration are considered as the most
+important issues to be resolved (<xref rid="B63" ref-type="bibr">63</xref>).</p></sec><sec><title>Clinical trials of cell-free treatment in ischemic
+heart diseases</title><p>Effective results acquired from preclinical studies have encouraged scientists to
+continue experimental studies toward clinical trials. In recent decades, many clinical
+trials have been conducted aimed at CFTs-based therapies for patients with IHDs. These
+studies focused on the clinical usages of angiogenic genes such as <italic>VEGF, FGF,
+HGF</italic>, developmental endothelial locus-1 (<italic>DEL1</italic>), and
+<italic>SDF</italic>. Meng et al. (<xref rid="B64" ref-type="bibr">64</xref>) performed intracoronary transplantation of
+Adenoviruses that carried the <italic>HGF</italic> gene (Ad<italic>-HGF</italic>) in
+patients with CADs. They concluded that long-term administration of
+Ad-<italic>HGF</italic> was safe that did not cause any adverse reactions or unwanted
+clinical manifestations (like tumors, prolonged fever, arrhythmia, and retinal vessel
+anomalies). The results of their study showed that intracoronary transplantation of
+Ad-<italic>HGF</italic> efficiently improved echocardiographic EF at the 36-month
+follow-up compared to the results acquired from baseline levels. </p><table-wrap position="float" id="T4"><label>Table 4</label><caption><p>The most important clinical trials with different GFs and gene therapies in patients with IHDs</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr><tr><th rowspan="1" colspan="1">Author and year of publication</th><th rowspan="1" colspan="1">Vector or GF</th><th rowspan="1" colspan="1">Patients</th><th rowspan="1" colspan="1">Outcome measurements</th><th rowspan="1" colspan="1">Results</th></tr><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr><tr><td align="left" rowspan="1" colspan="1">Anttila et al. (67), 2020</td><td rowspan="1" colspan="1">Epicardial injection of AZD8601 (VEGF-A165 mRNA formulated in biocompatible citrate-buffered saline and optimized for high-efficiency VEGF-A expression with minimal innate immune response)</td><td rowspan="1" colspan="1">24 patients with stable CADs and moderately decreased LVEF (30%-50%) who were undergoing coronary artery bypass graft surgery</td><td rowspan="1" colspan="1">The safety and tolerability of AZ8601, effect of AZD8601 on regional and global stress myocardial blood flow, LV end-diastolic volume, LV end-systolic volume, and LVEF, regional myocardial wall motion, NYHA class, change in troponin T and NT-proBNP levels in six months</td><td rowspan="1" colspan="1">Ongoing clinical trial</td></tr><tr><td align="left" rowspan="1" colspan="1">Greenberg et al. (68), 2016</td><td rowspan="1" colspan="1">Intracoronary adeno-associated virus 1 /sarcoplasmic/endoplasmic reticulum Ca<sup>2</sup><sup>+</sup>-ATPase</td><td rowspan="1" colspan="1">250 patients who had NYHA class II-IV HF and LVEF&#x02264;35%</td><td rowspan="1" colspan="1">Time to recurrent events, defined as hospital admission because of HF or ambulatory treatment for worsening HF in 12 months</td><td rowspan="1" colspan="1">No evidence of improvement in the clinical course and outcome</td></tr><tr><td align="left" rowspan="1" colspan="1">Chung et al. (69), 2015</td><td rowspan="1" colspan="1">Endomyocardial injection of plasmid SDF-1</td><td rowspan="1" colspan="1">93 subjects with IHF on stable guideline-based medical therapy and LVEF &#x02264;40%</td><td rowspan="1" colspan="1">Safety, efficacy, LV functional and structural measures were assessed</td><td rowspan="1" colspan="1">Attenuating LV remodeling and improving EF. Demonstrated safety</td></tr><tr><td align="left" rowspan="1" colspan="1">Penn et al. (70), 2013</td><td rowspan="1" colspan="1">Endomyocardial injection of JVS-100 (a DNA plasmid encoding human SDF-1)</td><td rowspan="1" colspan="1">17 subjects with ischemic cardiomyopathy, NYHA class III HF, and EF &#x02264;40% on stable medical therapy</td><td rowspan="1" colspan="1">Major adverse cardiac events, QOL, NYHA class, six-minute walking distance, single photon emission computed tomography, NT-proBNP and safety over 12 months</td><td rowspan="1" colspan="1">All of the cohorts demonstrated improvements in six-minute walking distance, QOL, and NYHA class. The primary safety end point was met</td></tr><tr><th colspan="5" rowspan="1">
+<hr/>
+</th></tr></tbody></table><table-wrap-foot><fn><p>IHD; Ischemic heart disease, GFs; Growth factors, CADs; Coronary artery diseases, NYHA: New York Heart Association, IHF; Ischemic heart failure, NTproBNP; N-terminal pro b-type natriuretic peptide, HF; Heart failure, QOL; Quality of life, EF; Ejection fraction, LV; Left ventricle, SDF-1; Stromal-derived
+factor-1, LVEF; Left ventricular ejection fraction, and VEGF-A; Vascular endothelial growth factor A.</p></fn></table-wrap-foot></table-wrap><p>Gross et al. (<xref rid="B65" ref-type="bibr">65</xref>) conducted a randomized, prospective,
+double-blind, and placebo-controlled clinical trial
+(SITAGRAMI) that included 174 patients with acute MI.
+Participants were treated with placebo (control group)
+or a 1:1 ratio of granulocyte-colony stimulating factor
+(G-CSF) plus sitagliptin (case group). The results of
+their study that included a 4.5 year follow-up, showed
+no significant differences in the incidence rate of major
+adverse cardiac and cerebrovascular events (MACCE)
+between both control and case groups. Treatment with
+sitagliptin did not have any significant effects on the
+clinical outcomes of patients with MI.</p><p>Kuku&#x00142;a et al. (<xref rid="B66" ref-type="bibr">66</xref>) conducted a double-blind clinical trial
+(NCT00620217) on 52 patients with CADs, who received
+intramyocardial injections of VEGF-A165/bFGF plasmid
+into the ischemic regions of the heart tissues. The control
+group received a placebo plasmid. The results of the 10
+year follow-up showed that this vector was also safe and
+there was no evidence of increase in the prevalence of
+death or malignancies. They indicated that the incidence
+of stroke, MI, and cardiovascular-related mortalities were
+similar between both control and case groups.</p><p>Table 4 summarizes the most important clinical trials
+that used various GFs and gene-based therapies for
+patients with IHDs. </p><p>However, our search results could not find any
+reasonable clinical usage of EXs, CM, and miRNAs
+among current clinical trials of EVs for patients with
+IHDs. Although CFTs-based strategies are promising
+approaches for treatment of patients with CVDs, more
+preclinical studies are needed to evaluate the efficacy of
+CFTs as effective therapeutic approaches for IHDs. These
+studies should particularly be conducted with large animal
+models of IHDs, enabling progress toward more efficient
+and productive clinical trials. </p></sec></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Despite substantial progress in the prognosis, diagnosis,
+and treatment of diseases, CVDs-related morbidities
+and mortalities still remain high. Hence, scientists are
+encouraged toward more practical methods to obtain better
+clinical outcomes. In this context, clinical applications of
+stem cell-derived secretomes as a missing piece in the
+puzzle of CVDs target therapy can be considered as off-theshelf methods with controlled and predictable outcomes,
+decreased adverse effects, and reduced constrains of SCT.
+Neovascularization, differentiation, and proliferation
+of new CSCs are significant features that should not be
+underestimated for heart regenerative medicine, which may
+provide effective outcomes for treatment of patients with
+IHDs, and increase LV contractility in patients with HF.
+</p><p>According to the results acquired from current studies,
+EXs and CM have shown more practical effects among the
+various types of CFTs, as well as when compared to SCT.
+The usage of genetically-modified cell culture medium
+through neonatal cell-derived CM, and the components
+present in Exs, and CM allow us to expect cost-effective
+and optimized results for treatment of various clinical
+stages in CVDs. Despite the successful results acquired
+from clinical studies done on CVDs models, adverse
+effects such as hypotension, tumor angiogenesis, severe
+inflammatory reactions, arrhythmia, off-target responses,
+and poor gene transfer efficiency have been reported,
+complicating clinical applications of GF-based therapies
+in patients with CVDs. Although a myriad of preclinical
+and laboratory studies have used GFs and gene-based
+therapies for improvement of cardiovascular performance
+in patients with IHDs, they have failed to achieve much
+success in improving cardiac function and halting the MI
+process. </p><p>Totally, due to less adverse effects, CFTs can hopefully
+pave the way for providing more promising therapeutic
+approaches for patients with CVDs, reducing IHDsrelated mortalities and morbidities rates, as well as
+diminishing hospitalization expenses for patients and the
+health system. </p><p>CFT, with a broad spectrum of profound regulatory
+effects on clinical outcomes of patients with CVDs is still
+in its infancy. Further investigations aimed at elimination
+of the ambiguities related to the clinical applications of
+this recently-introduced method are highly recommended
+for achievement of beneficial effects of CFTs. In order
+to reach this purpose, additional preclinical and clinical
+studies, and collaboration among cellular and molecular
+biologists, clinical laboratory scientists, immunobiologists,
+gene and cell therapists, clinical specialists, diseasesspecific biomarker scientists, cardiologists, medical
+biotechnologists, and health science coordinators are
+unquestionably needed.</p></sec></body><back><ack><title>Acknowledgements</title><p>There are no financial support, and conflicts of interest
+in this study.</p></ack><bio id="d64e1087"><title>Authors&#x02019; Contributions</title><p>A.E.; Supervision, project corresponding, and
+verification of the last version before submission. A.E.,
+N.B.; Contribution to conceptualization, validation, and
+formal analysis. N.B.; Designation of main methodology,
+search strategy, academic/scientific/grammatical revision
+for important intellectual content, preparation, and main
+designation of the final draft of the manuscript. N.D., N.B.;
+Major conception, data extraction, and data interpretation.
+N.D.; Data gathering and preparation of first draft of
+manuscript, visualization, image/table designation. All of
+the authors attest to the validity and legitimacy of data,
+receiving an electronic copy of the final version, and
+published version of the manuscript. </p></bio><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Virani</surname><given-names>SS</given-names></name>
+<name><surname>Alonso</surname><given-names>A</given-names></name>
+<name><surname>Benjamin</surname><given-names>EJ</given-names></name>
+<name><surname>Bittencourt</surname><given-names>MS</given-names></name>
+<name><surname>Callaway</surname><given-names>CW</given-names></name>
+<name><surname>Carson</surname><given-names>AP</given-names></name>
+<etal/>
+</person-group><article-title>Heart disease and stroke statistics-2020 update: a report from the american heart association</article-title><source>Circulation</source><year>2020</year><volume>141</volume><issue>9</issue><fpage>e139</fpage><lpage>e596</lpage><pub-id pub-id-type="pmid">31992061</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>B</given-names></name>
+</person-group><article-title>Concise review: harnessing iPSC-derived cells for ischemic heart disease treatment</article-title><source>J Transl Int Med</source><year>2020</year><volume>8</volume><issue>1</issue><fpage>20</fpage><lpage>25</lpage><pub-id pub-id-type="pmid">32435608</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cambria</surname><given-names>E</given-names></name>
+<name><surname>Steiger</surname><given-names>J</given-names></name>
+<name><surname>G&#x000fc;nter</surname><given-names>J</given-names></name>
+<name><surname>Bopp</surname><given-names>A</given-names></name>
+<name><surname>Wolint</surname><given-names>P</given-names></name>
+<name><surname>Hoerstrup</surname><given-names>SP</given-names></name>
+<etal/>
+</person-group><article-title>Cardiac regenerative medicine: the potential of a new generation of stem cells</article-title><source>Transfus Med Hemother</source><year>2016</year><volume>43</volume><issue>4</issue><fpage>275</fpage><lpage>281</lpage><pub-id pub-id-type="pmid">27721703</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Esmaeilzadeh</surname><given-names>A</given-names></name>
+<name><surname>Daneshi</surname><given-names>N</given-names></name>
+<name><surname>Erfanmanesh</surname><given-names>M</given-names></name>
+</person-group><article-title>Evaluation of methods of cultivation, processing and improving of stem cell differentiation into cardiomyocytes</article-title><source>Journal of Laboratory and Diagnosis</source><year>2017</year><volume>8</volume><issue>34</issue><fpage>39</fpage><lpage>47</lpage></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sasse</surname><given-names>S</given-names></name>
+<name><surname>Skorska</surname><given-names>A</given-names></name>
+<name><surname>Lux</surname><given-names>CA</given-names></name>
+<name><surname>Steinhoff</surname><given-names>G</given-names></name>
+<name><surname>David</surname><given-names>R</given-names></name>
+<name><surname>Gaebel</surname><given-names>R</given-names></name>
+</person-group><article-title>Angiogenic potential of bone marrow derived CD133+ and CD271+ intramyocardial stem cell trans- plantation post MI</article-title><source>Cells</source><year>2020</year><volume>9</volume><issue>1</issue><fpage>78</fpage><lpage>78</lpage></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Turner</surname><given-names>D</given-names></name>
+<name><surname>Rieger</surname><given-names>AC</given-names></name>
+<name><surname>Balkan</surname><given-names>W</given-names></name>
+<name><surname>Hare</surname><given-names>JM</given-names></name>
+</person-group><article-title>Clinical-based cell therapies for heart disease-current and future state</article-title><source>Rambam Maimonides Med J</source><year>2020</year><volume>11</volume><issue>2</issue><fpage>e0015</fpage><lpage>e0015</lpage></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sanganalmath</surname><given-names>SK</given-names></name>
+<name><surname>Bolli</surname><given-names>R</given-names></name>
+</person-group><article-title>Cell therapy for heart failure: a comprehensive overview of experimental and clinical studies, current challenges, and future directions</article-title><source>Circ Res</source><year>2013</year><volume>113</volume><issue>6</issue><fpage>810</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">23989721</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Singla</surname><given-names>DK</given-names></name>
+</person-group><article-title>Stem cells and exosomes in cardiac repair</article-title><source>Curr Opin Pharmacol</source><year>2016</year><volume>27</volume><fpage>19</fpage><lpage>23</lpage><pub-id pub-id-type="pmid">26848944</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wernly</surname><given-names>B</given-names></name>
+<name><surname>Mirna</surname><given-names>M</given-names></name>
+<name><surname>Rezar</surname><given-names>R</given-names></name>
+<name><surname>Prodinger</surname><given-names>C</given-names></name>
+<name><surname>Jung</surname><given-names>C</given-names></name>
+<name><surname>Podesser</surname><given-names>BK</given-names></name>
+<etal/>
+</person-group><article-title>Regenerative cardiovascular therapies: stem cells and beyond</article-title><source>Int J Mol Sci</source><year>2019</year><volume>20</volume><issue>6</issue><fpage>1420</fpage><lpage>1420</lpage></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ratajczak</surname><given-names>MZ</given-names></name>
+<name><surname>Kucia</surname><given-names>M</given-names></name>
+<name><surname>Jadczyk</surname><given-names>T</given-names></name>
+<name><surname>Greco</surname><given-names>NJ</given-names></name>
+<name><surname>Wojakowski</surname><given-names>W</given-names></name>
+<name><surname>Tendera</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Pivotal role of paracrine effects in stem cell therapies in regenerative medicine: can we translate stem cell-secreted paracrine factors and microvesicles into better therapeutic strategies?</article-title><source>Leukemia</source><year>2012</year><volume>26</volume><issue>6</issue><fpage>1166</fpage><lpage>1173</lpage><pub-id pub-id-type="pmid">22182853</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Prathipati</surname><given-names>P</given-names></name>
+<name><surname>Nandi</surname><given-names>SS</given-names></name>
+<name><surname>Mishra</surname><given-names>PK</given-names></name>
+</person-group><article-title>Stem cell-derived exosomes, autophagy, extracellular matrix turnover, and mirnas in cardiac regeneration during stem cell therapy</article-title><source>Stem Cell Rev Rep</source><year>2017</year><volume>13</volume><issue>1</issue><fpage>79</fpage><lpage>91</lpage><pub-id pub-id-type="pmid">27807762</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cambria</surname><given-names>E</given-names></name>
+<name><surname>Pasqualini</surname><given-names>FS</given-names></name>
+<name><surname>Wolint</surname><given-names>P</given-names></name>
+<name><surname>G&#x000fc;nter</surname><given-names>J</given-names></name>
+<name><surname>Steiger</surname><given-names>J</given-names></name>
+<name><surname>Bopp</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Translational cardiac stem cell therapy: advancing from firstgeneration to next-generation cell types</article-title><source>NPJ Regen Med</source><year>2017</year><volume>2</volume><fpage>17</fpage><lpage>17</lpage><pub-id pub-id-type="pmid">29302353</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsao</surname><given-names>CR</given-names></name>
+<name><surname>Liao</surname><given-names>MF</given-names></name>
+<name><surname>Wang</surname><given-names>MH</given-names></name>
+<name><surname>Cheng</surname><given-names>CM</given-names></name>
+<name><surname>Chen</surname><given-names>CH</given-names></name>
+</person-group><article-title>Mesenchymal stem cell derived exosomes: a new hope for the treatment of cardiovascular disease?</article-title><source>Acta Cardiol Sin</source><year>2014</year><volume>30</volume><issue>5</issue><fpage>395</fpage><lpage>400</lpage><pub-id pub-id-type="pmid">27122816</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Harrell</surname><given-names>CR</given-names></name>
+<name><surname>Fellabaum</surname><given-names>C</given-names></name>
+<name><surname>Jovicic</surname><given-names>N</given-names></name>
+<name><surname>Djonov</surname><given-names>V</given-names></name>
+<name><surname>Arsenijevic</surname><given-names>N</given-names></name>
+<name><surname>Volarevic</surname><given-names>V</given-names></name>
+</person-group><article-title>Molecular mechanisms responsible for therapeutic potential of mesenchymal stem cell-derived secretome</article-title><source>Cells</source><year>2019</year><volume>8</volume><issue>5</issue><fpage>467</fpage><lpage>467</lpage></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khanabdali</surname><given-names>R</given-names></name>
+<name><surname>Rosdah</surname><given-names>AA</given-names></name>
+<name><surname>Dusting</surname><given-names>GJ</given-names></name>
+<name><surname>Lim</surname><given-names>SY</given-names></name>
+</person-group><article-title>Harnessing the secretome of cardiac stem cells as therapy for ischemic heart disease</article-title><source>Biochem Pharmacol</source><year>2016</year><volume>113</volume><fpage>1</fpage><lpage>11</lpage><pub-id pub-id-type="pmid">26903387</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mirotsou</surname><given-names>M</given-names></name>
+<name><surname>Jayawardena</surname><given-names>TM</given-names></name>
+<name><surname>Schmeckpeper</surname><given-names>J</given-names></name>
+<name><surname>Gnecchi</surname><given-names>M</given-names></name>
+<name><surname>Dzau</surname><given-names>VJ</given-names></name>
+</person-group><article-title>Paracrine mechanisms of stem cell reparative and regenerative actions in the heart</article-title><source>J Mol Cell Cardiol</source><year>2011</year><volume>50</volume><issue>2</issue><fpage>280</fpage><lpage>289</lpage><pub-id pub-id-type="pmid">20727900</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gallina</surname><given-names>C</given-names></name>
+<name><surname>Turinetto</surname><given-names>V</given-names></name>
+<name><surname>Giachino</surname><given-names>C</given-names></name>
+</person-group><article-title>A new paradigm in cardiac regeneration: the mesenchymal stem cell secretome</article-title><source>Stem Cells Int</source><year>2015</year><volume>2015</volume><fpage>765846</fpage><lpage>765846</lpage><pub-id pub-id-type="pmid">26074978</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ranganath</surname><given-names>SH</given-names></name>
+<name><surname>Levy</surname><given-names>O</given-names></name>
+<name><surname>Inamdar</surname><given-names>MS</given-names></name>
+<name><surname>Karp</surname><given-names>JM</given-names></name>
+</person-group><article-title>Harnessing the mesenchymal stem cell secretome for the treatment of cardiovascular disease</article-title><source>Cell Stem Cell</source><year>2012</year><volume>10</volume><issue>3</issue><fpage>244</fpage><lpage>258</lpage><pub-id pub-id-type="pmid">22385653</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>P</given-names></name>
+<name><surname>Tian</surname><given-names>X</given-names></name>
+<name><surname>Li</surname><given-names>Q</given-names></name>
+<name><surname>Yang</surname><given-names>Y</given-names></name>
+</person-group><article-title>New strategies for improving stem cell therapy in ischemic heart disease</article-title><source>Heart Fail Rev</source><year>2016</year><volume>21</volume><issue>6</issue><fpage>737</fpage><lpage>752</lpage><pub-id pub-id-type="pmid">27459850</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Carotenuto</surname><given-names>F</given-names></name>
+<name><surname>Teodori</surname><given-names>L</given-names></name>
+<name><surname>Maccari</surname><given-names>AM</given-names></name>
+<name><surname>Delbono</surname><given-names>L</given-names></name>
+<name><surname>Orlando</surname><given-names>G</given-names></name>
+<name><surname>Di Nardo</surname><given-names>P</given-names></name>
+</person-group><article-title>Turning regenerative technologies into treatment to repair myocardial injuries</article-title><source>J Cell Mol Med</source><year>2020</year><volume>24</volume><issue>5</issue><fpage>2704</fpage><lpage>2716</lpage><pub-id pub-id-type="pmid">31568640</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Toh</surname><given-names>WS</given-names></name>
+<name><surname>Lai</surname><given-names>RC</given-names></name>
+<name><surname>Zhang</surname><given-names>B</given-names></name>
+<name><surname>Lim</surname><given-names>SK</given-names></name>
+</person-group><article-title>MSC exosome works through a protein-based mechanism of action</article-title><source>Biochem Soc Trans</source><year>2018</year><volume>46</volume><issue>4</issue><fpage>843</fpage><lpage>853</lpage><pub-id pub-id-type="pmid">29986939</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>M</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Zhu</surname><given-names>Q</given-names></name>
+<name><surname>Zhao</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Shang</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Protective effects of circulating microvesicles derived from ischemic preconditioning on myocardial ischemia/reperfusion injury in rats by inhibiting endoplasmic reticulum stress</article-title><source>Apoptosis</source><year>2018</year><volume>23</volume><issue>7-8</issue><fpage>436</fpage><lpage>448</lpage><pub-id pub-id-type="pmid">29980896</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sharma</surname><given-names>S</given-names></name>
+<name><surname>Mishra</surname><given-names>R</given-names></name>
+<name><surname>Bigham</surname><given-names>GE</given-names></name>
+<name><surname>Wehman</surname><given-names>B</given-names></name>
+<name><surname>Khan</surname><given-names>MM</given-names></name>
+<name><surname>Xu</surname><given-names>H</given-names></name>
+<etal/>
+</person-group><article-title>A deep proteome analysis identifies the complete secretome as the functional unit of human cardiac progenitor cells</article-title><source>Circ Res</source><year>2017</year><volume>120</volume><issue>5</issue><fpage>816</fpage><lpage>834</lpage><pub-id pub-id-type="pmid">27908912</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>B</given-names></name>
+<name><surname>Zhang</surname><given-names>X</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+</person-group><article-title>Exosomes derived from mesenchymal stem cells</article-title><source>Int J Mol Sci</source><year>2014</year><volume>15</volume><issue>3</issue><fpage>4142</fpage><lpage>4157</lpage><pub-id pub-id-type="pmid">24608926</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Adamiak</surname><given-names>M</given-names></name>
+<name><surname>Cheng</surname><given-names>G</given-names></name>
+<name><surname>Bobis-Wozowicz</surname><given-names>S</given-names></name>
+<name><surname>Zhao</surname><given-names>L</given-names></name>
+<name><surname>Kedracka-Krok</surname><given-names>S</given-names></name>
+<name><surname>Samanta</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Induced pluripotent stem cell (iPSC)-derived extracellular vesicles are safer and more effective for cardiac repair than iPSCs</article-title><source>Circ Res</source><year>2018</year><volume>122</volume><issue>2</issue><fpage>296</fpage><lpage>309</lpage><pub-id pub-id-type="pmid">29118058</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chistiakov</surname><given-names>DA</given-names></name>
+<name><surname>Orekhov</surname><given-names>AN</given-names></name>
+<name><surname>Bobryshev</surname><given-names>YV</given-names></name>
+</person-group><article-title>Cardiac extracellular vesicles in normal and infarcted heart</article-title><source>Int J Mol Sci</source><year>2016</year><volume>17</volume><issue>1</issue><fpage>63</fpage><lpage>63</lpage></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kishore</surname><given-names>R</given-names></name>
+<name><surname>Khan</surname><given-names>M</given-names></name>
+</person-group><article-title>More than tiny sacks: stem cell exosomes as cell-free modality for cardiac repair</article-title><source>Circ Res</source><year>2016</year><volume>118</volume><issue>2</issue><fpage>330</fpage><lpage>343</lpage><pub-id pub-id-type="pmid">26838317</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gallet</surname><given-names>R</given-names></name>
+<name><surname>Dawkins</surname><given-names>J</given-names></name>
+<name><surname>Valle</surname><given-names>J</given-names></name>
+<name><surname>Simsolo</surname><given-names>E</given-names></name>
+<name><surname>de Couto</surname><given-names>G</given-names></name>
+<name><surname>Middleton</surname><given-names>R</given-names></name>
+<etal/>
+</person-group><article-title>Exosomes secreted by cardiosphere-derived cells reduce scarring, attenuate adverse remodelling, and improve function in acute and chronic porcine myocardial infarction</article-title><source>Eur Heart J</source><year>2017</year><volume>38</volume><issue>3</issue><fpage>201</fpage><lpage>211</lpage><pub-id pub-id-type="pmid">28158410</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>J</given-names></name>
+<name><surname>Zhao</surname><given-names>Y</given-names></name>
+<name><surname>Sun</surname><given-names>L</given-names></name>
+<name><surname>Sun</surname><given-names>X</given-names></name>
+<name><surname>Zhao</surname><given-names>X</given-names></name>
+<name><surname>Sun</surname><given-names>X</given-names></name>
+<etal/>
+</person-group><article-title>Exosomes derived from Akt-modified human umbilical cord mesenchymal stem cells improve cardiac regeneration and promote angiogenesis via activating platelet-derived growth factor D</article-title><source>Stem Cells Transl Med</source><year>2017</year><volume>6</volume><issue>1</issue><fpage>51</fpage><lpage>59</lpage><pub-id pub-id-type="pmid">28170176</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khan</surname><given-names>M</given-names></name>
+<name><surname>Nickoloff</surname><given-names>E</given-names></name>
+<name><surname>Abramova</surname><given-names>T</given-names></name>
+<name><surname>Johnson</surname><given-names>J</given-names></name>
+<name><surname>Verma</surname><given-names>SK</given-names></name>
+<name><surname>Krishnamurthy</surname><given-names>P</given-names></name>
+<etal/>
+</person-group><article-title>Embryonic stem cell-derived exosomes promote endogenous repair mechanisms and enhance cardiac function following myocardial infarction</article-title><source>Circ Res</source><year>2015</year><volume>117</volume><issue>1</issue><fpage>52</fpage><lpage>64</lpage><pub-id pub-id-type="pmid">25904597</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mentkowski</surname><given-names>KI</given-names></name>
+<name><surname>Lang</surname><given-names>JK</given-names></name>
+</person-group><article-title>Exosomes engineered to express a cardiomyocyte binding peptide demonstrate improved cardiac retention in vivo</article-title><source>Sci Rep</source><year>2019</year><volume>9</volume><issue>1</issue><fpage>10041</fpage><lpage>10041</lpage><pub-id pub-id-type="pmid">31296886</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamashita</surname><given-names>T</given-names></name>
+<name><surname>Takahashi</surname><given-names>Y</given-names></name>
+<name><surname>Takakura</surname><given-names>Y</given-names></name>
+</person-group><article-title>Possibility of exosomebased therapeutics and challenges in production of exosomes eligible for therapeutic application</article-title><source>Biol Pharm Bull</source><year>2018</year><volume>41</volume><issue>6</issue><fpage>835</fpage><lpage>842</lpage><pub-id pub-id-type="pmid">29863072</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>T</given-names></name>
+<name><surname>Zhang</surname><given-names>HX</given-names></name>
+<name><surname>He</surname><given-names>CP</given-names></name>
+<name><surname>Fan</surname><given-names>S</given-names></name>
+<name><surname>Zhu</surname><given-names>YL</given-names></name>
+<name><surname>Qi</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>Surface functionalized exosomes as targeted drug delivery vehicles for cerebral ischemia therapy</article-title><source>Biomaterials</source><year>2018</year><volume>150</volume><fpage>137</fpage><lpage>149</lpage><pub-id pub-id-type="pmid">29040874</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Migault</surname><given-names>M</given-names></name>
+<name><surname>Donnou-Fournet</surname><given-names>E</given-names></name>
+<name><surname>Galibert</surname><given-names>MD</given-names></name>
+<name><surname>Gilot</surname><given-names>D</given-names></name>
+</person-group><article-title>Definition and identification of small RNA sponges: Focus on miRNA sequestration</article-title><source>Methods</source><year>2017</year><volume>117</volume><fpage>35</fpage><lpage>47</lpage><pub-id pub-id-type="pmid">27876678</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>G</given-names></name>
+<name><surname>Huang</surname><given-names>ZP</given-names></name>
+<name><surname>Wang</surname><given-names>DZ</given-names></name>
+</person-group><article-title>MicroRNAs in cardiac regeneration and cardiovascular disease</article-title><source>Sci China Life Sci</source><year>2013</year><volume>56</volume><issue>10</issue><fpage>907</fpage><lpage>913</lpage><pub-id pub-id-type="pmid">23974704</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shrestha</surname><given-names>S</given-names></name>
+<name><surname>Ren</surname><given-names>L</given-names></name>
+<name><surname>Vaidya</surname><given-names>R</given-names></name>
+</person-group><article-title>miRNAs as biomarkers for diagnosis and assessment of prognosis of coronary artery disease</article-title><source>Open J Intern Med</source><year>2018</year><volume>08</volume><issue>01</issue><fpage>54</fpage><lpage>63</lpage></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Samanta</surname><given-names>S</given-names></name>
+<name><surname>Balasubramanian</surname><given-names>S</given-names></name>
+<name><surname>Rajasingh</surname><given-names>S</given-names></name>
+<name><surname>Patel</surname><given-names>U</given-names></name>
+<name><surname>Dhanasekaran</surname><given-names>A</given-names></name>
+<name><surname>Dawn</surname><given-names>B</given-names></name>
+<etal/>
+</person-group><article-title>MicroRNA: a new therapeutic strategy for cardiovascular diseases</article-title><source>Trends Cardiovasc Med</source><year>2016</year><volume>26</volume><issue>5</issue><fpage>407</fpage><lpage>419</lpage><pub-id pub-id-type="pmid">27013138</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>K</given-names></name>
+<name><surname>Liu</surname><given-names>D</given-names></name>
+<name><surname>Lai</surname><given-names>H</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>C</given-names></name>
+</person-group><article-title>Developing miRNA therapeutics for cardiac repair in ischemic heart disease</article-title><source>J Thorac Dis</source><year>2016</year><volume>8</volume><issue>9</issue><fpage>E918</fpage><lpage>E927</lpage><pub-id pub-id-type="pmid">27747027</pub-id></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X</given-names></name>
+<name><surname>Shang</surname><given-names>Y</given-names></name>
+<name><surname>Dai</surname><given-names>S</given-names></name>
+<name><surname>Wu</surname><given-names>W</given-names></name>
+<name><surname>Yi</surname><given-names>F</given-names></name>
+<name><surname>Cheng</surname><given-names>L</given-names></name>
+</person-group><article-title>MicroRNA-16-5p aggravates myocardial infarction injury by targeting the expression of insulin receptor substrates 1 and mediating myocardial apoptosis and angiogenesis</article-title><source>Curr Neurovasc Res</source><year>2020</year><volume>17</volume><issue>1</issue><fpage>11</fpage><lpage>7</lpage><pub-id pub-id-type="pmid">31870262</pub-id></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Z</given-names></name>
+<name><surname>Du</surname><given-names>S</given-names></name>
+<name><surname>Shen</surname><given-names>S</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+</person-group><article-title>microRNA-132 inhibits cardiomyocyte apoptosis and myocardial remodeling in myocardial infarction by targeting IL-1&#x003b2;</article-title><source>J Cell Physiol</source><year>2020</year><volume>235</volume><issue>3</issue><fpage>2710</fpage><lpage>2721</lpage><pub-id pub-id-type="pmid">31621911</pub-id></element-citation></ref><ref id="B41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bai</surname><given-names>Y</given-names></name>
+<name><surname>Bai</surname><given-names>L</given-names></name>
+<name><surname>Zhou</surname><given-names>J</given-names></name>
+<name><surname>Chen</surname><given-names>H</given-names></name>
+<name><surname>Zhang</surname><given-names>L</given-names></name>
+</person-group><article-title>Sequential delivery of VEGF, FGF-2 and PDGF from the polymeric system enhance HUVECs angiogenesis in vitro and CAM angiogenesis</article-title><source>Cell Immunol</source><year>2018</year><volume>323</volume><fpage>19</fpage><lpage>32</lpage><pub-id pub-id-type="pmid">29111157</pub-id></element-citation></ref><ref id="B42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rebou&#x000e7;as</surname><given-names>JS</given-names></name>
+<name><surname>Santos-Magalh&#x000e3;es</surname><given-names>NS</given-names></name>
+<name><surname>Formiga</surname><given-names>FR</given-names></name>
+</person-group><article-title>Cardiac regeneration using growth factors: advances and challenges</article-title><source>Arq Bras Cardiol</source><year>2016</year><volume>107</volume><issue>3</issue><fpage>271</fpage><lpage>275</lpage><pub-id pub-id-type="pmid">27355588</pub-id></element-citation></ref><ref id="B43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Thavapalachandran</surname><given-names>S</given-names></name>
+<name><surname>Grieve</surname><given-names>SM</given-names></name>
+<name><surname>Hume</surname><given-names>RD</given-names></name>
+<name><surname>Le</surname><given-names>TYL</given-names></name>
+<name><surname>Raguram</surname><given-names>K</given-names></name>
+<name><surname>Hudson</surname><given-names>JE</given-names></name>
+<etal/>
+</person-group><article-title>Platelet-derived growth factor-AB improves scar mechanics and vascularity after myocardial infarction</article-title><source>Sci Transl Med</source><year>2020</year><volume>12</volume><issue>524</issue><fpage>eaay2140</fpage><lpage>eaay2140</lpage><pub-id pub-id-type="pmid">31894101</pub-id></element-citation></ref><ref id="B44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hajjar</surname><given-names>RJ</given-names></name>
+<name><surname>Hulot</surname><given-names>JS</given-names></name>
+</person-group><article-title>Myocardial delivery of stromal cell-derived factor 1 in patients with ischemic heart disease: safe and promising</article-title><source>Circ Res</source><year>2013</year><volume>112</volume><issue>5</issue><fpage>746</fpage><lpage>747</lpage><pub-id pub-id-type="pmid">23429606</pub-id></element-citation></ref><ref id="B45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Timmers</surname><given-names>L</given-names></name>
+<name><surname>Lim</surname><given-names>SK</given-names></name>
+<name><surname>Hoefer</surname><given-names>IE</given-names></name>
+<name><surname>Arslan</surname><given-names>F</given-names></name>
+<name><surname>Lai</surname><given-names>RC</given-names></name>
+<name><surname>van Oorschot</surname><given-names>AA</given-names></name>
+<etal/>
+</person-group><article-title>Human mesenchymal stem cell-conditioned medium improves cardiac function following myocardial infarction</article-title><source>Stem Cell Res</source><year>2011</year><volume>6</volume><issue>3</issue><fpage>206</fpage><lpage>214</lpage><pub-id pub-id-type="pmid">21419744</pub-id></element-citation></ref><ref id="B46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gunawardena</surname><given-names>TNA</given-names></name>
+<name><surname>Rahman</surname><given-names>MT</given-names></name>
+<name><surname>Abdullah</surname><given-names>BJJ</given-names></name>
+<name><surname>Abu Kasim</surname><given-names>NH</given-names></name>
+</person-group><article-title>Conditioned media derived from mesenchymal stem cell cultures: the next generation for regenerative medicine</article-title><source>J Tissue Eng Regen Med</source><year>2019</year><volume>13</volume><issue>4</issue><fpage>569</fpage><lpage>586</lpage><pub-id pub-id-type="pmid">30644175</pub-id></element-citation></ref><ref id="B47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamaguchi</surname><given-names>S</given-names></name>
+<name><surname>Shibata</surname><given-names>R</given-names></name>
+<name><surname>Yamamoto</surname><given-names>N</given-names></name>
+<name><surname>Nishikawa</surname><given-names>M</given-names></name>
+<name><surname>Hibi</surname><given-names>H</given-names></name>
+<name><surname>Tanigawa</surname><given-names>T</given-names></name>
+<etal/>
+</person-group><article-title>Dental pulp-derived stem cell conditioned medium reduces cardiac injury following ischemia-reperfusion</article-title><source>Sci Rep</source><year>2015</year><volume>5</volume><fpage>16295</fpage><lpage>16295</lpage><pub-id pub-id-type="pmid">26542315</pub-id></element-citation></ref><ref id="B48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ellison-Hughes</surname><given-names>GM</given-names></name>
+<name><surname>Madeddu</surname><given-names>P</given-names></name>
+</person-group><article-title>Exploring pericyte and cardiac stem cell secretome unveils new tactics for drug discovery</article-title><source>Pharmacol Ther</source><year>2017</year><volume>171</volume><fpage>1</fpage><lpage>12</lpage><pub-id pub-id-type="pmid">27916652</pub-id></element-citation></ref><ref id="B49"><label>49</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>He</surname><given-names>J</given-names></name>
+<name><surname>Cai</surname><given-names>Y</given-names></name>
+<name><surname>Luo</surname><given-names>LM</given-names></name>
+<name><surname>Liu</surname><given-names>HB</given-names></name>
+</person-group><article-title>Hypoxic adipose mesenchymal stem cells derived conditioned medium protects myocardial infarct in rat</article-title><source>Eur Rev Med Pharmacol Sci</source><year>2015</year><volume>19</volume><issue>22</issue><fpage>4397</fpage><lpage>4406</lpage><pub-id pub-id-type="pmid">26636529</pub-id></element-citation></ref><ref id="B50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yl&#x000e4;-Herttuala</surname><given-names>S</given-names></name>
+<name><surname>Bridges</surname><given-names>C</given-names></name>
+<name><surname>Katz</surname><given-names>MG</given-names></name>
+<name><surname>Korpisalo</surname><given-names>P</given-names></name>
+</person-group><article-title>Angiogenic gene therapy in cardiovascular diseases: dream or vision?</article-title><source>Eur Heart J</source><year>2017</year><volume>38</volume><issue>18</issue><fpage>1365</fpage><lpage>1371</lpage><pub-id pub-id-type="pmid">28073865</pub-id></element-citation></ref><ref id="B51"><label>51</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eibel</surname><given-names>B</given-names></name>
+<name><surname>Rodrigues</surname><given-names>CG</given-names></name>
+<name><surname>Giusti</surname><given-names>II</given-names></name>
+<name><surname>Nesralla</surname><given-names>IA</given-names></name>
+<name><surname>Prates</surname><given-names>PRL</given-names></name>
+<name><surname>Sant&#x02019;Anna</surname><given-names>RT</given-names></name>
+<etal/>
+</person-group><article-title>Terapia g&#x000ea;nica para cardiopatia isqu&#x000ea;mica: revis&#x000e3;o de ensaios cl&#x000ed;nicos</article-title><source>BJCVS</source><year>2011</year><volume>26</volume><fpage>635</fpage><lpage>646</lpage><pub-id pub-id-type="pmid">22358281</pub-id></element-citation></ref><ref id="B52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lavu</surname><given-names>M</given-names></name>
+<name><surname>Gundewar</surname><given-names>S</given-names></name>
+<name><surname>Lefer</surname><given-names>DJ</given-names></name>
+</person-group><article-title>Gene therapy for ischemic heart disease</article-title><source>J Mol Cell Cardiol</source><year>2011</year><volume>50</volume><issue>5</issue><fpage>742</fpage><lpage>750</lpage><pub-id pub-id-type="pmid">20600100</pub-id></element-citation></ref><ref id="B53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Esmaeilzadeh</surname><given-names>A</given-names></name>
+<name><surname>Mohammadzadeh</surname><given-names>A</given-names></name>
+<name><surname>Bahmaie</surname><given-names>N</given-names></name>
+</person-group><article-title>New generation of promising immunotherapeutics approaches for psoriasis dilemma; IL-35 gene as a potentiated candidate</article-title><source>Inflammation and Cell Signaling</source><year>2018</year><volume>5</volume><fpage>e1635</fpage><lpage>e1635</lpage></element-citation></ref><ref id="B54"><label>54</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>M</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+<name><surname>Zheng</surname><given-names>H</given-names></name>
+<name><surname>Huang</surname><given-names>X</given-names></name>
+<name><surname>Wu</surname><given-names>Y</given-names></name>
+<name><surname>Huang</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>IGF-1 enhances BMSC viability, migration, and anti-apoptosis in myocardial infarction via secreted frizzled-related protein 2 pathway</article-title><source>Stem Cell Res Ther</source><year>2020</year><volume>11</volume><issue>1</issue><fpage>22</fpage><lpage>22</lpage><pub-id pub-id-type="pmid">31918758</pub-id></element-citation></ref><ref id="B55"><label>55</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>G</given-names></name>
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>Yang</surname><given-names>L</given-names></name>
+<name><surname>Mu</surname><given-names>Y</given-names></name>
+<name><surname>Guan</surname><given-names>L</given-names></name>
+</person-group><article-title>Homing of endogenous bone marrow mesenchymal stem cells to rat infarcted myocardium via ultrasound-mediated recombinant SDF-1&#x003b1; adenovirus in microbubbles</article-title><source>Oncotarget</source><year>2018</year><volume>9</volume><issue>1</issue><fpage>477</fpage><lpage>487</lpage><pub-id pub-id-type="pmid">29416629</pub-id></element-citation></ref><ref id="B56"><label>56</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Johnson</surname><given-names>T</given-names></name>
+<name><surname>Zhao</surname><given-names>L</given-names></name>
+<name><surname>Manuel</surname><given-names>G</given-names></name>
+<name><surname>Taylor</surname><given-names>H</given-names></name>
+<name><surname>Liu</surname><given-names>D</given-names></name>
+</person-group><article-title>Approaches to therapeutic angiogenesis for ischemic heart disease</article-title><source>J Mol Med (Berl)</source><year>2019</year><volume>97</volume><issue>2</issue><fpage>141</fpage><lpage>151</lpage><pub-id pub-id-type="pmid">30554258</pub-id></element-citation></ref><ref id="B57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bauz&#x000e1;</surname><given-names>MDR</given-names></name>
+<name><surname>Gim&#x000e9;nez</surname><given-names>CS</given-names></name>
+<name><surname>Locatelli</surname><given-names>P</given-names></name>
+<name><surname>De Lorenzi</surname><given-names>A</given-names></name>
+<name><surname>Hnatiuk</surname><given-names>A</given-names></name>
+<name><surname>Capogrossi</surname><given-names>MC</given-names></name>
+<etal/>
+</person-group><article-title>High-dose intramyocardial HMGB1 induces long-term cardioprotection in sheep with myocardial infarction</article-title><source>Drug Deliv Transl Res</source><year>2019</year><volume>9</volume><issue>5</issue><fpage>935</fpage><lpage>944</lpage><pub-id pub-id-type="pmid">30859393</pub-id></element-citation></ref><ref id="B58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hadjizadeh</surname><given-names>A</given-names></name>
+<name><surname>Ghasemkhah</surname><given-names>F</given-names></name>
+<name><surname>Ghasemzaie</surname><given-names>N</given-names></name>
+</person-group><article-title>Polymeric scaffold based gene delivery strategies to improve angiogenesis in tissue engineering: a review</article-title><source>Polym Rev</source><year>2017</year><volume>57</volume><issue>3</issue><fpage>505</fpage><lpage>556</lpage></element-citation></ref><ref id="B59"><label>59</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>ZQ</given-names></name>
+<name><surname>Xing</surname><given-names>WH</given-names></name>
+</person-group><article-title>Progress in gene therapy for chronic heart failure</article-title><source>Heart Surg Forum</source><year>2018</year><volume>21</volume><issue>2</issue><fpage>E075</fpage><lpage>E083</lpage><pub-id pub-id-type="pmid">29658862</pub-id></element-citation></ref><ref id="B60"><label>60</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Laakkonen</surname><given-names>JP</given-names></name>
+<name><surname>Yl&#x000e4;-Herttuala</surname><given-names>S</given-names></name>
+</person-group><article-title>Recent advancements in cardiovascular gene therapy and vascular biology</article-title><source>Hum Gene Ther</source><year>2015</year><volume>26</volume><issue>8</issue><fpage>518</fpage><lpage>524</lpage><pub-id pub-id-type="pmid">26192706</pub-id></element-citation></ref><ref id="B61"><label>61</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>L</given-names></name>
+<name><surname>Zhu</surname><given-names>J</given-names></name>
+<name><surname>Zhang</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Yue</surname><given-names>F</given-names></name>
+<name><surname>Jia</surname><given-names>X</given-names></name>
+<etal/>
+</person-group><article-title>Stem cellderived extracellular vesicles for myocardial infarction: a metaanalysis of controlled animal studies</article-title><source>Aging (Albany NY)</source><year>2019</year><volume>11</volume><issue>4</issue><fpage>1129</fpage><lpage>1150</lpage><pub-id pub-id-type="pmid">30792374</pub-id></element-citation></ref><ref id="B62"><label>62</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Hu</surname><given-names>J</given-names></name>
+<name><surname>Fu</surname><given-names>B</given-names></name>
+<name><surname>Mao</surname><given-names>Z</given-names></name>
+<name><surname>Zhang</surname><given-names>H</given-names></name>
+<etal/>
+</person-group><article-title>Extracellular vesicles for acute kidney injury in preclinical rodent models: a meta-analysis</article-title><source>Stem Cell Res Ther</source><year>2020</year><volume>11</volume><issue>1</issue><fpage>11</fpage><lpage>11</lpage><pub-id pub-id-type="pmid">31900218</pub-id></element-citation></ref><ref id="B63"><label>63</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Willis</surname><given-names>GR</given-names></name>
+<name><surname>Kourembanas</surname><given-names>S</given-names></name>
+<name><surname>Mitsialis</surname><given-names>SA</given-names></name>
+</person-group><article-title>Toward exosome-based therapeutics: isolation, heterogeneity, and fit-for-purpose potency</article-title><source>Front Cardiovasc Med</source><year>2017</year><volume>4</volume><fpage>63</fpage><lpage>63</lpage><pub-id pub-id-type="pmid">29062835</pub-id></element-citation></ref><ref id="B64"><label>64</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>H</given-names></name>
+<name><surname>Chen</surname><given-names>B</given-names></name>
+<name><surname>Tao</surname><given-names>Z</given-names></name>
+<name><surname>Xu</surname><given-names>Z</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Weizhu</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>Safety and efficacy of adenovirus carrying hepatocyte growth factor gene by percutaneous endocardial injection for treating post-infarct heart failure: a phase iia clinical trial</article-title><source>Curr Gene Ther</source><year>2018</year><volume>18</volume><issue>2</issue><fpage>125</fpage><lpage>130</lpage><pub-id pub-id-type="pmid">29618307</pub-id></element-citation></ref><ref id="B65"><label>65</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gross</surname><given-names>L</given-names></name>
+<name><surname>Theiss</surname><given-names>HD</given-names></name>
+<name><surname>Grabmaier</surname><given-names>U</given-names></name>
+<name><surname>Adrion</surname><given-names>C</given-names></name>
+<name><surname>Mansmann</surname><given-names>U</given-names></name>
+<name><surname>Sohn</surname><given-names>HY</given-names></name>
+<etal/>
+</person-group><article-title>Combined therapy with sitagliptin plus granulocyte-colony stimulating factor in patients with acute myocardial infarction - Long-term results of the SITAGRAMI trial</article-title><source>Int J Cardiol</source><year>2016</year><volume>215</volume><fpage>441</fpage><lpage>445</lpage><pub-id pub-id-type="pmid">27131268</pub-id></element-citation></ref><ref id="B66"><label>66</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kuku&#x00142;a</surname><given-names>K</given-names></name>
+<name><surname>Urbanowicz</surname><given-names>A</given-names></name>
+<name><surname>K&#x00142;opotowski</surname><given-names>M</given-names></name>
+<name><surname>D&#x00105;browski</surname><given-names>M</given-names></name>
+<name><surname>Pr&#x00119;gowski</surname><given-names>J</given-names></name>
+<name><surname>K&#x00105;dziela</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>Long-term follow-up and safety assessment of angiogenic gene therapy trial VIF-CAD: Transcatheter intramyocardial administration of a bicistronic plasmid expressing VEGFA165/ bFGF cDNA for the treatment of refractory coronary artery disease</article-title><source>Am Heart J</source><year>2019</year><volume>215</volume><fpage>78</fpage><lpage>82</lpage><pub-id pub-id-type="pmid">31288177</pub-id></element-citation></ref><ref id="B67"><label>67</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Anttila</surname><given-names>V</given-names></name>
+<name><surname>Saraste</surname><given-names>A</given-names></name>
+<name><surname>Knuuti</surname><given-names>J</given-names></name>
+<name><surname>Jaakkola</surname><given-names>P</given-names></name>
+<name><surname>Hedman</surname><given-names>M</given-names></name>
+<name><surname>Svedlund</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>Synthetic mRNA encoding VEGF-A in patients undergoing coronary artery bypass grafting: design of a phase 2a clinical trial</article-title><source>Mol Ther Methods Clin Dev</source><year>2020</year><volume>18</volume><fpage>464</fpage><lpage>472</lpage><pub-id pub-id-type="pmid">32728595</pub-id></element-citation></ref><ref id="B68"><label>68</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Greenberg</surname><given-names>B</given-names></name>
+<name><surname>Butler</surname><given-names>J</given-names></name>
+<name><surname>Felker</surname><given-names>GM</given-names></name>
+<name><surname>Ponikowski</surname><given-names>P</given-names></name>
+<name><surname>Voors</surname><given-names>AA</given-names></name>
+<name><surname>Desai</surname><given-names>AS</given-names></name>
+<etal/>
+</person-group><article-title>Calcium upregulation by percutaneous administration of gene therapy in patients with cardiac disease (CUPID 2): a randomised, multinational, double-blind, placebo-controlled, phase 2b trial</article-title><source>Lancet</source><year>2016</year><volume>387</volume><issue>10024</issue><fpage>1178</fpage><lpage>1186</lpage><pub-id pub-id-type="pmid">26803443</pub-id></element-citation></ref><ref id="B69"><label>69</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>ES</given-names></name>
+<name><surname>Miller</surname><given-names>L</given-names></name>
+<name><surname>Patel</surname><given-names>AN</given-names></name>
+<name><surname>Anderson</surname><given-names>RD</given-names></name>
+<name><surname>Mendelsohn</surname><given-names>FO</given-names></name>
+<name><surname>Traverse</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>Changes in ventricular remodelling and clinical status during the year following a single administration of stromal cellderived factor-1 non-viral gene therapy in chronic ischaemic heart failure patients: the STOP-HF randomized phase II trial</article-title><source>Eur Heart J</source><year>2015</year><volume>36</volume><issue>33</issue><fpage>2228</fpage><lpage>2238</lpage><pub-id pub-id-type="pmid">26056125</pub-id></element-citation></ref><ref id="B70"><label>70</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Penn</surname><given-names>MS</given-names></name>
+<name><surname>Mendelsohn</surname><given-names>FO</given-names></name>
+<name><surname>Schaer</surname><given-names>GL</given-names></name>
+<name><surname>Sherman</surname><given-names>W</given-names></name>
+<name><surname>Farr</surname><given-names>M</given-names></name>
+<name><surname>Pastore</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>An open-label dose escalation study to evaluate the safety of administration of nonviral stromal cell-derived factor-1 plasmid to treat symptomatic ischemic heart failure</article-title><source>Circ Res</source><year>2013</year><volume>112</volume><issue>5</issue><fpage>816</fpage><lpage>825</lpage><pub-id pub-id-type="pmid">23429605</pub-id></element-citation></ref></ref-list></back></article>

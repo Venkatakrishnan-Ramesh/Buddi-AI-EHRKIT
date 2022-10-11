@@ -1,0 +1,86 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="editorial"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Bras Pneumol</journal-id><journal-id journal-id-type="iso-abbrev">J Bras Pneumol</journal-id><journal-id journal-id-type="publisher-id">jbpneu</journal-id><journal-title-group><journal-title>Jornal Brasileiro de Pneumologia</journal-title></journal-title-group><issn pub-type="ppub">1806-3713</issn><issn pub-type="epub">1806-3756</issn><publisher><publisher-name>Sociedade Brasileira de Pneumologia e Tisiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35830058</article-id><article-id pub-id-type="pmc">PMC9262424</article-id><article-id pub-id-type="doi">10.36416/1806-3756/e20220191</article-id><article-id pub-id-type="other">00000</article-id><article-categories><subj-group subj-group-type="heading"><subject>Editorial</subject></subj-group></article-categories><title-group><article-title>The impact of COVID-19 on sleep and circadian rhythm</article-title><trans-title-group xml:lang="pt"><trans-title>O impacto da COVID-19 no sono e no ritmo circadiano</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9203-6953</contrib-id><name><surname>Lins-Filho</surname><given-names>Ozeas</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9078-3296</contrib-id><name><surname>Pedrosa</surname><given-names>Rodrigo P</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><aff id="aff1">
+<label>1</label>. Laborat&#x000f3;rio do Sono e Cora&#x000e7;&#x000e3;o, Pronto Socorro Cardiol&#x000f3;gico de Pernambuco - PROCAPE - Universidade de Pernambuco, Recife (PE) Brasil.</aff></contrib-group><pub-date date-type="pub" publication-format="electronic"><day>01</day><month>7</month><year>2022</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2022</year></pub-date><volume>48</volume><issue>3</issue><elocation-id>e20220191</elocation-id><permissions><copyright-statement>&#x000a9; 2022 Sociedade Brasileira de Pneumologia e Tisiologia</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>Sociedade Brasileira de Pneumologia e Tisiologia</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License which permits unrestricted non-commercial use, distribution, and reproduction in any medium provided the original work is properly cited.</license-p></license></permissions><counts><fig-count count="0"/><table-count count="0"/><equation-count count="0"/><ref-count count="7"/></counts></article-meta></front><body><p>The circadian rest-activity pattern is the biological rhythm of approximately 24 h, which corresponds to cyclical variations in behavior, physiology, and sleep-wake cycle, resulting from an intrinsic temporal control system. The stability of this biological rhythm reflects the optimal organic functionality and health; however, the desynchronization between the circadian system and the necessary hours of sleep can cause disturbances in this system and, consequently, sleep disorders. There are ways to assess the sleep-wake cycle, including the use of subjective and objective measures, such as sleep diaries and actigraphy. Moreover, nocturnal polysomnography is also used for objective assessment of sleep and various physiological parameters, being the best option for a complete evaluation of sleep parameters; despite this, polysomnography is used in the suspicion of sleep disorders.<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref> Thus, the use of polysomnography has limitations for the assessment of those who have an impaired sleep-wake cycle.</p><p>Given the scenario that the entire world has found itself in since 2020, the relationship between SARS-CoV-2 infection and its negative impacts on sleep and circadian rhythm has been investigated. In the present issue of the <italic>Jornal Brasileiro de Pneumologia</italic>, Henr&#x000ed;quez-Beltr&#x000e1;n et al.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> used as a measurement strategy actigraphy and nocturnal home polysomnography, respectively, as a measurement strategy to assess the circadian cycle and sleep disorders in patients who had COVID-19 between April and July of 2020. Evaluations occurred four months after the acute phase of COVID-19.</p><p>It has been reported that, during the acute phase of the infection, regardless of the symptoms or the need for hospitalization, COVID-19 promotes detrimental changes in sleep,<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref> and that this scenario persists even six months after the acute phase, resulting in sequelae. In general, 63% of the patients experienced fatigue or muscle weakness, and 23% had sleep difficulties.<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>Investigations on the influence of COVID-19 and the circadian rest-activity pattern are scarce, although the pandemic scenario has been related to the impairment of this pattern and elevated levels of symptoms of depression, anxiety, and stress during the lockdown period. Henr&#x000ed;quez-Beltr&#x000e1;n et al.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> reported that patients with moderately severe COVID-19 had a higher prevalence of difficulty of falling asleep, staying asleep, and waking up early, whereas patients with more severe disease experienced difficulty staying asleep and waking up early.</p><p>Such outcomes are important to elucidate the association between the severity of COVID-19 and the sleep-wake cycle since the aforementioned variables reflect the behavior of the circadian cycle. In addition, a previous study observed that, three months after hospital discharge, 60.5% of the patients presented poor sleep quality (as determined by a subjective index and actigraphy), and sleep duration was &#x0003c; 7 h.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref> In addition, the presence of sleep disorders, such as obstructive sleep apnea (OSA), results in negative outcomes in this population.<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref> Henr&#x000ed;quez-Beltr&#x000e1;n et al.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> reported that the risk for OSA was higher in the moderate and severe COVID-19 groups. When evaluated by home polysomnography, the prevalences of OSA in the mild, moderate, and severe COVID-19 groups were, respectively, 27.8%, 64.7%, and 80.0%. The relationship between OSA and hospitalized COVID-19 patients has also been studied,<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref> showing that the prevalence of OSA in those patients was 15.3%. This divergence is mainly due to the difference in the time of OSA assessment and the number of patients evaluated: 60<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> and 3,185.<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>Henr&#x000ed;quez-Beltr&#x000e1;n et al.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> reported that sleep quality was impaired in the patients regardless of disease severity. Similarly, there was a higher prevalence of insomnia in the three severity groups studied. In addition, actigraphy showed that the groups had a sleep duration &#x0003c; 7 h but good sleep efficiency.</p><p>Another circadian rest-activity pattern parameter-fragmentation of the rest-activity rhythm, determined by intraday variability-was shown to be impaired in all groups studied, but it was significantly higher in the moderate COVID-19 group.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> Circadian disruption has been linked to an increased risk for diseases such as cardiovascular disease, diabetes, hypertension, obesity, insomnia, and cancer.<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref> The outcome found in the study by Ben&#x000ed;tez et al.<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref> is in line with the aforementioned findings,<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> and indicates that mental health should be taken into account as a marker linked to sleep deprivation after COVID-19.</p><p>Although Henr&#x000ed;quez-Beltr&#x000e1;n et al.<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> investigated few patients, there are COVID-19 sequelae that affect sleep parameters and circadian rest-activity patterns that persist even after an extended period after the acute phase of the disease, promoting fragmentation of the circadian rhythm at rest and impairing parameters associated with sleep and mental health.</p><p>In conclusion, the central message of the study<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref> is clear: changes in sleep, circadian cycle pattern, and mental health appear to be common for at least four months after the acute phase of COVID-19, especially in patients who have developed more severe disease. However, these results should be viewed with caution.</p></body><back><ref-list><title>REFERENCES</title><ref id="B1"><label>1</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Frange</surname><given-names>C</given-names></name>
+<name><surname>Coelho</surname><given-names>FM</given-names></name>
+</person-group><source>Sleep Medicine and Physical Therapy: A Comprehensive Guide for Practitioners: Cham,</source><year>2022</year><publisher-loc>Switzerland</publisher-loc><publisher-name>Springer Nature</publisher-name><pub-id pub-id-type="doi">10.1007/978-3-030-85074-6</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Henr&#x000ed;quez-Beltr&#x000e1;n</surname><given-names>M</given-names></name>
+<name><surname>Labarca</surname><given-names>G</given-names></name>
+<name><surname>Cigarroa</surname><given-names>I</given-names></name>
+<name><surname>Enos</surname><given-names>D</given-names></name>
+<name><surname>Lastra</surname><given-names>J</given-names></name>
+<name><surname>Nova-Lamperti</surname><given-names>E</given-names></name>
+</person-group><article-title>Sleep health and the circadian rest-activity pattern four months after COVID-19</article-title><source>J Bras Pneumol</source><year>2022</year><volume>48</volume><issue>3</issue><elocation-id>e20210398</elocation-id><pub-id pub-id-type="doi">10.36416/1806-3756/e20210398</pub-id><pub-id pub-id-type="pmid">35508066</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bhat</surname><given-names>S</given-names></name>
+<name><surname>Chokroverty</surname><given-names>S</given-names></name>
+</person-group><article-title>Sleep disorders and COVID-19</article-title><source>Sleep Med</source><year>2022</year><volume>91</volume><fpage>253</fpage><lpage>261</lpage><pub-id pub-id-type="doi">10.1016/j.sleep.2021.07.021</pub-id><pub-id pub-id-type="pmid">34391672</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>C</given-names></name>
+<name><surname>Huang</surname><given-names>L</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Ren</surname><given-names>L</given-names></name>
+<name><surname>Gu</surname><given-names>X</given-names></name>
+</person-group><article-title>6-month consequences of COVID-19 in patients discharged from hospital a cohort study</article-title><source>Lancet</source><year>2021</year><volume>397</volume><issue>10270</issue><fpage>220</fpage><lpage>232</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(20)32656-8</pub-id><pub-id pub-id-type="pmid">33428867</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Benitez</surname><given-names>ID</given-names></name>
+<name><surname>Moncusi-Moix</surname><given-names>A</given-names></name>
+<name><surname>Vaca</surname><given-names>R</given-names></name>
+<name><surname>Gort-Paniello</surname><given-names>C</given-names></name>
+<name><surname>Minguez</surname><given-names>O</given-names></name>
+<name><surname>Santisteve</surname><given-names>S</given-names></name>
+</person-group><article-title>Sleep and Circadian Health of Critical COVID-19 Survivors 3 Months After Hospital Discharge</article-title><source>Crit Care Med</source><year>2022</year><volume>50</volume><issue>6</issue><fpage>945</fpage><lpage>954</lpage><pub-id pub-id-type="doi">10.1097/CCM.0000000000005476</pub-id><pub-id pub-id-type="pmid">35234413</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Peker</surname><given-names>Y</given-names></name>
+<name><surname>Celik</surname><given-names>Y</given-names></name>
+<name><surname>Arbatli</surname><given-names>S</given-names></name>
+<name><surname>Isik</surname><given-names>SR</given-names></name>
+<name><surname>Balcan</surname><given-names>B</given-names></name>
+<name><surname>Karatas</surname><given-names>F</given-names></name>
+</person-group><article-title>Effect of High-Risk Obstructive Sleep Apnea on Clinical Outcomes in Adults with Coronavirus</article-title><source>Disease</source><year>2019</year><fpage>A</fpage><lpage>A</lpage><pub-id pub-id-type="doi">10.1513/AnnalsATS.202011-1409OC</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Maas</surname><given-names>MB</given-names></name>
+<name><surname>Kim</surname><given-names>M</given-names></name>
+<name><surname>Malkani</surname><given-names>RG</given-names></name>
+<name><surname>Abbott</surname><given-names>SM</given-names></name>
+<name><surname>Zee</surname><given-names>PC</given-names></name>
+</person-group><article-title>Obstructive Sleep Apnea and Risk of COVID-19 Infection, Hospitalization and Respiratory Failure</article-title><source>Sleep Breath</source><year>2021</year><volume>25</volume><issue>2</issue><fpage>1155</fpage><lpage>1157</lpage><pub-id pub-id-type="doi">10.1007/s11325-020-02203-0</pub-id><pub-id pub-id-type="pmid">32989673</pub-id></element-citation></ref></ref-list></back></article>

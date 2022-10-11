@@ -1,0 +1,911 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell J</journal-id><journal-id journal-id-type="iso-abbrev">Cell J</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>Cell Journal (Yakhteh)</journal-title></journal-title-group><issn pub-type="ppub">2228-5806</issn><issn pub-type="epub">2228-5814</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36043406</article-id><article-id pub-id-type="pmc">PMC9428474</article-id><article-id pub-id-type="other">Cell-J-24-7-380</article-id><article-id pub-id-type="doi">10.22074/cellj.2022.8098</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject><subj-group><subject>Cellular and Molecular Biology</subject><subject>Tissue Engineering</subject></subj-group></subj-group></article-categories><title-group><article-title>Redesigning of 3-Dimensional Vascular-Muscle Structure Using
+ADSCs/HUVECs Co-Culture and VEGF on Engineered
+Skeletal Muscle ECM</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Heidari Moghadam</surname><given-names>Abbas</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Bayati</surname><given-names>Vahid</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A2" ref-type="aff">2</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Orazizadeh</surname><given-names>Mahmoud</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Rashno</surname><given-names>Mohammad</given-names></name><degrees>Ph.D</degrees><xref rid="A1" ref-type="aff">1</xref></contrib><aff id="A1"><label>1</label>Cellular and Molecular Research Center, Medical Basic Sciences Research Institute, Ahvaz Jundishapur University of Medical
+Sciences, Ahvaz, Iran</aff><aff id="A2"><label>2</label>Department of Anatomical Sciences, Faculty of Medicine, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran</aff></contrib-group><author-notes><corresp id="cor1">
+<label>*Corresponding Address: </label>
+<addr-line>P.O.Box: 45</addr-line>
+<addr-line>Cellular and Molecular Research Center</addr-line>
+<institution>Medical Basic Sciences Research Institute</institution>
+<institution>Ahvaz Jundishapur
+University of Medical Sciences</institution>
+<addr-line>Ahvaz</addr-line>
+<country>Iran</country>
+Email:<email>bayati-v@ajums.ac.ir</email>
+</corresp></author-notes><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>27</day><month>7</month><year>2022</year></pub-date><volume>24</volume><issue>7</issue><fpage>380</fpage><lpage>390</lpage><history><date date-type="received"><day>5</day><month>6</month><year>2021</year></date><date date-type="accepted"><day>22</day><month>8</month><year>2021</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium,
+with the exception of commercial purposes, is permitted provided the original work is properly cited.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0) License, which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original
+work is properly cited. </license-p></license></permissions><abstract><sec><title>Objective</title><p> The main objective of this study is to determine the myogenic effects of skeletal muscle extracellular matrix,
+vascular endothelial growth factor and human umbilical vein endothelial cells on adipose-derived stem cells to achieve
+a 3-dimensional engineered vascular-muscle structure.
+</p></sec><sec><title>Materials and Methods</title><p>The present experimental research was designed based on two main groups, i.e. monoculture
+of adipose tissue-derived stem cells (ADSCs) and co-culture of ADSCs and human umbilical vein endothelial cells
+(HUVECs) in a ratio of 1:1. Skeletal muscle tissue was isolated, decellularized and its surface was electrospun using
+polycaprolactone/gelatin parallel nanofibers and then matrix topography was evaluated through H&#x00026;E, trichrome
+staining and SEM. The expression of <italic>MyHC2</italic> gene and tropomyosin protein were examined through real-time reverse
+transcription polymerase chain reaction (RT-PCR) and immunofluorescence, respectively. Finally, the morphology
+of mesenchymal and endothelial cells and their relationship with each other and with the engineered scaffold were
+examined by scanning electron microscopy (SEM).</p></sec><sec><title>Results</title><p> According to H&#x00026;E and Masson&#x02019;s Trichrome staining, muscle tissue was completely decellularized.
+SEM showed parallel Polycaprolactone (PCL)/gelatin nanofibers with an average diameter of about 300 nm. The
+immunofluorescence proved that tropomyosin was positive in the ADSCs monoculture and the ADSCs/HUVECs co-
+culture in horse serum (HS) and HS/VEGF groups. There was a significant difference in the expression of the <italic>MyHC2</italic>
+gene between the ADSCs and ADSCs/HUVECs culture groups (P&#x0003c;0.05) and between the 2D and 3D models in HS/
+VEGF differentiation groups (P&#x0003c;001). Moreover, a significant increase existed between the HS/VEGF group and other
+groups in terms of endothelial cells growth and proliferation as well as their relationship with differentiated myoblasts
+(P&#x0003c;0.05).
+</p></sec><sec><title>Conclusion</title><p>Co-culture of ADSCs/HUVECs on the engineered cell-free muscle scaffold and the dual effects of VEGF
+can lead to formation of a favorable engineered vascular-muscular tissue. These engineered structures can be used as
+an acceptable tool for tissue implantation in muscle injuries and regeneration, especially in challenging injuries such as
+volumetric muscle loss, which also require vascular repair.</p></sec></abstract><kwd-group><kwd>Engineered Scaffold</kwd><kwd>Extracellular Matrix</kwd><kwd>Human Umbilical Vein Endothelial Cells</kwd><kwd>Mesenchymal Stem
+Cells</kwd><kwd>Vascular Endothelial Growth Factor</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Heidari Moghadam A, Bayati V, Orazizadeh M, Rashno M. Redesigning of 3-dimensional vascular-muscle structure using ADSCS/HUVECS CO-
+culture and VEGF on engineered skeletal muscle ECM. Cell J. 2022; 24(7): 380-390. doi: 10.22074/cellj.2022.8098.
+This open-access article has been published under the terms of the Creative Commons Attribution Non-Commercial 3.0 (CC BY-NC 3.0).</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>This experimental study continues our previous research
+which investigated 2D co-culture in muscle tissue
+challenges such as volumetric muscle loss (VML) (1).
+VML refers to the special volumetric, contractive, and nonreturnable injury of the muscle tissue that can arise due
+to various causes such as severe trauma, cancer, surgery,
+and accident (2). Skeletal muscle, like other tissues, has a
+significant regenerative ability following injury; a process
+in which a part of the muscle can grow and develop (3).
+However, this regenerative response is ineffective when
+a large volume of the muscle is lost. According to recent
+studies, there is a limited treatment options for VML and
+no favorable, effective, and definitive treatment is found for
+this challenge so far (4). New methods, such as regenerative
+medicine with its high potential for regeneration and
+substitution of damaged tissues and organs, have attracted
+the attention of researchers in recent years (5).</p><p><italic>In vitro</italic> designing of favorable tissue models for use in tissue
+engineering is considered an acceptable therapeutic option for important challenges such as
+VML (6). The use of stem cells in research has received attention in the last two decades.
+Adipose tissue-derived stem cells (ADSCs) are one of the special stem cells that have
+gradually found their place in these studies. They are ideal options in regenerative
+medicine as their favorable features such as easy isolation and culture and their control,
+high growth and differentiation potential, non-invasiveness, and lack of ethical
+consideration have attracted the attention of most researchers (7). It has been founded that
+decellularization is as an effective strategy in tissue engineering, and decellularized
+tissues have been used in recent years in biomedical applications such as research on
+physicochemical properties of the extracellular matrix (ECM) and providing a special tissue
+scaffold with native mixture, consisting of tissue-specific macromolecules within a 3D
+structure, for redesigning the functional tissues of the body (8). ECM is a complex of
+proteins and polysaccharides as well as a combination of tissueor organ-specific scaffold
+basic components. In the skeletal muscle tissue, the large part of the ECM consists of
+collagen fibers, different types of ECM components such as laminin, elastin, and
+glycosaminoglycans, growth factors, and a high number of proteoglycans and glycoproteins
+that are necessary for cell adhesion, permeability, migration, and differentiation (9).</p><p>Numerous studies have shown that in muscular tissue
+engineering, homologue tissues play a key role in the
+growth, differentiation, and regeneration processes of
+damaged tissues (10).</p><p>On the other hand, various studies have reported that
+differentiation of stem cells to myoblasts and formation
+of muscle fibers requires scaffolds with parallel and
+unidirectional fibers. Due to lack of certain superficial
+direction in biological scaffolds such as muscle ECM,
+the use of parallel electrospun nanofibers has gained
+a particular importance as an acceptable strategy for
+induction and improvement of myogenesis.
+</p><p>Numerous studies have shown that the combination of
+the synthetic and natural polymers of Polycaprolactone
+(PCL) and gelatin has a crucial role in adhesion, growth,
+and organization of ADSCs (11), tendon engineering
+advancement (12), regeneration of cardiac muscle tissue,
+and proliferation and differentiation of myoblasts to
+skeletal muscle myotubes (13).</p><p>Despite all mentioned issues, creation of an ideal engineered structure for differentiation
+and formation of parallel muscular myofibrils has been always associated with development of
+neurovascular structures as an inseparable part of normal tissues and a challenge against
+muscular tissue engineering. Co-culture of endothelial cells with other cell types has been
+used in recent years for formation of vascular structures in engineered structures as a
+novel method and trustable strategy to solve this challenge. For instance, it was shown that
+co-culture of endothelial cells with primary osteoblasts, fibroblasts or smooth muscle cells
+can significantly improve vascular bifurcations and buds <italic>in vitro</italic> (14). In
+addition, as the third factor in muscle tissue engineering, it seems necessary to use
+factors which, besides formation of vascular structures, can affect the differentiation of
+myoblasts. Vascular endothelial growth factor (VEGF) is a key angiogenesis regulating factor
+during embryogenesis that can also affect many adult cells. Studies have shown that this
+factor has inductive roles in endothelial cells, myoblasts, hepatocytes, and neurons in
+cellular migration, cellular protection against apoptosis, and induction of myoblasts for
+formation of myofibrils (15).</p><p>Given the existing challenge, the main objective of this
+experimental study is to evaluate the myogenic effects of
+skeletal muscle ECM, VEGF and human umbilical vein
+endothelial cells (HUVECs) on adipose-derived stem
+cells (ADSCs) to achieve a 3-dimensional engineered
+vascular-muscle structure.</p></sec><sec sec-type="materials-methods"><title>Materials and Methods</title><sec><title>ADSCs isolation and culture</title><p>In this experimental research, ADSCs were isolated according to a previous study (1).
+Briefly, the adipose tissue was removed from the gonadal region of Wistar rats, washed
+with PBS containing 1% penicillin/ streptomycin, and fragmented to facilitate the
+enzymatic digestion. The specimens were incubated with collagenase type I at 37&#x000b0;C for
+30-40 minutes and then the enzyme effect was neutralized using the culture medium
+[Dulbecco&#x02019;s Modified Eagle Medium (DMEM), 10% fetal bovine serum (FBS)]. (DMEM, 10% FBS).
+To separate adipocytes from the stromal vascular fraction (SVF), the cell suspension was
+centrifuged at 2000 rpm for 5 minutes. The supernatant was then discarded and the cellular
+palate was immersed in a culture medium containing DMEM, 10% FBS, 1% L-glutamine, and 1%
+penicillin/streptomycin. The cells were plated at 2.5&#x000d7;10<sup>4</sup> cells/cm<sup>2</sup>
+per 25 cm<sup>2</sup> cell culture flasks and incubated at 37&#x002da;C in 5% CO<sub>2</sub>.
+After 2 days, the non-adherent cells were discarded, and the cellular passage stages were
+performed 4 times on adheerent cells. After 4 passages, for ADSCs characterization, the
+surface antigens of ADSCs including CD73, CD44, and CD90 as positive markers and CD45 as
+the negative marker were evaluated through flow cytometry assay. To induce myogenesis of
+the mesenchymal cells, ADSCs were cultured in the DMEM culture medium containing 10% FBS
+and 3 M 5-Azacytidine (Sigma, NY, USA) for 24 hours and then in the DMEM supplemented with
+5% horse serum (HS, Gibco, NY, USA) for 7 days. Supplemented media was replaced every 48
+hours.</p></sec><sec><title>Decellularization of skeletal muscle</title><p>Muscle tissue decellularization was performed
+according to previous protocols, as shown in
+Figure 1. After euthanization of Wistar rats, the
+anterior abdominal muscles (external and internal
+oblique) were removed. To further improve the quality
+of the decellularization process, the muscle layers
+were separated. Samples were washed in phosphatebuffered saline (PBS) with 1% antifungal and antibiotic
+solution, and then the muscle tissue was purified from
+all vascular, fat and connective tissue and washed out
+for 1 hour in deionised water. These samples were then
+treated with 0.5 M NaCl for 4 hours, followed by 1
+M NaCl for 4 hours, and washed in ultra-pure water
+for 48 hours. After being treated with 0.25% trypsin/
+EDTA at 37&#x000b0;C for 2 hours, the samples were washed
+in dhen samples were processed with DNAase at 37&#x000b0;C
+for 3 hours, washed in ultra-pure water for 2 days, rinsed in PBS for 24 hours and finally kept at 4&#x000b0;C till
+use (Fig.2A).</p><fig position="float" id="F1"><label>Fig 1</label><caption><p>Schematic diagram representing the different steps of this study.
+Step 1; Monoculture and co-culture of stem cells and endothelial cells.
+Step 2; Decellularization of the muscle tissue according to the protocol
+(briefly) and electrospinning of the PCL/gelatin parallel nanofibers on
+the decellularized muscle scaffold. Step 3; Represents triad of muscle
+tissue engineering including scaffold (engineered ECM), cells (ADSCs/
+HUVECs co-culture) and factors (HS and VEGF) for evaluation of myogenic
+differentiation in 3 experimental groups. PCL; Polycaprolactone, ADSCs;
+Adipose-derived stem cells, HUVECs; Human umbilical vein endothelial
+cells, ECM; Extracellular matrix, HS; Horse serum, and VEGF; Vascular
+endothelial growth factor</p></caption><graphic xlink:href="Cell-J-24-380-g01" position="float"/></fig></sec><sec><title>Evaluation of muscle decellularization</title><p>Immediately after the muscle cell removal process, the
+accuracy of decellularized muscles were determined by
+visual examination, tissue staining and also by scanning
+electron microscopy (SEM) (Fig.2B). For tissue staining,
+a part of the prepared tissue was fixed in 10% formalin.
+Samples were then embedded in paraffin to provide
+microscopic sections and then stained with H&#x00026;E and
+Masson&#x02019;s Trichrome at different magnifications.</p></sec><sec><title>Scanning electron microscopy</title><p>SEM evaluation was done based on previous protocols
+(19). First the scaffolds were washed three times with PBS
+and then fixed with 2.5% glutaraldehyde solution (Sigma,
+USA) for 30 minutes. The samples were dehydrated in
+different percentages of ethanol aqueous solutions from
+30% to 100% successively for 10 minutes each and dried
+at room temperature under sterile conditions under the
+hood. After preparing the samples, SEM (SEM, Zeiss
+Evo 50, Germany) examination was used to determine
+the surface topography (with and without PCL/Gelatin
+nanofibers), arrangement of ECM fibers and structure and
+porosity of decellularized muscle tissue.</p><p>In addition, after fabrication of parallel PCL/Gelatin
+nanofibers on the ECM surface and cell culture, the
+samples were prepared in the same way in order to
+visualize the orientation and diameter of the nanofibers,
+surface topography of the electrospun nanofibers, cell
+morphology, attachment and interaction with other cells
+by SEM. Fiber diameters and size distribution were
+measured from the SEM images using Image J software
+version 1.46 (NIH, MD).</p></sec><sec><title>Fabrication of of polycaprolactone/gelatin nanofibers</title><p>PCL (Sigma-Aldrich, USA, Mw: 80000 g/mol) and
+gelatin type A (from porcine skin in powder form,
+Sigma-Aldrich, USA) scaffold were prepared by the
+electrospinning method as described previously (16).
+Briefly, to prepare a 10% (w/v) concentration solution,
+PCL, and gelatin in a 50/50 (w/w) ratio was dissolved
+separately in 2, 2, 2-trifluoroethanol (TFE, SigmaAldrich, USA) and stirred overnight until the mixture
+was dissolved completely at room temperature. Before
+stirring, 1% acetic acid (Fisher Scientific, USA) was
+added to the final solution to improve miscibility.</p><p>For the electrospinning process, PCL/gelatin solution
+was loaded into a 10-mL syringe with a 21-Gauge
+needle that was located at a distance of 130 mm from the
+collector. The solution flow rate, applied voltage, collector
+rotation speed and duration were set to 1 mL/hour, 22 kV,
+2,500 rmp and 4 minutes, respectively. Moreover, before
+the electrospinning process, decellularized muscle ECM
+was placed on the collector (Fig.1). The process was
+carried out at room temperature within a range of relative
+humidity (45-50%). The PCL/Gelatin solvent turned to
+nanofibers and was collected in parallel orientation on
+decellularized muscle ECM on the collector. Before using
+the engineered scaffolds, in order to dry and stabilize the
+nanofibers, they were kept in a sterile environment at
+room temperature overnight.</p></sec><sec><title>Mechanical tensile test </title><p>The tensile strength of the decellularized muscle
+scaffolds, with or without parallel PCL/gelatin electrospun
+nanofibers, was evaluated in dry and wet conditions
+(Cultivated for 10 days in DMEM culture medium) by the
+material test device (Wance, China) equipped with a 5 kN
+load cell. Initially, strip-shaped pieces were prepared at a
+12 mm width&#x000d7;30 mm length from both types of scaffolds.
+Tensile tests and their analysis were performed after
+setting the crosshead speed at 10 mm/minutes. At least
+three samples were investigated. Finally, using the tensile
+stress curve obtained from the test device, we examined
+the tensile strength and scaffold elastic modulus (17).</p></sec><sec><title>MTT assay</title><p>MTT (3-(4, 5-Dimethylthiazol-2-yl)-2, 5-diphenyltetrazolium-bromide) assays were used to
+evaluate the effects of engineered muscle scaffold on ADSCs/HUVECs co-culture viability
+and proliferation. Briefly, ADSC and HUVEC cells were seeded in 96-well plates
+(1&#x000d7;10<sup>4</sup> cells/ well) and were then maintained with culture media for 48 h.
+Then the cells were further incubated with MTT (0.5 mg/mL) for 4 hours at 37&#x000b0;C. After
+removal of the super-natants, 700 &#x003bc;L of dimethyl sulfoxide (DMSO) was added to each well
+to dissolve the formazan product. Then using a microplate reader (BioRad, Hercules, CA)
+absorbance was measured at 540 nm. Optical density values of the control cells were
+calculated as 100% viability. Because absorbance is in proportion to the number of living
+cells in a sample, the MTT assay reflects the extent of cell proliferation (17).</p></sec><sec><title>Co-culture models</title><p>The HUVECs were obtained from the Iranian Biological Resource Center and cultured in
+their special culture medium (1). To track HUVECs in co-culture with ADSCs, they were
+labeled with C7000 according to the cell tracking guideline CellTrackerTM CM-DiI (C7000)
+(Sigma-Aldrich, USA). Briefly, HUVEC cells were plated at 2.5&#x000d7;10<sup>4</sup>
+cells/cm<sup>2</sup> per 25 cm<sup>2</sup> cell culture flasks. Then 15 &#x000b5;l of CM-DiI
+(C7000) was added for every 4 ml of culture medium and incubated at 37&#x002da;C in 5%
+CO<sub>2</sub> for 24 to 48 hours. After removal the supernatants, the attached cells
+could be seen in red light using fluorescence microscopy. The cell tracker was still
+detectable up to 2 passages.</p><p>Similar to our previous study, 2 experimental
+groups were designed in this research, so that each
+group was evaluated in 3 different culture media
+including the control group, the horse serum (HS)
+differentiation culture medium group, and the HS/
+VEGF differentiation culture medium group. <xref rid="s1" ref-type="supplementary-material">Table
+S1</xref> represents a brief description of the experimental
+groups (See Supplementary Online Information at
+<uri xlink:href="www.celljournal.org">www.celljournal.org</uri>).</p><p>Co-culture of HUVECs and mesenchymal cells was
+performed at a ratio of 1:1. The dose of VEGF used in the
+experimental groups was 50 ng/&#x000b5;L. The main points of
+this study are shown in Figure 1.
+</p></sec><sec><title>Cell labeling</title><p>HUVECs were marked with CM-DiI (Invitrogen,
+USA) according to manufacturer&#x02019;s instructions and then
+confirmed by fluorescence microscopy after 1 day.</p></sec><sec><title>Real-time reverse transcriptase-polymerase chain
+reaction analysis</title><p>Immediately after completion of the experiment on day 7, real-time reverse transcription
+polymerase chain reaction (RT-PCR) was used to confirm the expression of
+<italic>MyHC2</italic> according to the manufacturer&#x02019;s instructions. At first, for RNA
+extraction, cultured cells were lysed using the RNeasy plus Mini Kit (Qiagen,
+Gaithersburg, MD, USA). Then, by using a NanoDrop 2000c spectrophotometer (Thermo
+Scientific, USA) the cells were quantified. cDNA synthesis using a QuantiTect Reverse
+Transcription Kit (Qiagen, Gaithersburg, MD, USA) was performed. The following primer
+sequences for amplification were used:</p><p><italic>MyHC2</italic>-</p><p>F: 5&#x002ca;-GGCTGGCTGGACAAGAACA-3&#x002ca;</p><p>R: 5&#x002ca;-CCACCACTACTTGCCTCTGC-3&#x002ca;</p><p><italic>GAPDH</italic>-</p><p>F: 5&#x002ca;-TGCTGGTGCTGAGTATGTCGTG-3&#x002ca;
+</p><p>R: 5&#x002ca;-CGGAGATGATGACCCTTTTGG-3&#x002ca;</p></sec><sec><title>Immunofluorescence analysis</title><p>Immediately after conclusion of the experiment on day
+7, the scaffolds were washed three times with PBS and
+then fixed with paraformaldehyde 4% for 20 minutes.
+Then, the scaffolds with their surface cells became
+permeable using Triton X-100 for 10 minutes and were
+rinsed again with PBS. To prevent any non-specific
+adherence, they were impregnated in BSA 3% for 2 hours.
+Experimental groups were stained with primary antibody
+against anti-tropomyosin antibody (1:100, Sigma, USA)
+overnight at 4&#x002da;C. Then, the cultured cells on muscle
+scaffold were rinsed with PBS and incubated with goat
+anti-mouse fluorescein isothiocyanate (FITC)-conjugated
+secondary antibody (1:150, Sigma, USA) for 1 hour.
+Using 4&#x000b4;, 6-diamidino-2-phenylindole (DAPI, 1:400,
+Sigma, USA), nuclear staining was done for 15 minutes at
+room temperature. Ultimately, the scaffolds were washed
+three times with PBS and then examined by an invert
+fluorescent microscope (IX 71, Olympus, Japan). </p></sec><sec><title>Ethical considerations</title><p>This research was approved by the Ethics Committee of
+Ahvaz Jundishapur University of Medical Sciences (IR.
+AJUMS.REC.1396.282). All protocols such as animal
+care, anesthesia, and euthanasia were performed in
+accordance with the guidelines of the moral committee of
+this university.</p></sec><sec><title>Statistical analysis
+</title><p>All data was expressed as the mean &#x000b1; standard deviation
+and performed in triplicate and repeated three times with
+similar results. The data was analyzed using different
+techniques including one-way analysis of variance
+(ANOVA) followed by Tukey&#x02019;s test for each paired
+experiment. All analyses were done using GraphPad
+Prism Software (version 5.1, Graphpad Software Inc.,
+La Jolla, CA, USA). Moreover, P&#x0003c;0.05 was considered
+statistically significant.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Characterisation of decellularized muscle ECM</title><p>Macroscopic evaluation indicates discoloration of
+muscle tissue due to elimination of the muscle cells.
+Figure 2B shows that decellularized muscle scaffold was
+obtained, as a transparent sheet-like layer after completing
+all the steps of cell removal, washing and drying (for 6
+days).</p><p>Images obtained from light microscope with H&#x00026;E,Masson&#x02019;s Trichrome staining, and SEM showed cellfree muscle tissue ECM. In addition, SEM indicated the
+porous space and intertwined fibers appearance of the
+decellularized muscle tissue. Different sections and views of
+the decellularized muscle ECM are shown in Figure 2B.
+</p><fig position="float" id="F2"><label>Fig 2</label><caption><p>Macroscopic and microscopic assessment of the muscle tissue decellularization. <bold>A.
+</bold>The skeletal muscle tissue decellularization steps using Trypsin and Triton
+X-100 (as the important step), <bold>A1.</bold> Duration of each step depended on the
+size and thickness of the muscle tissue, <bold>A2.</bold> The diaphragm and the
+anterior abdominal wall muscles before decellularization, <bold>A3. </bold>After
+complete decellularization color clearness can be easily detected macroscopically,
+<bold>A4. </bold>The dried state of the decellularized muscle (ECM of the muscle
+tissue) prepared as a transparent layer. <bold>B. </bold>Light microscopic view and
+SEM of the normal and decellularized muscle tissue, <bold>B1.</bold> The normal
+abdominal wall anterior muscle of the rats in which the nuclei positions are shown
+with arrows (scale bar: 100 &#x000b5;m), <bold>B2, B3. </bold>The decellularized muscle tissue
+stained with H&#x00026;E) Trichrome (scale bar: 100 &#x000b5;m), <bold>B4.</bold> Non-stained with
+light microscope (scale bar: 100 &#x000b5;m), <bold>B5.</bold> The longitudinal cross-section
+of the decellularized muscle tissue with light microscope (scale bar: 20 &#x000b5;m),
+<bold>B6. </bold>And with SEM (scale bar: 20 &#x000b5;m), <bold>B7. </bold>The surface view
+of the decellularized muscle tissue with SEM indicating the lack of any specific
+surface orientation (scale bar: 20 &#x000b5;m), and <bold>B8.</bold> A part of image B7 after
+magnification (scale bar: 2 &#x000b5;m). ECM; Extracellular matrix and SEM; Scanning electron
+microscope. </p></caption><graphic xlink:href="Cell-J-24-380-g02" position="float"/></fig><p>Viability of ADSCs/HUVECs Co-cultured on the
+scaffold engineered with PCL/gelatin nanofibers was
+evaluated through measurement of the cells&#x02019; metabolic
+activity using the MTT test. The results indicate the
+relative improvement of ADSCs/HUVECs viability
+in comparison with the control group. Although
+the difference was insignificant, the similarity of
+culture conditions in 3D and 2D culture in growth,
+proliferation, and viability indicated the lack of
+toxicity of the decellularized muscle ECM. The results
+of mechanical tests showed a noticeable difference
+between the tensile strength of wet scaffolds compared
+to dry scaffolds. Also, ECM engineered with PCL/
+Gelatin were more resistant than ECM engineered
+without PCL/Gelatin nanofibers in dry and wet
+conditions, respectively (Fig.3).</p><fig position="float" id="F3"><label>Fig 3</label><caption><p>Morphological and mechanical characterization of engineered muscle scaffold. <bold>A.
+</bold>Arrangement and bio-degradation behavior of the PCL/gelatin nanofibers; the
+images show SEM of the PCL/gelatin parallel nanofibers on the decellularized muscle
+scaffold; <bold>A1.</bold> The initial state (*) indicates the underneath muscle
+tissue covered by the parallel nanofibers (scale bar: 20 &#x000b5;m), <bold>A2.</bold> After
+culture in the incubator for 7 days to evaluate the rate of nanofibers biodegradation.
+The results demonstrated that the direction of the nanofibers did not change and were
+still in parallel, although their dimensions (swelling) and high adherence to each
+other show the proper bio-degradation trend of the PCL/gelatin nanofibers that can be
+considered a favorable feature for implantation (scale bar: 20 &#x000b5;m) and <bold>B.
+</bold>Stress-strain data of muscle ECM with and without PCL/Gelatin nanofibers in dry
+and wet status under tensile loading (scale bar 20 &#x003bc;m). ECM; Extracellular matrix,
+SEM; Scanning electron microscope, and PCL; Polycaprolactone.</p></caption><graphic xlink:href="Cell-J-24-380-g03" position="float"/></fig></sec><sec><title>PCL/Gelatin nanofiber arrangement</title><p>SEM images of electrospun PCL/gelatin nanofibers
+showed the parallel and unidirectional fibers arranged on the muscle ECM before and after immersing in
+culture medium (Fig.3A). The nanofibers diameter
+was measured in the dry and wet states using Image J
+software indicating a mean diameter of 350 nm and 520
+nm, respectively. As shown in Figure 3A2, although
+nanofibers were swelled and their thickness was
+increased, they were still in alignment, and favorable
+for myogenic differentiation.
+</p></sec><sec><title>Flow cytometry</title><p>After 4 passages, the expression of the isolated stem
+cell surface markers, including CD44, CD45, CD73,
+and CD90, was evaluated through flow cytometry; the
+results of which showed that CD44, CD73, and CD90
+were expressed on the surface of these cells and almost
+a negligible number of the cells were positive for the
+hematopoietic cell marker CD45. All these results indicate
+the high purity of the isolated mesenchymal stem cells. </p></sec><sec><title>Co-culture and differentiation of ADSCs/HUVECs in
+3D culture</title><p>In the 3D culture, ADSCs/HUVECs were cultured on the
+muscle ECM engineered with PCL/gelatin nanofibers in
+different culture media (proliferation or differentiation) for
+1 week according to the experimental groups. Each group
+of endothelial cells (stained with C7000 cell marker) and
+mesenchymal cells (stained with tropomyosin antibody)
+in monoculture and co-culture states were evaluated.
+As shown in Figure 4, the growth and cell proliferation
+of HUVECs in the HS group was much lower than the
+VEGF group. The results from ADSCs groups indicated
+myogenic differentiation of ADSCs to myoblast-like cells
+and the expression of tropomyosin on the engineered
+scaffold in the monoculture and co-culture. In addition, it
+was shown that the differentiated cells in the Co-culture/
+HS/VEGF group were arranged close to the HUVECs
+on the engineered structure. Although no geometrical
+vascular structure was observed, their proliferation and
+distribution in the VEGF-differentiated group was well
+observable. VEGF in the Co-culture groups also increased
+the myogenic induction and hence lead endothelial cells
+to be in close proximity with differentiated myoblast-like
+cells (Fig.4).</p></sec><sec><title>Scanning electron microscopy</title><p>Seven days after differentiation, the position
+and arrangement of the ADSCs and HUVECs on
+the engineered scaffold with PCL/gelatin parallel
+nanofibers were examined through SEM. The results
+revealed that the ADSCs/HUVECs co-culture had a
+higher growth and proliferation in the VEGF-treated
+group. Based on the cells&#x02019; dimensions, it can be
+concluded that the higher number of endothelial cells
+(signified with *) was the reason for the higher density
+in the VEGF group, which indicates the capacity of
+this cell model for providing the angiogenesis process
+in the engineered scaffold. These cells were located
+on the PCL/gelatin parallel nanofibers and attached
+to each other and to the scaffold underneath. In the
+absence of VEGF, proliferation of the cells was low
+which was consistent with the findings obtained from
+immunofluorescence technique (Fig.5).</p><fig position="float" id="F4"><label>Fig 4</label><caption><p>Immunofluorescence and Morphological characterization of ADSCs,
+HUVECs and HUVECs and ADSCs co-culture in experimental groups (HS
+and HS/VEGF). The expression of tropomyosin in HS and HS/VEGF groups
+was indicated in immunofluorescence. As shown, ADSCs proliferation was
+increased in HS/VEGF group and were arranged in proximity to parallel
+nanofibers. As shown in figures, the proliferation and distribution of
+HUVECs in the HS/VEGF group was increased in comparison to the HS
+group which indicates the predictable effect of VEGF on HUVECs. Also
+the orientation of the PCL/Gelatin nanofibers can be detected. In HUVECs
+and ADSCs co-culture, Tropomyosin-specific fluorescent staining for
+differentiated mesenchymal cells and endothelial cells-specific C7000
+staining are shown. The density of differentiated myoblasts like cells,
+in particular endothelial cells, was higher in the VEGF-differentiated
+group compared with the HS-differentiated group after the 7 days
+differentiation period. The endothelial cells are signified with red. The
+arrows indicate the level of distribution and proliferation of HUVECs in
+the groups. As is obvious, like 2D culture, growth and proliferation of
+the endothelial cells along with myogenesis differentiation of the ADSCs
+on the VEGF-differentiated group is well observed (scale: 200 &#x003bc;m).PCL;
+Polycaprolactone, ADSCs; Adipose-derived stem cells, HUVECs; Human
+umbilical vein endothelial cells, HS; Horse serum, and VEGF; Vascular
+endothelial growth factor.</p></caption><graphic xlink:href="Cell-J-24-380-g04" position="float"/></fig><fig position="float" id="F5"><label>Fig 5</label><caption><p>SEM of the ADSCs/HUVECs co-cultured on the muscle ECM
+engineered with PCL/gelatin parallel nanofibers after a-week of
+differentiation in 3 different magnifications. The cell density is higher in
+image B (VEGF group) compared to Image A (HS group). Based on the cell
+size, (*) indicates endothelial cells. Proliferation and distribution of these
+cells in the VEGF-treated group was much higher than the HS-treated
+group (scale bar of Fig.A, B: 200 &#x003bc;m, Fig.A1, B2: 20 &#x003bc;m, Fig.A2, B2: 10
+&#x003bc;m). PCL; Polycaprolactone, ADSCs; Adipose-derived stem cells, HUVECs;
+Human umbilical vein endothelial cells, ECM; Extracellular matrix, HS;
+Horse serum, SEM; Scanning electron microscope, and VEGF; Vascular
+endothelial growth factor.</p></caption><graphic xlink:href="Cell-J-24-380-g05" position="float"/></fig></sec><sec><title>Results of real-time RT-PCR in the 3D culture</title><p>The quantitative data obtained from real-time RTPCR in the 3D culture on nanofibers
+proved that the expression of <italic>MyHC2</italic> was significantly higher in the VEGF
+and HS groups as compared with the control group (P&#x0003c;0.001). In addition, there was
+a significant difference between the VEGF and HS groups in terms of expression of this
+gene (P&#x0003c;0.05). As an important point of these findings, expression of
+<italic>MyHC2</italic> in the presence of VEGF was increased in the ADSCs/ HUVECs
+co-culture in comparison with the ADSCs monoculture (P&#x0003c;0.05). However, there was no
+significant difference between the HS-treated group in co-culture and ADSCs monoculture
+groups in <italic>MyHC2</italic> expression. These results indicated that VEGF along with
+HUVECs can increase the expression of <italic>MyHC2</italic> in the mesenchymal
+differentiated group as compared with the other groups (Fig.6). It should be mentioned
+that although HUVECs monoculture (without VEGF) were unable to significantly improve
+<italic>MyHC2</italic> gene expression, the co-culture along with VEGF resulted in a
+significant difference in comparison with ADSCs monoculture (P&#x0003c;0.05). This finding
+indicates the effective role of ADSCs/HUVECs co-culture along with the use of VEGF in
+increased expression of the myogenic differentiation genes. The results of comparison
+between 2D and 3D cultures in different groups showed that the <italic>MyHC2</italic> gene
+had a significantly higher expression in the 3D culture in comparison with the 2D culture,
+so that its expression was significantly increased in the HS/3D group compared to the
+HS/2D group (P&#x0003c;0.05) and in the HS/VEGF/3D group compared to the HS/VEGF/2D and
+other groups (P&#x0003c;0.05, Fig.6).</p><fig position="float" id="F6"><label>Fig 6</label><caption><p>Expression of <italic>MyHC2</italic> mRNA in different experimental groups which was 1.49 &#x000b1; 0.06
+in the HS/ADSCs group, 1.52 &#x000b1; 0.03 in the HS/ Co-culture group, 1.96 &#x000b1; 0.02 in the
+HS/VEGF/ADSCs group, and 2.14 &#x000b1; 0.01 in the HS/VEGF/co-culture group, *;
+P&#x0003c;0.001, #&#x000b6;; P&#x0003c;0.05; *; Indicate the comparison between the control
+groups. #; Indicate the comparison between the HS groups, and &#x000b6;; Indicate the
+comparison between the HS/ VEGF groups. Expression of <italic>MyHC2</italic> mRNA in
+2D and 3D cultures which was 1.32 &#x000b1; 0.02 in the HS/2D group, 1.52 &#x000b1; 0.03 in the HS/3D
+group, 1.92 &#x000b1; 0.03 in the HS/VEGF/2D group, and 2.14 &#x000b1; 0.01 in the HS/VEGF/3D group.
+*; P&#x0003c;0.001, #&#x00026;&#x000b6;&#x00026;&#x000a5;; P&#x0003c;0.05, *; Indicate the comparison between
+the control groups, #; Indicate the comparison between the HS/2D groups, &#x000b6;; Indicate
+the comparison between the HS/3D groups, &#x000a5;; Indicate the comparison between the
+HS/VEGF/2D groups, ADSCs; Adipose-derived stem cells, HUVECs; Human umbilical vein
+endothelial cells, HS; Horse serum, and VEGF; Vascular endothelial growth factor.</p></caption><graphic xlink:href="Cell-J-24-380-g06" position="float"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Skeletal muscle tissue engineering is a complex
+process and achievement of a favorable and contractive
+tissue requires some prerequisites such as formation
+of myofibrils, development of vascular structures,
+innervation, and improvement and organization of the
+ECM (18).</p><p>In this study, the effects of endothelial cells (HUVECs), VEGF, and engineered muscle ECM
+with PCL/gelatin nanofibers was investigated on myogenic differentiation of the ADSCs. The
+use of such a scaffold along with ADSCs/HUVEC co-culture in evaluation of myogenic
+differentiation and their mutual roles to improve angiogenesis have not been investigated so
+far. The muscle scaffold or ECM was used given numerous studies performed in this regard.
+ECM is usually obtained through decellularization of the tissues and organs of mammals. For
+example, ECM of intestine, dermis, bladder, pericardium, heart valves, amniotic membrane,
+muscle, and fascia are approved by FDA to be used for soft tissue regeneration (19). Li et
+al. (20) reported that the use of dehydrated amniotic membrane in damaged biceps femoris of
+rats caused migration of a higher number of myoblasts to the affected area. In another
+study, Merritt et al. (21) evaluated the role of muscle-derived ECM in the improvement of
+the gastrocnemius muscle function in Lewis mice and showed a function improvement rate of
+85% after a period of 42 days, indicating the effective therapeutic role of the ECM and
+BMSCs combination in regeneration of skeletal muscle. In this regard, Badylak et al. (22)
+used a medical regeneration approach on 13 patients with muscle defects and showed that the
+contractive force increased by 37.3% and muscle motility improved by 27.1% after using
+muscle ECM in the damaged area and physiotherapy exercises. According to previous studies
+and the confirmed effective role of decellularized scaffold, abdominal muscle tissue ECM was
+used in this study, so that after decellularization of the tissue, a clear cell-free
+structure was obtained and used for <italic>in vitro</italic> experiments. In this study, a
+transparent muscle scaffold was obtained that had a significant role in myogenic
+differentiation (as increased expression of the <italic>MyHC2</italic> gene) in ADSCs
+compared with 2D culture. The muscle ECM is an ideal option in muscle tissue engineering due
+to its specific properties. </p><p>Wang et al. (17) compared the decellularized muscle
+and fascia tissues in their study and showed that both
+tissues not only maintained their 3D optimal structure,
+mechanical properties, and biologic compounds, but also
+were non-toxic and well retained their ability to induce
+the integrity of human adipose stem cells (hASCs). In
+addition, they reported that the muscle scaffold has a
+significant role in induction of angiogenesis and the
+pro-myogenic properties in comparison with the fascia
+scaffold, which can be considered as a favorable scaffold
+for engineering muscle and fascia tissues.</p><p>It should be noted that in addition to the scaffold material and ECM properties, the
+surface topography is an important parameter for muscle tissue engineering. Regular and
+unidirectional scaffolds are more potent to form myotubes and regular arrangement of
+myofibers than scaffolds with multidirectional fibers on their surface. Chen et al. (23)
+used a new type of 3D porous collagen scaffold with special microgrooves in their research,
+which formed a structure similar to the muscle basement membrane for skeletal muscle tissue
+engineering. In our study, the topography of the muscle scaffold due to lack of no specific
+direction was engineered to create a favorable and parallel shape for myogenic
+differentiation using PCL/gelatin parallel nanofibers electrospinning. PCL/gelatin is an
+ideal compound for tissue engineered, because PCL increases the structural strength and
+gelatin can improve cell attachment. Kim et al. (13) showed that the expression rate of
+myosin heavy chain and troponin T in C2C12 cells and their proliferation rate increased
+significantly when the PCL/gelatin scaffold was used as compared with the PCL scaffold.
+Likewise, Yang et al. (12) showed that human ADSCs were arranged longitudinally in parallel
+with the electrospun PCL/gelatin nanofibers and were able to acquire tendon cell phenotypes
+under the influence of TGF-&#x003b2;3. Our research indicated a better arrangement of ADSCs
+unidirectional with the parallel nanofibers and expression of differentiation factors, in
+particular the expression of <italic>MyHC2</italic> gene in the HS and HS/VEGF
+differentiation groups both in the monoculture and co-culture as compared with the 2D
+culture (lacking the parallel nanofibers). It seems that using VEGF could be helpful in the
+muscular-vascular differentiation process. VEGF is a key regulator of angiogenesis, but its
+effect on restoration of muscular force and musculoskeletal damages regeneration has not yet
+been properly identified. Recent studies have shown that VEGF may affect a lot of different
+cells including neurons, hepatocytes, osteoblasts, hematocytes, and myoblasts (24). In
+addition, it was proven that in vitro administration of VEGF can stimulate migration of
+myoblasts, improvement of cell life critical conditions, protection of myogenic cells
+against apoptosis, and progression of myoblast growth (15). Chen et al. (25) and Song et al.
+(26) reported in two independent studies that VEGF is the main factor in differentiation of
+embryonic stem cells (ESCs) and ADSCS to cardiomyocyte, respectively. </p><p>The results of this study showed that VEGF significantly
+increased the myogenic differentiation of ADSCs in
+monoculture or co-culture as compared with other
+differentiation or control groups.</p><p>Shvartsman et al. (27) implanted VEGF- and IGF1-
+including alginate gels to the skeletal muscle ischemic
+damage area and showed that they were able to increase
+the regeneration speed and progression of angiogenesis
+process and helped viability of myoblasts. Kim et al. (28)
+showed that VEGF associated with ADSCs can be used
+as an angiogenesis strategy in tissue engineering specially
+the complex muscle tissue.</p><p>The results of this study are consistent with those of
+other studies in this field, so that based on our study,
+VEGF induced myogenic differentiation in ADSCs
+and endothelial tube formation in the co-culture groups
+under the influence of HS/VEGF. The endothelial tube
+was observed as a regular pentagon shape initiating the
+angiogenesis process in the co-culture groups in the 2D
+culture. This information followed a scientific fact, that
+angiogenesis is the prerequisite of favorable myogenesis
+so that myogenesis seems to be increased in groups where
+VEGF was used due to improved vascular structure
+(although primitive). As an important point, angiogenesis
+and myogenesis were induced by VEGF. This was
+also mentioned in previous studies, so that increased
+angiogenesis by VEGF improves the muscle function
+in ischemic tissues (37). The findings of this study are
+similar with previous studies regarding the relationship
+between angiogenesis and more effective regeneration of
+muscle tissue (29).</p><p>In this study, endothelial cells were co-cultured with
+ADSCs with two objectives: first, to evaluate their roles in myogenesis differentiation of ADSCs and second,
+to provide conditions for angiogenesis and vascular
+organizations by HUVECs using VEGF (or paracrine
+effects of ADSCs) in the engineered structure. Co-culture
+of ADSCs and HUVECs was performed at a ratio of
+1:1. This ratio was chosen according to previous studies
+on mesenchymal cells and HUVECs (30) as well as
+myoblasts and HUVECs (31). Accordingly, the cell-to-cell
+interaction and the paracrine effect of endothelial cells on
+differentiation, morphology, and direction of ADSCs and
+vice versa was investigated. This subject was raised based
+on the idea that cell-to-cell interactions between ADSCs
+and HUVECs may improve myogenesis differentiation.
+In this regard, Lin and Lilly (32) reported that co-culture
+of endothelial cells and bone marrow-derived stem cells
+(BMSCs) can guide BMSCs toward smooth muscle cells
+due to their role in advancement of contractive phenotype,
+decrease in proliferation, and increase in synthesis and
+release of collagen fibers. Accordingly, Gholobova et
+al. (33) indicated that co-culture of endothelial cells and
+skeletal muscle precursor cells on engineered ECM can
+improve the parallel and dense arrangement of muscle
+fibers which led to expansion of the endothelial vascular
+network (in particular in a high cell density).</p><p>Similarly, Chen et al. (31) reported that myoblasts and
+HUVECs co-culture could cause a significant increase
+in the myosin heavy chain expression rate and parallel
+formation of myoblasts along with regular arrangement of
+vascular endothelial tubular cells in the porous scaffold.</p><p>Koffler et al. (34) used a triple culture system consisting of myoblasts, HUVECs, and
+fibroblasts and observed the formation of muscle tissue and vascular network, organization,
+and integrity of the host tissue 3 weeks after implantation. Other studies have shown that
+co-culture of myoblasts with endothelial cells in a sandwich-like structure improved the
+formation of vascular structures (35). Criswell et al. (18) investigated the co-culture of
+HUVECs and precursors of 10T1/2 myoblasts on an acellular bladder scaffold <italic>in
+vitro</italic> and <italic>in vivo</italic> and showed that the rate of angiogenesis,
+innervations, and myogenesis significantly increased in comparison with scaffolds cultured
+with only myoblasts.</p><p>The present study proved that although VEGF-free HUVECs were not able to significantly
+improve the expression of <italic>MyHC2</italic> gene, their simultaneous co-culture with
+the use of VEGF led to significant difference in comparison with the ADSCs monoculture. This
+finding indicates the effective role of ADSCs and HUVECs co-culture on the expression of
+differentiation genes especially when VEGF was used. It should be noted that there are
+scarce information about co-culture of ADSCs/ HUVECs in the myogenic differentiation
+process, and most studies focused on the muscle precursor cells. As another important point,
+this study investigated the role of HUVECs on myogenic differentiation and ADSCs direction
+as well as the mutual connection of these cells aiming to develop an engineered
+vascular-muscle cellular model, a process that has not been studied yet. This study intended
+to design a favorable cell model using a cellfree muscle scaffold aiming to develop a
+vascular-muscle structure and take a step toward solving the extensive challenges of muscle
+tissue.</p><p>Angiogenesis and formation of vascular network in engineered tissues has been always an
+important challenge in recent years. Therefore, this study evaluated the formation of
+vascular structures of endothelial tube formation in 2D Co-culture. We assumed that the
+interaction between ADSCs and HUVECs may result in proliferation and improvement of cell
+arrangement as well as angiogenesis by the endothelial cells, and all these processes may
+improve myogenic differentiation. It is believed that endothelial cells are induced to
+initiate the angiogenesis process, as endothelial tube formation, during regeneration of
+vascular structures <italic>in vitro</italic>.</p><p>Recent studied have reported that the co-culture of
+ADSCs/ECs can induce the formation of vascular sprouts
+and significantly increase the number of connections and
+vascular tubules. According to studies, induction of these
+vascular structures may arise from factors produced by
+ADSCs and released in the culture medium. Using ELISA
+technique, Holnthoner et al. (36) showed that an increased
+number of ADSCs in the co-culture results in an increase
+in the VEGF concentration in the culture medium. It has
+been proven that ADSCs release a large amount of VEGF
+into their culture medium (25). Numerous studies have
+reported that simultaneous induction of muscle precursor
+cells and formation of vascular tubules can be stimulated
+due to the paracrine effects of VEGF as well as IGF-1,
+HGF, bFGF, and PDGF-BB (37). Contrary to our findings,
+Kook et al. (38) did not observe any capillary network
+after Co-culture of ADSCs/HUVECs in cell plates. They
+reported a slight increase in proliferation, expression
+of adhesion proteins, and vascular branches originating
+from HUVECs in the VEGF-treated co-culture group.
+In contrast to the results of Kook et al. (38) our findings
+confirmed that ADSCs can induce the formation of
+endothelial tube formation in the VEGF-treated coculture group (in 2D culture) significantly more than other
+groups (lacking VEGF). This finding was similar to that
+of Park and Gerecht (39), probably due to direct cellular
+interaction and more importantly due to the effects of
+ADSCs paracrine secretions such as VEGF, angiopoietin
+1 and 2, and interleukin 6 which result in cell proliferation
+and endothelial tube formation in HUVECs. Finally, after
+accurately reviewing all aspects in this study, it can be
+concluded that this research confirms other studies in this
+regard: on the one hand, its provides a favorable cellular
+model in the framework of an engineered ECM muscle
+scaffold and on the other hand, it was able to take a step
+towards designing an effective engineered vascularmuscle structure.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>It can be generally concluded that muscle ECM
+engineered scaffolds can be used as a desirable strategy
+in muscle tissue engineering. Also, ADSCs / HUVECs cell interaction and dual effects of VEGF can result in the
+myogenic differentiation of ADSCs in close proximity
+to endothelial cells and vascular network. Co-culture of
+ADSCs/HUVECs can be an ideal option for achieving
+a favorable cellular model for use in the engineered
+vascular-muscular tissues. Redesigning such engineered
+structures can be used in challenging muscle injuries
+such as VML, where muscle and vascular structures
+regeneration are required.</p></sec><sec sec-type="supplementary-material"><title>Supplementary PDF</title><supplementary-material id="s1" position="float" content-type="local-data"><media xlink:href="Cell-J-24-380-s01.pdf" id="d64e395" position="anchor"/></supplementary-material></sec></body><back><ack><title>Acknowledgements</title><p>This manuscript is second part of a Ph.D. thesis,
+funded by grant no. 9625, from the Cellular and
+Molecular Research Center (CMRC-9625), of the Ahvaz
+Jundishapur University of Medical Sciences (AJUMS),
+Ahvaz, Iran. The authors sincerely thank all individuals
+who cooperated with this study. The authors declared no
+conflicts of interest. </p></ack><bio id="d64e400"><title>Authors&#x02019; Contributions</title><p>A.H.M., V.B., M.O.; Participated in study design, data
+collection and evaluation, drafting and statistical analysis.
+A.H.M., V.B., M.R.; Contributed to all experimental
+work such as muscle decellularization, cell culture,
+immunofluorescence staining, data and statistical analysis
+and interpretation of data. A.H.M., M.R.; Conducted
+molecular experiments and RT-qPCR analysis. V.B.,
+M.O.; Were responsible for overall supervision. A.H.M.;
+Drafted the manuscript, which was revised by V.B., M.O.
+All authors performed editing and approving the final
+version of this paper for submission, also participated in
+the finalization of the manuscript and approved the final
+draft.</p></bio><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heidari-Moghadam</surname><given-names>A</given-names></name>
+<name><surname>Bayati</surname><given-names>V</given-names></name>
+<name><surname>Orazizadeh</surname><given-names>M</given-names></name>
+<name><surname>Rashno</surname><given-names>M</given-names></name>
+</person-group><article-title>Role of vascular endothelial growth factor and human umbilical vein endothelial cells in designing an in vitro vascular-muscle cellular model using adipose-derived stem cells</article-title><source>Cell J</source><year>2020</year><volume>22</volume><issue>Suppl 1</issue><fpage>19</fpage><lpage>19</lpage><pub-id pub-id-type="pmid">32779430</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jia</surname><given-names>W</given-names></name>
+<name><surname>Hu</surname><given-names>H</given-names></name>
+<name><surname>Li</surname><given-names>A</given-names></name>
+<name><surname>Deng</surname><given-names>H</given-names></name>
+<name><surname>Hogue</surname><given-names>CL</given-names></name>
+<name><surname>Mauro</surname><given-names>JC</given-names></name>
+<etal/>
+</person-group><article-title>Glassactivated regeneration of volumetric muscle loss</article-title><source>Acta Biomater</source><year>2020</year><volume>103</volume><fpage>306</fpage><lpage>317</lpage><pub-id pub-id-type="pmid">31830584</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B</given-names></name>
+<name><surname>Shan</surname><given-names>T</given-names></name>
+</person-group><article-title>The role of satellite and other functional cell types in muscle repair and regeneration</article-title><source>J Muscle Res Cell Motil</source><year>2019</year><volume>40</volume><issue>1</issue><fpage>1</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">30968305</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shayan</surname><given-names>M</given-names></name>
+<name><surname>Huang</surname><given-names>NF</given-names></name>
+</person-group><article-title>Pre-Clinical Cell Therapeutic Approaches for Repair of Volumetric Muscle Loss</article-title><source>Bioengineering</source><year>2020</year><volume>7</volume><issue>3</issue><fpage>97</fpage><lpage>97</lpage></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kesireddy</surname><given-names>V</given-names></name>
+</person-group><article-title>Evaluation of adipose-derived stem cells for tissue engineered muscle repair construct-mediated repair of a murine model of volumetric muscle loss injury</article-title><source>Int J Nanomedicine</source><year>2016</year><volume>11</volume><fpage>1461</fpage><lpage>1473</lpage><pub-id pub-id-type="pmid">27114706</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>E</given-names></name>
+<name><surname>Kim</surname><given-names>HJ</given-names></name>
+<name><surname>Shaker</surname><given-names>MR</given-names></name>
+<name><surname>Ryu</surname><given-names>JR</given-names></name>
+<name><surname>Ham</surname><given-names>MS</given-names></name>
+<name><surname>Seo</surname><given-names>SH</given-names></name>
+<etal/>
+</person-group><article-title>Highperformance acellular tissue scaffold combined with hydrogel polymers for regenerative medicine</article-title><source>ACS Biomater Sci Eng</source><year>2019</year><volume>5</volume><issue>7</issue><fpage>3462</fpage><lpage>3474</lpage><pub-id pub-id-type="pmid">33405730</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gorecka</surname><given-names>A</given-names></name>
+<name><surname>Salemi</surname><given-names>S</given-names></name>
+<name><surname>Haralampieva</surname><given-names>D</given-names></name>
+<name><surname>Moalli</surname><given-names>F</given-names></name>
+<name><surname>Stroka</surname><given-names>D</given-names></name>
+<name><surname>Candinas</surname><given-names>D</given-names></name>
+<etal/>
+</person-group><article-title>Autologous transplantation of adipose-derived stem cells improves functional recovery of skeletal muscle without direct participation in new myofiber formation</article-title><source>Stem Cell Res Ther</source><year>2018</year><volume>9</volume><issue>1</issue><fpage>195</fpage><lpage>195</lpage><pub-id pub-id-type="pmid">30016973</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gillies</surname><given-names>AR</given-names></name>
+<name><surname>Smith</surname><given-names>LR</given-names></name>
+<name><surname>Lieber</surname><given-names>RL</given-names></name>
+<name><surname>Varghese</surname><given-names>S</given-names></name>
+</person-group><article-title>Method for decellularizing skeletal muscle without detergents or proteolytic enzymes</article-title><source>Tissue Eng Part C Methods</source><year>2011</year><volume>17</volume><issue>4</issue><fpage>383</fpage><lpage>389</lpage><pub-id pub-id-type="pmid">20973753</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wassenaar</surname><given-names>JW</given-names></name>
+<name><surname>Boss</surname><given-names>GR</given-names></name>
+<name><surname>Christman</surname><given-names>KL</given-names></name>
+</person-group><article-title>Decellularized skeletal muscle as an in vitro model for studying drug-extracellular matrixinteractions</article-title><source>Biomaterials</source><year>2015</year><volume>64</volume><fpage>108</fpage><lpage>114</lpage><pub-id pub-id-type="pmid">26125502</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Machingal</surname><given-names>MA</given-names></name>
+<name><surname>Corona</surname><given-names>BT</given-names></name>
+<name><surname>Walters</surname><given-names>TJ</given-names></name>
+<name><surname>Kesireddy</surname><given-names>V</given-names></name>
+<name><surname>Koval</surname><given-names>CN</given-names></name>
+<name><surname>Dannahower</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>A tissue-engineered muscle repair construct for functional restoration of an irrecoverable muscle injury in a murine model</article-title><source>Tissue Eng Part A</source><year>2011</year><volume>17</volume><issue>17-18</issue><fpage>2291</fpage><lpage>2303</lpage><pub-id pub-id-type="pmid">21548710</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>R</given-names></name>
+<name><surname>He</surname><given-names>J</given-names></name>
+<name><surname>Meng</surname><given-names>G</given-names></name>
+<name><surname>Jiang</surname><given-names>B</given-names></name>
+<name><surname>Wu</surname><given-names>F</given-names></name>
+</person-group><article-title>Electrospun PCL/Gelatin composite fibrous scaffolds: mechanical properties and cellular responses</article-title><source>J Biomater Sci Polym Ed</source><year>2016</year><volume>27</volume><issue>9</issue><fpage>824</fpage><lpage>838</lpage><pub-id pub-id-type="pmid">27044505</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>G</given-names></name>
+<name><surname>Lin</surname><given-names>H</given-names></name>
+<name><surname>Rothrauff</surname><given-names>BB</given-names></name>
+<name><surname>Yu</surname><given-names>S</given-names></name>
+<name><surname>Tuan</surname><given-names>RS</given-names></name>
+</person-group><article-title>Multilayered polycaprolactone/ gelatin fiber-hydrogel composite for tendon tissue engineering</article-title><source>Acta Biomater</source><year>2016</year><volume>35</volume><fpage>68</fpage><lpage>76</lpage><pub-id pub-id-type="pmid">26945631</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>MS</given-names></name>
+<name><surname>Jun</surname><given-names>I</given-names></name>
+<name><surname>Shin</surname><given-names>YM</given-names></name>
+<name><surname>Jang</surname><given-names>W</given-names></name>
+<name><surname>Kim</surname><given-names>SI</given-names></name>
+<name><surname>Shin</surname><given-names>H</given-names></name>
+</person-group><article-title>The development of genipin-crosslinked poly (caprolactone) (PCL)/gelatin nanofibers for tissueengineering applications</article-title><source>Macromol Biosci</source><year>2010</year><volume>10</volume><issue>1</issue><fpage>91</fpage><lpage>100</lpage><pub-id pub-id-type="pmid">19685497</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ucuzian</surname><given-names>AA</given-names></name>
+<name><surname>Bufalino</surname><given-names>DV</given-names></name>
+<name><surname>Pang</surname><given-names>Y</given-names></name>
+<name><surname>Greisler</surname><given-names>HP</given-names></name>
+</person-group><article-title>Angiogenic endothelial cell invasion into fibrin is stimulated by proliferating smooth muscle cells</article-title><source>Microvasc Res</source><year>2013</year><volume>90</volume><fpage>40</fpage><lpage>47</lpage><pub-id pub-id-type="pmid">23886898</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Germani</surname><given-names>A</given-names></name>
+<name><surname>Di Carlo</surname><given-names>A</given-names></name>
+<name><surname>Mangoni</surname><given-names>A</given-names></name>
+<name><surname>Straino</surname><given-names>S</given-names></name>
+<name><surname>Giacinti</surname><given-names>C</given-names></name>
+<name><surname>Turrini</surname><given-names>P</given-names></name>
+<etal/>
+</person-group><article-title>Vascular endothelial growth factor modulates skeletal myoblast function</article-title><source>Am J Pathol</source><year>2003</year><volume>163</volume><issue>4</issue><fpage>1417</fpage><lpage>1428</lpage><pub-id pub-id-type="pmid">14507649</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>W</given-names></name>
+<name><surname>Liu</surname><given-names>Z</given-names></name>
+<name><surname>Feng</surname><given-names>B</given-names></name>
+<name><surname>Hu</surname><given-names>R</given-names></name>
+<name><surname>He</surname><given-names>X</given-names></name>
+<name><surname>Wang</surname><given-names>H</given-names></name>
+<etal/>
+</person-group><article-title>Electrospun gelatin/ PCL and collagen/PLCL scaffolds for vascular tissue engineering</article-title><source>International journal of nanomedicine</source><year>2014</year><volume>9</volume><fpage>2335</fpage><lpage>2344</lpage><pub-id pub-id-type="pmid">24872696</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Johnson</surname><given-names>JA</given-names></name>
+<name><surname>Chang</surname><given-names>DW</given-names></name>
+<name><surname>Zhang</surname><given-names>Q</given-names></name>
+</person-group><article-title>Decellularized musculofascial extracellular matrix for tissue engineering</article-title><source>Biomaterials</source><year>2013</year><volume>34</volume><issue>11</issue><fpage>2641</fpage><lpage>2654</lpage><pub-id pub-id-type="pmid">23347834</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Criswell</surname><given-names>TL</given-names></name>
+<name><surname>Corona</surname><given-names>BT</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Niu</surname><given-names>G</given-names></name>
+<name><surname>Xu</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group><article-title>The role of endothelial cells in myofiber differentiation and the vascularization and innervation of bioengineered muscle tissue in vivo</article-title><source>Biomaterials</source><year>2013</year><volume>34</volume><issue>1</issue><fpage>140</fpage><lpage>149</lpage><pub-id pub-id-type="pmid">23059002</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Crapo</surname><given-names>PM</given-names></name>
+<name><surname>Gilbert</surname><given-names>TW</given-names></name>
+<name><surname>Badylak</surname><given-names>SF</given-names></name>
+</person-group><article-title>An overview of tissue and whole organ decellularization processes</article-title><source>Biomaterials</source><year>2011</year><volume>32</volume><issue>12</issue><fpage>3233</fpage><lpage>3243</lpage><pub-id pub-id-type="pmid">21296410</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>MT</given-names></name>
+<name><surname>Willett</surname><given-names>NJ</given-names></name>
+<name><surname>Uhrig</surname><given-names>BA</given-names></name>
+<name><surname>Guldberg</surname><given-names>RE</given-names></name>
+<name><surname>Warren</surname><given-names>GL</given-names></name>
+</person-group><article-title>Functional analysis of limb recovery following autograft treatment of volumetric muscle loss in the quadriceps femoris</article-title><source>J Biomech</source><year>2014</year><volume>47</volume><issue>9</issue><fpage>2013</fpage><lpage>2021</lpage><pub-id pub-id-type="pmid">24280565</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Merritt</surname><given-names>EK</given-names></name>
+<name><surname>Cannon</surname><given-names>MV</given-names></name>
+<name><surname>Hammers</surname><given-names>DW</given-names></name>
+<name><surname>Le</surname><given-names>LN</given-names></name>
+<name><surname>Gokhale</surname><given-names>R</given-names></name>
+<name><surname>Sarathy</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Repair of traumatic skeletal muscle injury with bone-marrow- derived mesenchymal stem cellsseeded on extracellular matrix</article-title><source>Tissue Eng Part A</source><year>2010</year><volume>16</volume><issue>9</issue><fpage>2871</fpage><lpage>2881</lpage><pub-id pub-id-type="pmid">20412030</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Badylak</surname><given-names>SF</given-names></name>
+<name><surname>Dziki</surname><given-names>JL</given-names></name>
+<name><surname>Sicari</surname><given-names>BM</given-names></name>
+<name><surname>Ambrosio</surname><given-names>F</given-names></name>
+<name><surname>Boninger</surname><given-names>ML</given-names></name>
+</person-group><article-title>Mechanisms by which acellular biologic scaffolds promote functional skeletal muscle restoration</article-title><source>Biomaterials</source><year>2016</year><volume>103</volume><fpage>128</fpage><lpage>136</lpage><pub-id pub-id-type="pmid">27376561</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S</given-names></name>
+<name><surname>Nakamoto</surname><given-names>T</given-names></name>
+<name><surname>Kawazoe</surname><given-names>N</given-names></name>
+<name><surname>Chen</surname><given-names>G</given-names></name>
+</person-group><article-title>Engineering multilayered skeletal muscle tissue by using 3D microgrooved collagen scaffolds</article-title><source>Biomaterials</source><year>2015</year><volume>73</volume><fpage>23</fpage><lpage>31</lpage><pub-id pub-id-type="pmid">26398306</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ferrara</surname><given-names>N</given-names></name>
+<name><surname>Gerber</surname><given-names>HP</given-names></name>
+<name><surname>LeCouter</surname><given-names>J</given-names></name>
+</person-group><article-title>The biology of VEGF and its receptors</article-title><source>Nat Med</source><year>2003</year><volume>9</volume><issue>6</issue><fpage>669</fpage><lpage>676</lpage><pub-id pub-id-type="pmid">12778165</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y</given-names></name>
+<name><surname>Amende</surname><given-names>I</given-names></name>
+<name><surname>Hampton</surname><given-names>TG</given-names></name>
+<name><surname>Yang</surname><given-names>Y</given-names></name>
+<name><surname>Ke</surname><given-names>Q</given-names></name>
+<name><surname>Min</surname><given-names>JY</given-names></name>
+<etal/>
+</person-group><article-title>Vascular endothelial growth factor promotes cardiomyocyte differentiation of embryonic stem cells</article-title><source>Am J Physiol Heart Circ Physiol</source><year>2006</year><volume>291</volume><issue>4</issue><fpage>H1653</fpage><lpage>H1658</lpage><pub-id pub-id-type="pmid">16699073</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>YH</given-names></name>
+<name><surname>Gehmert</surname><given-names>S</given-names></name>
+<name><surname>Sadat</surname><given-names>S</given-names></name>
+<name><surname>Pinkernell</surname><given-names>K</given-names></name>
+<name><surname>Bai</surname><given-names>X</given-names></name>
+<name><surname>Matthias</surname><given-names>N</given-names></name>
+<etal/>
+</person-group><article-title>VEGF is critical for spontaneous differentiation of stem cells into cardiomyocytes</article-title><source>Biochem Biophys Res Commun</source><year>2007</year><volume>354</volume><issue>4</issue><fpage>999</fpage><lpage>1003</lpage><pub-id pub-id-type="pmid">17276389</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shvartsman</surname><given-names>D</given-names></name>
+<name><surname>Storrie-White</surname><given-names>H</given-names></name>
+<name><surname>Lee</surname><given-names>K</given-names></name>
+<name><surname>Kearney</surname><given-names>C</given-names></name>
+<name><surname>Brudno</surname><given-names>Y</given-names></name>
+<name><surname>Ho</surname><given-names>N</given-names></name>
+<etal/>
+</person-group><article-title>Sustained delivery of VEGF maintains innervation and promotes reperfusion in ischemic skeletal muscles via NGF/GDNF signaling</article-title><source>Mol Ther</source><year>2014</year><volume>22</volume><issue>7</issue><fpage>1243</fpage><lpage>1253</lpage><pub-id pub-id-type="pmid">24769910</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>MH</given-names></name>
+<name><surname>Hong</surname><given-names>HN</given-names></name>
+<name><surname>Hong</surname><given-names>JP</given-names></name>
+<name><surname>Park</surname><given-names>CJ</given-names></name>
+<name><surname>Kwon</surname><given-names>SW</given-names></name>
+<name><surname>Kim</surname><given-names>SH</given-names></name>
+<etal/>
+</person-group><article-title>The effect of VEGF on the myogenic differentiation of adipose tissue derived stem cells within thermosensitive hydrogel matrices</article-title><source>Biomaterials</source><year>2010</year><volume>31</volume><issue>6</issue><fpage>1213</fpage><lpage>1218</lpage><pub-id pub-id-type="pmid">19914711</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ochoa</surname><given-names>O</given-names></name>
+<name><surname>Sun</surname><given-names>D</given-names></name>
+<name><surname>Reyes-Reyna</surname><given-names>SM</given-names></name>
+<name><surname>Waite</surname><given-names>LL</given-names></name>
+<name><surname>Michalek</surname><given-names>JE</given-names></name>
+<name><surname>Mc- Manus</surname><given-names>LM</given-names></name>
+<etal/>
+</person-group><article-title>Delayed angiogenesis and VEGF production in CCR2-/- mice during impaired skeletal muscleregeneration</article-title><source>Am J Physiol Regul Integr Comp Physiol</source><year>2007</year><volume>293</volume><issue>2</issue><fpage>R651</fpage><lpage>R661</lpage><pub-id pub-id-type="pmid">17522124</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Carter</surname><given-names>RN</given-names></name>
+<name><surname>Casillo</surname><given-names>SM</given-names></name>
+<name><surname>Mazzocchi</surname><given-names>AR</given-names></name>
+<name><surname>DesOrmeaux</surname><given-names>JS</given-names></name>
+<name><surname>Roussie</surname><given-names>JA</given-names></name>
+<name><surname>Gaborski</surname><given-names>TR</given-names></name>
+</person-group><article-title>Ultrathin transparent membranes for cellular barrier and Co-culture models</article-title><source>Biofabrication</source><year>2017</year><volume>9</volume><issue>1</issue><fpage>015019</fpage><lpage>015019</lpage><pub-id pub-id-type="pmid">28140345</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S</given-names></name>
+<name><surname>Kawazoe</surname><given-names>N</given-names></name>
+<name><surname>Chen</surname><given-names>G</given-names></name>
+</person-group><article-title>Biomimetic assembly of HUVECs and muscle cells in microgrooved collagen porous scaffolds</article-title><source>Tissue Eng Part C Methods</source><year>2017</year><volume>23</volume><issue>6</issue><fpage>367</fpage><lpage>376</lpage><pub-id pub-id-type="pmid">28471270</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>CH</given-names></name>
+<name><surname>Lilly</surname><given-names>B</given-names></name>
+</person-group><article-title>Endothelial cells direct mesenchymal stem cells toward a smooth muscle cell fate</article-title><source>Stem Cells Dev</source><year>2014</year><volume>23</volume><issue>21</issue><fpage>2581</fpage><lpage>2590</lpage><pub-id pub-id-type="pmid">24914692</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gholobova</surname><given-names>D</given-names></name>
+<name><surname>Decroix</surname><given-names>L</given-names></name>
+<name><surname>Van Muylder</surname><given-names>V</given-names></name>
+<name><surname>Desender</surname><given-names>L</given-names></name>
+<name><surname>Gerard</surname><given-names>M</given-names></name>
+<name><surname>Carpentier</surname><given-names>G</given-names></name>
+<etal/>
+</person-group><article-title>Endothelial network formation within human tissue-engineered skeletal muscle</article-title><source>Tissue Eng Part A</source><year>2015</year><volume>21</volume><issue>19-20</issue><fpage>2548</fpage><lpage>2558</lpage><pub-id pub-id-type="pmid">26177063</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Koffler</surname><given-names>J</given-names></name>
+<name><surname>Kaufman-Francis</surname><given-names>K</given-names></name>
+<name><surname>Shandalov</surname><given-names>Y</given-names></name>
+<name><surname>Egozi</surname><given-names>D</given-names></name>
+<name><surname>Pavlov</surname><given-names>DA</given-names></name>
+<name><surname>Landesberg</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Improved vascular organization enhances functional integration of engineered skeletal muscle grafts</article-title><source>Proc Natl Acad Sci USA</source><year>2011</year><volume>108</volume><issue>36</issue><fpage>14789</fpage><lpage>24794</lpage><pub-id pub-id-type="pmid">21878567</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sasagawa</surname><given-names>T</given-names></name>
+<name><surname>Shimizu</surname><given-names>T</given-names></name>
+<name><surname>Sekiya</surname><given-names>S</given-names></name>
+<name><surname>Haraguchi</surname><given-names>Y</given-names></name>
+<name><surname>Yamato</surname><given-names>M</given-names></name>
+<name><surname>Sawa</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group><article-title>Design of prevascularized three-dimensional cell-dense tissues using a cell sheet stacking manipulation technology</article-title><source>Biomaterials</source><year>2010</year><volume>31</volume><issue>7</issue><fpage>1646</fpage><lpage>1654</lpage><pub-id pub-id-type="pmid">19962187</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Holnthoner</surname><given-names>W</given-names></name>
+<name><surname>Hohenegger</surname><given-names>K</given-names></name>
+<name><surname>Husa</surname><given-names>AM</given-names></name>
+<name><surname>Muehleder</surname><given-names>S</given-names></name>
+<name><surname>Meinl</surname><given-names>A</given-names></name>
+<name><surname>Peterbauer-Scherb</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Adipose-derived stem cells induce vascular tube formation of outgrowth endothelial cells in a fibrin matrix</article-title><source>J Tissue Eng Regen Med</source><year>2015</year><volume>9</volume><issue>2</issue><fpage>127</fpage><lpage>136</lpage><pub-id pub-id-type="pmid">23038666</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Walgenbach</surname><given-names>KJ</given-names></name>
+<name><surname>Gratas</surname><given-names>C</given-names></name>
+<name><surname>Shestak</surname><given-names>KC</given-names></name>
+<name><surname>Becker</surname><given-names>D</given-names></name>
+</person-group><article-title>Ischemia-induced expression of bFGF in normal skeletal muscle: a potential paracrine mechanism for mediating angiogenesis in ischemic skeletal muscle</article-title><source>Nat Med</source><year>1995</year><volume>1</volume><fpage>453</fpage><lpage>459</lpage><pub-id pub-id-type="pmid">7585094</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kook</surname><given-names>YM</given-names></name>
+<name><surname>Kim</surname><given-names>H</given-names></name>
+<name><surname>Kim</surname><given-names>S</given-names></name>
+<name><surname>Heo</surname><given-names>CY</given-names></name>
+<name><surname>Park</surname><given-names>MH</given-names></name>
+<name><surname>Lee</surname><given-names>K</given-names></name>
+<etal/>
+</person-group><article-title>Promotion of vascular morphogenesis of endothelial cells Co-cultured with human adipose-derived mesenchymal stem cells using polycaprolactone/ gelatin nanofibrous scaffolds</article-title><source>Nanomaterials</source><year>2018</year><volume>8</volume><issue>2</issue><fpage>117</fpage><lpage>117</lpage></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>KM</given-names></name>
+<name><surname>Gerecht</surname><given-names>S</given-names></name>
+</person-group><article-title>Harnessing developmental processes for vascular engineering and regeneration</article-title><source>Development</source><year>2014</year><volume>141</volume><issue>14</issue><fpage>2760</fpage><lpage>2769</lpage><pub-id pub-id-type="pmid">25005471</pub-id></element-citation></ref></ref-list></back></article>

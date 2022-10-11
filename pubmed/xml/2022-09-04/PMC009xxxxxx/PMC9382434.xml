@@ -1,0 +1,224 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Am J Case Rep</journal-id><journal-id journal-id-type="iso-abbrev">Am J Case Rep</journal-id><journal-id journal-id-type="publisher-id">amjcaserep</journal-id><journal-title-group><journal-title>The American Journal of Case Reports</journal-title></journal-title-group><issn pub-type="epub">1941-5923</issn><publisher><publisher-name>International Scientific Literature, Inc.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35962525</article-id><article-id pub-id-type="pmc">PMC9382434</article-id><article-id pub-id-type="doi">10.12659/AJCR.934468</article-id><article-id pub-id-type="publisher-id">934468</article-id><article-categories><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Interleukin-6 Is a Promising Marker of COVID-19 in Children: A Case Series of 2 Brothers with Severe COVID-19 Pneumonia</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Maggio</surname><given-names>Maria Cristina</given-names></name><xref rid="fn1-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>A</sup>
+</xref><xref rid="fn2-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>B</sup>
+</xref><xref rid="fn3-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>C</sup>
+</xref><xref rid="fn4-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>D</sup>
+</xref><xref rid="fn5-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>E</sup>
+</xref><xref rid="fn6-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>F</sup>
+</xref><xref rid="af1-amjcaserep-23-e934468" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="c1-amjcaserep-23-e934468" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Failla</surname><given-names>Maria Concetta</given-names></name><xref rid="fn1-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>A</sup>
+</xref><xref rid="fn2-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>B</sup>
+</xref><xref rid="fn3-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>C</sup>
+</xref><xref rid="fn4-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>D</sup>
+</xref><xref rid="fn5-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>E</sup>
+</xref><xref rid="af2-amjcaserep-23-e934468" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Giordano</surname><given-names>Salvatore</given-names></name><xref rid="fn1-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>A</sup>
+</xref><xref rid="fn2-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>B</sup>
+</xref><xref rid="fn3-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>C</sup>
+</xref><xref rid="fn4-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>D</sup>
+</xref><xref rid="af2-amjcaserep-23-e934468" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>La Manna</surname><given-names>Marco Pio</given-names></name><xref rid="fn2-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>B</sup>
+</xref><xref rid="fn3-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>C</sup>
+</xref><xref rid="af3-amjcaserep-23-e934468" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Sireci</surname><given-names>Guido</given-names></name><xref rid="fn1-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>A</sup>
+</xref><xref rid="fn2-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>B</sup>
+</xref><xref rid="fn3-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>C</sup>
+</xref><xref rid="fn4-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>D</sup>
+</xref><xref rid="fn5-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>E</sup>
+</xref><xref rid="fn6-amjcaserep-23-e934468" ref-type="author-notes">
+<sup>F</sup>
+</xref><xref rid="af3-amjcaserep-23-e934468" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="af1-amjcaserep-23-e934468">
+<label>1</label>ProMISE Department (Promotion of Health, Maternal-Childhood, Internal and Specialized Medicine of Excellence), &#x0201c;G. D&#x02019;Alessandro&#x0201d;, University of Palermo, Palermo, Italy</aff><aff id="af2-amjcaserep-23-e934468">
+<label>2</label>Departments of Pediatric Infectious Diseases and Pediatric COVID Center, Children Hospital &#x0201c;G. Di Cristina&#x0201d;, Palermo, Italy</aff><aff id="af3-amjcaserep-23-e934468">
+<label>3</label>Central Laboratory of Advanced Diagnosis and Biomedical Research (CLADIBIOR), University of Palermo, Palermo, Italy</aff><author-notes><corresp id="c1-amjcaserep-23-e934468">Corresponding Author: Maria Cristina Maggio, e-mail: <email>mariacristina.maggio3@gmail.com</email></corresp><fn><p>Authors&#x02019; Contribution:</p></fn><fn id="fn1-amjcaserep-23-e934468"><label>A</label><p>Study Design</p></fn><fn id="fn2-amjcaserep-23-e934468"><label>B</label><p>Data Collection</p></fn><fn id="fn3-amjcaserep-23-e934468"><label>C</label><p>Statistical Analysis</p></fn><fn id="fn4-amjcaserep-23-e934468"><label>D</label><p>Data Interpretation</p></fn><fn id="fn5-amjcaserep-23-e934468"><label>E</label><p>Manuscript Preparation</p></fn><fn id="fn6-amjcaserep-23-e934468"><label>F</label><p>Literature Search</p></fn><fn id="fn7-amjcaserep-23-e934468"><label>G</label><p>Funds Collection</p></fn><fn><p><bold>Financial support:</bold> None declared</p></fn><fn fn-type="COI-statement"><p><bold>Conflict of interest:</bold> None declared</p></fn></author-notes><pub-date pub-type="collection"><year>2022</year></pub-date><pub-date pub-type="epub"><day>13</day><month>8</month><year>2022</year></pub-date><volume>23</volume><fpage>e934468-1</fpage><lpage>e934468-5</lpage><history><date date-type="received"><day>19</day><month>8</month><year>2021</year></date><date date-type="accepted"><day>05</day><month>4</month><year>2022</year></date><date date-type="rev-recd"><day>04</day><month>7</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; Am J Case Rep, 2022</copyright-statement><copyright-year>2022</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This work is licensed under Creative Common Attribution-NonCommercial-NoDerivatives 4.0 International (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</ext-link>)</license-p></license></permissions><abstract><p>
+Case series
+</p><p>
+Patient: Male, 1.5-year-old &#x02022; Male, 3-month-old
+</p><p>
+Final Diagnosis: COVID-19
+</p><p>
+Symptoms: Cough &#x02022; desaturation &#x02022; fever &#x02022; mucous rhinorrhea
+</p><p>
+Medication: &#x02014;
+</p><p>
+Clinical Procedure: &#x02014;
+</p><p>
+Specialty: Immunology &#x02022; Infectious Diseases
+</p><sec><title>Objective:</title><p>
+<bold>Unusual clinical course</bold>
+</p></sec><sec><title>Background:</title><p>To date, Coronavirus disease 2019 (COVID-19) remains a global health concern, with fatalities mostly in older age groups with underlying medical conditions, while children are less likely to manifest severe symptoms.</p></sec><sec><title>Case Reports:</title><p>We describe the clinical cases of 2 brothers admitted to our Children&#x02019;s Hospital for persistent fever and cough during the COVID-19 pandemic.</p><p>Case 1. A 1.5-year-old boy had fever, expiratory dyspnea, desaturation, oxygen saturation 94&#x02013;96% with O2, and bilateral hissing and crackling rales. His interleukin-6 level in the acute phase of the disease was 100.41 and at the resolution it was 46.2 pg/ml. Treatment with amoxicillin plus clavulanic acid, methylprednisolone, and O2 allowed progressive improvement of clinical conditions and laboratory data.</p><p>Case 2. A 3-month-old toddler was admitted to our hospital for fever, cough, and tachypnea, which started 2 days before hospitalization. He had fever, cough, conjunctivitis, mucous rhinorrhea, and 99% oxygen saturation on room air. Thorax auscultation showed whistles and buzzes. He had a positive molecular test result from a COVID-19 swab. Interleukin-6 levels during all the phases of the disease were &#x0003c;6.25 pg/ml. The chest X-ray was normal. Treatment with azithromycin and methylprednisolone was followed by progressive improvement of clinical conditions.</p></sec><sec><title>Conclusions:</title><p>These cases support the strong correlation between interleukin-6 levels and severe clinical manifestations such as COVID-19 pneumonia, and this marker predicts a more severe clinical outcome in children. Testing serum levels of interleukin-6 in children with COVID-19 could be useful to better understand the outcome of lung damage.</p></sec></abstract><kwd-group><title>Keywords:</title><kwd>Bronchopneumonia</kwd><kwd>COVID-19</kwd><kwd>Cytokine Release Syndrome</kwd><kwd>DAB(389)-Interleukin 6</kwd><kwd>Neutrophil Activation</kwd></kwd-group></article-meta></front><body><sec><title>Background</title><p>In December 2019, a cluster of patients affected by severe pneumonia triggered by a novel Coronavirus (SARS-CoV-2) emerged in the city of Wuhan, China. The disease is now called Coronavirus disease 2019 (COVID-19) [<xref rid="b1-amjcaserep-23-e934468" ref-type="bibr">1</xref>]. To date, it remains a global health concern, with fatalities mostly in older age groups with underlying medical conditions and with considerable differences between males and females. Children are just as likely as adults to become infected but are less likely to manifest severe symptoms, and prediction of outcome can be only partially linked to inflammatory acute-phase reactants such as C-reactive protein (CRP), D-dimer, procalcitonin, and fibrinogen values [<xref rid="b2-amjcaserep-23-e934468" ref-type="bibr">2</xref>]. Furthermore, the true pathogenesis remains unclear. There is growing interest in the possible relationship between the pathogenic role of cytokines or chemokines and the disease severity, looking forward to the precocious identification of biomarkers, useful to predict patient outcome.</p><p>Significantly higher levels of IL-10, interleukin-6 (IL-6), IL-1&#x003b1;, and IL-27 were detected in adult patients with COVID-19 as compared with healthy subjects [<xref rid="b3-amjcaserep-23-e934468" ref-type="bibr">3</xref>&#x02013;<xref rid="b5-amjcaserep-23-e934468" ref-type="bibr">5</xref>]. IL-6 appears to be a relatively good predictor of disease severity in adults, but the real prognostic impact of this cytokine is poorly studied in children. However, IL-6 is a promising and sensible biomarker of disease severity in children.</p><p>We describe the clinical cases of 2 brothers admitted in the Children&#x02019;s Hospital of the University of Palermo for persistent fever and cough during the COVID-19 pandemic.</p></sec><sec sec-type="cases"><title>Case Reports</title><p>We describe the clinical presentation, findings, diagnosis, and treatment of 2 children admitted to our hospital with clinical presentation of COVID-19 pneumonia, who showed different clinical outcomes that were correlated with IL-6 levels.</p><sec><title>Case 1</title><p>A 1.5-year-old boy had cough and tachypnoea 24 h before hospitalization. At admission, he had fever, expiratory wheeze, desaturation, breath rate 60/min, heart rate 180/min, oxygen saturation 94&#x02013;96% with O2 (2 liters/min), pharyngitis, acute tonsillitis, and bilateral hissing and crackling rales.</p><p>Laboratory data showed leucocytosis with neutrophilia, and a weak increase of CRP (<bold><xref rid="t1-amjcaserep-23-e934468" ref-type="table">Table 1</xref></bold>). The nasopharyngeal swab for SARS-CoV-2, diagnosed by a reverse transcription-polymerase chain reaction &#x02013; RT-PCR diagnostic on 2 molecular targets (E, N2) (Xpert Xpress SARS-CoV-2, Cepheid, Maurens-Scopont, France), was positive in 2 different swabs and confirmed SARS-CoV-2 infection. The swab for other respiratory viruses was negative. The sputum culture was negative.</p><p>The chest X-ray showed lung thickening in the left superior lung field and significant lung texture reinforcement, with hyperinsufflation (<bold><xref rid="f1-amjcaserep-23-e934468" ref-type="fig">Figure 1</xref></bold>). IL-6 levels were 100.41 in the acute phase of the disease and 46.2 pg/ml at resolution. Treatment with amoxicillin plus clavulanic acid (10 days), methylprednisone (11 days), and O2 allowed defervescence in 4 days and the progressive improvement of clinical conditions and laboratory data. He was discharged 18 days later.</p></sec><sec><title>Case 2</title><p>A 3-month-old toddler was admitted to our hospital with fever, cough, and tachypnoea that started 2 days before hospitalization. His older brother (case 1) was already hospitalized. He had fever, cough, conjunctivitis, mucous rhinorrhea, oxygen saturation 99%, breath rate 35/min, heart rate 140/min, and capillary saturation 99% on room air. Thorax auscultation showed wheeze and crackling gasps. The nasopharyngeal swab for SARS-CoV-2, diagnosed by a reverse transcription-polymerase chain reaction - RT-PCR diagnostic on 2 molecular targets (E, N2) (Xpert Xpress SARS-CoV-2, Cepheid, Maurens-Scopont, France), was positive in 2 different swabs and confirmed SARS-CoV-2 infection. The nasopharyngeal swab for other respiratory viruses was negative. The sputum culture did not show bacterial pathogens as causal agents of pneumonia.</p><p>The laboratory data showed only a weak increase of CRP at admission and increased platelet counts at discharge (<bold><xref rid="t1-amjcaserep-23-e934468" ref-type="table">Table 1</xref></bold>). IL-6 levels during all phases of the disease were &#x0003c;6.25 pg/ml. The chest X-ray was normal (<bold><xref rid="f2-amjcaserep-23-e934468" ref-type="fig">Figure 2</xref></bold>). Treatment with azithromycin (5 days) and methylprednisone (9 days) was started, and progressive improvement of clinical conditions occurred in the first hours of hospitalization. He was discharged 13 days later, with a negative swab for COVID-19.</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Severe COVID-19 infection is characterized by a massive pro-inflammatory response with cytokine storm that induces acute respiratory distress syndrome and multiorgan dysfunction.</p><p>Increased IL-6 levels are reported in other viral respiratory tract infections in children, and increased IL-6 levels are associated with increased mortality in children younger than 5 years of age with severe pneumonia [<xref rid="b6-amjcaserep-23-e934468" ref-type="bibr">6</xref>].</p><p>Cytokines regulate the immune-mediated response in COVID-19 disease, comparable to other inflammatory and infectious diseases. Pediatricians learned of the pathogenetic role of cytokines and vascular involvement by studies of children and adults with COVID-19 and by studies of Kawasaki disease and multisystem inflammatory syndrome in children (MIS-C).</p><p>Cytokine storm syndrome and MIS-C are effects of the uncontrolled inflammatory response, the anti-inflammatory balance deficiency, and the defective immune response to the viral infection [<xref rid="b3-amjcaserep-23-e934468" ref-type="bibr">3</xref>]. IL-6 is a pro-inflammatory cytokine with a central role in COVID-19, and high levels of IL-6 are corelated with worse disease progression and higher complication rate. Children generally show a mild inflammatory response. More COVID-19 pediatric cases tend to have normal IL-6, making it different compared to adults [<xref rid="b4-amjcaserep-23-e934468" ref-type="bibr">4</xref>]. Hence, COVID-19 is rarely characterized by a severe outcome in children [<xref rid="b2-amjcaserep-23-e934468" ref-type="bibr">2</xref>,<xref rid="b5-amjcaserep-23-e934468" ref-type="bibr">5</xref>,<xref rid="b7-amjcaserep-23-e934468" ref-type="bibr">7</xref>].</p><p>Furthermore, IL-6 is a strong pro-inflammatory cytokine, which increases the secretion of other inflammatory mediators and activates cells implicated in inflammation and tissue remodeling, resulting in lung parenchyma injury and long-term sequelae [<xref rid="b8-amjcaserep-23-e934468" ref-type="bibr">8</xref>].</p><p>IL-6 has been correlated with a more severe course of the disease, a higher incidence of ICU admission, and higher mortality and complication rates in COVID-19 patients. Recent studies demonstrated the association between cytokine storm syndrome and more severe disease and a higher incidence of complications [<xref rid="b6-amjcaserep-23-e934468" ref-type="bibr">6</xref>,<xref rid="b8-amjcaserep-23-e934468" ref-type="bibr">8</xref>].</p><p>Case 1 showed moderately increased CRP during hospitalization, but high levels of IL6, despite more severe pneumonia requiring oxygen treatment for a longer time. Case 2 showed a mild increase of CRP levels at admission and low levels of IL-6, despite a normal chest X-ray and showed only mild upper-respiratory symptoms. Furthermore, CRP decreased to the normal value in a few days. These cases support the strong correlation between high IL-6 levels and severe clinical manifestations such as COVID-19 pneumonia [<xref rid="b9-amjcaserep-23-e934468" ref-type="bibr">9</xref>].</p><p>CRP and inflammatory acute-phase reactants such as D-dimer, procalcitonin, and fibrinogen values were normal in both children, and one of them had severe disease. These findings are similar to those of other studies reporting normal or mildly increased CRP levels in patients with severe COVID-19 disease [<xref rid="b8-amjcaserep-23-e934468" ref-type="bibr">8</xref>].</p><p>IL-6 has good sensitivity in predicting a more severe clinical outcome, as well as in children, as widely documented in MIS-C [<xref rid="b3-amjcaserep-23-e934468" ref-type="bibr">3</xref>]. In fact, case 1 showed a more severe respiratory involvement than case 2. Furthermore, case 1 showed persistently high IL-6 levels despite steroids treatment. The neutrophil-to-lymphocyte ratio (NLR) was higher in case 1 than in case 2 (<bold><xref rid="t1-amjcaserep-23-e934468" ref-type="table">Table 1</xref></bold>) [<xref rid="b9-amjcaserep-23-e934468" ref-type="bibr">9</xref>]. An increase of neutrophils was associated with IL-6 levels, while leucocytosis and other parameters were associated with the severity of COVID-19 [<xref rid="b10-amjcaserep-23-e934468" ref-type="bibr">10</xref>]. IL-6 could be a marker of SARS-CoV-2 infection in children, when</p><p>CRP and other markers are normal or weakly increased, despite the respiratory involvement, as documented in our cases.</p><p>Zhu et al studied the relationship between COVID-19 outcome and inflammatory parameters, showing the correlation between IL-6 levels and CRP, NLR, IL-10, and IFN-&#x003b3; levels. The authors suggested that IL-6 levels are an independent risk factor of severe disease course, and changes in IL-6 levels depending on stage of disease can be used as a marker for disease monitoring [<xref rid="b11-amjcaserep-23-e934468" ref-type="bibr">11</xref>].</p><p>Additionally, IL-6 and CRP could be used as independent markers to predict the severity of COVID-19 [<xref rid="b12-amjcaserep-23-e934468" ref-type="bibr">12</xref>,<xref rid="b13-amjcaserep-23-e934468" ref-type="bibr">13</xref>].</p><p>The role of IL-6 and other cytokines in what could be a distinct neutrophil-like lung inflammation, with associated inflammatory driven pulmonary vascular disease, awaits clarification; in fact, we do not know the real role of neutrophils in lung damage. Further studies are needed to detect the neutrophils presence and involvement in lung damage through inflammatory pathways [<xref rid="b13-amjcaserep-23-e934468" ref-type="bibr">13</xref>].</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>COVID-19 is a disease characterized by hyperinflammation; however, the real role of cytokines as markers of the disease severity is still under investigation. The role of cytokines and the response of hematological parameters in acute SARS-CoV-2 infection are similar to those of Kawasaki disease, typically associated with neutrophilia, secondary to cytokines increase and are considered to be an index of high-risk disease [<xref rid="b14-amjcaserep-23-e934468" ref-type="bibr">14</xref>]. Furthermore, children with diseases characterized by a high secretion of inflammatory cytokines, as IL-6, can show a severe pneumonia as a clinical manifestation of a complicated and critical outcome [<xref rid="b15-amjcaserep-23-e934468" ref-type="bibr">15</xref>,<xref rid="b16-amjcaserep-23-e934468" ref-type="bibr">16</xref>], and this is also observed in children with SARS-CoV-2 infection and a severe clinical evolution of the disease. A multicenter study in pediatric intensive care units in Spain showed an increase of neutrophils and N/L ratio in children with more severe outcome, as a response to the high levels of cytokines [<xref rid="b16-amjcaserep-23-e934468" ref-type="bibr">16</xref>]. Epidemiological studies showed that respiratory problems are less frequent in children than in adults [<xref rid="b17-amjcaserep-23-e934468" ref-type="bibr">17</xref>]. However, children with a severe outcome of SARS-CoV-2 infection show pneumonia, and can be considered as a continuum of clinical severity, between children with mild COVID-19 and children with MIS-C. Nevertheless, children with severe COVID-19 have increased cytokines secretion in the acute phase of the disease, while MIS-C patients and Kawasaki disease patients have a cytokines storm as a late response to the infection.</p><p>Further case reports and studies are needed to evaluate the laboratory parameters and their potential prognostic value in severe pediatric cases of COVID-19.</p><p>Testing serum IL-6 and neutrophil counts in children with COVID-19 could help better understand the role of IL-6 in lung damage, and the high proportion of neutrophils could be assessed in lungs for a deeper analysis of lung damage in children with COVID-19.</p></sec></body><back><ack><p>The authors acknowledge Professor Francesco Dieli, Director of CLADIBIOR, University of Palermo, Italy, for helpful criticism.</p></ack><fn-group><fn><p>
+<bold>Declaration of Figures&#x02019; Authenticity</bold>
+</p><p>All figures submitted have been created by the authors who confirm that the images are original with no duplication and have not been previously published in whole or in part.</p></fn></fn-group><ref-list><title>References:</title><ref id="b1-amjcaserep-23-e934468"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lu</surname><given-names>X</given-names></name><name><surname>Xiang</surname><given-names>Y</given-names></name><name><surname>Du</surname><given-names>H</given-names></name><name><surname>Wing-Kin Wong</surname><given-names>G</given-names></name></person-group>
+<article-title>SARS-CoV-2 infection in children &#x02013; Understanding the immune responses and controlling the pandemic</article-title>
+<source>Pediatr Allergy Immunol</source>
+<year>2020</year>
+<volume>31</volume>
+<issue>5</issue>
+<fpage>449</fpage>
+<lpage>53</lpage>
+<pub-id pub-id-type="pmid">32330332</pub-id></element-citation></ref><ref id="b2-amjcaserep-23-e934468"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zimmermann</surname><given-names>P</given-names></name><name><surname>Curtis</surname><given-names>N</given-names></name></person-group>
+<article-title>Coronavirus infections in children including COVID-19: An overview of the epidemiology, clinical features, diagnosis, treatment and prevention options in children</article-title>
+<source>Pediatr Infect Dis J</source>
+<year>2020</year>
+<volume>39</volume>
+<fpage>355</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="pmid">32310621</pub-id></element-citation></ref><ref id="b3-amjcaserep-23-e934468"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giordano</surname><given-names>S</given-names></name><name><surname>Failla</surname><given-names>MC</given-names></name><name><surname>Li Cavoli</surname><given-names>MG</given-names></name><etal/></person-group>
+<article-title>A 7-year-old boy and a 14-year-old girl initially diagnosed with toxic shock syndrome and tested positive for SARS-CoV-2 infection, supporting a diagnosis of multisystem inflammatory syndrome in children (MIS-C)</article-title>
+<source>Am J Case Rep</source>
+<year>2021</year>
+<volume>22</volume>
+<fpage>e931570</fpage>
+<pub-id pub-id-type="pmid">34635631</pub-id></element-citation></ref><ref id="b4-amjcaserep-23-e934468"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ozsurekci</surname><given-names>Y</given-names></name><name><surname>Aykac</surname><given-names>K</given-names></name><name><surname>Er</surname><given-names>AG</given-names></name><etal/></person-group>
+<article-title>Predictive value of cytokine/chemokine responses for the disease severity and management in children and adult cases with COVID-19</article-title>
+<source>J Med Virol</source>
+<year>2021</year>
+<volume>93</volume>
+<issue>5</issue>
+<fpage>2828</fpage>
+<lpage>37</lpage>
+<pub-id pub-id-type="pmid">33225509</pub-id></element-citation></ref><ref id="b5-amjcaserep-23-e934468"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cavalli</surname><given-names>G</given-names></name><name><surname>Colafrancesco</surname><given-names>S</given-names></name><name><surname>Emmi</surname><given-names>G</given-names></name><etal/></person-group>
+<article-title>Interleukin 1&#x003b1;: A comprehensive review on the role of IL-1&#x003b1; in the pathogenesis and treatment of autoimmune and inflammatory diseases</article-title>
+<source>Autoimmun Rev</source>
+<year>2021</year>
+<volume>20</volume>
+<issue>3</issue>
+<fpage>102763</fpage>
+<pub-id pub-id-type="pmid">33482337</pub-id></element-citation></ref><ref id="b6-amjcaserep-23-e934468"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chiaretti</surname><given-names>A</given-names></name><name><surname>Pulitan&#x000f2;</surname><given-names>S</given-names></name><name><surname>Barone</surname><given-names>G</given-names></name><etal/></person-group>
+<article-title>IL-1&#x003b2; and IL-6 upregulation in children with H1N1 influenza virus infection</article-title>
+<source>Mediators Inflamm</source>
+<year>2013</year>
+<volume>2013</volume>
+<fpage>495848</fpage>
+<pub-id pub-id-type="pmid">23737648</pub-id></element-citation></ref><ref id="b7-amjcaserep-23-e934468"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cattalini</surname><given-names>M</given-names></name><name><surname>Della Paolera</surname><given-names>S</given-names></name><name><surname>Zunica</surname><given-names>F</given-names></name><etal/></person-group>
+<article-title>Defining Kawasaki disease and pediatric inflammatory multisystem syndrome-temporally associated to SARS-CoV-2 infection during SARS-CoV-2 epidemic in Italy: Results from a national, multicenter survey</article-title>
+<source>Pediatr Rheumatol Online J</source>
+<year>2021</year>
+<volume>19</volume>
+<issue>1</issue>
+<fpage>29</fpage>
+<pub-id pub-id-type="pmid">33726806</pub-id></element-citation></ref><ref id="b8-amjcaserep-23-e934468"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanlia</surname><given-names>DET</given-names></name><name><surname>Aytug Altundag</surname><given-names>A</given-names></name><name><surname>Sedat Giray Kandemirli</surname><given-names>SG</given-names></name><etal/></person-group>
+<article-title>Relationship between disease severity and serum IL-6 levels in COVID-19 anosmia</article-title>
+<source>Am J Otolaryngol</source>
+<year>2021</year>
+<volume>42</volume>
+<issue>1</issue>
+<fpage>102796</fpage>
+<pub-id pub-id-type="pmid">33152573</pub-id></element-citation></ref><ref id="b9-amjcaserep-23-e934468"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quartuccio</surname><given-names>L</given-names></name><name><surname>Sonaglia</surname><given-names>A</given-names></name><name><surname>McGonagle</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Profiling COVID-19 pneumonia progressing into the cytokine storm syndrome: Results from a single Italian Centre study on tocilizumab versus standard of care</article-title>
+<source>J Clin Virol</source>
+<year>2020</year>
+<volume>129</volume>
+<fpage>104444</fpage>
+<pub-id pub-id-type="pmid">32570043</pub-id></element-citation></ref><ref id="b10-amjcaserep-23-e934468"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Henry</surname><given-names>BM</given-names></name><name><surname>de Oliveira</surname><given-names>MHS</given-names></name><name><surname>Benoit</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Hematologic, biochemical and immune biomarker abnormalities associated with severe illness and mortality in coronavirus disease 2019 (COVID-19): A meta-analysis</article-title>
+<source>Clin Chem Lab Med</source>
+<year>2020</year>
+<volume>58</volume>
+<issue>7</issue>
+<fpage>1021</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="pmid">32286245</pub-id></element-citation></ref><ref id="b11-amjcaserep-23-e934468"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhu</surname><given-names>Z</given-names></name><name><surname>Cai</surname><given-names>T</given-names></name><name><surname>Fan</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>Clinical value of immune-inflammatory parameters to assess the severity of coronavirus disease 2019</article-title>
+<source>Int J Infect Dis</source>
+<year>2020</year>
+<volume>95</volume>
+<fpage>332</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="pmid">32334118</pub-id></element-citation></ref><ref id="b12-amjcaserep-23-e934468"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>F</given-names></name><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Xu</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Prognostic value of interleukin-6, C-reactive protein, and procalcitonin in patients with COVID-19</article-title>
+<source>J Clin Virol</source>
+<year>2020</year>
+<volume>127</volume>
+<fpage>104370</fpage>
+<pub-id pub-id-type="pmid">32344321</pub-id></element-citation></ref><ref id="b13-amjcaserep-23-e934468"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGonagle</surname><given-names>D</given-names></name><name><surname>Sharif</surname><given-names>K</given-names></name><name><surname>O&#x02019;Regan</surname><given-names>A</given-names></name><name><surname>Bridgewood</surname><given-names>C</given-names></name></person-group>
+<article-title>The role of cytokines including interleukin-6 in COVID-19 induced Pneumonia and Macrophage Activation Syndrome-Like Disease</article-title>
+<source>Autoimmun Rev</source>
+<year>2020</year>
+<volume>19</volume>
+<fpage>102537</fpage>
+<pub-id pub-id-type="pmid">32251717</pub-id></element-citation></ref><ref id="b14-amjcaserep-23-e934468"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maggio</surname><given-names>MC</given-names></name><name><surname>Corsello</surname><given-names>G</given-names></name><name><surname>Prinzi</surname><given-names>E</given-names></name><name><surname>Cimaz</surname><given-names>R</given-names></name></person-group>
+<article-title>Kawasaki disease in Sicily: Clinical description and markers of disease severity</article-title>
+<source>Ital J Pediatr</source>
+<year>2016</year>
+<volume>42</volume>
+<issue>1</issue>
+<fpage>92</fpage>
+<pub-id pub-id-type="pmid">27806720</pub-id></element-citation></ref><ref id="b15-amjcaserep-23-e934468"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maggio</surname><given-names>MC</given-names></name><name><surname>Cimaz</surname><given-names>R</given-names></name><name><surname>Failla</surname><given-names>MC</given-names></name><etal/></person-group>
+<article-title>Typical Kawasaki disease with atypical pneumonia: A paediatric case report</article-title>
+<source>Scand J Rheumatol</source>
+<year>2021</year>
+<volume>50</volume>
+<issue>3</issue>
+<fpage>248</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="pmid">32804000</pub-id></element-citation></ref><ref id="b16-amjcaserep-23-e934468"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garc&#x000ed;a-Salido</surname><given-names>A</given-names></name><name><surname>de Carlos Vicente</surname><given-names>JC</given-names></name><name><surname>Belda Hofheinz</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Severe manifestations of SARS-CoV-2 in children and adolescents: From COVID-19 pneumonia to multisystem inflammatory syndrome: A multicentre study in pediatric intensive care units in Spain</article-title>
+<source>Crit Care</source>
+<year>2020</year>
+<volume>24</volume>
+<issue>1</issue>
+<fpage>666</fpage>
+<pub-id pub-id-type="pmid">33243303</pub-id></element-citation></ref><ref id="b17-amjcaserep-23-e934468"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ludvigsson</surname><given-names>JF</given-names></name></person-group>
+<article-title>Systematic review of COVID-19 in children show milder cases and a better prognosis than adults</article-title>
+<source>Acta Paediatr Oslo Nor</source>
+<year>1992</year>
+<volume>2020</volume>
+<issue>109</issue>
+<fpage>1088</fpage>
+<lpage>95</lpage>
+</element-citation></ref></ref-list></back><floats-group><fig position="float" id="f1-amjcaserep-23-e934468"><label>Figure 1.</label><caption><p>chest X-ray imaging of case 1, showing lung thickening in the left superior lung field and a significant lung texture reinforcement, with hyper-insufflation of lung fields.</p></caption><graphic xlink:href="amjcaserep-23-e934468-g001" position="float"/></fig><fig position="float" id="f2-amjcaserep-23-e934468"><label>Figure 2.</label><caption><p>Chest X-ray imaging of case 2, showing a normal radiographic picture.</p></caption><graphic xlink:href="amjcaserep-23-e934468-g002" position="float"/></fig><table-wrap position="float" id="t1-amjcaserep-23-e934468"><label>Table 1.</label><caption><p>Laboratory data during hospitalization.</p></caption><table frame="hsides" rules="rows"><thead><tr><th valign="middle" align="left" rowspan="1" colspan="1"/><th valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Case 1 (admission to hospital)</bold>
+</th><th valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Case 1 (on discharge from the hospital)</bold>
+</th><th valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Case 2 (admission to hospital)</bold>
+</th><th valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Case 2 (on discharge from the hospital)</bold>
+</th></tr></thead><tbody><tr><td valign="middle" align="left" rowspan="1" colspan="1">Hemoglobin (g/dl)</td><td valign="middle" align="center" rowspan="1" colspan="1">12.1 (n.v.: 10&#x02013;13.5 g/dl)</td><td valign="middle" align="center" rowspan="1" colspan="1">12</td><td valign="middle" align="center" rowspan="1" colspan="1">10.4 (n.v.: 10&#x02013;13.5 g/dl)</td><td valign="middle" align="center" rowspan="1" colspan="1">10.5</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Leukocytes (/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">20290 (n.v.: 5200&#x02013;8500/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">9200</td><td valign="middle" align="center" rowspan="1" colspan="1">8020 (n.v.: 7900&#x02013;13400/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">6100</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Neutrophils (/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">15330 (n.v.: 1900&#x02013;8000/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">5120</td><td valign="middle" align="center" rowspan="1" colspan="1">1520 (n.v.: 2600&#x02013;7500/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">1370</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Lymphocytes (/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">3680 (n.v.: 900&#x02013;5200/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">2480</td><td valign="middle" align="center" rowspan="1" colspan="1">4750 (n.v.: 2300&#x02013;5400/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">4001</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">NLR</td><td valign="middle" align="center" rowspan="1" colspan="1">4.2</td><td valign="middle" align="center" rowspan="1" colspan="1">2.1</td><td valign="middle" align="center" rowspan="1" colspan="1">0.32</td><td valign="middle" align="center" rowspan="1" colspan="1">0.34</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Monocytes (/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">1070 (160&#x02013;1000/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">1090</td><td valign="middle" align="center" rowspan="1" colspan="1">1130 (500&#x02013;1900/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">650</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Platelets (/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">464000 (n.v.: 130000&#x02013;400000/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">455000</td><td valign="middle" align="center" rowspan="1" colspan="1">446000 (n.v.: 215000&#x02013;448000/&#x000b5;l)</td><td valign="middle" align="center" rowspan="1" colspan="1">528000</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">CRP (n.v.: &#x0003c;0.5 mg/dl)</td><td valign="middle" align="center" rowspan="1" colspan="1">0.75</td><td valign="middle" align="center" rowspan="1" colspan="1">0.34</td><td valign="middle" align="center" rowspan="1" colspan="1">0.84</td><td valign="middle" align="center" rowspan="1" colspan="1">0.14</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">ESR</td><td valign="middle" align="center" rowspan="1" colspan="1">17</td><td valign="middle" align="center" rowspan="1" colspan="1">14</td><td valign="middle" align="center" rowspan="1" colspan="1">25</td><td valign="middle" align="center" rowspan="1" colspan="1">15</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Procalcitonin (n.v.: 0.02&#x02013;0.05 ug/l)</td><td valign="middle" align="center" rowspan="1" colspan="1">0.26</td><td valign="middle" align="center" rowspan="1" colspan="1"/><td valign="middle" align="center" rowspan="1" colspan="1">0.07</td><td valign="middle" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Ferritin (n.v.: 28&#x02013;365 ng/ml)</td><td valign="middle" align="center" rowspan="1" colspan="1">29.5</td><td valign="middle" align="center" rowspan="1" colspan="1">28</td><td valign="middle" align="center" rowspan="1" colspan="1">28.5</td><td valign="middle" align="center" rowspan="1" colspan="1">27</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">LDH (n.v.: 170&#x02013;580 IU/l)</td><td valign="middle" align="center" rowspan="1" colspan="1">310</td><td valign="middle" align="center" rowspan="1" colspan="1">299</td><td valign="middle" align="center" rowspan="1" colspan="1">263</td><td valign="middle" align="center" rowspan="1" colspan="1">300</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">AST (n.v.: 15&#x02013;55 IU/l)</td><td valign="middle" align="center" rowspan="1" colspan="1">31</td><td valign="middle" align="center" rowspan="1" colspan="1">29</td><td valign="middle" align="center" rowspan="1" colspan="1">34</td><td valign="middle" align="center" rowspan="1" colspan="1">42</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">ALT (n.v.: 5&#x02013;41 IU/l)</td><td valign="middle" align="center" rowspan="1" colspan="1">26</td><td valign="middle" align="center" rowspan="1" colspan="1">18</td><td valign="middle" align="center" rowspan="1" colspan="1">22</td><td valign="middle" align="center" rowspan="1" colspan="1">22</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Gamma-glutamyltransferase (5&#x02013;32 IU/l)</td><td valign="middle" align="center" rowspan="1" colspan="1">9</td><td valign="middle" align="center" rowspan="1" colspan="1">9</td><td valign="middle" align="center" rowspan="1" colspan="1">24</td><td valign="middle" align="center" rowspan="1" colspan="1">20</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Fibrinogen (200&#x02013;400 mg/dl)</td><td valign="middle" align="center" rowspan="1" colspan="1">350</td><td valign="middle" align="center" rowspan="1" colspan="1">344</td><td valign="middle" align="center" rowspan="1" colspan="1">310</td><td valign="middle" align="center" rowspan="1" colspan="1">280</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">IL-6 (n.v. &#x0003c;6.25 pg/ml)</td><td valign="middle" align="center" rowspan="1" colspan="1">100.41</td><td valign="middle" align="center" rowspan="1" colspan="1">46.2</td><td valign="middle" align="center" rowspan="1" colspan="1">&#x0003c;6.25</td><td valign="middle" align="center" rowspan="1" colspan="1">&#x0003c;6.25</td></tr><tr><td valign="middle" align="left" rowspan="1" colspan="1">Nasopharyngeal swab SARS-COV-2</td><td valign="middle" align="center" rowspan="1" colspan="1">Positive</td><td valign="middle" align="center" rowspan="1" colspan="1">Negative</td><td valign="middle" align="center" rowspan="1" colspan="1">Positive</td><td valign="middle" align="center" rowspan="1" colspan="1">Negative</td></tr></tbody></table><table-wrap-foot><fn id="tfn1-amjcaserep-23-e934468"><p>NLR &#x02013; neutrophil-to-lymphocyte ratio; CRP &#x02013; C-reactive protein; ESR &#x02013; erythrocyte sedimentation rate; n.v. &#x02013; normal value.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

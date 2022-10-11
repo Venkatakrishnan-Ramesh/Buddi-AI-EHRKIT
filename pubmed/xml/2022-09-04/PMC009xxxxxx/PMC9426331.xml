@@ -1,0 +1,1299 @@
+<!--suppress XmlDefaultAttributeValue -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="es" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-id journal-id-type="iso-abbrev">Rev Fac Cien Med Univ Nac Cordoba</journal-id><journal-title-group><journal-title>Revista de la Facultad de Ciencias M&#x000e9;dicas</journal-title></journal-title-group><issn pub-type="ppub">0014-6722</issn><issn pub-type="epub">1853-0605</issn><publisher><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><publisher-loc>Argentina postmaster@ucbscm.edu.ar, postmaster@bfcmcb.sld.ar, cielo@fcmcb.sld.ar, bfcmcb@biomed.uncor.ar</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">35700467</article-id><article-id pub-id-type="pmc">PMC9426331</article-id><article-id pub-id-type="publisher-id">32807</article-id><article-id pub-id-type="doi">10.31053/1853.0605.v79.n2.32807</article-id><article-categories><subj-group subj-group-type="heading"><subject>Art&#x000ed;culos Originales</subject></subj-group></article-categories><title-group><article-title>Dise&#x000f1;o y validaci&#x000f3;n de un manual y atlas fotogr&#x000e1;fico sobre alimentaci&#x000f3;n complementaria para uso como herramienta de educaci&#x000f3;n alimentaria</article-title><trans-title-group xml:lang="en"><trans-title>Design and validation of a handbook and photographic atlas on complementary food for use as a food education tool</trans-title></trans-title-group><trans-title-group xml:lang="pt"><trans-title>Projeto e valida&#x000e7;&#x000e3;o de um manual e foto atlas sobre alimentos complementares para uso como ferramenta de educa&#x000e7;&#x000e3;o de alimentos</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0003-0569-3654</contrib-id><name><surname>Martin</surname><given-names>Narela Camila</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>narelamartin96@gmail.com</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-5778-0859</contrib-id><name><surname>Spipp</surname><given-names>Jessica Paula</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><email>jessicaspipp@uncaus.edu.ar</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0001-5285-4508</contrib-id><name><surname>Marri</surname><given-names>Daniel Alejandro</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><email>danielmarri@uncaus.edu.ar</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="ORCID" authenticated="false">https://orcid.org/0000-0002-9497-947X</contrib-id><name><surname>Riernersman</surname><given-names>Carola Noelia</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><email>carola@uncaus.edu.ar</email></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Universidad Nacional del Chaco Austral (UNCAUS), Departamento de Ciencias B&#x000e1;sicas y Aplicadas. Laboratorio de Alimentos Funcionales</institution>
+<city>Pres. Roque S&#x000e1;enz Pe&#x000f1;a</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Instituto de Investigaciones en Procesos Tecnol&#x000f3;gicos Avanzados (INIPTA), unidad ejecutora de doble dependencia entre el Consejo Nacional de Investigaciones Cient&#x000ed;ficas y T&#x000e9;cnicas (CONICET) y la Universidad Nacional del Chaco Austral (UNCAUS)</institution>
+<city>Pres. Roque S&#x000e1;enz Pe&#x000f1;a</city>
+<country country="AR">Argentina</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Universidad Nacional del Chaco Austral (UNCAUS), Departamento de Ciencias B&#x000e1;sicas y Aplicadas</institution>
+<city>Pres. Roque S&#x000e1;enz Pe&#x000f1;a</city>
+<country country="AR">Argentina</country>
+</aff><pub-date pub-type="epub" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="collection" iso-8601-date="2022-06-06"><day>06</day><month>6</month><year>2022</year></pub-date><volume>79</volume><issue>2</issue><fpage>107</fpage><lpage>115</lpage><history><date date-type="received" iso-8601-date="2021-04-26"><day>26</day><month>4</month><year>2021</year></date><date date-type="accepted" iso-8601-date="2022-04-12"><day>12</day><month>4</month><year>2022</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>Esta obra est&#x000e1; bajo una licencia internacional Creative Commons Atribuci&#x000f3;n-NoComercial 4.0.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/32807/37662">https://revistas.unc.edu.ar/index.php/med/article/view/32807/37662</self-uri><self-uri content-type="html" xlink:href="https://revistas.unc.edu.ar/index.php/med/article/view/32807/37633">https://revistas.unc.edu.ar/index.php/med/article/view/32807/37633</self-uri><abstract abstract-type="section"><title>Resumen</title><sec><title>Introducci&#x000f3;n:</title><p>El uso de herramientas visuales para calcular la porci&#x000f3;n adecuada de los alimentos del lactante junto con una adecuada educaci&#x000f3;n permitir&#x000ed;a proporcionar informaci&#x000f3;n correcta, simple y clara a los responsables de su alimentaci&#x000f3;n. El objetivo fue dise&#x000f1;ar un manual y atlas fotogr&#x000e1;fico sobre alimentaci&#x000f3;n complementaria (AC) para ni&#x000f1;os entre 6-12 meses de edad, para ser utilizado como herramienta en educaci&#x000f3;n alimentaria y nutricional.</p></sec><sec><title>M&#x000e9;todos:</title><p>El instrumento se dividi&#x000f3; en dos secciones: un manual que incluye consejer&#x000ed;a sobre AC, y otra correspondiente al atlas de alimentos, adaptados a ni&#x000f1;os de 6 a 12 meses. Se realiz&#x000f3; la validez de contenido por juicio de expertos, y se midi&#x000f3; el grado acuerdo mediante el Coeficiente de Correlaci&#x000f3;n Interclase (CCI).</p></sec><sec><title>Resultados:</title><p>La herramienta dise&#x000f1;ada incluye 47 alimentos, 323 fotograf&#x000ed;as y 6 cap&#x000ed;tulos, donde se desarrollaron conceptos claves, la alimentaci&#x000f3;n en el ni&#x000f1;o enfermo, medidas y capacidades de los utensilios utilizados, im&#x000e1;genes acompa&#x000f1;adas con recomendaciones de educaci&#x000f3;n alimentaria y nutricional acerca de la consistencia, frecuencia, cantidad, progresi&#x000f3;n en la incorporaci&#x000f3;n de los alimentos, inocuidad, recetas e ideas de men&#x000fa; de acuerdo a la edad. El atlas se dividi&#x000f3; por grupos de alimentos, subdividido en alimentos crudos y cocidos, y en diferentes presentaciones: pur&#x000e9;, trozos y entero. La validaci&#x000f3;n de contenido mostro un alto porcentaje de aceptaci&#x000f3;n general (85,86%) y report&#x000f3; un CCI 95% de 0,884 (0,712-0,973).</p></sec><sec><title>Conclusi&#x000f3;n:</title><p>La herramienta dise&#x000f1;ada resulta de gran utilidad para la realizaci&#x000f3;n de intervenciones de consejer&#x000ed;a y educaci&#x000f3;n alimentaria para ni&#x000f1;os en edad de iniciar su AC.</p></sec></abstract><trans-abstract xml:lang="en" abstract-type="section"><title>Abstract</title><sec><title>Introduction:</title><p>The use of visual tools to calculate the adequate portion of the infant's food with an adequate education would allow to provide correct, simple and clear information to those responsible for their feeding. The objective was to design a manual and photographic atlas on complementary feeding (CF) for children between 6-12 months of age, to be used as a tool in food and nutrition education.</p></sec><sec><title>Methods:</title><p>The instrument was divided into two sections: a manual that includes advice on CF, and another corresponding to the food atlas, adapted to children aged 6 to 12 months. Content validity was performed by expert judgment, and the degree of agreement was measured using the Interclass Correlation Coefficient (ICC).</p></sec><sec><title>Results:</title><p>The designed tool includes 47 foods, 323 photographs and 6 chapters, where key concepts were developed, feeding in the sick child, measurements and capacities of the utensils used, images accompanied with recommendations for food and nutritional education about consistency, frequency, quantity, progression in the incorporation of food, safety, recipes and menu ideas according to age. The atlas was divided into food groups, subdivided into raw and cooked foods, and in different presentations: puree, pieces and whole. The content validation showed a high percentage of general acceptance (85.86%) and reported a 95% ICC of 0.884 (0.712-0.973).</p></sec><sec><title>Conclusion:</title><p>The designed tool is very useful for carrying out nutrition counseling and education interventions for children of the age of starting their CF.</p></sec></trans-abstract><trans-abstract xml:lang="pt" abstract-type="section"><title>Resumo</title><sec><title>Introdu&#x000e7;&#x000e3;o:</title><p>A utiliza&#x000e7;&#x000e3;o de ferramentas visuais para calcular a por&#x000e7;&#x000e3;o adequada da alimenta&#x000e7;&#x000e3;o infantil aliada a uma educa&#x000e7;&#x000e3;o adequada permitiria fornecer informa&#x000e7;&#x000f5;es corretas, simples e claras aos respons&#x000e1;veis por sua alimenta&#x000e7;&#x000e3;o. O objetivo foi elaborar um atlas fotogr&#x000e1;fico e manual sobre alimenta&#x000e7;&#x000e3;o complementar (AC) para crian&#x000e7;as de 6 a 12 meses de idade, para ser utilizado como instrumento de educa&#x000e7;&#x000e3;o alimentar e nutricional.</p></sec><sec><title>M&#x000e9;todos:</title><p>O instrumento foi dividido em duas se&#x000e7;&#x000f5;es: um manual que inclui orienta&#x000e7;&#x000f5;es sobre a AC e outro correspondente ao atlas alimentar, adaptado para crian&#x000e7;as de 6 a 12 meses. A validade de conte&#x000fa;do foi realizada por julgamento de especialistas, e o grau de concord&#x000e2;ncia foi medido por meio do Coeficiente de Correla&#x000e7;&#x000e3;o Interclasse (ICC).</p></sec><sec><title>Resultados:</title><p>A ferramenta desenhada inclui 47 alimentos, 323 fotografias e 6 cap&#x000ed;tulos, onde foram desenvolvidos os principais conceitos, alimenta&#x000e7;&#x000e3;o da crian&#x000e7;a doente, medidas e capacidades dos utens&#x000ed;lios utilizados, imagens acompanhadas de recomenda&#x000e7;&#x000f5;es para educa&#x000e7;&#x000e3;o alimentar e nutricional sobre consist&#x000ea;ncia, frequ&#x000ea;ncia, quantidade, progress&#x000e3;o na incorpora&#x000e7;&#x000e3;o de ideias de alimentos, seguran&#x000e7;a, receitas e card&#x000e1;pios de acordo com a idade. O atlas foi dividido em grupos de alimentos, subdivididos em alimentos crus e cozidos, e em diferentes apresenta&#x000e7;&#x000f5;es: pur&#x000ea;, peda&#x000e7;os e inteiros. A valida&#x000e7;&#x000e3;o de conte&#x000fa;do apresentou alto percentual de aceita&#x000e7;&#x000e3;o geral (85,86%) e relatou ICC de 95% de 0,884 (0,712-0,973).</p></sec><sec><title>Conclus&#x000e7;&#x000e3;o:</title><p>A ferramenta projetada &#x000e9; muito &#x000fa;til para realizar aconselhamento nutricional e interven&#x000e7;&#x000f5;es educacionais para crian&#x000e7;as em idade de in&#x000ed;cio de AC.</p></sec></trans-abstract><kwd-group><title>Palabras clave</title><kwd>estudio de validaci&#x000f3;n</kwd><kwd>materiales de ense&#x000f1;anza</kwd><kwd>tama&#x000f1;o de la porci&#x000f3;n</kwd><kwd>nutrici&#x000f3;n del lactante</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords</title><kwd>validation study</kwd><kwd>teaching materials</kwd><kwd>portion size</kwd><kwd>infant nutrition</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>estudo de valida&#x000e7;&#x000e3;o</kwd><kwd>materiais de ensino</kwd><kwd>tamanho da por&#x000e7;&#x000e3;o</kwd><kwd>nutri&#x000e7;&#x000e3;o do lactente</kwd></kwd-group><funding-group><award-group><funding-source>Universidad Nacional del Chaco Austral (UNCAUS)</funding-source><award-id>93</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="4"/><equation-count count="0"/><ref-count count="27"/><page-count count="9"/></counts></article-meta></front><body><boxed-text position="float"><p>Una de las mayores dificultades durante la realizaci&#x000f3;n de la consejer&#x000ed;a nutricional y encuestas alimentarias es la estimaci&#x000f3;n del tama&#x000f1;o de las porciones consumidas. En el presente trabajo se muestra el proceso de dise&#x000f1;o y validaci&#x000f3;n de un manual y atlas fotogr&#x000e1;fico sobre alimentaci&#x000f3;n complementaria para ni&#x000f1;os de 6 a 12 meses de edad, destinado a uso como herramienta de educaci&#x000f3;n alimentaria en la labor de consejer&#x000ed;a nutricional. La validez de contenido se evalu&#x000f3; mediante juicio de expertos, demostrando un alto porcentaje de aceptaci&#x000f3;n general (85,86%).</p></boxed-text><boxed-text position="float"><sec><title>Conceptos clave</title><sec><title>Qu&#x000e9; se sabe sobre el tema:</title><p>Sobre el tema en general de uso de herramientas visuales como apoyo de actividades de educaci&#x000f3;n alimentaria y nutricional hay diversos estudios que conforman parte de la bibliograf&#x000ed;a del presente trabajo. No obstante, no se han encontrado a nivel nacional instrumentos de este tipo destinados a una poblaci&#x000f3;n infantil y existe escasez de art&#x000ed;culos en la literatura correspondientes al proceso de validaci&#x000f3;n de dichos materiales.</p></sec><sec><title>Qu&#x000e9; aporta este trabajo:</title><p>Este trabajo contribuye al conocimiento cient&#x000ed;fico aportando las bases metodol&#x000f3;gicas para el dise&#x000f1;o y validaci&#x000f3;n de una herramienta de educaci&#x000f3;n alimentaria adaptada a porciones y consistencias adecuadas para su uso en edades pedi&#x000e1;tricas.</p></sec></sec></boxed-text><sec sec-type="intro"><title>INTRODUCCI&#x000d3;N</title><p>Debido al r&#x000e1;pido crecimiento durante estos dos primeros a&#x000f1;os de vida, resultan necesarios elevados requerimientos nutricionales y, considerando una capacidad de ingesta limitada en volumen, esta etapa representa en s&#x000ed; misma una fase de alta vulnerabilidad nutricional. La elecci&#x000f3;n de los alimentos en este periodo depende de los padres, fundamentalmente de la madre o persona encargada de la alimentaci&#x000f3;n del infante, y est&#x000e1; condicionada no solo por la disponibilidad estacional o econ&#x000f3;mica sino tambi&#x000e9;n por las costumbres, los h&#x000e1;bitos, las pautas culturales generacionales y la educaci&#x000f3;n e informaci&#x000f3;n recibida al respecto. Es aqu&#x000ed; donde radica la importancia de los conocimientos que la madre tenga sobre la alimentaci&#x000f3;n de su hijo y sobre las pr&#x000e1;cticas alimentarias adecuadas seg&#x000fa;n el estado nutricional del mismo, ya que concepciones err&#x000f3;neas pueden conducir a h&#x000e1;bitos alimentarios poco saludables con repercusiones negativas para su futuro
+<sup><xref rid="B1" ref-type="bibr">1</xref>.
+<xref rid="B2" ref-type="bibr">2</xref>
+</sup>
+.
+</p><p>A nivel mundial, en el 35% de los lactantes la AC suele comenzar demasiado pronto o demasiado tarde y, con frecuencia, los alimentos complementarios son de baja calidad nutricional y son administrados en cantidades equ&#x000ed;vocas o poco frecuentes
+<sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+</sup>
+. Adem&#x000e1;s, las pr&#x000e1;cticas alimentarias aprendidas durante estos a&#x000f1;os sientan las bases para la constituci&#x000f3;n de los h&#x000e1;bitos alimentarios, pudiendo ser factores protectores o de riesgo, seg&#x000fa;n el caso, para la desnutrici&#x000f3;n infantil y al ser modificables constituyen un punto clave para futuras intervenciones
+<sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+</sup>
+.
+</p><p>Uno de los procesos claves en la alimentaci&#x000f3;n, incluyendo el inicio de la AC, adem&#x000e1;s de conocer las pautas de los alimentos a ir introduciendo en la dieta, es la estimaci&#x000f3;n precisa de las porciones de dichos alimentos, pues errores traen como consecuencia valores superiores o inferiores a la ingesta necesaria de nutrientes y energ&#x000ed;a. Los padres a menudo informan que solo "saben" la cantidad de alimentos para servir a sus hijos, pero la evidencia indica que estas decisiones son impulsadas por las porciones que los padres escogen para s&#x000ed; mismos
+<sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+</sup>
+. Si bien, existen disponibles en Argentina diversas herramientas educativas como gu&#x000ed;as, folletos y ayudas visuales para identificar porciones de alimentos, ninguna se encuentra adaptada al tama&#x000f1;o de porciones del nivel pedi&#x000e1;trico
+<sup>
+<xref rid="B6" ref-type="bibr">6-8</xref>
+</sup>
+.
+</p><p>Una de las mayores dificultades durante la realizaci&#x000f3;n de la consejer&#x000ed;a nutricional y encuestas alimentarias es la estimaci&#x000f3;n del tama&#x000f1;o de las porciones consumidas, herramientas como un manual y atlas fotogr&#x000e1;fico, junto con una adecuada educaci&#x000f3;n alimentaria y nutricional (EAN) permitir&#x000ed;an proporcionar informaci&#x000f3;n correcta, simple y sobre todo clara, a las madres o tutores responsables de la alimentaci&#x000f3;n del ni&#x000f1;o peque&#x000f1;o. Por lo tanto, el objetivo de este trabajo fue dise&#x000f1;ar un manual y atlas fotogr&#x000e1;fico sobre los alimentos a suministrar a ni&#x000f1;os entre 6 y 12 meses de edad en el inicio de su AC de acuerdo a los consensos vigentes y en sus porciones adecuadas, contribuyendo a mejorar tanto el conocimiento como pr&#x000e1;cticas maternas de alimentaci&#x000f3;n. A futuro, esto resultar&#x000ed;a en un beneficio para el &#x000f3;ptimo crecimiento y desarrollo del ni&#x000f1;o y en lo inmediato, favorecer&#x000ed;a la labor de EAN en las actividades de consejer&#x000ed;a.</p></sec><sec sec-type="materials|methods"><title>MATERIALES Y M&#x000c9;TODOS</title><sec><title>Confecci&#x000f3;n y desarrollo del manual y atlas fotogr&#x000e1;fico</title><sec><title>1&#x000b0; Secci&#x000f3;n: Manual de asesor&#x000ed;a y consejer&#x000ed;a.</title><p>El manual se dividi&#x000f3; en 5 cap&#x000ed;tulos, separados seg&#x000fa;n la edad del ni&#x000f1;o en meses (6 meses - 7 y 8 meses - 9 a 12 meses) de acuerdo a su requerimiento energ&#x000e9;tico, estableciendo la diferencia entre los totales de energ&#x000ed;a recomendados para cada edad y la estimaci&#x000f3;n del aporte cal&#x000f3;rico que el ni&#x000f1;o recibe a trav&#x000e9;s de la leche materna; considerando las caracter&#x000ed;sticas de los ni&#x000f1;os en cuanto al desarrollo neurofisiol&#x000f3;gico y psicomotor para cada edad y seg&#x000fa;n la textura y consistencia de alimentos b&#x000e1;sicos a incorporar: Pur&#x000e9; o papilla espesa, sin grumos; Pur&#x000e9; con grumos, picados finos o pisados y Pur&#x000e9; espeso no tan deshecho, trozos peque&#x000f1;os
+<sup><xref rid="B3" ref-type="bibr">3</xref>.<xref rid="B9" ref-type="bibr">9</xref>.
+<xref rid="B10" ref-type="bibr">10</xref>
+</sup>
+. El tama&#x000f1;o de las porciones para cada edad se determin&#x000f3; teniendo en cuenta la cantidad m&#x000e1;xima de alimentos y l&#x000ed;quidos por tiempo de comida seg&#x000fa;n la capacidad g&#x000e1;strica de los infantes y la frecuencia alimentaria recomendada (n&#x000fa;mero de comidas al d&#x000ed;a)
+<sup><xref rid="B6" ref-type="bibr">6</xref>.<xref rid="B11" ref-type="bibr">11</xref>.
+<xref rid="B12" ref-type="bibr">12</xref>
+</sup>
+.
+</p><p>Para ejemplificar el tama&#x000f1;o de las porciones, se realizaron preparaciones donde se combinaron distintos alimentos, asegurando as&#x000ed; el aporte equilibrado de los diferentes nutrientes. Los alimentos escogidos para realizar &#x000e9;stas mezclas se seleccionaron teniendo en cuenta los criterios orientativos de incorporaci&#x000f3;n de alimentos seg&#x000fa;n la edad de las Gu&#x000ed;as Alimentarias para la Poblaci&#x000f3;n Infantil (GAPI)
+<sup>
+<xref rid="B6" ref-type="bibr">6</xref>
+</sup>
+. La contribuci&#x000f3;n de cada alimento complementario en dichas preparaciones se calcul&#x000f3; con la finalidad de conseguir una densidad energ&#x000e9;tica de aproximadamente 0,8 a 1,0 kcal/g
+<sup>
+<xref rid="B12" ref-type="bibr">12</xref>
+</sup>
+.
+</p><p>A su vez, se utilizaron fotograf&#x000ed;as para evaluar de manera simple la adecuaci&#x000f3;n de la ingesta cal&#x000f3;rica, utilizando papillas que cubren el 100% del requerimiento, un 125% y un 75%, tanto en tazas como en platos tipo postre (tama&#x000f1;o infantil).</p><p>A modo de ilustraci&#x000f3;n y ejemplificaci&#x000f3;n para las recomendaciones de EAN referidas al n&#x000fa;mero y frecuencia de las comidas, progresi&#x000f3;n y combinaciones de alimentos y, principalmente como herramienta visual, se tomaron fotograf&#x000ed;as de las porciones de los alimentos sugeridos, estableciendo dichas cantidades en forma de medidas caseras, como cucharadas, tazas y platos. Para los ni&#x000f1;os de 6 meses, la consejer&#x000ed;a se enfoc&#x000f3; en pautas acerca de c&#x000f3;mo iniciar la AC e ideas de papillas de inicio. En los ni&#x000f1;os de 7 - 12 meses se expusieron recetas pr&#x000e1;cticas, con la finalidad de brindar variedad en los alimentos a consumir.</p></sec><sec><title>2&#x000b0; Secci&#x000f3;n: Atlas de alimentos</title><p>Los alimentos que integran el atlas (cap&#x000ed;tulo 6) se clasificaron en grupos, siguiendo lo establecido por las Gu&#x000ed;as Alimentarias para la Poblaci&#x000f3;n Argentina (GAPA) y se seleccionaron de acuerdo a los lineamientos de introducci&#x000f3;n de alimentos propuestos por las GAPI y tambi&#x000e9;n las recomendaciones actualizadas de la Asociaci&#x000f3;n Espa&#x000f1;ola de Pediatr&#x000ed;a y de la Sociedad Europea de Gastroenterolog&#x000ed;a Pedi&#x000e1;trica, Comit&#x000e9; de Hepatolog&#x000ed;a y Nutrici&#x000f3;n
+<sup><xref rid="B6" ref-type="bibr">6</xref>.<xref rid="B10" ref-type="bibr">10</xref>.<xref rid="B13" ref-type="bibr">13</xref>.
+<xref rid="B14" ref-type="bibr">14</xref>
+</sup>
+.
+</p><p>Para la construcci&#x000f3;n del atlas se tomaron fotograf&#x000ed;as a color, colocando las raciones de alimentos en aquellos utensilios de uso habitual en la poblaci&#x000f3;n general (plato blanco est&#x000e1;ndar de 25 cm, taza tipo desayuno transparente de 250 ml de volumen y cuchara sopera de 15 g de capacidad), contrastado con un fondo verde. Adem&#x000e1;s, a modo ilustrativo, se utiliz&#x000f3; un cuchillo y un tenedor est&#x000e1;ndar a los lados del plato a modo de referencia de tama&#x000f1;o. Para cada alimento se pes&#x000f3; la raci&#x000f3;n a ser fotografiada haciendo uso de una balanza electr&#x000f3;nica con 0,01 gramos de precisi&#x000f3;n (PS 2100.R2). Se realizaron dos tomas diferentes de cada alimento, una a 90 &#x000b0; y otra a 45 &#x000b0; aproximadamente, con una distancia de 50 cm
+<sup>
+<xref rid="B15" ref-type="bibr">15</xref>
+</sup>
+. Se us&#x000f3; como fuente de iluminaci&#x000f3;n la luz solar, para conseguir naturalidad en la fotograf&#x000ed;a de comida (tipo luz d&#x000ed;a) y una c&#x000e1;mara digital (Canon&#x000ae; EOS 5D Mark III) con un modo de disparo autom&#x000e1;tico. Para la edici&#x000f3;n, se utiliz&#x000f3; como editor un programa gratuito y de libre acceso.
+</p></sec></sec><sec><title>Validaci&#x000f3;n de contenido por juicio de expertos</title><p>Se elabor&#x000f3; un formato con dos secciones para la evaluaci&#x000f3;n al que se denomin&#x000f3; "Planilla para evaluar la validez de contenido a trav&#x000e9;s del juicio de expertos" para participar de la evaluaci&#x000f3;n del instrumento desarrollado (<xref rid="f1" ref-type="fig">Figura 1</xref>).
+</p><p>
+<fig position="float" id="f1"><label>Figura N&#x000b0; 1</label><caption><title>Planilla para evaluar la validez de contenido a trav&#x000e9;s del juicio de expertos</title></caption><graphic xlink:href="1853-0605-79-2-107-g001" position="float"/></fig>
+</p><p>
+<italic toggle="yes">
+Secci&#x000f3;n A - Evaluaci&#x000f3;n global del instrumento
+</italic>
+: respecto al cumplimiento de sus objetivos, su fundamento y tem&#x000e1;tica abordada, y del dise&#x000f1;o del mismo. Los <italic toggle="yes">objetivos</italic> planteados fueron identificar los alimentos consumidos por ni&#x000f1;os de 6 a 12 meses seg&#x000fa;n las recomendaciones vigentes y clasificarlos por grupos alimentarios, consistencias adecuadas y edad de incorporaci&#x000f3;n; estandarizar el peso, las porciones y las medidas de los mismos. La evaluaci&#x000f3;n de la <italic toggle="yes">tem&#x000e1;tica</italic> y el <italic toggle="yes">fundamento</italic> se bas&#x000f3; en la necesidad de transmitir informaci&#x000f3;n confiable y de f&#x000e1;cil comprensi&#x000f3;n a padres o tutores de ni&#x000f1;os que inician en AC. Por &#x000fa;ltimo, el dise&#x000f1;o general del instrumento se evalu&#x000f3; en cuanto a su estilo textual, forma de presentaci&#x000f3;n de ilustraciones, tipograf&#x000ed;a, estilo gr&#x000e1;fico, as&#x000ed; como el orden de sus partes y car&#x000e1;tula.
+</p><p>
+<italic toggle="yes">
+Secci&#x000f3;n B - Evaluaci&#x000f3;n por cap&#x000ed;tulos:
+</italic>
+para valorar que cada cap&#x000ed;tulo se encuentre adecuadamente delimitado, es decir, cada uno corresponda a un tema espec&#x000ed;fico del trabajo, tambi&#x000e9;n que exista una secuencia ordenada de las ideas expuestas, que el contenido sea acertado, actualizado, as&#x000ed; como comprensible. Adem&#x000e1;s, el uso de colores, tipograf&#x000ed;a y estilo gr&#x000e1;fico.
+</p><p>Ambas secciones se evaluaron a por medio de una escala Likert seg&#x000fa;n grado de cumplimiento de 1 a 4, donde 1 indica que no cumple el criterio, 2 a un bajo nivel, 3 a un moderado nivel y 4 corresponde a un alto nivel de cumplimiento. Se estableci&#x000f3; que aquellos criterios que no alcanzaran en promedio un valor superior a 2,5 ser&#x000ed;an revisados por el grupo investigador. Tambi&#x000e9;n se brind&#x000f3; la opci&#x000f3;n de opinar de forma abierta pudiendo brindar sugerencias y/o modificaciones. Se analiz&#x000f3; el grado de acuerdo o concordancia entre los expertos, para cada secci&#x000f3;n, mediante el Coeficiente de Correlaci&#x000f3;n Interclase (CCI), pudiendo resultar moderado (CCI: 0,5-0,75); bueno (CCI: 0,75-0,90) o excelente (CCI&#x0003e;0,90)
+<sup><xref rid="B16" ref-type="bibr">16</xref>.
+<xref rid="B17" ref-type="bibr">17</xref>
+</sup>
+.
+</p></sec><sec><title>An&#x000e1;lisis de los resultados e interpretaci&#x000f3;n</title><p>Se utiliz&#x000f3; el programa Microsoft Office Excel 2013 para la base de datos y c&#x000e1;lculo de estimaciones y promedios, y el programa IBM SPSS Statistics v. 25. para el an&#x000e1;lisis del CCI.</p></sec></sec><sec sec-type="results"><title>RESULTADOS</title><sec><title>Dise&#x000f1;o del manual y atlas fotogr&#x000e1;fico</title><p>El trabajo desarrollado se denomin&#x000f3;: <bold>MANUAL Y ATLAS FOTOGR&#x000c1;FICO DE ALIMENTOS, Introducci&#x000f3;n a la alimentaci&#x000f3;n complementaria: preparaciones, porciones y consistencia</bold> .
+<italic toggle="yes">Gu&#x000ed;a visual de porciones y consistencia de los alimentos durante la etapa de alimentaci&#x000f3;n complementaria para ni&#x000f1;os de 6 a 12 meses (
+<ext-link xlink:href="http://sicyt.uncaus.edu.ar/welcome/documentacion" ext-link-type="uri">http://sicyt.uncaus.edu.ar/welcome/documentacion</ext-link>
+)
+</italic>
+. Cont&#x000f3; finalmente con 212 p&#x000e1;ginas (excluyendo portada y contraportada) dividas en 6 cap&#x000ed;tulos (<xref rid="t1" ref-type="table">Tabla 1</xref>). Se brindaron 58 tips de consejer&#x000ed;a en un lenguaje de simple comprensi&#x000f3;n, se utilizaron 323 fotos tomadas por el equipo de investigaci&#x000f3;n y se expusieron diversos temas de inter&#x000e9;s.
+</p><table-wrap position="float" id="t1"><label>Tabla N&#x000b0; 1</label><caption><title>Descripci&#x000f3;n breve del instrumento desarrollado por cap&#x000ed;tulos</title></caption><table frame="hsides" rules="groups" width="100%"><tr><th rowspan="1" colspan="1">Cap&#x000ed;tulos</th><th rowspan="1" colspan="1">Descripci&#x000f3;n breve</th></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Cap&#x000ed;tulo 1: Conceptos generales</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>Introducci&#x000f3;n al lector en la finalidad del instrumento, conceptos claves abordados a lo largo del mismo y recomendaciones b&#x000e1;sicas acerca del inicio de la AC oportuna, modos de brindar la alimentaci&#x000f3;n y consideraciones a tener en cuenta en la alimentaci&#x000f3;n del ni&#x000f1;o cuando se encuentra enfermo.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Cap&#x000ed;tulo 2: Utensilios y medidas caseras</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>Se detallan los utensilios utilizados en el desarrollo del manual y atlas fotogr&#x000e1;fico, especificando las dimensiones y vol&#x000fa;menes, con el fin de evitar confusiones y permitir una f&#x000e1;cil identificaci&#x000f3;n de los mismos.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Cap&#x000ed;tulo 3: El ni&#x000f1;o de 6 meses de edad</italic>
+</p>
+</td><td rowspan="3" valign="middle" colspan="1">
+<p>Recomendaciones de ingesta de alimentos de acuerdo a la edad y el requerimiento energ&#x000e9;tico para cada grupo. De igual forma, y para cada uno de los grupos de edades, se detallaron todas aquellas caracter&#x000ed;sticas pertinentes que intervienen en la alimentaci&#x000f3;n, como el desarrollo fisiol&#x000f3;gico y motor, puesto que determina las habilidades del ni&#x000f1;o al momento de alimentarse. Tambi&#x000e9;n se incluyeron pautas, recomendaciones y recetas en cada cap&#x000ed;tulo, realizando un mayor hincapi&#x000e9; en el cap&#x000ed;tulo 3, al comprender &#x000e9;ste el inicio de AC.</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Cap&#x000ed;tulo 4: El ni&#x000f1;o de 7 y 8 meses de edad</italic>
+</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Cap&#x000ed;tulo 5: El ni&#x000f1;o de 9 a 12 meses de edad</italic>
+</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Cap&#x000ed;tulo 6: Atlas fotogr&#x000e1;fico de alimentos</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>Se incluy&#x000f3; un total de 47 alimentos diferentes distribuidos en los 5 grupos alimentarios. Cada una de las fotograf&#x000ed;as incluidas fueron tomadas de alimentos reales, especialmente preparados, sin la adici&#x000f3;n de colorantes o t&#x000e9;cnicas de mejoramiento de imagen, ni el uso de ning&#x000fa;n programa inform&#x000e1;tico de edici&#x000f3;n de fotograf&#x000ed;as.</p>
+</td></tr></table></table-wrap><p>
+<italic toggle="yes">
+1&#x000b0; Secci&#x000f3;n: Manual de asesor&#x000ed;a y consejer&#x000ed;a.
+</italic>
+</p><p>En el cap&#x000ed;tulo 1, se introduce al lector en la finalidad del instrumento. Mientras que en el cap&#x000ed;tulo 2, se presentan los utensilios utilizados: un plato playo de di&#x000e1;metro entre 21-25 cm aproximadamente (capacidad de 250 ml), de uso com&#x000fa;n en la poblaci&#x000f3;n en general y el plato tipo postre de di&#x000e1;metro de 20 cm (capacidad de 200 ml), siendo &#x000e9;ste el recomendado para brindar la AC y el que se utiliz&#x000f3; para graficar las porciones en cada grupo etario compar&#x000e1;ndolo tambi&#x000e9;n con platos que se comercializan para beb&#x000e9;s, para el f&#x000e1;cil reconocimiento por parte de los tutores
+<sup>
+<xref rid="B6" ref-type="bibr">6</xref>
+</sup>
+. Se presentaron tres tipos de tazas, de t&#x000e9;, de caf&#x000e9; y la de tama&#x000f1;o desayuno con sus diferentes capacidades, siendo &#x000e9;sta &#x000fa;ltima la elegida para el desarrollo del manual y del atlas. Del mismo modo se presentaron cuatro tipos de cucharas, de caf&#x000e9;, de t&#x000e9;, tipo postre y sopera, con sus respectivos vol&#x000fa;menes. Las tres &#x000fa;ltimas fueron las utilizadas en el desarrollo del manual y atlas (<xref rid="f2" ref-type="fig">Figura 2</xref>).
+</p><p>
+<fig position="float" id="f2"><label>Figura N&#x000ba; 2</label><caption><title>P&#x000e1;ginas ilustrativas del instrumento desarrollado. a) Portada; b), c), d) y e) P&#x000e1;ginas representativas del contenido del manual confeccionado; f) P&#x000e1;gina representativa del contenido del atlas desarrollado</title></caption><graphic xlink:href="1853-0605-79-2-107-g002" position="float"/></fig>
+</p><p>En los cap&#x000ed;tulos 3, 4 y 5 (<xref rid="f2" ref-type="fig">Figura 2</xref>) las cantidades de los alimentos se determinaron en funci&#x000f3;n de las necesidades cal&#x000f3;ricas y proteicas a cubrir con la alimentaci&#x000f3;n complementaria, las cuales var&#x000ed;an a medida que el ni&#x000f1;o crece, resultando en aproximadamente 150 kcal/d&#x000ed;a y 2 g prote&#x000ed;nas/d&#x000ed;a en ni&#x000f1;os de 6 meses de edad, 200 kcal/d&#x000ed;a y 3,6 g prote&#x000ed;nas/d&#x000ed;a de 7 a 8 meses de edad y 300 kcal/d&#x000ed;a y 6 g prote&#x000ed;nas/d&#x000ed;a en el rango de 9 a 12 meses
+<sup><xref rid="B10" ref-type="bibr">10</xref>.<xref rid="B12" ref-type="bibr">12</xref>.
+<xref rid="B18" ref-type="bibr">18</xref>
+</sup>
+. Dichas necesidades nutricionales fueron traducidas en alimentos, donde las ingestas de carne se calcularon seg&#x000fa;n las necesidades diarias de prote&#x000ed;nas provenientes de alimentos complementarios. Para la edad de 6 meses se incluyeron fotograf&#x000ed;as de 6 alimentos b&#x000e1;sicos representados en consistencia de pur&#x000e9; o papilla espesa, sin grumos (zapallo, arroz, manzana, pollo y aceite) fraccionados en 2 comidas diarias; en el grupo de 7 a 8 meses, adem&#x000e1;s de los alimentos anteriores, se incorpor&#x000f3; un par m&#x000e1;s (zapallito y yema) en consistencia de pur&#x000e9; con grumos, picados finos o pisados, fraccionados en 3 comidas diarias. Y, finalmente, en el grupo de 9 a 12 meses se fotografiaron 7 alimentos (banana, yogur, tomate, milanesa, mandarina, raviol, huevo entero y acelga) en consistencia de pur&#x000e9; no desecho y peque&#x000f1;os trozos, fraccionados en 4 comidas diarias.
+</p><p>
+<italic toggle="yes">
+2&#x000b0; Secci&#x000f3;n: Atlas de alimentos
+</italic>
+</p><p>Incluy&#x000f3; un total de 47 alimentos diferentes distribuidos en los 5 grupos alimentarios definidos de la siguiente manera: 1) Hortalizas y frutas (22 alimentos); 2) Legumbres, cereales, papa y pan (13 alimentos); 3) Leche, yogur y quesos (6 alimentos); 4) Carnes y huevos (4 alimentos) y 5) Aceite, frutas secas y semillas (2 alimentos). La lista de los alimentos seleccionados (en sus diferentes consistencias) y las porciones correspondientes a las cantidades fotografiadas para cada uno de ellos pueden observarse en la Tabla 2. Aquellos alimentos como frutas y hortalizas se representaron, en primera instancia, como unidades peque&#x000f1;a, mediana y grande; en segunda instancia, cocidos, picados o en pur&#x000e9;. Los cereales se representaron en su peso cocido. Como caracter&#x000ed;stica cuantitativa, de cada comestible se tomaron im&#x000e1;genes en diferentes cantidades, utilizando los distintos utensilios y medidas caseras, a modo de referencia. Para el armado del atlas, se etiquet&#x000f3; cada
+fotograf&#x000ed;a con letras, el nombre, el gramaje del alimento representado en la foto y la medida casera correspondiente (<xref rid="f2" ref-type="fig">Figura 2</xref>).
+</p><table-wrap position="float" id="t2"><label>Tabla N&#x000b0; 2</label><caption><title>Lista de alimentos seleccionados y cantidades de las porciones representadas</title></caption><table frame="hsides" rules="groups" width="100%"><tr><th rowspan="1" colspan="1">Grupo alimentario</th><th rowspan="1" colspan="1">N&#x000b0;</th><th colspan="3" rowspan="1">Alimento</th><th colspan="2" rowspan="1">Forma de presentaci&#x000f3;n</th><th colspan="36" rowspan="1">Porciones representadas (g)</th></tr><tr><td rowspan="26" valign="middle" colspan="1">
+<p>
+<italic toggle="yes">Hortalizas y frutas</italic>
+</p>
+</td><td rowspan="2" colspan="1">
+<p>1</p>
+</td><td colspan="3" rowspan="2">
+<p>Calabaza</p>
+</td><td colspan="2" rowspan="1">
+<p>Rodaja</p>
+</td><td colspan="15" rowspan="1">
+<p>109</p>
+</td><td colspan="21" rowspan="1">
+<p>240</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Pur&#x000e9; en plato</p>
+</td><td colspan="9" rowspan="1">
+<p>85</p>
+</td><td colspan="12" rowspan="1">
+<p>167</p>
+</td><td colspan="15" rowspan="1">
+<p>240</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>2</p>
+</td><td colspan="3" rowspan="1">
+<p>Zanahoria</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>100</p>
+</td><td colspan="12" rowspan="1">
+<p>125</p>
+</td><td colspan="15" rowspan="1">
+<p>207</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>3</p>
+</td><td colspan="3" rowspan="1">
+<p>Zapallito</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>103,5</p>
+</td><td colspan="12" rowspan="1">
+<p>160</p>
+</td><td colspan="15" rowspan="1">
+<p>200</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>4</p>
+</td><td colspan="3" rowspan="1">
+<p>Manzana</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>157</p>
+</td><td colspan="12" rowspan="1">
+<p>179</p>
+</td><td colspan="15" rowspan="1">
+<p>226</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>5</p>
+</td><td colspan="3" rowspan="1">
+<p>Banana</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>90</p>
+</td><td colspan="12" rowspan="1">
+<p>150</p>
+</td><td colspan="15" rowspan="1">
+<p>190</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>6</p>
+</td><td colspan="3" rowspan="1">
+<p>Pera</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>100</p>
+</td><td colspan="12" rowspan="1">
+<p>125</p>
+</td><td colspan="15" rowspan="1">
+<p>207</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>7</p>
+</td><td colspan="3" rowspan="1">
+<p>Durazno</p>
+</td><td colspan="2" rowspan="1">
+<p>Mitad</p>
+</td><td colspan="9" rowspan="1">
+<p>67</p>
+</td><td colspan="12" rowspan="1">
+<p>132</p>
+</td><td colspan="15" rowspan="1">
+<p>208</p>
+</td></tr><tr><td rowspan="3" colspan="1">
+<p>8</p>
+</td><td colspan="3" rowspan="3">
+<p>Acelga</p>
+</td><td colspan="2" rowspan="1">
+<p>Hoja</p>
+</td><td colspan="36" rowspan="1">
+<p>90</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Picado en plato</p>
+</td><td colspan="5" rowspan="1">
+<p>20</p>
+</td><td colspan="10" rowspan="1">
+<p>40</p>
+</td><td colspan="12" rowspan="1">
+<p>60</p>
+</td><td colspan="9" rowspan="1">
+<p>80</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Picado en taza</p>
+</td><td colspan="5" rowspan="1">
+<p>60</p>
+</td><td colspan="10" rowspan="1">
+<p>130</p>
+</td><td colspan="12" rowspan="1">
+<p>200</p>
+</td><td colspan="9" rowspan="1">
+<p>240</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>9</p>
+</td><td colspan="3" rowspan="2">
+<p>Chauchas</p>
+</td><td colspan="2" rowspan="1">
+<p>Picado en plato</p>
+</td><td colspan="9" rowspan="1">
+<p>20</p>
+</td><td colspan="16" rowspan="1">
+<p>40</p>
+</td><td colspan="11" rowspan="1">
+<p>70</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Picado en taza</p>
+</td><td colspan="5" rowspan="1">
+<p>30</p>
+</td><td colspan="10" rowspan="1">
+<p>70</p>
+</td><td colspan="12" rowspan="1">
+<p>100</p>
+</td><td colspan="9" rowspan="1">
+<p>140</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>10</p>
+</td><td colspan="3" rowspan="1">
+<p>Morr&#x000f3;n</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>80</p>
+</td><td colspan="16" rowspan="1">
+<p>140</p>
+</td><td colspan="11" rowspan="1">
+<p>170</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>11</p>
+</td><td colspan="3" rowspan="1">
+<p>Tomate perita</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>120</p>
+</td><td colspan="16" rowspan="1">
+<p>150</p>
+</td><td colspan="11" rowspan="1">
+<p>210</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>12</p>
+</td><td colspan="3" rowspan="1">
+<p>Cebolla</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>120</p>
+</td><td colspan="16" rowspan="1">
+<p>190</p>
+</td><td colspan="11" rowspan="1">
+<p>310</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>13</p>
+</td><td colspan="3" rowspan="1">
+<p>Berenjena</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>160</p>
+</td><td colspan="16" rowspan="1">
+<p>230</p>
+</td><td colspan="11" rowspan="1">
+<p>350</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>14</p>
+</td><td colspan="3" rowspan="1">
+<p>Choclo</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>130</p>
+</td><td colspan="16" rowspan="1">
+<p>190</p>
+</td><td colspan="11" rowspan="1">
+<p>220</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>15</p>
+</td><td colspan="3" rowspan="1">
+<p>Pepino</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>260</p>
+</td><td colspan="16" rowspan="1">
+<p>280</p>
+</td><td colspan="11" rowspan="1">
+<p>370</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>16</p>
+</td><td colspan="3" rowspan="1">
+<p>Mel&#x000f3;n</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="36" rowspan="1">
+<p>1620</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>17</p>
+</td><td colspan="3" rowspan="1">
+<p>Sandia</p>
+</td><td colspan="2" rowspan="1">
+<p>Rodaja</p>
+</td><td colspan="36" rowspan="1">
+<p>960</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>18</p>
+</td><td colspan="3" rowspan="1">
+<p>Mandarina</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>120</p>
+</td><td colspan="16" rowspan="1">
+<p>170</p>
+</td><td colspan="11" rowspan="1">
+<p>240</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>19</p>
+</td><td colspan="3" rowspan="1">
+<p>Naranja</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>140</p>
+</td><td colspan="16" rowspan="1">
+<p>200</p>
+</td><td colspan="11" rowspan="1">
+<p>300</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>20</p>
+</td><td colspan="3" rowspan="1">
+<p>Pomelo</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>310</p>
+</td><td colspan="16" rowspan="1">
+<p>400</p>
+</td><td colspan="11" rowspan="1">
+<p>450</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>21</p>
+</td><td colspan="3" rowspan="1">
+<p>Br&#x000f3;coli</p>
+</td><td colspan="2" rowspan="1">
+<p>Picado en plato</p>
+</td><td colspan="5" rowspan="1">
+<p>30</p>
+</td><td colspan="10" rowspan="1">
+<p>60</p>
+</td><td colspan="16" rowspan="1">
+<p>110</p>
+</td><td colspan="5" rowspan="1">
+<p>140</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>22</p>
+</td><td colspan="3" rowspan="1">
+<p>Coliflor</p>
+</td><td colspan="2" rowspan="1">
+<p>Picado en plato</p>
+</td><td colspan="5" rowspan="1">
+<p>30</p>
+</td><td colspan="10" rowspan="1">
+<p>50</p>
+</td><td colspan="16" rowspan="1">
+<p>80</p>
+</td><td colspan="5" rowspan="1">
+<p>110</p>
+</td></tr><tr><td rowspan="19" valign="middle" colspan="1">
+<p>Legumbres, cereales, papa y pan</p>
+</td><td rowspan="1" colspan="1">
+<p>23</p>
+</td><td colspan="3" rowspan="1">
+<p>Arroz</p>
+</td><td colspan="2" rowspan="1">
+<p>Cocido en plato</p>
+</td><td colspan="3" rowspan="1">
+<p>18</p>
+</td><td colspan="10" rowspan="1">
+<p>54</p>
+</td><td colspan="6" rowspan="1">
+<p>72</p>
+</td><td colspan="12" rowspan="1">
+<p>107</p>
+</td><td colspan="4" rowspan="1">
+<p>130,8</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>24</p>
+</td><td colspan="3" rowspan="2">
+<p>F&#x000e9;cula de ma&#x000ed;z</p>
+</td><td colspan="2" rowspan="1">
+<p>Cucharada</p>
+</td><td colspan="36" rowspan="1">
+<p>12</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Taza</p>
+</td><td colspan="5" rowspan="1">
+<p>36</p>
+</td><td colspan="10" rowspan="1">
+<p>88,5</p>
+</td><td colspan="16" rowspan="1">
+<p>112,5</p>
+</td><td colspan="5" rowspan="1">
+<p>148,5</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>25</p>
+</td><td colspan="3" rowspan="2">
+<p>Papa</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>100</p>
+</td><td colspan="16" rowspan="1">
+<p>200</p>
+</td><td colspan="11" rowspan="1">
+<p>270</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Pur&#x000e9; en plato</p>
+</td><td colspan="5" rowspan="1">
+<p>23,5</p>
+</td><td colspan="12" rowspan="1">
+<p>47</p>
+</td><td colspan="14" rowspan="1">
+<p>67</p>
+</td><td colspan="4" rowspan="1">
+<p>89,3</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>26</p>
+</td><td colspan="3" rowspan="1">
+<p>Batata</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>113</p>
+</td><td colspan="16" rowspan="1">
+<p>196</p>
+</td><td colspan="11" rowspan="1">
+<p>307</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>27</p>
+</td><td colspan="3" rowspan="1">
+<p>Mandioca</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="9" rowspan="1">
+<p>126</p>
+</td><td colspan="16" rowspan="1">
+<p>190</p>
+</td><td colspan="11" rowspan="1">
+<p>324</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>28</p>
+</td><td colspan="3" rowspan="2">
+<p>Legumbres</p>
+</td><td colspan="2" rowspan="1">
+<p>Cocido en plato</p>
+</td><td colspan="5" rowspan="1">
+<p>13</p>
+</td><td colspan="12" rowspan="1">
+<p>26</p>
+</td><td colspan="14" rowspan="1">
+<p>39</p>
+</td><td colspan="4" rowspan="1">
+<p>52</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Cocido en taza</p>
+</td><td colspan="5" rowspan="1">
+<p>40,5</p>
+</td><td colspan="12" rowspan="1">
+<p>93,4</p>
+</td><td colspan="14" rowspan="1">
+<p>130</p>
+</td><td colspan="4" rowspan="1">
+<p>176</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>29</p>
+</td><td colspan="3" rowspan="2">
+<p>Harina de trigo</p>
+</td><td colspan="2" rowspan="1">
+<p>Cucharada</p>
+</td><td colspan="36" rowspan="1">
+<p>12</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Taza</p>
+</td><td colspan="5" rowspan="1">
+<p>36</p>
+</td><td colspan="10" rowspan="1">
+<p>88,5</p>
+</td><td colspan="14" rowspan="1">
+<p>112</p>
+</td><td colspan="7" rowspan="1">
+<p>160</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>30</p>
+</td><td colspan="3" rowspan="2">
+<p>Fideos chicos</p>
+</td><td colspan="2" rowspan="1">
+<p>Cocido en plato</p>
+</td><td colspan="7" rowspan="1">
+<p>8,3</p>
+</td><td colspan="10" rowspan="1">
+<p>27</p>
+</td><td colspan="14" rowspan="1">
+<p>44,3</p>
+</td><td colspan="5" rowspan="1">
+<p>60,3</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Cocido en taza</p>
+</td><td colspan="7" rowspan="1">
+<p>19,7</p>
+</td><td colspan="10" rowspan="1">
+<p>39,5</p>
+</td><td colspan="14" rowspan="1">
+<p>56,4</p>
+</td><td colspan="5" rowspan="1">
+<p>76,4</p>
+</td></tr><tr><td rowspan="3" colspan="1">
+<p>31</p>
+</td><td colspan="3" rowspan="3">
+<p>Avena arrollada</p>
+</td><td colspan="2" rowspan="1">
+<p>Cucharada</p>
+</td><td colspan="36" rowspan="1">
+<p>7,5</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Plato</p>
+</td><td rowspan="1" colspan="1">
+<p>15,6</p>
+</td><td colspan="10" rowspan="1">
+<p>22,6</p>
+</td><td colspan="6" rowspan="1">
+<p>29</p>
+</td><td colspan="8" rowspan="1">
+<p>36</p>
+</td><td colspan="8" rowspan="1">
+<p>43</p>
+</td><td colspan="2" rowspan="1">
+<p>51</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Taza</p>
+</td><td colspan="7" rowspan="1">
+<p>33</p>
+</td><td colspan="10" rowspan="1">
+<p>66,5</p>
+</td><td colspan="14" rowspan="1">
+<p>91,6</p>
+</td><td colspan="5" rowspan="1">
+<p>105,6</p>
+</td></tr><tr><td rowspan="2" colspan="1">
+<p>32</p>
+</td><td colspan="3" rowspan="1">
+<p>Pan franc&#x000e9;s</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="11" rowspan="1">
+<p>88</p>
+</td><td colspan="14" rowspan="1">
+<p>40,6</p>
+</td><td colspan="11" rowspan="1">
+<p>10</p>
+</td></tr><tr><td colspan="3" rowspan="1">
+<p>Pan molde</p>
+</td><td colspan="2" rowspan="1">
+<p>Rebanada</p>
+</td><td colspan="36" rowspan="1">
+<p>20</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>33</p>
+</td><td colspan="3" rowspan="1">
+<p>Ravioles</p>
+</td><td colspan="2" rowspan="1">
+<p>Cocido en plato</p>
+</td><td colspan="7" rowspan="1">
+<p>30</p>
+</td><td colspan="8" rowspan="1">
+<p>50</p>
+</td><td colspan="14" rowspan="1">
+<p>80</p>
+</td><td colspan="7" rowspan="1">
+<p>110</p>
+</td></tr><tr><td rowspan="4" valign="middle" colspan="1">
+<p>Leche, yogur y queso</p>
+</td><td rowspan="1" colspan="1">
+<p>34</p>
+</td><td colspan="3" rowspan="1">
+<p>Ricota</p>
+</td><td colspan="2" rowspan="1">
+<p>Plato</p>
+</td><td colspan="7" rowspan="1">
+<p>20</p>
+</td><td colspan="8" rowspan="1">
+<p>41</p>
+</td><td colspan="14" rowspan="1">
+<p>59</p>
+</td><td colspan="7" rowspan="1">
+<p>80</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>35</p>
+</td><td colspan="3" rowspan="1">
+<p>Queso cremoso</p>
+</td><td colspan="2" rowspan="1">
+<p>Plato</p>
+</td><td colspan="7" rowspan="1">
+<p>7,5</p>
+</td><td colspan="8" rowspan="1">
+<p>13,6</p>
+</td><td colspan="14" rowspan="1">
+<p>25,3</p>
+</td><td colspan="7" rowspan="1">
+<p>52</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>36</p>
+</td><td colspan="3" rowspan="1">
+<p>Yogur</p>
+</td><td colspan="2" rowspan="1">
+<p>Taza</p>
+</td><td colspan="7" rowspan="1">
+<p>22</p>
+</td><td colspan="8" rowspan="1">
+<p>80</p>
+</td><td colspan="14" rowspan="1">
+<p>123</p>
+</td><td colspan="7" rowspan="1">
+<p>200</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>37</p>
+</td><td colspan="3" rowspan="1">
+<p>Queso rallado</p>
+</td><td colspan="2" rowspan="1">
+<p>Cucharada</p>
+</td><td colspan="11" rowspan="1">
+<p>2</p>
+</td><td colspan="12" rowspan="1">
+<p>3,7</p>
+</td><td colspan="13" rowspan="1">
+<p>5,3</p>
+</td></tr><tr><td rowspan="4" valign="middle" colspan="1">
+<p>Carnes y huevo</p>
+</td><td rowspan="1" colspan="1">
+<p>38</p>
+</td><td colspan="3" rowspan="1">
+<p>Carne triturada</p>
+</td><td colspan="2" rowspan="1">
+<p>Plato</p>
+</td><td colspan="11" rowspan="1">
+<p>7,5</p>
+</td><td colspan="12" rowspan="1">
+<p>13,6</p>
+</td><td colspan="13" rowspan="1">
+<p>25,3</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>39</p>
+</td><td colspan="3" rowspan="1">
+<p>Yema</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="36" rowspan="1">
+<p>17</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>40</p>
+</td><td colspan="3" rowspan="1">
+<p>Huevo entero</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="36" rowspan="1">
+<p>50</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>41</p>
+</td><td colspan="3" rowspan="1">
+<p>Morcilla</p>
+</td><td colspan="2" rowspan="1">
+<p>Unidad</p>
+</td><td colspan="36" rowspan="1">
+<p>70</p>
+</td></tr><tr><td rowspan="2" valign="middle" colspan="1">
+<p>Aceite, frutos secos y semillas</p>
+</td><td rowspan="1" colspan="1">
+<p>42</p>
+</td><td colspan="3" rowspan="1">
+<p>Aceite vegetal</p>
+</td><td colspan="2" rowspan="1">
+<p>Cucharada</p>
+</td><td colspan="11" rowspan="1">
+<p>5</p>
+</td><td colspan="12" rowspan="1">
+<p>10</p>
+</td><td colspan="13" rowspan="1">
+<p>15</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>43</p>
+</td><td colspan="3" rowspan="1">
+<p>Manteca</p>
+</td><td colspan="2" rowspan="1">
+<p>Cucharada</p>
+</td><td colspan="11" rowspan="1">
+<p>4,2</p>
+</td><td colspan="12" rowspan="1">
+<p>11,2</p>
+</td><td colspan="13" rowspan="1">
+<p>20,5</p>
+</td></tr></table><table-wrap-foot><p>g: gramos</p></table-wrap-foot></table-wrap></sec><sec><title>Validaci&#x000f3;n de contenido</title><p>El proceso de validaci&#x000f3;n de contenido del instrumento desarrollado fue llevado a cabo con la colaboraci&#x000f3;n de 9 jueces expertos en &#x000e1;reas de nutrici&#x000f3;n infantil, docencia universitaria, nutrici&#x000f3;n comunitaria, investigaci&#x000f3;n, gesti&#x000f3;n de servicios pediatr&#x000ed;a- neonatolog&#x000ed;a y adolescencia. De la totalidad de los criterios evaluados (Tabla 3 y 4), ninguno arroj&#x000f3; un valor de promedio menor a 2,5. Se muestra un porcentaje de aceptaci&#x000f3;n general del instrumento desarrollado de 85,86% por parte del panel evaluador, variando entre cap&#x000ed;tulos entre 87,48&#x000b1;5,0%. Tambi&#x000e9;n, se presentan los resultados del an&#x000e1;lisis del grado de acuerdo entre los jueces para los diferentes criterios, el CCI para un nivel de confianza de 95% para la evaluaci&#x000f3;n global del instrumento arroj&#x000f3; un valor de 0,884 (0,712-0,973), variando entre moderado y excelente seg&#x000fa;n los cap&#x000ed;tulos evaluados en forma individual.</p><table-wrap position="float" id="t3"><label>Tabla N&#x000b0; 3</label><caption><title>Evaluaci&#x000f3;n global del instrumento</title></caption><table frame="hsides" rules="groups" width="100%"><tr><th rowspan="1" colspan="1">CRITERIOS DE EVALUACI&#x000d3;N</th><th rowspan="1" colspan="1">
+<italic toggle="yes">Promedio</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">%</italic>
+</th></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Relevancia del aporte de informaci&#x000f3;n</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,33&#x000b1;0,71</p>
+</td><td rowspan="1" colspan="1">
+<p>83,33</p>
+</td></tr><tr><td colspan="3" rowspan="1">
+<p>
+<italic toggle="yes">Dise&#x000f1;o y estructura general del material educativo</italic>
+</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>*Al orden y secuencia de sus partes</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>*A la facilidad de lectura respecto a los tama&#x000f1;os de letra</p>
+</td><td rowspan="1" colspan="1">
+<p>3,67&#x000b1;0,50</p>
+</td><td rowspan="1" colspan="1">
+<p>91,67</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>*A la calidad de la ortograf&#x000ed;a, gram&#x000e1;tica, puntuaci&#x000f3;n y redacci&#x000f3;n</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>*A si existen suficientes elementos para resaltar ideas importantes</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>*A la cantidad y presentaci&#x000f3;n de elementos de s&#x000ed;ntesis</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>*A la cantidad de informaci&#x000f3;n presentada en forma escrita</p>
+</td><td rowspan="1" colspan="1">
+<p>3,11&#x000b1;0,78</p>
+</td><td rowspan="1" colspan="1">
+<p>77,78</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>*A las formas de presentaci&#x000f3;n de las ilustraciones</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Comprensi&#x000f3;n de la informaci&#x000f3;n y mensajes educativos</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,33&#x000b1;0,71</p>
+</td><td rowspan="1" colspan="1">
+<p>83,33</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Suficiencia para cumplir con el objetivo</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,22&#x000b1;0,67</p>
+</td><td rowspan="1" colspan="1">
+<p>80,56</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Atractividad</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,73</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">CCI</italic>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>0,89 (0,74-0,97)</p>
+</td></tr></table><table-wrap-foot><p>Promedio expresado en Media&#x000b1;Desviaci&#x000f3;n Est&#x000e1;ndar. Porcentaje de aceptaci&#x000f3;n expresado en funci&#x000f3;n de la Media. Coeficiente de Correlaci&#x000f3;n Interclase (CCI) expresado como Promedio (L&#x000ed;mite inferior-L&#x000ed;mite superior) para un intervalo de confianza del 95%: moderado 0,5-0,75; bueno 0,75-0,90 o excelente CCI&#x0003e;0,90.</p></table-wrap-foot></table-wrap><table-wrap position="float" id="t4"><label>Tabla N&#x000b0; 4</label><caption><title>Evaluaci&#x000f3;n por cap&#x000ed;tulos del instrumento</title></caption><table frame="hsides" rules="groups" width="100%"><tr><th rowspan="2" colspan="1">CRITERIOS DE EVALUACI&#x000d3;N</th><th colspan="2" rowspan="1">Cap&#x000ed;tulo 1</th><th colspan="2" rowspan="1">Cap&#x000ed;tulo 2</th><th colspan="2" rowspan="1">Cap&#x000ed;tulo 3</th></tr><tr><th rowspan="1" colspan="1">
+<italic toggle="yes">Promedio</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">%</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">Promedio</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">%</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">Promedio</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">%</italic>
+</th></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Actualidad</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>2,78&#x000b1;0,67</p>
+</td><td rowspan="1" colspan="1">
+<p>69,44</p>
+</td><td rowspan="1" colspan="1">
+<p>3,78&#x000b1;0,44</p>
+</td><td rowspan="1" colspan="1">
+<p>94,44</p>
+</td><td rowspan="1" colspan="1">
+<p>2,67&#x000b1;0,71</p>
+</td><td rowspan="1" colspan="1">
+<p>66,67</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Representatividad del contenido</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,73</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>3,78&#x000b1;0,44</p>
+</td><td rowspan="1" colspan="1">
+<p>94,44</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Dise&#x000f1;o del contenido</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td><td rowspan="1" colspan="1">
+<p>3,78&#x000b1;0,44</p>
+</td><td rowspan="1" colspan="1">
+<p>94,44</p>
+</td><td rowspan="1" colspan="1">
+<p>3,67&#x000b1;0,50</p>
+</td><td rowspan="1" colspan="1">
+<p>91,67</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Lenguaje</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>3,78&#x000b1;0,44</p>
+</td><td rowspan="1" colspan="1">
+<p>94,44</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Comprensi&#x000f3;n</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,33&#x000b1;0,71</p>
+</td><td rowspan="1" colspan="1">
+<p>83,33</p>
+</td><td rowspan="1" colspan="1">
+<p>3,67&#x000b1;0,50</p>
+</td><td rowspan="1" colspan="1">
+<p>91,67</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">CCI</italic>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>0,746 (0,334-0,935)</p>
+</td><td colspan="2" rowspan="1">
+<p>0,976 (0,938-0,994)</p>
+</td><td colspan="2" rowspan="1">
+<p>0,590(-0,074-0,894)</p>
+</td></tr><tr><th rowspan="2" colspan="1">CRITERIOS DE EVALUACI&#x000d3;N</th><th colspan="2" rowspan="1">Cap&#x000ed;tulo 4</th><th colspan="2" rowspan="1">Cap&#x000ed;tulo 5</th><th colspan="2" rowspan="1">Cap&#x000ed;tulo 6</th></tr><tr><th rowspan="1" colspan="1">
+<italic toggle="yes">Promedio</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">%</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">Promedio</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">%</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">Promedio</italic>
+</th><th rowspan="1" colspan="1">
+<italic toggle="yes">%</italic>
+</th></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Actualidad</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>2,78&#x000b1;0,67</p>
+</td><td rowspan="1" colspan="1">
+<p>69,44</p>
+</td><td rowspan="1" colspan="1">
+<p>2,89&#x000b1;0,60</p>
+</td><td rowspan="1" colspan="1">
+<p>72,22</p>
+</td><td rowspan="1" colspan="1">
+<p>72,22</p>
+</td><td rowspan="1" colspan="1">
+<p>72,22</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Representatividad del contenido</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Dise&#x000f1;o del contenido</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,67&#x000b1;0,50</p>
+</td><td rowspan="1" colspan="1">
+<p>91,67</p>
+</td><td rowspan="1" colspan="1">
+<p>3,67&#x000b1;0,50</p>
+</td><td rowspan="1" colspan="1">
+<p>91,67</p>
+</td><td rowspan="1" colspan="1">
+<p>91,67</p>
+</td><td rowspan="1" colspan="1">
+<p>91,67</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Lenguaje</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>3,56&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td><td rowspan="1" colspan="1">
+<p>88,89</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">Comprensi&#x000f3;n</italic>
+</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>3,44&#x000b1;0,53</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td><td rowspan="1" colspan="1">
+<p>86,11</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">CCI</italic>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>0,601 (-0,044-0,897)</p>
+</td><td colspan="2" rowspan="1">
+<p>0,648 (0,078-0,909)</p>
+</td><td colspan="2" rowspan="1">
+<p>0,732 (0,256-0,939)</p>
+</td></tr></table><table-wrap-foot><p>Promedio expresado en Media&#x000b1;Desviaci&#x000f3;n Est&#x000e1;ndar. Porcentaje de aceptaci&#x000f3;n expresado en funci&#x000f3;n de la Media. Coeficiente de Correlaci&#x000f3;n Interclase (CCI) expresado como Promedio (L&#x000ed;mite inferior-L&#x000ed;mite superior) para un intervalo de confianza del 95%: moderado 0,5-0,75; bueno 0,75-0,90 o excelente CCI&#x0003e;0,90.</p></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion|conclusion"><title>DISCUSI&#x000d3;N Y CONCLUSI&#x000d3;N</title><p>Existen diferentes investigaciones sobre el desarrollo de atlas fotogr&#x000e1;ficos, sin embargo, la mayor&#x000ed;a de ellos se encuentra destinado a la poblaci&#x000f3;n adulta, abarcando desde una alimentaci&#x000f3;n saludable hasta la adaptaci&#x000f3;n a trastornos
+<sup><xref rid="B7" ref-type="bibr">7</xref>.<xref rid="B19" ref-type="bibr">19</xref>.
+<xref rid="B20" ref-type="bibr">20</xref>
+</sup>
+. Dichos resultados son limitados al momento de adaptarlos a una alimentaci&#x000f3;n temprana, como lo es el inicio de la alimentaci&#x000f3;n complementaria, donde los alimentos, consistencias y porciones a consumir por los ni&#x000f1;os de 6 a 12 meses de edad deben ser rigurosamente adaptados a sus necesidades nutricionales y habilidades, destacando lo que recomiendan otros autores, de que los atlas deben ser espec&#x000ed;ficos para cada edad y pa&#x000ed;s
+<sup>
+<xref rid="B21" ref-type="bibr">21-23</xref>
+</sup>
+. Adem&#x000e1;s, deben elaborarse sobre la base de conocimiento sobre alimentos locales, preferencias de los sujetos y registros pesados que identifican un rango de tama&#x000f1;os de porciones
+<sup>
+<xref rid="B22" ref-type="bibr">22</xref>
+</sup>
+. Una de las pautas m&#x000e1;s importantes en las intervenciones educativas sobre alimentaci&#x000f3;n complementaria, es la modificaci&#x000f3;n de las caracter&#x000ed;sticas de la alimentaci&#x000f3;n en cuanto al tama&#x000f1;o de las porciones, texturas y n&#x000fa;mero de comidas necesarias a medida que el ni&#x000f1;o crece. Sin embargo, el cumplimiento de las indicaciones por parte de los individuos o familiares se ve muchas veces afectado por no comprenderlas con claridad. Se ha demostrado que cuando las recomendaciones solo son verbales el cumplimiento es menor, por lo que una herramienta visual que ayude a dimensionar tama&#x000f1;os es de suma utilidad
+<sup><xref rid="B24" ref-type="bibr">24</xref>.
+<xref rid="B25" ref-type="bibr">25</xref>
+</sup>
+.
+</p><p>Teniendo en cuenta los aspectos clave anteriormente mencionados se desarroll&#x000f3; el instrumento <italic toggle="yes">"Manual y atlas fotogr&#x000e1;fico de alimentos. Introducci&#x000f3;n a la alimentaci&#x000f3;n complementaria: preparaciones, porciones y consistencia"</italic> con el prop&#x000f3;sito de ser utilizado para fines de educaci&#x000f3;n alimentaria, pero adem&#x000e1;s, sus caracter&#x000ed;sticas de dise&#x000f1;o permiten tambi&#x000e9;n su uso a la hora de estimar las porciones consumidas por los ni&#x000f1;os durante la valoraci&#x000f3;n de la ingesta alimentaria. La principal ventaja que ofrece dicho instrumento es la incorporaci&#x000f3;n de im&#x000e1;genes, ejemplos y recomendaciones de las consistencias, porciones y preparaciones de alimentos complementarios en un lenguaje de f&#x000e1;cil entendimiento para profesionales y para las madres o cuidadores de los ni&#x000f1;os, siendo de gran utilidad tanto para el uso en la pr&#x000e1;ctica cl&#x000ed;nica como en estudios de investigaci&#x000f3;n.
+</p><p>En el desarrollo de la secci&#x000f3;n del atlas fotogr&#x000e1;fico, se utilizaron los alimentos m&#x000e1;s representativos de cada grupo y aquellas medidas caseras com&#x000fa;nmente utilizadas en los hogares para permitir controlar las porciones. Tambi&#x000e9;n se tuvo en com&#x000fa;n con otras ayudas visuales, el realizar comparaciones con otros utensilios de uso frecuente, en nuestro caso aquellos destinados al uso infantil. Adem&#x000e1;s, es sabido que describir adecuadamente un utensilio permite obtener pesos o medidas caseras m&#x000e1;s espec&#x000ed;ficas de la porci&#x000f3;n consumida, por lo que se hizo &#x000e9;nfasis en las capacidades de cada elemento de cocina utilizado
+<sup><xref rid="B21" ref-type="bibr">21</xref>.
+<xref rid="B26" ref-type="bibr">26</xref>
+</sup>
+.
+</p><p>La validaci&#x000f3;n de expertos resulta importante en estos casos pues permite verificar la validez del contenido del instrumento y que se corresponda con el objeto al cual persigue. Los resultados obtenidos de dicha evaluaci&#x000f3;n por juicio de expertos, muestran un alto porcentaje de aceptaci&#x000f3;n general del instrumento desarrollado de 85,86% por parte del panel evaluador, variando entre cap&#x000ed;tulos entre 87,48&#x000b1;5,0%. Y respecto al grado de acuerdo entre jueces expertos, el CCI para un nivel de confianza del 95%, fue bueno para la evaluaci&#x000f3;n global del instrumento con un valor de 0,884 (0,712-0,973), variando entre moderado y excelente seg&#x000fa;n los cap&#x000ed;tulos evaluados en forma individual. Por lo que, dichos resultados muestran un grado de concordancia entre los jueces aceptable. Respecto a la aplicabilidad, se obtuvo que el instrumento resulta aplicable despu&#x000e9;s de realizar leves modificaciones, las cuales se realizaron oportunamente por los investigadores.</p><p>Actualmente, el instrumento se encuentra en una segunda fase de validaci&#x000f3;n por prueba piloto, con el fin de aproximar c&#x000f3;mo las personas perciben, entienden y captan la informaci&#x000f3;n asegurando a&#x000fa;n m&#x000e1;s su validez y confiabilidad
+<sup>
+<xref rid="B27" ref-type="bibr">27</xref>
+</sup>
+.
+</p><p>En conclusi&#x000f3;n, esta investigaci&#x000f3;n permiti&#x000f3; el dise&#x000f1;o y validaci&#x000f3;n de contenido de un manual y atlas fotogr&#x000e1;fico que podr&#x000ed;a resultar de gran utilidad para la realizaci&#x000f3;n de intervenciones de consejer&#x000ed;a y educaci&#x000f3;n alimentaria para ni&#x000f1;os en edad de iniciar su AC, buscando que las indicaciones y recomendaciones de los profesionales de la salud vinculadas con la alimentaci&#x000f3;n complementaria puedan ser comprendidas con mayor claridad y de una manera did&#x000e1;ctica por parte de padres o cuidadores.</p></sec></body><back><fn-group><fn fn-type="other"><p>
+<bold>Limitaciones de responsabilidad:</bold>
+La responsabilidad del trabajo es exclusivamente de quienes colaboraron en la elaboraci&#x000f3;n del mismo.
+</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflicto de inter&#x000e9;s:</bold>
+Ninguno.
+</p></fn><fn fn-type="supported-by"><p>
+<bold>Fuentes de apoyo:</bold>
+La presente investigaci&#x000f3;n fue financiada a trav&#x000e9;s del PI N&#x000b0; 93 y una beca de grado otorgados por la Universidad Nacional del Chaco Austral (UNCAUS).
+</p><p>-Proyecto: proyecto de investigaci&#x000f3;n N&#x000b0; 93 "Valoraci&#x000f3;n de las pr&#x000e1;cticas maternas en la alimentaci&#x000f3;n complementaria y estado nutricional de ni&#x000f1;os de 6 a 24 meses de la localidad de Taco Pozo" aprobado por Resoluci&#x000f3;n N&#x000b0; 332/18-C.S.</p><p>-Beca: "Desarrollo de un atlas fotogr&#x000e1;fico e infograf&#x000ed;as sobre alimentaci&#x000f3;n complementaria como herramienta de educaci&#x000f3;n alimentaria y nutricional" aprobado por Resoluci&#x000f3;n N&#x000b0; 146/19 CS.</p><p>-Beca: "Validaci&#x000f3;n mediante juicio de expertos y prueba piloto de un manual y atlas fotogr&#x000e1;fico sobre alimentaci&#x000f3;n complementaria en ni&#x000f1;os de 6 a 12 meses" aprobado por Resoluci&#x000f3;n N&#x000b0; 144/2020 CS.</p></fn><fn fn-type="other"><p>
+<bold>Originalidad:</bold>
+Este art&#x000ed;culo es original y no ha sido enviado para su publicaci&#x000f3;n a otro medio de difusi&#x000f3;n cient&#x000ed;fica en forma completa ni parcialmente.
+</p></fn><fn fn-type="other"><p>
+<bold>Cesi&#x000f3;n de derechos:</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, ceden los derechos de autor a la Universidad Nacional de C&#x000f3;rdoba para publicar en la Revista de la Facultad de Ciencias M&#x000e9;dicas y realizar las traducciones necesarias al idioma ingl&#x000e9;s.
+</p></fn><fn fn-type="corresp"><p>
+<bold>Contribuci&#x000f3;n de los autores:</bold>
+Quienes participaron en la elaboraci&#x000f3;n de este art&#x000ed;culo, han trabajado en la concepci&#x000f3;n del dise&#x000f1;o, recolecci&#x000f3;n de la informaci&#x000f3;n y elaboraci&#x000f3;n del manuscrito, haci&#x000e9;ndose p&#x000fa;blicamente responsables de su contenido y aprobando su versi&#x000f3;n final.
+</p></fn></fn-group><ref-list><title>BIBLIOGRAF&#x000cd;A</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>V&#x000e1;squez Garibay</surname><given-names>EM</given-names></name>
+<name><surname>Romero Velarde</surname><given-names>E</given-names></name>
+<name><surname>Larrosa Haro</surname><given-names>A</given-names></name>
+<name><surname>Machado Dom&#x000ed;nguez</surname><given-names>A</given-names></name>
+</person-group><article-title>Recomendaciones para la alimentaci&#x000f3;n del ni&#x000f1;o durante los primeros 23 meses de vida</article-title><source>Pediatr Mex</source><year>2012</year><volume>14</volume><issue>1</issue><fpage>25</fpage><lpage>42</lpage><comment>Disponible en:
+<ext-link xlink:href="https://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=35310" ext-link-type="uri">https://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=35310</ext-link>
+</comment></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dalmau Serra</surname><given-names>J</given-names></name>
+<name><surname>Moreno Villares</surname><given-names>JM</given-names></name>
+</person-group><article-title>Alimentaci&#x000f3;n complementaria: puesta al d&#x000ed;a</article-title><source>Pediatr Integral</source><year>2017</year><volume>XXI</volume><issue>1</issue><fpage>47.e1</fpage><lpage>47.e4</lpage><comment>Disponible en:
+<ext-link xlink:href="https://cdn.pediatriaintegral.es/wp-content/uploads/2017/xxi01/06/n1-047e1-4_RB_Dalmau.pdf" ext-link-type="uri">https://cdn.pediatriaintegral.es/wp-content/uploads/2017/xxi01/06/n1-047e1-4_RB_Dalmau.pdf</ext-link>
+</comment></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Organizaci&#x000f3;n Panamericana de la Salud</collab>
+</person-group><source>Principios de orientaci&#x000f3;n para la alimentaci&#x000f3;n complementaria del ni&#x000f1;o amamantado</source><publisher-loc>Washington</publisher-loc><publisher-name>OPS</publisher-name><year>2003</year><comment>Disponible en:
+<ext-link xlink:href="https://iris.paho.org/bitstream/handle/10665.2/49259/CA_guiding_principles_spa.pdf?sequence=3&#x00026;isAllowed=y" ext-link-type="uri">https://iris.paho.org/bitstream/handle/10665.2/49259/CA_guiding_principles_spa.pdf?sequence=3&#x00026;isAllowed=y</ext-link>
+</comment></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alarc&#x000f3;n Armend&#x000e1;riz</surname><given-names>ME</given-names></name>
+<name><surname>Garc&#x000ed;a Hern&#x000e1;ndez</surname><given-names>JL</given-names></name>
+<name><surname>Romero S&#x000e1;nchez</surname><given-names>P</given-names></name>
+<name><surname>Cortes Moreno</surname><given-names>A</given-names></name>
+</person-group><article-title>Practicas alimentarias: relaci&#x000f3;n con el consumo y estado nutricio infantil</article-title><source>Rev Salud Publica Nutr</source><year>2008</year><volume>9</volume><issue>2</issue><comment>Disponible en:
+<ext-link xlink:href="https://respyn.uanl.mx/index.php/respyn/article/view/212" ext-link-type="uri">https://respyn.uanl.mx/index.php/respyn/article/view/212</ext-link>
+</comment></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McCrickerd</surname><given-names>K</given-names></name>
+<name><surname>Forde</surname><given-names>CG</given-names></name>
+</person-group><article-title>Parents, portions and potencial distortions: Unpicking children&#x000b4;s meal size</article-title><source>Nutr Bull</source><year>2016</year><volume>41</volume><issue>1</issue><fpage>67</fpage><lpage>71</lpage><pub-id pub-id-type="doi">10.1111/nbu.12190</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Ministerio de Salud de la Naci&#x000f3;n. Direcci&#x000f3;n Nacional de Maternidad e Infancia</collab>
+</person-group><source>Gu&#x000ed;as Alimentarias para la Poblaci&#x000f3;n Infantil. Consideraciones para los equipos de salud</source><publisher-loc>Buenos Aires</publisher-loc><publisher-name>Ministerio de Salud de la Naci&#x000f3;n</publisher-name><year>2009</year><comment>Disponible en:
+<ext-link xlink:href="http://www.msal.gov.ar/images/stories/ryc/graficos/0000000562cnt-guias-alimentarias-familia.pdf" ext-link-type="uri">http://www.msal.gov.ar/images/stories/ryc/graficos/0000000562cnt-guias-alimentarias-familia.pdf</ext-link>
+</comment></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Navarro</surname><given-names>A</given-names></name>
+<name><surname>Cristaldo</surname><given-names>PE</given-names></name>
+<name><surname>D&#x000ed;az</surname><given-names>MP</given-names></name>
+<name><surname>Eynard</surname><given-names>AR</given-names></name>
+</person-group><article-title>Atlas fotogr&#x000e1;fico de alimentos para cuantificar el consumo de alimentos y nutrientes en estudios nutricionales epidemiol&#x000f3;gicos en C&#x000f3;rdoba, Argentina</article-title><trans-title xml:lang="en">Food photography atlas: its suitability for quantifying food and nutrient consumption in nutritional epidemiological research in C&#x000f3;rdoba, Argentina</trans-title><source>Rev Fac Cien Med Univ Nac Cordoba</source><year>2000</year><volume>57</volume><issue>1</issue><fpage>67</fpage><lpage>74</lpage><comment>Spanish</comment><pub-id pub-id-type="pmid">11188856</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>V&#x000e1;zquez</surname><given-names>MB</given-names></name>
+<name><surname>Witriw</surname><given-names>AM</given-names></name>
+</person-group><source>Modelos visuales de alimentos y tablas de relaci&#x000f3;n peso/volumen</source><publisher-loc>Argentina, Buenos Aires</publisher-loc><year>1997</year></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Ministry of Health</collab>
+</person-group><source>Food and Nutrition Guidelines for Healthy Infants and Toddlers (Aged 0 - 2): A background paper</source><edition>4</edition><publisher-loc>Wellington</publisher-loc><publisher-name>Ministry of Health</publisher-name><year>2008</year><comment>Disponible en:
+<ext-link xlink:href="https://www.moh.govt.nz/notebook/nbbooks.nsf/0/1CB71808F8E129AFCC2574520008337D/$file/0-2-food-and-nutrition-guidelines-may08.pdf" ext-link-type="uri">https://www.moh.govt.nz/notebook/nbbooks.nsf/0/1CB71808F8E129AFCC2574520008337D/$file/0-2-food-and-nutrition-guidelines-may08.pdf</ext-link>
+</comment></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>G&#x000f3;mez Fern&#x000e1;ndez Vegue</surname><given-names>M</given-names></name>
+</person-group><source>Recomendaciones de la Asociaci&#x000f3;n Espa&#x000f1;ola de Pediatr&#x000ed;a sobre la alimentaci&#x000f3;n complementaria</source><publisher-name>Asociaci&#x000f3;n Espa&#x000f1;ola de Pediatr&#x000ed;a</publisher-name><year>2018</year><comment>Disponible en:
+<ext-link xlink:href="https://www.aeped.es/sites/default/files/documentos/recomendaciones_aep_sobre_alimentacio_n_complementaria_nov2018_v3_final.pdf" ext-link-type="uri">https://www.aeped.es/sites/default/files/documentos/recomendaciones_aep_sobre_alimentacio_n_complementaria_nov2018_v3_final.pdf</ext-link>
+</comment></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Romero-Velarde</surname><given-names>E</given-names></name>
+<name><surname>Villalpando-Carri&#x000f3;n</surname><given-names>S</given-names></name>
+<name><surname>P&#x000e9;rez-Lizaur</surname><given-names>AB</given-names></name>
+<name><surname>Iracheta-Gerez</surname><given-names>ML</given-names></name>
+<name><surname>Alonso-Rivera</surname><given-names>CG</given-names></name>
+<name><surname>L&#x000f3;pez-Navarrete</surname><given-names>GE</given-names></name>
+<name><surname>Garc&#x000ed;a-Contreras</surname><given-names>A</given-names></name>
+<name><surname>Ochoa-Ortiz</surname><given-names>E</given-names></name>
+<name><surname>Zarate-Mondrag&#x000f3;n</surname><given-names>F</given-names></name>
+<name><surname>L&#x000f3;pez-P&#x000e9;rez</surname><given-names>GT</given-names></name>
+<name><surname>Ch&#x000e1;vez-Palencia</surname><given-names>C</given-names></name>
+<name><surname>Guajardo-J&#x000e1;quez</surname><given-names>M</given-names></name>
+<name><surname>V&#x000e1;zquez-Ortiz</surname><given-names>S</given-names></name>
+<name><surname>Pinz&#x000f3;n-Navarro</surname><given-names>BA</given-names></name>
+<name><surname>Torres-Duarte</surname><given-names>KN</given-names></name>
+<name><surname>Vidal-Guzm&#x000e1;n</surname><given-names>JD</given-names></name>
+<name><surname>Michel-G&#x000f3;mez</surname><given-names>PL</given-names></name>
+<name><surname>L&#x000f3;pez-Contreras</surname><given-names>IN</given-names></name>
+<name><surname>Arroyo-Cruz</surname><given-names>LV</given-names></name>
+<name><surname>Almada-Velasco</surname><given-names>P</given-names></name>
+<name><surname>Saltigeral-Simental</surname><given-names>P</given-names></name>
+<name><surname>R&#x000ed;os-Aguirre</surname><given-names>A</given-names></name>
+<name><surname>Dom&#x000ed;nguez-Pineda</surname><given-names>L</given-names></name>
+<name><surname>Rodr&#x000ed;guez-Gonz&#x000e1;lez</surname><given-names>P</given-names></name>
+<name><surname>Crabtree-Ram&#x000ed;rez</surname><given-names>&#x000da;</given-names></name>
+<name><surname>Hern&#x000e1;ndez-Rosiles</surname><given-names>V</given-names></name>
+<name><surname>Pinacho-Vel&#x000e1;zquez</surname><given-names>JL</given-names></name>
+</person-group><article-title>Consenso para las pr&#x000e1;cticas de alimentaci&#x000f3;n complementaria en lactantes sanos</article-title><source>Bol Med Hosp Infant Mex</source><year>2016</year><volume>73</volume><issue>5</issue><fpage>338</fpage><lpage>56</lpage><pub-id pub-id-type="doi">10.1016/j.bmhimx.2016.06.007</pub-id><pub-id pub-id-type="pmid">29384128</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Organizaci&#x000f3;n Mundial de la Salud. Organizaci&#x000f3;n Panamericana de la Salud</collab>
+</person-group><source>La alimentaci&#x000f3;n del lactante y del ni&#x000f1;o peque&#x000f1;o: Capitulo Modelo para libros de textos dirigidos a estudiantes de medicina y otras ciencias de la salud</source><publisher-loc>Washington</publisher-loc><publisher-name>OPS</publisher-name><year>2010</year><comment>Disponible en:
+<ext-link xlink:href="https://apps.who.int/iris/bitstream/handle/10665/44310/9789275330944_spa.pdf;jsessionid=50651F41217EDBCC9378E92FC2B99674?sequence=1" ext-link-type="uri">https://apps.who.int/iris/bitstream/handle/10665/44310/9789275330944_spa.pdf;jsessionid=50651F41217EDBCC9378E92FC2B99674?sequence=1</ext-link>
+</comment></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="book"><person-group person-group-type="author">
+<collab>Ministerio de Salud de la Naci&#x000f3;n</collab>
+</person-group><source>Gu&#x000ed;as Alimentarias para la Poblaci&#x000f3;n Argentina. Documento t&#x000e9;cnico metodol&#x000f3;gico. Buenos Aires</source><publisher-name>Ministerio de Salud de la Naci&#x000f3;n</publisher-name><year>2016</year><comment>Disponible en:
+<ext-link xlink:href="https://bancos.salud.gob.ar/sites/default/files/2020-08/guias-alimentarias-para-la-poblacion-argentina.pdf" ext-link-type="uri">https://bancos.salud.gob.ar/sites/default/files/2020-08/guias-alimentarias-para-la-poblacion-argentina.pdf</ext-link>
+</comment></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fewtrell</surname><given-names>M</given-names></name>
+<name><surname>Bronsky</surname><given-names>J</given-names></name>
+<name><surname>Campoy</surname><given-names>C</given-names></name>
+<name><surname>Domell&#x000f6;f</surname><given-names>M</given-names></name>
+<name><surname>Embleton</surname><given-names>N</given-names></name>
+<name><surname>Fidler Mis</surname><given-names>N</given-names></name>
+<name><surname>Hojsak</surname><given-names>I</given-names></name>
+<name><surname>Hulst</surname><given-names>JM</given-names></name>
+<name><surname>Indrio</surname><given-names>F</given-names></name>
+<name><surname>Lapillonne</surname><given-names>A</given-names></name>
+<name><surname>Molgaard</surname><given-names>C</given-names></name>
+</person-group><article-title>Complementary Feeding: A Position Paper by the European Society for Paediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN) Committee on Nutrition</article-title><source>J Pediatr Gastroenterol Nutr</source><year iso-8601-date="2017-01">2017</year><month>Jan</month><volume>64</volume><issue>1</issue><fpage>119</fpage><lpage>132</lpage><pub-id pub-id-type="doi">10.1097/MPG.0000000000001454</pub-id><pub-id pub-id-type="pmid">28027215</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lazarte</surname><given-names>CE</given-names></name>
+<name><surname>Encinas</surname><given-names>ME</given-names></name>
+<name><surname>Alegre</surname><given-names>C</given-names></name>
+<name><surname>Granfeldt</surname><given-names>Y</given-names></name>
+</person-group><article-title>Validation of digital photographs, as a tool in 24-h recall, for the improvement of dietary assessment among rural populations in developing countries</article-title><source>Nutr J</source><year iso-8601-date="2012-08-29">2012</year><month>Aug</month><day>29</day><volume>11</volume><elocation-id>61</elocation-id><pub-id pub-id-type="doi">10.1186/1475-2891-11-61</pub-id><pub-id pub-id-type="pmid">22931128</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Carvajal</surname><given-names>A</given-names></name>
+<name><surname>Centeno</surname><given-names>C</given-names></name>
+<name><surname>Watson</surname><given-names>R</given-names></name>
+<name><surname>Mart&#x000ed;nez</surname><given-names>M</given-names></name>
+<name><surname>Sanz Rubiales</surname><given-names>A</given-names></name>
+</person-group><article-title>&#x000bf;C&#x000f3;mo validar un instrumento de medida de la salud?</article-title><source>An Sist Sanit Navar</source><year>2011</year><volume>34</volume><issue>1</issue><fpage>63</fpage><lpage>72</lpage><comment>Disponible en:
+<ext-link xlink:href="https://scielo.isciii.es/scielo.php?script=sci_arttext&#x00026;pid=S1137-66272011000100007" ext-link-type="uri">https://scielo.isciii.es/scielo.php?script=sci_arttext&#x00026;pid=S1137-66272011000100007</ext-link>
+</comment><pub-id pub-id-type="pmid">21532647</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Koo</surname><given-names>TK</given-names></name>
+<name><surname>Li</surname><given-names>MY</given-names></name>
+</person-group><article-title>A Guideline of Selecting and Reporting Intraclass Correlation Coefficients for Reliability Research</article-title><source>J Chiropr Med</source><year iso-8601-date="2016-06">2016</year><month>Jun</month><volume>15</volume><issue>2</issue><fpage>155</fpage><lpage>63</lpage><pub-id pub-id-type="doi">10.1016/j.jcm.2016.02.012</pub-id><comment>Epub 2016 Mar 31. Erratum in: J Chiropr Med. 2017 Dec;16(4):346</comment><pub-id pub-id-type="pmid">27330520</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cuadros Mendoza</surname><given-names>CA</given-names></name>
+<name><surname>Vichido Luna</surname><given-names>MA</given-names></name>
+<name><surname>Montijo Barrios</surname><given-names>E</given-names></name>
+<name><surname>Zarate Mondragon</surname><given-names>F</given-names></name>
+<name><surname>Cadena Le&#x000f3;n</surname><given-names>JF</given-names></name>
+<name><surname>Cervantes Bustamante</surname><given-names>R</given-names></name>
+<name><surname>Toro Monj&#x000e1;raz</surname><given-names>E</given-names></name>
+<name><surname>Ramirez Mayans</surname><given-names>JA</given-names></name>
+</person-group><article-title>Actualidades en alimentaci&#x000f3;n complementaria</article-title><source>Acta Pediatr Mex</source><year>2017</year><volume>38</volume><issue>3</issue><fpage>182</fpage><lpage>201</lpage><pub-id pub-id-type="doi">10.18233/apm38no3pp182-2011390</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Ruiz Br&#x000fc;nner</surname><given-names>MM</given-names></name>
+<name><surname>Cieri</surname><given-names>ME</given-names></name>
+<name><surname>Luciano</surname><given-names>S</given-names></name>
+<name><surname>Masala</surname><given-names>MM</given-names></name>
+<name><surname>Rodriguez Marco</surname><given-names>MP</given-names></name>
+<name><surname>Urbisaglia</surname><given-names>M</given-names></name>
+<name><surname>Valfr&#x000e9;</surname><given-names>MA</given-names></name>
+<name><surname>Cuestas</surname><given-names>E</given-names></name>
+</person-group><source>Atlas fotogr&#x000e1;fico de consistencias de alimentos: para el tratamiento de personas con disfagia</source><edition>1</edition><publisher-loc>C&#x000f3;rdoba</publisher-loc><publisher-name>Universidad Nacional de C&#x000f3;rdoba</publisher-name><year>2019</year><comment>Disponible en:
+<ext-link xlink:href="https://rdu.unc.edu.ar/handle/11086/11398" ext-link-type="uri">https://rdu.unc.edu.ar/handle/11086/11398</ext-link>
+</comment></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="confproc"><person-group person-group-type="author">
+<name><surname>Sequeira</surname><given-names>M</given-names></name>
+<name><surname>Wallingre</surname><given-names>S</given-names></name>
+</person-group><source>Dise&#x000f1;o, valoraci&#x000f3;n y evaluaci&#x000f3;n de la utilidad de un atlas fotogr&#x000e1;fico</source><publisher-name>Facultad de Bioqu&#x000ed;mica y Cs. Biol&#x000f3;gicas UNL</publisher-name><publisher-loc>Argentina</publisher-loc><conf-name>Ponencia en el XXI Encuentro de J&#x000f3;venes Investigadores de la Universidad Nacional del Litoral</conf-name><comment>Recuperado de:
+<ext-link xlink:href="https://bibliotecavirtual.unl.edu.ar:8443/bitstream/handle/11185/1884/3.2.9.pdf?sequence=1&#x00026;isAllowed=y" ext-link-type="uri">https://bibliotecavirtual.unl.edu.ar:8443/bitstream/handle/11185/1884/3.2.9.pdf?sequence=1&#x00026;isAllowed=y</ext-link>
+</comment></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="confproc"><person-group person-group-type="author">
+<name><surname>Jim&#x000e9;nez Acosta</surname><given-names>S</given-names></name>
+<name><surname>Martin Gonz&#x000e1;lez</surname><given-names>I</given-names></name>
+</person-group><source>Atlas fotogr&#x000e1;fico de porciones de alimentos y utensilios. Un instrumento para precisar el consumo de alimentos</source><comment>[Trabajo presentado en]</comment><conf-name>Convenci&#x000f3;n Internacional de Salud, Cuba Salud</conf-name><conf-date>2018</conf-date><publisher-loc>La Habana</publisher-loc><publisher-name>Ministerio de Salud P&#x000fa;blica de Cuba</publisher-name><year>2018</year><comment>Disponible en:
+<ext-link xlink:href="http://www.convencionsalud2018.sld.cu/index.php/connvencionsalud/2018/paper/download/1534/1319" ext-link-type="uri">http://www.convencionsalud2018.sld.cu/index.php/connvencionsalud/2018/paper/download/1534/1319</ext-link>
+</comment></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Andersen</surname><given-names>LF</given-names></name>
+<name><surname>Lioret</surname><given-names>S</given-names></name>
+<name><surname>Brants</surname><given-names>H</given-names></name>
+<name><surname>Kaic-Rak</surname><given-names>A</given-names></name>
+<name><surname>de Boer</surname><given-names>EJ</given-names></name>
+<name><surname>Amiano</surname><given-names>P</given-names></name>
+<name><surname>Trolle</surname><given-names>E</given-names></name>
+<collab>EFCOVAL Consortium</collab>
+</person-group><article-title>Recommendations for a trans-European dietary assessment method in children between 4 and 14 years</article-title><source>Eur J Clin Nutr</source><year iso-8601-date="2011-07">2011</year><month>Jul</month><volume>65</volume><issue>Suppl 1</issue><fpage>S58</fpage><lpage>64</lpage><pub-id pub-id-type="doi">10.1038/ejcn.2011.88</pub-id><pub-id pub-id-type="pmid">21731007</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Foster</surname><given-names>E</given-names></name>
+<name><surname>Matthews</surname><given-names>JN</given-names></name>
+<name><surname>Lloyd</surname><given-names>J</given-names></name>
+<name><surname>Marshall</surname><given-names>L</given-names></name>
+<name><surname>Mathers</surname><given-names>JC</given-names></name>
+<name><surname>Nelson</surname><given-names>M</given-names></name>
+<name><surname>Barton</surname><given-names>KL</given-names></name>
+<name><surname>Wrieden</surname><given-names>WL</given-names></name>
+<name><surname>Cornelissen</surname><given-names>P</given-names></name>
+<name><surname>Harris</surname><given-names>J</given-names></name>
+<name><surname>Adamson</surname><given-names>AJ</given-names></name>
+</person-group><article-title>Children's estimates of food portion size: the development and evaluation of three portion size assessment tools for use with children</article-title><source>Br J Nutr</source><year iso-8601-date="2008-01">2008</year><month>Jan</month><volume>99</volume><issue>1</issue><fpage>175</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1017/S000711450779390X</pub-id><pub-id pub-id-type="pmid">17697426</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chadwick</surname><given-names>DD</given-names></name>
+<name><surname>Jolliffe</surname><given-names>J</given-names></name>
+<name><surname>Goldbart</surname><given-names>J</given-names></name>
+</person-group><article-title>Carer knowledge of dysphagia management strategies</article-title><source>Int J Lang Commun Disord</source><year>2002</year><season>Jul-Sep</season><volume>37</volume><issue>3</issue><fpage>345</fpage><lpage>57</lpage><pub-id pub-id-type="doi">10.1080/13682820210137196</pub-id><pub-id pub-id-type="pmid">12201982</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ruiz Brunner</surname><given-names>MLM</given-names></name>
+<name><surname>Cieri</surname><given-names>ME</given-names></name>
+<name><surname>Rodr&#x000ed;guez Marco</surname><given-names>MP</given-names></name>
+<name><surname>Cuestas</surname><given-names>E</given-names></name>
+</person-group><article-title>Atlas fotogr&#x000e1;fico de consistencia de alimentos: un nuevo instrumento en espa&#x000f1;ol para el tratamiento de la disfagia</article-title><trans-title xml:lang="en">The photographic atlas of Spanish food consistency: a new tool for the treatment of dysphagia</trans-title><source>Rev Esp Enferm Dig</source><volume>2019</volume><month>Nov</month><volume>111</volume><issue>11</issue><fpage>858</fpage><lpage>861</lpage><comment>Spanish</comment><pub-id pub-id-type="doi">10.17235/reed.2019.6305/2019</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Noguera Barrera</surname><given-names>ND</given-names></name>
+</person-group><source>Atlas fotogr&#x000e1;fico de porciones de alimentos para analizar los h&#x000e1;bitos alimentarios de las comunidades de la parroquia de Chugchil&#x000e1;n</source><comment>[Tesis de grado]</comment><publisher-loc>[Quito]</publisher-loc><publisher-name>Pontificia Universidad Cat&#x000f3;lica del Ecuador</publisher-name><year>2020</year><comment>Disponible en:
+<ext-link xlink:href="http://repositorio.puce.edu.ec:80/xmlui/handle/22000/18114" ext-link-type="uri">http://repositorio.puce.edu.ec:80/xmlui/handle/22000/18114</ext-link>
+</comment></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="book"><person-group person-group-type="editor">
+<name><surname>Ziemendorff</surname><given-names>S</given-names></name>
+<name><surname>Krause</surname><given-names>A</given-names></name>
+</person-group><source>Gu&#x000ed;a de validaci&#x000f3;n de materiales educativos (con enfoque en materiales de educaci&#x000f3;n sanitaria)</source><publisher-name>Chiclayo Programa de Agua y Saneamiento</publisher-name><year>2003</year><pub-id pub-id-type="doi">10.13140/RG.2.1.3560.1129</pub-id></element-citation></ref></ref-list></back></article>
